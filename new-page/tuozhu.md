@@ -31,7 +31,7 @@ Visit our knowledge base to learn more about 3D printing tips and best practices
 
 ## Dedicated FAQ's
 
-[![[_image/farmbot/bd5748abca6d6dc52f4b5281978cf2c3_MD5.png]]  
+[![[[_image/farmbot/bd5748abca6d6dc52f4b5281978cf2c3_MD5.png]](https://github.com/wenextfarm/wenextfarm-wiki-1.0/blob/main/new-page/image/ams_2_pro.jpg)]  
 Printers FAQ](https://wiki.bambulab.com/en/faq#dedicated-bambu-lab-printer-faqs)
 
  
