@@ -1,17 +1,19 @@
 ---
 title: Mobile Raised Bed
-tags: farmbot, genesis, v1.6, assembly, supporting_infrastructure
+description: 
 published: true
-locale: en
+date: 2026-07-08T10:28:57.345Z
+tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
+editor: markdown
+dateCreated: 2026-07-08T10:20:08.446Z
 ---
-
 
 Building a **mobile raised bed** is the recommended method for installing FarmBot Genesis **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, warehouse, or museum space.
 
 > **⚠️ Not suitable for Genesis XL:** 
 
 
-![mobile raised bed](_images/mobile_raised_bed.jpg)
+![mobile raised bed](https://github.com/wenextfarm/wenextfarm-wiki-1.0/blob/main/Supporting-Infrastructure/_images/all_legs_attached.jpg?raw=true)
 
 > **ℹ️ 6 hours:** 
 
