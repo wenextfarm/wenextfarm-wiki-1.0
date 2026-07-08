@@ -2,7 +2,7 @@
 title: Fixed Raised Bed
 description: 
 published: true
-date: 2026-07-08T12:13:21.431Z
+date: 2026-07-08T12:38:28.313Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:35:57.907Z
@@ -10,12 +10,15 @@ dateCreated: 2026-07-08T10:35:57.907Z
 
 Building a **fixed raised bed** is the recommended method for installing FarmBot Genesis or Genesis (XL) outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
 
-![genesis fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.png)
-![genesis xl fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png)
+![genesis fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.png =700x)
+
+![genesis xl fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png =700x)
 
 > **ℹ️ 8-12 hours:** This is the estimated time it will take to build a fixed raised bed.
+{.align-center}
 
-![fixed_raised_bed_attach_long_wall_xl.png](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall_xl.png =700x){.align-center}
+![fixed_raised_bed_attach_long_wall_xl.png](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall_xl.png =700x)
+
 # Maximum raised bed size
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis (XL) kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
@@ -67,10 +70,10 @@ Dig **post holes** according to the diagrams below. A post hole digger and pick 
 
 > **✅ Maintain access:** Position the raised bed such that you will be able to access all sides of your FarmBot and garden.
 
-![post hole diagram for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram.png)
-![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug.png)
-![post hole diagram for farmbot genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram_xl.png)
-![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug_xl.png)
+![post hole diagram for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram.png =700x)
+![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug.png =700x)
+![post hole diagram for farmbot genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram_xl.png =700x)
+![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug_xl.png =700x)
 
 # Step 3: Prepare the materials
 
@@ -82,8 +85,8 @@ Place all of the **posts** in the holes. The top of the posts should be position
 
 Importantly, all of the post tops must be level with each other. Dig out or back fill each hole as necessary to ensure the tops of all posts are level and the correct height off the ground.
 
-![posts positioned genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned.png)
-![posts positioned genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned_xl.png)
+![posts positioned genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned.png =700x)
+![posts positioned genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned_xl.png =700x)
 
 # Step 5: Attach the short walls
 
@@ -91,18 +94,18 @@ Clamp a **short wall** to the **posts** on one of the short sides of the bed. Th
 
 Drill appropriately sized holes for the lag screws or bolts you will be using. There should be two holes per post. The upper holes should be positioned 50mm from the top edge of the short wall. The lower holes should be positioned 50mm from the bottom edge of the short wall. All holes should be center-aligned on the post.
 
-![drill short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_drill_short_wall.png)
-![drill short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_drill_short_wall_xl.png)
+![drill short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_drill_short_wall.png =700x)
+![drill short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_drill_short_wall_xl.png =700x)
 
 Attach the **short wall** to the **posts** using **M10 x 100mm lag screws** and **M10 washers** or equivalent. Once the wall is fastened to all of the posts, you may remove the clamps.
 
-![attach short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_short_wall.png)
-![attach short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_short_wall_xl.png)
+![attach short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_short_wall.png =700x)
+![attach short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_short_wall_xl.png =700x)
 
 Repeat for the second **short wall** on the opposite side of the bed.
 
-![second short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall.png)
-![second short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall_xl.png)
+![second short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall.png =700x)
+![second short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall_xl.png =700x)
 
 # Step 6: Attach the long walls
 
@@ -112,34 +115,34 @@ Drill two holes per wall-post attachment point. The upper holes should be positi
 
 All holes should be center-aligned on the post except for where the two long walls meet: these holes should be positioned 17.5mm from the ends of the long walls to best share the common post.
 
-![position the long walls for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls.png)
-![position the long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls_xl.png)
-![position the long wall flush](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_wall.png)
-![position the long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls_xl_2.png)
+![position the long walls for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls.png =700x)
+![position the long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls_xl.png =700x)
+![position the long wall flush](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_wall.png =700x)
+![position the long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_position_long_walls_xl_2.png =700x)
 
 Attach the **long wall(s)** to the **posts** using **M10 x 100mm lag screws** and **M10 washers** or equivalent. Once fastened to all of the posts, you may remove the clamps.
 
-![attach long wall for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall.png)
-![attach long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall_xl.png)
+![attach long wall for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall.png =700x)
+![attach long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_long_wall_xl.png =700x)
 
 Repeat for the remaining **long wall(s)** on the opposite side of the bed.
 
-![remaining long wall for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall.png)
-![remaining long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall_xl.png)
+![remaining long wall for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall.png =700x)
+![remaining long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall_xl.png =700x)
 
 # Step 7: Install tensioning cables (optional)
 
 With larger raised beds, especially those for FarmBot Genesis XL, it is possible that expansion and contraction of the soil will cause the longer sides of the raised bed to bend outwards, causing track misalignment. If you think that your bed will not be sturdy enough to resist bending, consider adding stainless steel tensioning cables every 3m to prevent the long sides of the bed from being pushed away from each other. The cables should be positioned in the lower half of the bed so as to not interfere with the FarmBot's tools once buried in the soil.
 
-![tensioning cables](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables.jpg)
-![tensioning cables detail](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables_detail.jpg)
+![tensioning cables](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables.jpg =700x)
+![tensioning cables detail](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables_detail.jpg =700x)
 
 # Step 8: Fill the bed
 
 Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Genesis bed will require approximately 1m<sup>2</sup> of soil, while the Genesis (XL) bed will require approximately 4m<sup>2</sup>.
 
-![fill genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.png)
-![fill genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png)
+![fill genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.png =700x)
+![fill genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png =700x)
 
 > **✅ Congrats!:** Your raised bed is now ready for your FarmBot installation.
 
