@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-08T09:19:31.390Z
+date: 2026-07-08T09:21:46.470Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -31,3 +31,7 @@ In the next sections we offer advice for building four types of supporting infra
 
 
 <a href="https://genesis.farm.bot/v1.6/assembly/supporting-infrastructure" class="button-link">Fixed Raised Bed</a>
+
+<a href="https://wiki.wenextfarm.com" class="custom-btn">Fixed Raised Bed</a>
+
+<a href="https://github.com" class="custom-btn">Fixed Raised Bed</a>
