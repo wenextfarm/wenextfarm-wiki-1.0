@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-08T09:14:06.738Z
+date: 2026-07-08T09:18:47.204Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -28,3 +28,6 @@ In the next sections we offer advice for building four types of supporting infra
 > 
 > If you recently ordered a FarmBot kit, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you’ll be prepared for a faster assembly time when your package arrives.
 {.is-success}
+
+
+<a href="https://你的链接地址" class="button-link">点击访问</a>
