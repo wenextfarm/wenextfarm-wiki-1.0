@@ -2,7 +2,7 @@
 title: github测试
 description: 测试
 published: true
-date: 2026-07-08T05:24:33.605Z
+date: 2026-07-08T05:40:05.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T05:24:33.605Z
@@ -45,3 +45,7 @@ Fill remaining space with **recycled kraft paper**.
 |**Color**                       |Brown
 |**Printing**                    |None
 |**Fill**                        |Recycled kraft paper
+
+> 警告，本地和警告
+{.is-warning}
+
