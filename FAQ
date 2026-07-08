@@ -1,0 +1,234 @@
+Get started!
+Welcome to the Bambu Lab Frequently Asked Questions page,
+How can we help you?
+
+🎓 General Questions about Bambu Lab Products?
+This section answers common questions about Bambu Lab printers. The information here applies to most models, unless stated otherwise. It covers general usage, printing conditions, calibration, connectivity, and basic operation to help you understand how the printer works and how to use it correctly.
+
+General Questions about Bambu Lab → 
+
+📚 Just looking for Tips and tricks?
+Visit our knowledge base to learn more about 3D printing tips and best practices. These articles help you improve your workflow, optimize print settings, and achieve better part quality through practical guidance and clear explanations.
+
+Visit the Bambu Lab Knowledge Sharing → 
+
+Dedicated FAQ's
+H2 系列
+Printers FAQ X1 系列
+Filaments FAQ P1 系列
+AMS FAQ P1 系列
+Software FAQ P1 系列
+Accessories
+
+Troubleshooting and Maintenance
+⏬ Select a tab ⏬
+
+💡 For which 3D printer would you like to find more Troubleshooting details?
+
+AMS
+H2C AMS
+H2D AMS
+H2S AMS lite
+P2S AMS lite
+X2D AMS lite
+X1C AMS lite
+P1 Series AMS lite
+A1 AMS lite
+A1 Mini
+General FAQs Related to Bambu Lab Products
+This section contains various frequently asked questions related to Bambu Lab printers. 
+The answers below usually apply to all printers.
+
+What is the recommended ambient temperature for the printer?
+The recommended ambient temperature for our printers is between 10-30 degrees Celsius. 
+
+Are there any time/duration or other limitations on printing at high temperatures?
+The hotend of our printers can print at 300°C for a long time, and the lifetime of the heater may be lower than that of the hot end running at 220°C, but if the hot end is damaged after some time, it can be replaced with a new hot end.
+
+What are the clearance requirements around the printer?
+We recommend at least 10cm on each side of the printer, for cooling and ventilation. 
+If you are using AMS, you should consider some space for the purged filament
+
+Can we reduce the amount of purge material during color changes?
+The amount of filament purged during color changes depends on the type of color and how long the color transition takes. With careful tuning, such as reducing the flush volume or the prime tower size, the waste amount can be lowered. At the same time, if transitioning from a dark color to a light color, the purge amount can increase. 
+Please refer to the Reduce Waste during Filament Change wiki page for more information.
+
+Can the fans of the printer be manually turned on/off?
+Yes, the printer fans can be manually turned on or of by adjusting them using Bambu Handy, Bambu Studio, or the on-screen options.
+Before printing, you can adjust the fan speed of the printer fans in the slicer. 
+During printing, you can turn on/off the fans in Bambu Studio, Bambu Handy or on the display screen. 
+The Hotend or Main Board fans cannot be manually controlled
+
+Do the printers support auto-shutdown?
+No. When a print is completed, the Bambu Lab printers will enter a low power mode, but will not completely turn off.
+
+Are time lapses supported? 
+Yes. Bambu Lab printers support time lapses saved on a micro SD. 
+Please refer to the Wiki Timelapse Functionality Introduction for more information.
+
+Can you print offline, without internet access?
+Yes, offline printing is possible using a micro SD card. 
+Our printers also support LAN Mode printing. 
+Please refer to the Wiki Remote Control & Monitoring wiki article to learn more about this. 
+
+How do you update the firmware?
+When a new firmware is available, a notification prompt will show up on the screen, reminding you to download and install it. 
+You can follow the links below to learn how to update the firmware. Please be aware that your account needs to be logged in to the printer, before the update shows as available.
+Printer	Online Update	Offline Update
+H2 Series		Update firmware from microSD card - H2 Series
+X2D		Firmware Upgrade via microSD Card - X2D
+P2S		Firmware Upgrade via microSD Card - P2S
+P1 Series	P1 Series Firmware Upgrade Guide	Firmware Upgrade via microSD Card - P1 Series
+A1		Firmware Upgrade via microSD Card - A1
+A1 Mini		Firmware Upgrade via microSD Card - A1 mini
+X1 / X1C	X1 Series Firmware Upgrade Guide	Update firmware from microSD card - X1/X1C
+X1E		Update firmware from microSD card - X1E
+
+The printer is not available in Bambu Handy or Bambu Studio
+If the printer doesn't show up in the Bambu Handy mobile app, or in Bambu Studio slicer, you need to re-add it to your account using the adoption process described in this article.
+
+Is the build volume smaller when the calibration is performed?
+The printed calibration lines take up a bit of space on the front of the printing surface, but that is only required when changing the filament or nozzle. 
+The calibration can be disabled when printing. Also, the printed model can cover the calibration lines.
+
+Are bed leveling and flow calibration necessary for every print?
+Not necessary, but recommended. The printer can remember the previously used settings
+If you use the same bed temperature as the latest print, then bed leveling is not required, but doing it will ensure everything is as expected and give the printers the best chance of success. 
+If you didn't reboot the printer and use the same material as the last time, you can skip flow calibration and vibration calibration as well. 
+
+When do I need to calibrate the printer?
+We recommend a complete calibration of the printer every time you install a firmware update, change the location of the printer, perform belt tensioning or do any changes to the machine.
+The calibration process does not take a lot of time and will ensure the printer performs the best. 
+
+How to change the print speed? 
+During slicing, you can adjust the print speed right before sending the file to the printer. 
+During the printing process, you can change the speed mode using the screen controls but we recommend caution when doing that, as the printer does not consider the increased flow rate requirements at the faster speed. 
+The manual speed change during printing usually works best for low layer heights (0.12mm - 0.16mm) and we also recommend increasing the hotend temperature for each step up with ~10C
+
+How can you achieve 16-color printing?
+With the help of AMS hub, multiple AMS can work in parallel and each AMS supports 4 colors.
+The A1 series only supports 4 color prints with the help of the AMS lite.
+
+How does the printer react to a filament runout?
+When not using AMS, the filament runout will be recognized by the sensor inside the tool head and let you know to load a new spool of filament
+When using the AMS, it will be recognized by the sensor in AMS and you will be prompted to load a new spool. If the configuration is done correctly, the filament from a different AMS slot can be used. 
+
+Can you mix different materials with different temperature requirements?
+It depends on the mutual bonding strength of the materials and the requirement for chamber temperature. 
+For example, ABS and PLA do not support mixed printing due to signifficant temperature differences between them. 
+But you could use PETG and PLA if the temperature requirements are close. 
+
+Will my Bambu Lab printer work internationally?
+Some printers can operate within a wide voltage range of 100-240V. For specifics, please refer to the technical manual published on Official Website. Please note that using the printer outside the country/region of purchase is not recommended.
+For 100-120 VAC / 200-240 VAC, 50/60 Hz indicates the device is subdivided into 110V and 220V versions.
+For 100-240 VAC, 50/60 Hz indicates the device is capable of operating on both 110V and 220V supplies.
+
+Dedicated Bambu Lab Printer FAQs
+This section contains links to frequently asked questions related to Bambu Lab printers. 
+Each link will redirect to a page dedicated to the printers selected, and will contain questions and answers related to that machine.
+
+H2 Series:
+
+H2C Frequently Asked Questions
+H2D Frequently Asked Questions
+H2D Pro Frequently Asked Questions
+H2S Frequently Asked Questions
+X Series:
+
+X2D Frequently Asked Questions
+X1 Series Frequently Asked Questions
+X1E Frequently Asked Questions
+P Series:
+
+P1 Series Frequently Asked Questions
+P2S Frequently Asked Questions
+A Series：
+
+A2L Frequently Asked Questions
+A1 mini Frequently Asked Questions
+A1 Frequently Asked Questions
+AMS Series：
+
+AMS lite Frequently Asked Questions
+AMS 2 Pro and AMS HT Frequently Asked Questions
+
+Bambu Lab AMS FAQs
+This section contains various frequently asked questions related to Bambu Lab AMS units
+
+Does the AMS support PA-CF filament?
+Yes, but it is better to feed PA-CF directly to the printer without using the AMS, to avoid damage caused by filament abrasion. 
+Please also refer to the Wiki Notes for AMS
+
+Will longer cable be available so we can move the AMS further from the printer, like up on a shelf?
+Adding longer cables to the AMS will increase the time needed for every color change, and can also generate issues during loading/unloading. 
+We do not recommend placing the AMS too far from the printer.
+
+How often does the desiccant pack need to be changed?
+It depends on the moisture present in the filament. The AMS has a humidity sensor that can report the detection of excessive moisture.
+We also recommend checking the dessicant regularly (every 2-3 weeks) and replacing it when the content starts to turn yellow. 
+Keeping the dessicant for too long inside the AMS can lead to liquid forming and damaging the AMS board.
+
+What is the size of the desiccant compartment?
+The size of the desiccant compartment is about 130mm*50mm, and the depth is about 10-30mm (the depth is shallow in front and deep in the back)
+
+Filament FAQs
+This section contains various frequently asked questions related to Bambu Lab Filament
+
+Are print settings for ASA and ABS similar?
+Yes, they are similar. ASA is suggested to be printed with 260℃ for nozzle and 90℃ for hotbed, which can be set in the studio.
+
+What is the flow rate when printing TPU?
+The volumetrically flow rate has been set to 6.4 mm^3/s when choosing "Bambu TPU 95A", and 3.2 mm^3/s when choosing "Generic TPU", so the feedrate will be automatically slow down. In our test, TPU cannot print as fast as PLA, the default volumetrically flow rate limit is a safer print speed we‘ve tested.
+Also, before the printing, we recommend you refer to the Wiki TPU printing guide
+
+How to ensure good print quality using Bambu PA-CF?
+We recommend you print it with high temperature plate. Also, please refer to the Wiki *Printing Tips for Engineering materials *
+
+Do you have filaments for food safe?
+Our filaments are not food-grade and should not be used for printing that comes into direct contact with food. However, if the filament is only used as a support container, we advise covering the container with a layer of food-grade material (such as silicone, PP, PE, etc.) before using it for direct contact with food.
+For safe usage, we recommend using different filaments based on the container's working temperature. Use PLA Basic or PLA Tough for emperatures below 50°C, PETG Basic for temperatures ranging from 50-70°C, and PC for temperatures around 70-110°C.
+
+Accessories FAQs
+This section contains various frequently asked questions related to Bambu Lab Accessories
+
+How often does the VOC carbon filter need to be replaced?
+The change frequency for the filter depends on how often you use the printer, and the type of filament used. 
+We recommend replacing it every 2-3 months.
+
+Is the VOC carbon filter refillable?
+The filter is sealed, and it can be replaced with the official Bambu Lab filter available in our shop, or with any 3rd party filter with 82mm*50mm*29mm dimensions.
+
+Why is the Glue Stick used on the printing surface?
+There are two major benefits of using the glue stick: to enhance adhesion and make removing prints easier. 
+When the build plate is brand new, the bond between the model and the plate can be too strong and easy to damage the print surface, so applying glue can help better remove the model from the glue layer.
+For the correct method of applying glue, please refer to Wiki How to use the Bambu Lab Glue.
+
+What is the difference between the Cool Plate, Engineering Plate, and High Temp Plate?
+Cool Plate: supports printing up to 120℃
+Engineering Plate: supports printing up to 120℃
+High Temp Plate with PEI material: supports printing up to 200℃
+Find more details about our plates from Wiki Introduction to the Build Plates
+
+Bambu Lab Software FAQs
+This section contains various frequently asked questions related to Bambu Lab Software
+
+Does Bambu Studio support Dark Mode?
+Yes. Bambu Studio supports Dark Mode.
+
+Is the filament retracted at all before the cut? Can this be controlled in the slicer?
+There is currently no option to set up filament retraction before cutting. It is recommended to use the default settings for best results
+
+What functions are unavailable for other 3rd party slicers?
+AMS, first layer detection via LIDAR, and spaghetti detection do not work with 3rd party slicers. 
+
+Is pause at a certain layer height available ?
+Yes, the print can be paused at a certain layer height and then resumed using the setting available in Bambu Studio. 
+
+Enabled the prime tower, but when it is going to change color it doesn't purge?
+Please check the ‘Flushing volumes', and don't set the Multiplier to 0.
+
+End Notes
+We hope the detailed guide provided has been helpful and informative.
+
+If this guide does not solve your problem, please submit a technical ticket, we will answer your questions and provide assistance.
+If you have any suggestions or feedback on this Wiki, please leave a message in the comment area. Thank you for your support and attention!
