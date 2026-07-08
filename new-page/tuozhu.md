@@ -25,13 +25,13 @@ This section answers common questions about Bambu Lab printers. The information 
 
 Visit our knowledge base to learn more about 3D printing tips and best practices. These articles help you improve your workflow, optimize print settings, and achieve better part quality through practical guidance and clear explanations.
 
-[Visit the Bambu Lab Knowledge Sharing →](https://wiki.bambulab.com/en/knowledge-sharing) 
+(https://wiki.bambulab.com/en/knowledge-sharing)![accessories-thumbnail-faq.jpg](/image/accessories-thumbnail-faq.jpg)
 
   
 
 ## Dedicated FAQ's
 
-[![[[_image/farmbot/bd5748abca6d6dc52f4b5281978cf2c3_MD5.png]](https://github.com/wenextfarm/wenextfarm-wiki-1.0/blob/main/new-page/image/ams_2_pro.jpg)]  
+[![[[_]](https://github.com/wenextfarm/wenextfarm-wiki-1.0/blob/main/new-page/image/ams_2_pro.jpg)]  
 Printers FAQ](https://wiki.bambulab.com/en/faq#dedicated-bambu-lab-printer-faqs)
 
  
