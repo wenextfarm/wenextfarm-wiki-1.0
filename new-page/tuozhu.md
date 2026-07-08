@@ -2,7 +2,7 @@
 title: tuozhu
 description: 
 published: true
-date: 2026-07-08T06:02:26.271Z
+date: 2026-07-08T06:09:57.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T06:02:26.271Z
@@ -21,7 +21,7 @@ This section answers common questions about Bambu Lab printers. The information 
 
   
 
-### [📚 Just looking for Tips and tricks?](https://wiki.bambulab.com/en/knowledge-sharing)
+### [📚 Just looking for Tips and tricks?](https://wiki.bambulab.com/en/knowledge-sharing)![accessories-thumbnail-faq.jpg](/image/accessories-thumbnail-faq.jpg)
 
 Visit our knowledge base to learn more about 3D printing tips and best practices. These articles help you improve your workflow, optimize print settings, and achieve better part quality through practical guidance and clear explanations.
 
