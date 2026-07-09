@@ -2,7 +2,7 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-09T08:04:08.514Z
+date: 2026-07-09T08:04:33.144Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
