@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-09T13:37:38.081Z
+date: 2026-07-09T13:41:51.992Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -99,6 +99,17 @@ In the next sections we offer advice for building four types of supporting infra
   <div style="text-align: center;">
     <a href="https://forum.WenextFarm.com/" target="_blank" style="display: inline-block; padding: 4px 16px; background: #007bff; color: #ffffff; border: none; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
       Check out our Forum →
+    </a>
+  </div>
+</div>
+
+<div style="border-radius: 10px; padding: 8px; background: linear-gradient(135deg, #2b7fff 0%, #6ab1ff 100%); margin: 5px 0; box-shadow: none;">
+  <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+    <p style="color: #ffffff; margin: 0 0 1px; font-size: 22px; font-weight: bold;">
+      🚀 Must-Read for Beginners! Master Wiki in 3 Minutes
+    </p>
+    <a href="/en/how-to-use-wiki" style="display: inline-block; padding: 4px 16px; background: #ffd700; color: #2b7fff; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
+      📖 View Full Guide Now →
     </a>
   </div>
 </div>
