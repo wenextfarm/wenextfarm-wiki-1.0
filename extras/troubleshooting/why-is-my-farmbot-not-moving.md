@@ -2,7 +2,7 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-09T10:15:27.422Z
+date: 2026-07-09T10:17:53.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
@@ -127,6 +127,17 @@ If you are having trouble with motor stalls adjust settings in the software and 
 When the motor stalls its because the motor does not have enough additional torque to overcome the mechanical resistance. When the motor stalls it will make a buzzing sound. The default motor max retries is 3 and this setting is adjustable but we recommend keeping it at 3 tries. The video below shows that the motor quickly tried to move three times and failed each time. If you listen carefully to the video, 6 seconds into the video you can hear the motor stall out three times in a row.  Then at the 12 second mark the operators attempt to move the Z-axis again and you can hear buzz of motor stalls.
 
 https://www.youtube.com/watch?v=FL9VsiyQYW8
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/6Ov1Uw1KJ-0" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F70PIuRYVZjk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D70PIuRYVZjk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F70PIuRYVZjk%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
