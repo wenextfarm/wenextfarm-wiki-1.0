@@ -2,14 +2,19 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-09T08:04:08.514Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:07:11.485Z
 ---
+
 This troubleshooting document guides you through a checklist of FarmBot settings, diagnostic tools, and hardware checks to help you get your FarmBot moving reliably. You will start out troubleshooting with simple actions. If these don’t work for you, you should continue through this guide and perform additional actions to troubleshoot your problem. Test your setup after completing each step to see if your problem is solved.
 
-> **✅ Inspect and clean the FarmBot and ensure it is free from debris:** Prior to following the steps of this troubleshooting guide, clean and inspect the FarmBot tracks, and belts and pulleys, and ensure there is nothing blocking or catching these components. If your FarmBot is located outdoors, there is a possibility that leaves, twigs, and other debris could prevent the proper movement of the FarmBot.
+> **✅ Inspect and clean the FarmBot and ensure it is free from debris:** 
+> 
+> Prior to following the steps of this troubleshooting guide, clean and inspect the FarmBot tracks, and belts and pulleys, and ensure there is nothing blocking or catching these components. If your FarmBot is located outdoors, there is a possibility that leaves, twigs, and other debris could prevent the proper movement of the FarmBot.
+{.is-success}
+
 
 # 1. Ensure FarmBot is connected
 
@@ -20,13 +25,13 @@ Your FarmBot must be connected to the internet and the web app to receive comman
 
 The connectivity popup should show a [code 31 diagnosis code](https://software.farm.bot/docs/connectivity-codes#code-31) when communication is functioning. Refer to the [connectivity diagnosis codes](https://software.farm.bot/docs/connecting-farmbot-to-the-internet) page for additional help troubleshooting connectivity issues.
 
-![connectivity info pop-up](_images/connectivity_info_pop-up.png =700px)
+![connectivity info pop-up](/extras/troubleshooting/_images/connectivity_info_pop-up.png)
 
 # 2. Double check your firmware selection
 
 Double check that the **model** and **firmware** specified in the app match the actual model of your FarmBot. If you incorrectly specify the model of your FarmBot, you will be able to connect and you will have some limited functionality. However, the motors will likely not work.
 
-![check model and firmware](_images/check_model_and_firmware.png =700px)
+![check model and firmware](/extras/troubleshooting/_images/check_model_and_firmware.png)
 
 To change the model and firmware, go to the [firmware section of the settings panel](https://my.farm.bot/app/designer/settings?highlight=firmware) and select the correct firmware for your FarmBot model. Then press the <span class="fb-button fb-yellow">FLASH FIRMWARE</span> button. Flashing the firmware may take up to 2 minutes. Once complete, try issuing motor movement commands.
 
@@ -38,13 +43,13 @@ Double check and tighten all of the screws holding the gantry together so there 
 
 Tighten up the whole gantry structure by tightening the M5 screws at the gantry wheel plates and gantry corner brackets.
 
-![tighten gantry structure](_images/tighten_up_gantry_connections.png =700px)
+![tighten gantry structure](/extras/troubleshooting/_images/tighten_up_gantry_connections.png)
 
 # 4.  Equalize the gantry
 
 An equalized gantry is one that is exactly perpendicular to the tracks such that it is not crooked, and so that the gantry is not being torqued. The X-axis tracks need to be aligned. If they are out of alignment they can cause a crooked or torqued gantry, which can cause creaking, extra wear on the v-wheels and motors, and introduce a high amount of friction into the system. These issues all decrease the overall reliability of the FarmBot system and decrease the lifespan of the components.
 
-![completed tracks](_images/completed_tracks.jpg =700px)
+![completed tracks](/extras/troubleshooting/_images/completed_tracks.jpg)
 
 The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../assembly/supporting-infrastructure/raised-bed.md)
 
@@ -58,7 +63,7 @@ The detailed instructions to build the raised bed supporting infrastructure for 
 4. If you need to add a lubricant to lower the resistance at the V-wheels, use a **dry** lubricant such as powdered graphite. A dry lubricant will not collect dust or dirt and will not gum the wheels or bearings like liquid lubricants or grease will. **Do not use a liquid lubricant on the belts, pulleys, or v-wheels.**
 5. Once you have removed the resistance from the tracks, you will need to re-connect the motor and rotary encoder cables. Then you will re-calibrate your FarmBot from the web app.
 
-![track alignment](_images/track_alignment.jpg =700px)
+![track alignment](/extras/troubleshooting/_images/track_alignment.jpg)
 
 > **✅ Alignment is key:** For track plates that join two track extrusions together, position the extrusions tightly together at the middle of the plate. Make sure the top and bottom of the extrusions are flush so that the gantry can move across the tracks smoothly. Also make sure that the extrusions are straight, so there is no 'kink' in the tracks at the joint.
 
@@ -68,7 +73,7 @@ Review the track assembly procedure [here](../../assembly/tracks.md).
 
 It is possible for the belts to stretch or slip over time which can lead to missed steps, premature wearing, a gantry that binds on the tracks, as well as a loss of precision in FarmBot’s movements.
 
-![belt tension adjustment](_images/belt_tension_adjustment.jpg =700px)
+![belt tension adjustment](/extras/troubleshooting/_images/belt_tension_adjustment.jpg)
 
 Procedure for adjusting the belt tension:
 
@@ -79,7 +84,7 @@ Procedure for adjusting the belt tension:
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
 5. [Re-equalize the gantry](#4--equalize-the-gantry) to prevent binding.
 
-![belt tightening](_images/belt_tightening.png =700px)
+![belt tightening](/extras/troubleshooting/_images/belt_tightening.png)
 
 # 6. Adjust the eccentric spacers
 
@@ -89,7 +94,7 @@ If the spacing between v-wheels is too little, then the extrusions will not fit 
 
 Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry/attach-the-drivetrain.md), and secure the belts back into place for normal operation.
 
-![gantry wheel plate eccentric spacers](_images/gantry_wheel_plate_eccentric_spacers.png =700px)
+![gantry wheel plate eccentric spacers](/extras/troubleshooting/_images/gantry_wheel_plate_eccentric_spacers.png)
 
 # 7. Change the motor settings
 
@@ -99,7 +104,7 @@ Another thing to remember when you are troubleshooting these NEMA 17 stepper mot
 
 The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the (?) icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
-![default motor settings ](_images/default_motor_settings_.bmp =700px)
+![default motor settings ](/extras/troubleshooting/_images/default_motor_settings_.bmp)
 
 If you are getting motor stalls the FarmBot will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the FarmBot will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your FarmBot has the power to overcome these imperfections.
 
@@ -125,7 +130,7 @@ The video below shows the motor accelerating and then stalling out. The FarmBot 
 
 The recommended corrective action was to take out any slack from the belts and lower the maximum speed. These actions fixed the stalling.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvgtzimwKmGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvgtzimwKmGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvgtzimwKmGc%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+<iframe class="embedly-embed" src="www.youtube.com%2Fembed%2FvgtzimwKmGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvgtzimwKmGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvgtzimwKmGc%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 # 9. Troubleshooting encoders
 
