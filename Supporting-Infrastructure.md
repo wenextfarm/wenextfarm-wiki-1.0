@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-09T13:26:43.842Z
+date: 2026-07-09T13:37:38.081Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -84,3 +84,21 @@ In the next sections we offer advice for building four types of supporting infra
   </div>
 </div>
 
+
+
+
+<div style="border-left: 4px solid #007bff; padding: 15px; background-color: #f8f9fa; border-radius: 0 5px 5px 0; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #007bff;">
+    <a href="https://forum.WenextFarm.com/" target="_blank" style="color: #007bff; text-decoration: none;">
+      ☁ ☁ Participate in the WenextFarm Community Forum
+    </a>
+  </h3>
+  <p style="margin-bottom: 10px;">
+    If you have ideas or suggestions about our products, wiki content or you wish to discuss farmbot topics with fellow farmbot enthusiasts, we invite you to join our Forum. You will find a lot of Bambu Lab users sharing various topics related to WenextFarm.
+  </p>
+  <div style="text-align: center;">
+    <a href="https://forum.WenextFarm.com/" target="_blank" style="display: inline-block; padding: 4px 16px; background: #007bff; color: #ffffff; border: none; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
+      Check out our Forum →
+    </a>
+  </div>
+</div>
