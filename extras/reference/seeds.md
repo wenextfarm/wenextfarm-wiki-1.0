@@ -2,11 +2,12 @@
 title: Seeds
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-09T04:24:13.632Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:13.970Z
 ---
+
 There are three main considerations when choosing **seeds** to plant with FarmBot:
 
 1. [Plant size and shape](#plant-size-and-shape)
@@ -112,10 +113,10 @@ We recommend using **pelleted seeds** from [Johnny's Selected Seeds](https://www
 
 > **ℹ️ What are pelleted seeds?:** Pelleted seeds are coated with a biodegradable material that ensures they are of a uniform size and shape (usually a sphere). They are specifically designed for use with farming equipment because they are easier and more reliable for machines to work with. When using pelleted seeds with FarmBot, your FarmBot will be able to more reliably pick up one seed at a time and place it in its intended location.
 
-![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_1.jpg =700px)
-![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_2.jpg =700px)
-![farmbot picking up pelleted seed](_images/pelleted_seeds_3.jpg =700px)
-![farmbot moving pelleted seed](_images/pelleted_seeds_4.jpg =700px)
+![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_1.jpg)
+![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_2.jpg)
+![farmbot picking up pelleted seed](_images/pelleted_seeds_3.jpg)
+![farmbot moving pelleted seed](_images/pelleted_seeds_4.jpg)
 
 ## Non-pelleted seeds
 
