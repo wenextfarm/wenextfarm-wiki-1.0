@@ -2,13 +2,13 @@
 title: Seeds
 description: 
 published: true
-date: 2026-07-09T04:33:17.075Z
+date: 2026-07-09T04:43:17.843Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:13.970Z
 ---
 
-There are three main considerations when choosing **seeds** to plant with FarmBot:
+There are three main considerations when choosing **seeds** to plant with WenextFarm:
 
 1. [Plant size and shape](#plant-size-and-shape)
 2. [Crop requirements](#crop-requirements)
@@ -18,18 +18,18 @@ Follow the guidelines below to give yourself the best chance of germination succ
 
 > **Note** 
 > 
-> While we do encourage experimentation and pushing your garden to its limits, we recommend starting off with crops that are known to work well with FarmBot for at least one or two growing seasons.
+> While we do encourage experimentation and pushing your garden to its limits, we recommend starting off with crops that are known to work well with WenextFarm for at least one or two growing seasons.
 {.is-warning}
 
 # Plant size and shape
 
 > **✅** 
 > 
-> Optimal crops for FarmBot are **small to medium in size** and grow in a **predictable shape**.
+> Optimal crops for WenextFarm are **small to medium in size** and grow in a **predictable shape**.
 {.is-success}
 
 
-The table below shows some common garden crops and whether or not they are recommended for use with FarmBot. Recommendations are based on the size and shape of the plant, and do not take into account a crop's [requirements](#crop-requirements) such as your local climate.
+The table below shows some common garden crops and whether or not they are recommended for use with WenextFarm. Recommendations are based on the size and shape of the plant, and do not take into account a crop's [requirements](#crop-requirements) such as your local climate.
 
 |Category                      |Crop                |Recommended?      |
 |------------------------------|--------------------|------------------|
@@ -57,42 +57,42 @@ The table below shows some common garden crops and whether or not they are recom
 |                              |[Squash](https://www.johnnyseeds.com/search/?q=Squash)            |:warning: See notes about [vining crops](#vining-crops)|
 |**Tall**                      |[Corn](https://www.johnnyseeds.com/search/?q=Corn)                |:warning: See notes about [tall crops](#tall-crops)|
 |                              |[Sunflowers](https://www.johnnyseeds.com/search/?q=Sunflowers)    |:warning: See notes about [tall crops](#tall-crops)|
-|**Trees&nbsp;and&nbsp;bushes**|Apples, Peaches, etc|:no_entry: Not recommended because they will grow too large and wide and likely interfere with FarmBot's gantry, even when planted at bed edges.|
+|**Trees&nbsp;and&nbsp;bushes**|Apples, Peaches, etc|:no_entry: Not recommended because they will grow too large and wide and likely interfere with WenextFarm's gantry, even when planted at bed edges.|
 
 ## Vining crops
 
-**Vining crops** that grow in an **indeterminate** fashion such as non-dwarf varieties of Tomatoes, Beans, Cucumbers, Melons, Pumpkins, or Squash may cause interference with FarmBot's movements if the plants grow in unexpected directions (eg: over the FarmBot's tracks) or fruit in unexpected locations.
+**Vining crops** that grow in an **indeterminate** fashion such as non-dwarf varieties of Tomatoes, Beans, Cucumbers, Melons, Pumpkins, or Squash may cause interference with WenextFarm's movements if the plants grow in unexpected directions (eg: over the WenextFarm's tracks) or fruit in unexpected locations.
 
 Vining crops may also cause issues with weed detection and removal, with the potential to significantly hinder performance or create false detections.
 
 > **Note** 
-> Vining crops can be grown with caution at the two **short edges** of the bed, where they can be trained (by hand) to grow out and away from the FarmBot's mechanical systems. Regular (manual) pruning may be required to ensure the plants do not grow into the main bed area.
+> Vining crops can be grown with caution at the two **short edges** of the bed, where they can be trained (by hand) to grow out and away from the WenextFarm's mechanical systems. Regular (manual) pruning may be required to ensure the plants do not grow into the main bed area.
 {.is-info}
 
 
 ## Tall crops
 
-**Tall crops** such as Corn or Sunflowers that will grow to exceed the ~0.6m (~2ft) height of the gantry are not recommended to be grown in the main area of the FarmBot's raised bed. Planting such crops in this space may prevent FarmBot from moving, or the FarmBot may destroy the plants once they are too tall.
+**Tall crops** such as Corn or Sunflowers that will grow to exceed the ~0.6m (~2ft) height of the gantry are not recommended to be grown in the main area of the WenextFarm's raised bed. Planting such crops in this space may prevent WenextFarm from moving, or the WenextFarm may destroy the plants once they are too tall.
 
 > **Note**
-> Tall crops can be grown with caution at the two **short edges** of the bed, where the gantry can move up to them, but does not need to pass over them. You will need to exercise caution in how your FarmBot is configured once the plants reach a certain height.
+> Tall crops can be grown with caution at the two **short edges** of the bed, where the gantry can move up to them, but does not need to pass over them. You will need to exercise caution in how your WenextFarm is configured once the plants reach a certain height.
 {.is-info}
 
 
 
 > **✅ Share your experience:** 
-> Tried something experimental? Share your experience on the [community forum](http://forum.farmbot.org)!
+> Tried something experimental? Share your experience on the [community forum](https://forum.WenextFarm.com)!
 {.is-success}
 
 
 # Crop requirements
 
-As with all methods of growing, you will need to choose crops with **requirements** that are **compatible** with your geographic location, FarmBot location, soil conditions, and the time of year. Specific things to consider include:
+As with all methods of growing, you will need to choose crops with **requirements** that are **compatible** with your geographic location, WenextFarm location, soil conditions, and the time of year. Specific things to consider include:
 
 |Requirement                           |Considerations|
 |--------------------------------------|--------------|
-|:sunny: Sun                           |Is your FarmBot bed located in full sun or partial sun? If indoors, do you have growing lights?|
-|:mountain: Soil quality               |What type of soil is in your FarmBot bed? Is it well draining? Is it high in organic matter?|
+|:sunny: Sun                           |Is your WenextFarm bed located in full sun or partial sun? If indoors, do you have growing lights?|
+|:mountain: Soil quality               |What type of soil is in your WenextFarm bed? Is it well draining? Is it high in organic matter?|
 |:arrow_down: Planting depth           |How deep should the seeds be planted?|
 |🌱&nbsp;Transplanting/thinning        |Does this crop need to be transplanted or thinned at a certain age?|
 |:droplet: Water                       |How much water does the crop need? Do you have an abundance of water available? What is the average rainfall in your area at this time of year?|
@@ -109,18 +109,18 @@ As with all methods of growing, you will need to choose crops with **requirement
 {.is-success}
 
 
-If there are no experts available, use the information on the back of seed packets, available in the FarmBot web app, or check out other online resources.
+If there are no experts available, use the information on the back of seed packets, available in the WenextFarm web app, or check out other online resources.
 
 # Seed type
 
-FarmBot can take care of plants from **seed** as well as from **seedlings**, **bulbs**, and **tubers**. However, depending on what you're starting with will determine the available methods of planting.
+WenextFarm can take care of plants from **seed** as well as from **seedlings**, **bulbs**, and **tubers**. However, depending on what you're starting with will determine the available methods of planting.
 
 > **✅ Note** 
 > For best results, use [pelleted seeds](#pelleted-seeds) from a supplier such as [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/).
 {.is-success}
 
 
-|<i></i>            |Planting with FarmBot |Manual planting   |
+|<i></i>            |Planting with WenextFarm |Manual planting   |
 |-------------------|----------------------|------------------|
 |Pelleted seeds     |:heavy_check_mark:    |:heavy_check_mark:|
 |Non-pelleted seeds |:warning:             |:heavy_check_mark:|
@@ -130,13 +130,13 @@ FarmBot can take care of plants from **seed** as well as from **seedlings**, **b
 
 ## Pelleted seeds
 
-FarmBot's seeding capability utilizes a [luer lock needle](luer lock needle) and [vacuum pump](vacuum pump) to pick up and suction-hold a seed onto the tip of the needle for precise deposition into the soil. Different diameter needles can be used for different seed sizes, where small seeds such as those of Lettuce can be picked up with a smaller needle, while larger seeds such as those of Squash can be picked up with a larger needle.
+WenextFarm's seeding capability utilizes a [luer lock needle](luer lock needle) and [vacuum pump](vacuum pump) to pick up and suction-hold a seed onto the tip of the needle for precise deposition into the soil. Different diameter needles can be used for different seed sizes, where small seeds such as those of Lettuce can be picked up with a smaller needle, while larger seeds such as those of Squash can be picked up with a larger needle.
 
 We recommend using **pelleted seeds** from [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/). They have a large selection of high quality, [non-GMO](https://www.johnnyseeds.com/about-us/about-our-seed/safe-seed-pledge.html) seeds that are professionally tested, pelleted, and packaged. You may also find pelleted seeds at a local farm supply store or from other online retailers.
 
 > **What are pelleted seeds?** 
 > 
-> Pelleted seeds are coated with a biodegradable material that ensures they are of a uniform size and shape (usually a sphere). They are specifically designed for use with farming equipment because they are easier and more reliable for machines to work with. When using pelleted seeds with FarmBot, your FarmBot will be able to more reliably pick up one seed at a time and place it in its intended location.
+> Pelleted seeds are coated with a biodegradable material that ensures they are of a uniform size and shape (usually a sphere). They are specifically designed for use with farming equipment because they are easier and more reliable for machines to work with. When using pelleted seeds with WenextFarm, your WenextFarm will be able to more reliably pick up one seed at a time and place it in its intended location.
 {.is-info}
 
 
@@ -144,9 +144,9 @@ We recommend using **pelleted seeds** from [Johnny's Selected Seeds](https://www
 
 ![pelleted seeds from johnny's selected seeds](/extras/reference/_images/pelleted_seeds_2.jpg)
 
-![farmbot picking up pelleted seed](/extras/reference/_images/pelleted_seeds_3.jpg)
+![WenextFarm picking up pelleted seed](/extras/reference/_images/pelleted_seeds_3.jpg)
 
-![farmbot moving pelleted seed](/extras/reference/_images/pelleted_seeds_4.jpg)
+![WenextFarm moving pelleted seed](/extras/reference/_images/pelleted_seeds_4.jpg)
 
 ## Non-pelleted seeds
 
@@ -164,6 +164,6 @@ If using **non-pelleted seeds**, it is important to select the most optimal need
 
 ## Seedlings, bulbs, and tubers
 
-Some very small or very large seeds as well as **seedlings**, **bulbs**, and **tubers** will not work with FarmBot's automated seeding system, though you can still grow them with FarmBot once they have been **manually planted**.
+Some very small or very large seeds as well as **seedlings**, **bulbs**, and **tubers** will not work with WenextFarm's automated seeding system, though you can still grow them with WenextFarm once they have been **manually planted**.
 
-To manually plant something, first add the plant to your farm designer map in the web app. Then instruct FarmBot to move to the plant location and dispense a very small amount of water to mark the soil. Dig a small hole of the appropriate depth and insert the seedling, bulb, etc by hand in the center of the marked location.
+To manually plant something, first add the plant to your farm designer map in the web app. Then instruct WenextFarm to move to the plant location and dispense a very small amount of water to mark the soil. Dig a small hole of the appropriate depth and insert the seedling, bulb, etc by hand in the center of the marked location.
