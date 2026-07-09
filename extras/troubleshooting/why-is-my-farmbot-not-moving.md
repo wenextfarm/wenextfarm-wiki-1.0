@@ -2,7 +2,7 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-09T09:55:58.193Z
+date: 2026-07-09T10:12:37.604Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
@@ -110,10 +110,9 @@ If you are getting motor stalls the FarmBot will stop for a second and then cont
 
 <iframe class="embedly-embed" src="https://www.youtube.com/watch?v=6Ov1Uw1KJ-0" width="854" height="480" scrolling="no"></iframe>
 
-<video width="640" height="480" controls>
-  <source src="https://www.youtube.com/watch?v=6Ov1Uw1KJ-0" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ov1Uw1KJ-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=6Ov1Uw1KJ-0
 
 This is the same FarmBot with the minimum increased the speed to 200 mm/s. There is no stalling because the motors have the power to overcome the track imperfections.
 
