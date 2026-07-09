@@ -1,0 +1,33 @@
+---
+title: Weeder
+description: 
+published: true
+date: 2026-07-08T10:00:12.808Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-08T09:58:30.747Z
+---
+The weeder tool works by pushing small weeds under the soil surface and disrupting their fragile root systems.
+
+
+![weeder](_images/weeder.png =700px)
+
+This tool, and FarmBot in general, is designed for removing weeds early and often such that the weeds are always **small, young, and fragile**, and therefore easily removed.
+
+What makes this possible is FarmBot's diligence. FarmBot has 24 hours a day to maintain your garden meticulously. It can be configured to remove weeds every single day that a human would never waste their time with. This prevents weeds from even having a chance at becoming a real problem.
+
+If you configure FarmBot well, you will never even notice weeds in your garden because they will never have a chance to survive beyond germination. Over time, the number of weed seeds in your growing area will approach zero.
+
+> **ℹ️ Not designed for large, established weeds:** Do not expect this tool to work with larger, more established weeds. Instead, configure your FarmBot to weed more often so that weeds do not have a chance at becoming large and established. You may also consider using the powered [Rotary Tool](rotary-tool.md) instead.
+
+> **✅ Pre-assembled for your convenience:** As of the v1.6 hardware release, the weeder comes [pre-assembled](../../manufacturing/pre-assembly/tools/weeder.md) with medium sized weeder blades.
+
+# Customizing the weeder
+
+The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. The weeder comes with three sizes of blades: [ narrow weeder blade ]( narrow weeder blade ), [ medium weeder blade ]( medium weeder blade ), and [ wide weeder blade ]( wide weeder blade ). Feel free to add, remove, and reconfigure the blades as needed.
+
+You can also create new implements of your own design with a 3D printer or out of household materials.
+
+# What's next?
+
+ * [Soil Sensor](soil-sensor.md)
