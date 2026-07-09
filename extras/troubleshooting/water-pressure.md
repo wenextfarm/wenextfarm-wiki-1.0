@@ -2,7 +2,7 @@
 title: Water Pressure
 description: 
 published: true
-date: 2026-07-09T04:48:17.364Z
+date: 2026-07-09T04:50:43.715Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:05.226Z
@@ -34,4 +34,6 @@ from [Amazon](https://smile.amazon.com/dp/B083HSQMHX) or your local hardware sto
 
 Too low of water pressure may be caused by installing WenextFarm at an elevation significantly higher than the garden hose tap, or if you are using a non-municipal water source such as a rain collection barrel.
 
-To remedy the issue, consider installing a water pump and [pressure tank](https://www.homedepot.com/p/202846485) upstream of the WenextFarm
+To remedy the issue, consider installing a water pump and [pressure tank](https://www.homedepot.com/p/202846485) upstream of the WenextFarm to pressurize the incoming water supply to at least 25 PSI (172kPa), or devise another method to supply adequately pressurized water.
+
+![pressure_tank.jpg](/extras/troubleshooting/_images/pressure_tank.jpg)
