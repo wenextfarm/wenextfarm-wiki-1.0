@@ -2,7 +2,7 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-09T08:04:37.974Z
+date: 2026-07-09T08:13:16.089Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
@@ -131,6 +131,8 @@ The video below shows the motor accelerating and then stalling out. The FarmBot 
 The recommended corrective action was to take out any slack from the belts and lower the maximum speed. These actions fixed the stalling.
 
 <iframe class="embedly-embed" src="www.youtube.com%2Fembed%2FvgtzimwKmGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvgtzimwKmGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvgtzimwKmGc%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+
+<oembed url="https://www.youtube.com/watch?v=vgtzimwKmGc"></oembed>
 
 # 9. Troubleshooting encoders
 
