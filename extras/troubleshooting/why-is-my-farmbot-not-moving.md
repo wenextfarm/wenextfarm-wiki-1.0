@@ -2,7 +2,7 @@
 title: Why is my FarmBot not moving?
 description: 
 published: true
-date: 2026-07-09T09:54:54.395Z
+date: 2026-07-09T09:55:58.193Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
@@ -109,6 +109,11 @@ The default settings provided are the recommended settings for the motor hardwar
 If you are getting motor stalls the FarmBot will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the FarmBot will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your FarmBot has the power to overcome these imperfections.
 
 <iframe class="embedly-embed" src="https://www.youtube.com/watch?v=6Ov1Uw1KJ-0" width="854" height="480" scrolling="no"></iframe>
+
+<video width="640" height="480" controls>
+  <source src="https://www.youtube.com/watch?v=6Ov1Uw1KJ-0" type="video/mp4">
+  您的浏览器不支持 video 标签。
+</video>
 
 This is the same FarmBot with the minimum increased the speed to 200 mm/s. There is no stalling because the motors have the power to overcome the track imperfections.
 
