@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-09T13:56:59.855Z
+date: 2026-07-09T14:01:24.213Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -129,6 +129,6 @@ In the next sections we offer advice for building four types of supporting infra
 
 | NO. | Physical photos | Description | Application | Marks |
 |-----|-----------------|-------------|-------------|-------|
-| 1 | ![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x)| Bambu Textured PEI Plate | Placed on the heat bed | Pre-installed |
+| 1 | ![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x)| Bambu Textured PEI Plate | Placed on the heat bed to hold the model. | Pre-installed on the heat bed of the printer |
 | 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
 
