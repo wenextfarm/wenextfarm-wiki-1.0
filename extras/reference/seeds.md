@@ -2,7 +2,7 @@
 title: Seeds
 description: 
 published: true
-date: 2026-07-09T04:24:13.632Z
+date: 2026-07-09T04:33:17.075Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:13.970Z
@@ -16,11 +16,18 @@ There are three main considerations when choosing **seeds** to plant with FarmBo
 
 Follow the guidelines below to give yourself the best chance of germination success and a bountiful growing season, while minimizing the likelihood of running into avoidable problems.
 
-> **ℹ️ Note:** While we do encourage experimentation and pushing your garden to its limits, we recommend starting off with crops that are known to work well with FarmBot for at least one or two growing seasons.
+> **Note** 
+> 
+> While we do encourage experimentation and pushing your garden to its limits, we recommend starting off with crops that are known to work well with FarmBot for at least one or two growing seasons.
+{.is-warning}
 
 # Plant size and shape
 
-> **✅ Note:** Optimal crops for FarmBot are **small to medium in size** and grow in a **predictable shape**.
+> **✅** 
+> 
+> Optimal crops for FarmBot are **small to medium in size** and grow in a **predictable shape**.
+{.is-success}
+
 
 The table below shows some common garden crops and whether or not they are recommended for use with FarmBot. Recommendations are based on the size and shape of the plant, and do not take into account a crop's [requirements](#crop-requirements) such as your local climate.
 
@@ -58,16 +65,25 @@ The table below shows some common garden crops and whether or not they are recom
 
 Vining crops may also cause issues with weed detection and removal, with the potential to significantly hinder performance or create false detections.
 
-> **ℹ️ Note:** Vining crops can be grown with caution at the two **short edges** of the bed, where they can be trained (by hand) to grow out and away from the FarmBot's mechanical systems. Regular (manual) pruning may be required to ensure the plants do not grow into the main bed area.
+> **Note** 
+> Vining crops can be grown with caution at the two **short edges** of the bed, where they can be trained (by hand) to grow out and away from the FarmBot's mechanical systems. Regular (manual) pruning may be required to ensure the plants do not grow into the main bed area.
+{.is-info}
 
 
 ## Tall crops
 
 **Tall crops** such as Corn or Sunflowers that will grow to exceed the ~0.6m (~2ft) height of the gantry are not recommended to be grown in the main area of the FarmBot's raised bed. Planting such crops in this space may prevent FarmBot from moving, or the FarmBot may destroy the plants once they are too tall.
 
-> **ℹ️ Note:** Tall crops can be grown with caution at the two **short edges** of the bed, where the gantry can move up to them, but does not need to pass over them. You will need to exercise caution in how your FarmBot is configured once the plants reach a certain height.
+> **Note**
+> Tall crops can be grown with caution at the two **short edges** of the bed, where the gantry can move up to them, but does not need to pass over them. You will need to exercise caution in how your FarmBot is configured once the plants reach a certain height.
+{.is-info}
 
-> **✅ Share your experience:** Tried something experimental? Share your experience on the [community forum](http://forum.farmbot.org)!
+
+
+> **✅ Share your experience:** 
+> Tried something experimental? Share your experience on the [community forum](http://forum.farmbot.org)!
+{.is-success}
+
 
 # Crop requirements
 
@@ -87,7 +103,11 @@ As with all methods of growing, you will need to choose crops with **requirement
 |:bird: Birds and animals              |Are there birds or other animals in your area that may eat your crops before you do?|
 |:bug: Insects and diseases            |Are there common insects or diseases in your area that may harm your crops?|
 
-> **✅ Tap into local knowledge:** We recommend visiting your closest nursery, hardware store, or gardening club to **talk to a local expert** for your area. They will be able to recommend crops based on your conditions and the season.
+
+> **Tap into local knowledge** 
+> We recommend visiting your closest nursery, hardware store, or gardening club to **talk to a local expert** for your area. They will be able to recommend crops based on your conditions and the season.
+{.is-success}
+
 
 If there are no experts available, use the information on the back of seed packets, available in the FarmBot web app, or check out other online resources.
 
@@ -95,7 +115,10 @@ If there are no experts available, use the information on the back of seed packe
 
 FarmBot can take care of plants from **seed** as well as from **seedlings**, **bulbs**, and **tubers**. However, depending on what you're starting with will determine the available methods of planting.
 
-> **✅ Note:** For best results, use [pelleted seeds](#pelleted-seeds) from a supplier such as [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/).
+> **✅ Note** 
+> For best results, use [pelleted seeds](#pelleted-seeds) from a supplier such as [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/).
+{.is-success}
+
 
 |<i></i>            |Planting with FarmBot |Manual planting   |
 |-------------------|----------------------|------------------|
@@ -111,12 +134,19 @@ FarmBot's seeding capability utilizes a [luer lock needle](luer lock needle) and
 
 We recommend using **pelleted seeds** from [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/). They have a large selection of high quality, [non-GMO](https://www.johnnyseeds.com/about-us/about-our-seed/safe-seed-pledge.html) seeds that are professionally tested, pelleted, and packaged. You may also find pelleted seeds at a local farm supply store or from other online retailers.
 
-> **ℹ️ What are pelleted seeds?:** Pelleted seeds are coated with a biodegradable material that ensures they are of a uniform size and shape (usually a sphere). They are specifically designed for use with farming equipment because they are easier and more reliable for machines to work with. When using pelleted seeds with FarmBot, your FarmBot will be able to more reliably pick up one seed at a time and place it in its intended location.
+> **What are pelleted seeds?** 
+> 
+> Pelleted seeds are coated with a biodegradable material that ensures they are of a uniform size and shape (usually a sphere). They are specifically designed for use with farming equipment because they are easier and more reliable for machines to work with. When using pelleted seeds with FarmBot, your FarmBot will be able to more reliably pick up one seed at a time and place it in its intended location.
+{.is-info}
 
-![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_1.jpg)
-![pelleted seeds from johnny's selected seeds](_images/pelleted_seeds_2.jpg)
-![farmbot picking up pelleted seed](_images/pelleted_seeds_3.jpg)
-![farmbot moving pelleted seed](_images/pelleted_seeds_4.jpg)
+
+![pelleted seeds from johnny's selected seeds](/extras/reference/_images/pelleted_seeds_1.jpg)
+
+![pelleted seeds from johnny's selected seeds](/extras/reference/_images/pelleted_seeds_2.jpg)
+
+![farmbot picking up pelleted seed](/extras/reference/_images/pelleted_seeds_3.jpg)
+
+![farmbot moving pelleted seed](/extras/reference/_images/pelleted_seeds_4.jpg)
 
 ## Non-pelleted seeds
 
@@ -126,7 +156,11 @@ If using **non-pelleted seeds**, it is important to select the most optimal need
 * Seeds may get sucked through the needle and clog the vacuum pump.
 * Irregular seed surfaces may prevent reliable suction holding power.
 
-> **ℹ️ Note:** If you have trouble using non-pelleted seeds, you may manually plant them instead.
+> **Note:** 
+> 
+> If you have trouble using non-pelleted seeds, you may manually plant them instead.
+{.is-info}
+
 
 ## Seedlings, bulbs, and tubers
 
