@@ -2,11 +2,12 @@
 title: Z-Axis Movements
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-09T04:15:54.027Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:07:17.114Z
 ---
+
 # 1. Adjust the z-axis speed and acceleration
 
 Try lowering the z-axis **[MAX SPEED](https://my.farm.bot/app/designer/settings?highlight=max_speed)** and **[ACCELERATE FOR](https://my.farm.bot/app/designer/settings?highlight=accelerate_for)** a longer distance. You may try halving the default max speed and doubling the default acceleration distance as a starting point, but because every FarmBot installation is a bit different, you will need to experiment to find the best values for you.
