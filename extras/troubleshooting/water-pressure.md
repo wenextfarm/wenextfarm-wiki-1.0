@@ -2,11 +2,12 @@
 title: Water Pressure
 description: 
 published: true
-date: 2026-07-09T04:21:16.336Z
+date: 2026-07-09T04:22:58.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:05.226Z
 ---
+
 
 FarmBot is designed to work with typical **municipal water pressure between 40 PSI and 55 PSI (275kPa and 379kPa)**. If the water pressure supplied to the FarmBot is significantly higher or lower than this range, you may experience one of the following issues with the FarmBot watering system.
 
@@ -27,7 +28,7 @@ If the incoming water pressure is much higher than the expected range, the water
 Water pressure regulators are common in the plumbing industry and we suggest getting one with a pressure gauge so that you know what the output pressure is and so that you may control the water pressure getting to the FarmBot water supply tubes. FarmBot Inc does not supply these water pressure regulators, but you can source one
 from [Amazon](https://smile.amazon.com/dp/B083HSQMHX) or your local hardware store or RV service shop. We suggest setting the output water pressure to 45 PSI (310kPa).
 
-![upstream pressure regulator](_images/upstream_pressure_regulator.jpg =700px)
+![upstream pressure regulator](/extras/troubleshooting/_images/upstream_pressure_regulator.jpg)
 
 # Pressure is too low
 
@@ -36,5 +37,3 @@ Too low of water pressure may be caused by installing FarmBot at an elevation si
 To remedy the issue, consider installing a water pump and [pressure tank](https://www.homedepot.com/p/202846485) upstream of the FarmBot to pressurize the incoming water supply to at least 25 PSI (172kPa), or devise another method to supply adequately pressurized water.
 
 ![pressure tank](/extras/troubleshooting/_images/pressure_tank.jpg)
-
-![pressure_tank.jpg](/extras/troubleshooting/_images/pressure_tank.jpg)
