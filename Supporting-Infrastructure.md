@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-09T13:02:53.091Z
+date: 2026-07-09T13:06:52.412Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -72,7 +72,7 @@ In the next sections we offer advice for building four types of supporting infra
   <!-- 卡片 4：A系列 -->
   <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
-      <img src="https://wiki.bambulab.com/stock-images/new/a1.png" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/supporting-infrastructure/_images/pier_block_supports_genesis.png" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Pier Block Supports</strong>
     </a>
