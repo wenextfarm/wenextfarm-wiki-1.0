@@ -2,11 +2,12 @@
 title: Gantry Maintenance
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T11:54:17.321Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:17.114Z
 ---
+
 # Gantry
 
 ## Equalize and synchronize the gantry
@@ -16,21 +17,32 @@ If a belt is loose, tighten according to [these instructions](general-maintenanc
 
 If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../../assembly/gantry/attach-the-drivetrain.md#step-4-equalize-the-gantry).
 
-> **✅ Preventative > reactive:** Even if your belts are tight and the gantry moves across the tracks fine, the gantry could still be twisted and causing unnecessary stress and wear to the components. It is recommended to equalize and synchronize the gantry twice a year to ensure that it stays perpendicular to the tracks, even if it is not noticeably twisted.
+> **✅ Preventative > reactive:** 
+> 
+> Even if your belts are tight and the gantry moves across the tracks fine, the gantry could still be twisted and causing unnecessary stress and wear to the components. It is recommended to equalize and synchronize the gantry twice a year to ensure that it stays perpendicular to the tracks, even if it is not noticeably twisted.
+{.is-success}
+
 
 
 # Cross-Slide
 ## Inspect the delrin leadscrew block
 Over time, it is possible for the delrin leadscrew block to wear down. This can introduce play into the system that decreases z-axis precision, which can cause issues with the mounting and dismounting of tools.
 
-> **✅ Once per year:** Inspect the delrin leadscrew block for signs of wear. You can do this by gently pushing and pulling up and down on the leadscrew to see if you can feel any looseness in the system. If you detect there to be a large amount of play, replace the leadscrew block as soon as possible.
+> **✅ Once per year:** 
+> 
+> Inspect the delrin leadscrew block for signs of wear. You can do this by gently pushing and pulling up and down on the leadscrew to see if you can feel any looseness in the system. If you detect there to be a large amount of play, replace the leadscrew block as soon as possible.
+{.is-success}
+
 
 
 # Z-Axis
 ## Clean and lubricate the leadscrew
 The z-axis leadscrew will become dirty after being outside for a prolonged period of time. Excessive dirt and grime on the leadscrew can cause premature wear, a loss of precision, and missed steps if not addressed.
 
-> **✅ Every 6 months:** Wipe the leadscrew clean with a damp rag or sponge. Applying a small amount of high quality synthetic lubricant to the leadscrew can help make motion through the delrin leadscrew block smoother and quieter. We recommend high quality synthetic lubricant such as that used for bicycle chains.
+> **✅ Every 6 months:** 
+> 
+> Wipe the leadscrew clean with a damp rag or sponge. Applying a small amount of high quality synthetic lubricant to the leadscrew can help make motion through the delrin leadscrew block smoother and quieter. We recommend high quality synthetic lubricant such as that used for bicycle chains.
+{.is-success}
 
 
 # What's next?
