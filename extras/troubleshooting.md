@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: 
 published: true
-date: 2026-07-10T13:42:42.584Z
+date: 2026-07-10T13:43:26.031Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:20.303Z
@@ -11,7 +11,7 @@ dateCreated: 2026-07-09T04:06:20.303Z
 Having issues with your FarmBot's hardware? Try looking through our troubleshooting guides below. If you have software related issues, please see the [Software Troubleshooting Guide](https://software.farm.bot/docs/troubleshooting).
 
 
-## What's next?
+## Common Faults
 
  * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
  * [Z-Axis Movements](troubleshooting/z-axis-movements.md)
