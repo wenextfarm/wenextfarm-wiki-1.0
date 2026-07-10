@@ -2,7 +2,7 @@
 title: Final Steps
 description: 
 published: true
-date: 2026-07-10T11:47:41.206Z
+date: 2026-07-10T11:48:27.614Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:46.183Z
@@ -28,7 +28,7 @@ You're now part of a global community of FarmBot owners who are growing food at 
 
 We encourage you to connect with the community by joining the FarmBot forum at [forum.farmbot.org](https://forum.farmbot.org/). Signing up is completely free and will allow you to chat with others about best practices, modification ideas, troubleshooting issues, gardening tips and tricks, and to be inspired by what everyone is growing.
 
-![FarmBot community](_images/farmbot_community.jpeg =700px)
+![FarmBot community](/assembly/_images/farmbot_community.jpeg =700x)
 
 # Stay in touch
 
@@ -44,7 +44,7 @@ Your FarmBot kit included a few extra pieces of some small parts such as screws 
 
 We recommend keeping everything that is left over in a box along with the getting started guide, camera calibration card, the microSD card adpater, and all of the assembly tools.
 
-![post-assembly spare parts](_images/extra_parts.png =700px)
+![post-assembly spare parts](/assembly/_images/extra_parts.png =700x)
 
 _For illustrative purposes only. Not all kits will have these exact parts left over after assembly._
 
