@@ -2,11 +2,12 @@
 title: Final Steps
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T11:47:41.206Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:29:46.183Z
 ---
+
 # Software setup
 
 You're now ready to move onto the software portion of setting up your FarmBot. Refer to the [getting started guide](https://software.farm.bot/docs/getting-started) on our software documentation hub for instructions on how to:
