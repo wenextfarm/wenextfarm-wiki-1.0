@@ -1,21 +1,22 @@
 ---
-title: "Status LEDs"
-description: "The meaning behind the blinking"
+title: Status LEDs
+description: The meaning behind the blinking
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T13:40:28.738Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T06:57:48.732Z
 ---
+
 # Raspberry Pi LEDs
 
 The Raspberry Pi has LED lights that convey information about its status.
 
-![RASPBERRY PI LIGHTS](_images/raspberry_pi_lights.jpg =700px)
+![RASPBERRY PI LIGHTS](/web/farmbot-os/intro/_images/raspberry_pi_lights.jpg =700x)
 
 _Raspberry Pi 3, included with Genesis kits_
 
-![Pi Zero](_images/pi_zero.jpg =700px)
+![Pi Zero](/web/farmbot-os/intro/_images/pi_zero.jpg =700x)
 
 _Raspberry Pi Zero W, included with Express kits_
 
@@ -42,11 +43,11 @@ _Genesis kits only_
 
 In addition to the LEDs located on the Raspberry Pi, Genesis v1.4+ kits feature LEDs mounted on top of the electronics box, and Express v1.0+ kits feature LEDs on the Farmduino Express circuit board.
 
-![Box LEDs on Genesis kit](_images/Box_LEDs_on_Genesis_kit.png =700px)
+![Box LEDs on Genesis kit](/web/farmbot-os/intro/_images/Box_LEDs_on_Genesis_kit.png =700x)
 
 _Box LEDs on Genesis kit_
 
-![LEDs on Farmduino express board](_images/leds_on_farmduino_express_board.jpg =700px)
+![LEDs on Farmduino express board](/web/farmbot-os/intro/_images/leds_on_farmduino_express_board.jpg =700x)
 
 _Farmduino Express LEDs on Express kits_
 
