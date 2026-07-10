@@ -2,11 +2,12 @@
 title: Picking Up Seeds
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T03:26:38.679Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:41.756Z
 ---
+
 # 1. Consider seed characteristics
 
 Seed size, weight, and shape can have considerable impact on the effectiveness and reliability of FarmBot's needle and vacuum pump based seeding mechanism. Seeds should not be excessively small or large, cannot be too heavy, and are ideally of a round, smooth shape. [Pelleted seeds](../reference/seeds.md#pelleted-seeds) are specifically designed for use with farming equipment and are an ideal choice for use with FarmBot. Consult the [seeds page](../reference/seeds.md) for more details.
@@ -23,7 +24,7 @@ If the needle is too large, then the seeds may accidentally get sucked fully int
 
 The vacuum pump has an inlet port that sucks air in and an outlet port that blows air out. The ports are denoted by arrows embossed into the black plastic of the vacuum pump. Double check that the vacuum pump tube running between the UTM and the pump is connected to the **inlet port** of the pump.
 
-![vacuum pump inlet](_images/vacuum_pump_inlet.jpg =700px)
+![vacuum pump inlet](/extras/troubleshooting/_images/vacuum_pump_inlet.jpg =700x)
 
 # 4. Check the tube for kinks
 
