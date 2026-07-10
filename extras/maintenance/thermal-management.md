@@ -2,17 +2,18 @@
 title: Thermal Management
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T12:03:42.231Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:35.645Z
 ---
+
 FarmBot has been designed to operate in challenging environments including in hot weather conditions and in greenhouses. FarmBot is also able to withstand cold weather conditions provided that proper care has been taken to winterize the machine.
 
 # Checking the temperature
 In all FarmBot kits, there is a built-in temperature sensor located on the Raspberry Pi computer. It is important to protect the CPU and other electronics from excessively high temperatures, so we recommend monitoring the temperature using the real-time **CPU temperature** information located in the **connectivity popup**.
 
-![connectivity info pop-up](_images/connectivity_info_pop-up.png =700px)
+![connectivity info pop-up](/extras/maintenance/_images/connectivity_info_pop-up.png =700x)
 
 In addition to providing the exact temperature of the CPU, the indicator circle will change color based on the temperature, according to the following table.
 
@@ -24,7 +25,11 @@ In addition to providing the exact temperature of the CPU, the indicator circle 
 |<span class="fa fa-circle saucer gray"></span> Gray|The CPU temperature is unknown because FarmBot is offline.
 
 
-> **✅ More thermal data coming soon:** In future FarmBot models we plan to include an ambient air temperature sensor to increase the FarmBot's temperature measurement capability.
+> **✅ More thermal data coming soon:** 
+> 
+> In future FarmBot models we plan to include an ambient air temperature sensor to increase the FarmBot's temperature measurement capability.
+{.is-success}
+
 
 # Acceptable temperature range
 Manage your FarmBot's temperature so that it always operates within the acceptable temperature ranges of all components.
@@ -47,7 +52,7 @@ Manage your FarmBot's temperature so that it always operates within the acceptab
 
 According to raspberry.org:
 
-> *The Raspberry Pi is built from commercial chips which are qualified to different temperature ranges; the LAN9514 (LAN9512 on older models with 2 USB ports) is specified by the manufacturers as being qualified from 0°C to 70°C, while the SoC is qualified from -40°C to 85°C. You may well find that the board will work outside those temperatures, but we're not qualifying the board itself to these extremes.*
+> The Raspberry Pi is built from commercial chips which are qualified to different temperature ranges; the LAN9514 (LAN9512 on older models with 2 USB ports) is specified by the manufacturers as being qualified from 0°C to 70°C, while the SoC is qualified from -40°C to 85°C. You may well find that the board will work outside those temperatures, but we're not qualifying the board itself to these extremes.
 
 ## Optimal gardening temperatures
 
@@ -64,19 +69,23 @@ If you know that your FarmBot is operating in a particularly hot location it may
 # Cold weather management
 ## Disconnecting and draining water
 
-> **🚫 FarmBot must have the water source disconnected in cold weather to avoid damage:** The water hose must be unscrewed and the water must be drained from the FarmBot to avoid ice damage.
+> **🚫 FarmBot must have the water source disconnected in cold weather to avoid damage:** 
+> 
+> The water hose must be unscrewed and the water must be drained from the FarmBot to avoid ice damage.
+{.is-danger}
+
 
 If sustained freezing weather is around the corner, it is important to turn off the water supply and disconnect the water hose from your FarmBot and completely drain the FarmBot system of water. If you forget to drain the water, freezing damage could occur at the water hose fitting and the solenoid valve in the FarmBot. The water in the hose will freeze to ice. Then the ice will expand and break the garden hose connector fitting and potentially the plastic solenoid components. It will also cause a water leak and if the water source is pressurized it could cause flooding around the FarmBot. An unsafe condition will exist and other components of the FarmBot could get damaged.
 
 This photo is an example of a frozen outdoor faucet and it is causing a leak because the valve is frozen open. In this case the owner was lucky and they were able to catch the leak before more property damage could happen.
 
-![frozen outdoor faucet](_images/frozen_outdoor_faucet.jpg =700px)
+![frozen outdoor faucet](/extras/maintenance/_images/frozen_outdoor_faucet.jpg =700x)
 
 Provided that you winterize the FarmBot, it will be fine outside in the winter time in cold climates. Wrapping the FarmBot in a tarp may also be good to protect the components and prevent wear.
 
 ## Locking FarmBot in place
 You may also consider locking the FarmBot in place with the belt clips. This will prevent the FarmBot from being blown around in high winter winds.
 
-![belt clips locking gantry in place](_images/belt_clips_locking_gantry_in_place.jpeg =700px)
+![belt clips locking gantry in place](/extras/maintenance/_images/belt_clips_locking_gantry_in_place.jpeg =700x)
 
 _Using the belt clips to lock the gantry into place over the winter time._
