@@ -2,7 +2,7 @@
 title: Cables and Tubing
 description: 
 published: true
-date: 2026-07-10T11:38:52.491Z
+date: 2026-07-10T11:40:57.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:28:51.729Z
@@ -12,15 +12,15 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 
 # Cable carrier reference
 
-|Axis|Genesis                         |Genesis (XL)|
-|----|--------------------------------|---------------------------------------------|
+|Axis|P1                              |P1 Max       |
+|----|--------------------------------|-------------------------------|
 |X   |15mm x 20mm x 1700mm (85 links) |15mm x 20mm x 3200mm (160 links)
 |Y   |15mm x 50mm x 1700mm (85 links) |15mm x 50mm x 3200mm (160 links)
 |Z   |15mm x 50mm x 740mm (37 links)  |15mm x 50mm x 740mm (37 links)
 
 # Motor and encoder cable reference
 
-|Axis|Genesis|Genesis (XL)|
+|Axis|P1     |P1 Max                                       |
 |----|-------|---------------------------------------------|
 |X1  |0.7m   |0.7m
 |X2  |2.3m   |3.8m
