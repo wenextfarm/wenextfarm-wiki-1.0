@@ -2,7 +2,7 @@
 title: Put WenextFarmin a Greenhouse
 description: 
 published: true
-date: 2026-07-10T03:57:39.376Z
+date: 2026-07-10T03:58:31.460Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:05:06.079Z
