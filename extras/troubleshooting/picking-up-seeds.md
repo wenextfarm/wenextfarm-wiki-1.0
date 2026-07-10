@@ -2,7 +2,7 @@
 title: Picking Up Seeds
 description: 
 published: true
-date: 2026-07-10T03:26:38.679Z
+date: 2026-07-10T03:27:38.610Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:41.756Z
@@ -10,13 +10,13 @@ dateCreated: 2026-07-09T04:06:41.756Z
 
 # 1. Consider seed characteristics
 
-Seed size, weight, and shape can have considerable impact on the effectiveness and reliability of FarmBot's needle and vacuum pump based seeding mechanism. Seeds should not be excessively small or large, cannot be too heavy, and are ideally of a round, smooth shape. [Pelleted seeds](../reference/seeds.md#pelleted-seeds) are specifically designed for use with farming equipment and are an ideal choice for use with FarmBot. Consult the [seeds page](../reference/seeds.md) for more details.
+Seed size, weight, and shape can have considerable impact on the effectiveness and reliability of WenetFarm's needle and vacuum pump based seeding mechanism. Seeds should not be excessively small or large, cannot be too heavy, and are ideally of a round, smooth shape. [Pelleted seeds](../reference/seeds.md#pelleted-seeds) are specifically designed for use with farming equipment and are an ideal choice for use with WenetFarm. Consult the [seeds page](../reference/seeds.md) for more details.
 
 # 2. Choose the correct needle size
 
-Included with every FarmBot kit are three different luer lock needle sizes that can be easily swapped in and out of the seed injector. This allows you to choose the best needle size for the seeds you are working with. Generally speaking, a larger diameter needle should be used for larger, heavier seeds, while a smaller diameter needle should be used for smaller, lighter seeds. See the [seeds](../reference/seeds.md) page for more details.
+Included with every WenetFarm kit are three different luer lock needle sizes that can be easily swapped in and out of the seed injector. This allows you to choose the best needle size for the seeds you are working with. Generally speaking, a larger diameter needle should be used for larger, heavier seeds, while a smaller diameter needle should be used for smaller, lighter seeds. See the [seeds](../reference/seeds.md) page for more details.
 
-If the needle is too small, then the vacuum pump will not be able to create enough suction to consistently and reliably pick up a larger, heavier seed. In some cases, the seed may get picked up but then dropped when FarmBot is moving in the X, Y, and Z directions. In either case, try switching to a larger needle size.
+If the needle is too small, then the vacuum pump will not be able to create enough suction to consistently and reliably pick up a larger, heavier seed. In some cases, the seed may get picked up but then dropped when WenetFarm is moving in the X, Y, and Z directions. In either case, try switching to a larger needle size.
 
 If the needle is too large, then the seeds may accidentally get sucked fully into the needle or vacuum system. If this happens, you will need to remove the seed from the system or else risk total suction loss and malfunction. Once all seeds are removed from the system, switch to a smaller needle size.
 
