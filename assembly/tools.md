@@ -2,11 +2,12 @@
 title: Tools
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T14:38:29.415Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:57.565Z
 ---
+
 FarmBot Genesis kits come with five tools to cover the basics of food production, as well as multiple toolbays and various seed containers. The following documentation pages explain how to assemble and install all of these tools and more.
 
 ![tools in toolbays](_images/tools_in_toolbays.jpg =700px)
@@ -19,7 +20,6 @@ FarmBot Genesis kits come with five tools to cover the basics of food production
  * [Camera](tools/camera.md)
  * [Seeder](tools/seeder.md)
  * [Watering Nozzle](tools/watering-nozzle.md)
- * [Rotary Tool](tools/rotary-tool.md)
  * [Weeder](tools/weeder.md)
  * [Soil Sensor](tools/soil-sensor.md)
  * [Toolbays](tools/toolbays.md)
