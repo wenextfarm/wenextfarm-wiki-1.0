@@ -2,7 +2,7 @@
 title: Weeder
 description: 
 published: true
-date: 2026-07-10T14:00:23.522Z
+date: 2026-07-10T14:03:04.151Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:41.471Z
