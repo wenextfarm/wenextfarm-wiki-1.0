@@ -2,7 +2,7 @@
 title: Mods and Add-Ons
 description: 
 published: true
-date: 2026-07-10T09:31:29.838Z
+date: 2026-07-10T13:45:33.534Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:53.405Z
@@ -14,15 +14,7 @@ FarmBot Genesis has been designed to be a platform for growing plants in any way
 
 _This FarmBot has been augmented with a weather station_
 
-
-> **Modify at your own risk** 
-> 
-> Please note that the following pages contain *ideas* for how to modify your FarmBot. They are not necessarily complete instruction sets or guaranteed to work, and may not satisfy your needs. Please use these pages for *inspiration* only. If you would like support in modifying and adding on to your FarmBot, consider posting in the [community forum](http://forum.wenextfarm.com).
-{.is-info}
-
-
-
-# What's next?
+## Scalable Module
 
  * [Maximizing Output](mods/maximizing-output.md)
  * [Capture and Use Rainwater](mods/capture-and-use-rainwater.md)
@@ -39,3 +31,8 @@ _This FarmBot has been augmented with a weather station_
  * [Control Servos](mods/control-servos.md)
  * [Control Relays](mods/control-relays.md)
  * [Tool Spec](mods/tool-spec.md)
+
+> **Modify at your own risk** 
+> 
+> Please note that the following pages contain *ideas* for how to modify your FarmBot. They are not necessarily complete instruction sets or guaranteed to work, and may not satisfy your needs. Please use these pages for *inspiration* only. If you would like support in modifying and adding on to your FarmBot, consider posting in the [community forum](http://forum.wenextfarm.com).
+{.is-info}
