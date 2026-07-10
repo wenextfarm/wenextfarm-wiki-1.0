@@ -2,11 +2,12 @@
 title: Tool Verification
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T03:21:27.266Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:53.497Z
 ---
+
 # 1. Ensure the UTM cable is fully connected
 
 Double check that the UTM cable is fully connected in all locations:
@@ -15,7 +16,7 @@ Double check that the UTM cable is fully connected in all locations:
 - The 90-degree connection between the Y-axis and Z-axis portions of the UTM cable must be fully pushed together and screwed tight. You may need to push the connectors together, tighten the thumbscrew, then push together some more, and then tighten the thumbscrew again.
 - The [2x6 connector of the Y-axis UTM cable must be plugged into the Farmduino](../../assembly/electronics.md#step-5-plug-in-the-utm-cable) inside the electronics box.
 - There should be eight 1x2 [shunts](shunts) installed on the pin headers labeled `A` through `H` on the [Farmduino](Farmduino), as shown in the image below.
-![farmduino utm shunts](_images/farmduino_utm_shunts.png =700px)
+![farmduino utm shunts](/extras/troubleshooting/_images/farmduino_utm_shunts.png =700x)
 
 # 2. Clean the UTM's pogo pins
 
@@ -29,7 +30,7 @@ FarmBot verifies that a tool has been mounted by checking for an electrical conn
 
 If you continue to have issues, you may try repositioning the jumper link to the top of the tool to increase the amount the pogo pins are depressed when the tool is mounted.
 
-![jumper link on top](_images/jumper_link_on_top.png =700px)
+![jumper link on top](/extras/troubleshooting/_images/jumper_link_on_top.png =700x)
 
 # 4. Clean the top of the tool
 
