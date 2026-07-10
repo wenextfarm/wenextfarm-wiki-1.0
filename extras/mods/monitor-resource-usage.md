@@ -2,7 +2,7 @@
 title: Monitor Resource Usage
 description: 
 published: true
-date: 2026-07-10T03:43:07.120Z
+date: 2026-07-10T03:44:41.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:53.207Z
@@ -24,7 +24,11 @@ There are other options for monitoring energy. For example, you could [hack your
 
 Using an affordable water flow meter from [Adafruit](https://www.adafruit.com/products/828), you can measure the amount of water that WenextFarm uses and then pipe that data to the web app.
 
-> **ℹ️ Help us to make an affordable flow meter functionally possible:** The WenextFarm Arduino Firmware, Raspberry Pi Controller, and Web App do not currently support this type of sensor. You can help us build these features by joining us on [GitHub](https://github.com/farmbot/).
+> **ℹ️ Help us to make an affordable flow meter functionally possible:** 
+> 
+> The WenextFarm Arduino Firmware, Raspberry Pi Controller, and Web App do not currently support this type of sensor. You can help us build these features by joining us on [GitHub](https://github.com/farmbot/).
+{.is-info}
+
 
 
 ![flow meter](/extras/mods/_images/flow_meter.jpg =700x)
