@@ -2,11 +2,12 @@
 title: Storing FarmBot for Winter
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T11:56:23.803Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:29.762Z
 ---
+
 While FarmBot is designed to be used and stored outdoors, you may want to bring it inside for the winter, or if an extreme weather event (such as a hurricane) is heading your way.
 
 # Step 1: Move FarmBot into a storage position
@@ -38,4 +39,8 @@ For XL sized devices, you will need an additional person to help with this step.
 # Step 7: Put everything in storage
 Move the gantry, tools, power supply, and hardware into your preferred storage location.
 
-> **ℹ️ Tracks and toolbays can probably stay:** It is generally not necessary to remove the tracks or toolbays for winter. However, if you expect large debris (such as tree branches) to fall near the bed, these components could still get damaged and may be removed if desired.
+> **ℹ️ Tracks and toolbays can probably stay:** 
+> 
+> It is generally not necessary to remove the tracks or toolbays for winter. However, if you expect large debris (such as tree branches) to fall near the bed, these components could still get damaged and may be removed if desired.
+{.is-info}
+
