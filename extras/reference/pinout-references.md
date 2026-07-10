@@ -2,7 +2,7 @@
 title: Pinout References
 description: 
 published: true
-date: 2026-07-10T04:06:17.755Z
+date: 2026-07-10T04:16:38.064Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:07.576Z
@@ -83,6 +83,10 @@ dateCreated: 2026-07-09T04:06:07.576Z
 |A14 (D68)        |X-MAX
 |A15 (D69)        |X-MIN
 
+
+![mks-gen-v1.0-1.jpg](/extras/reference/_images/mks-gen-v1.0-1.jpg =700x)
+
+![mks-gen-v1.0-2.jpg](/extras/reference/_images/mks-gen-v1.0-2.jpg =700x)
 
 # 2560 chip pinout
 ## Diagram
@@ -234,7 +238,6 @@ tags: [farmbot, hardware, pins, configuration]
 - Farmduino v3.2
 - Farmduino Expansion v2.0 / v2.2
 
-所有定义均以 **C 语言宏** 形式给出，适用于固件编译时的条件编译。
 
 ---
 
