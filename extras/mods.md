@@ -2,19 +2,24 @@
 title: Mods and Add-Ons
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T09:31:29.838Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:53.405Z
 ---
+
 FarmBot Genesis has been designed to be a platform for growing plants in any way you want. What comes out-of-the-box is just the beginning of what is possible. In the following documentation pages we share just a handful of ideas for what more you can do with your FarmBot. Go ahead and explore!
 
-![This FarmBot has been augmented with a weather station](_images/farmbot_with_weather_station.jpg =700px)
+![This FarmBot has been augmented with a weather station](/extras/_images/farmbot_with_weather_station.jpg =700x)
 
 _This FarmBot has been augmented with a weather station_
 
 
-> **ℹ️ Modify at your own risk:** Please note that the following pages contain *ideas* for how to modify your FarmBot. They are not necessarily complete instruction sets or guaranteed to work, and may not satisfy your needs. Please use these pages for *inspiration* only. If you would like support in modifying and adding on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+> **Modify at your own risk** 
+> 
+> Please note that the following pages contain *ideas* for how to modify your FarmBot. They are not necessarily complete instruction sets or guaranteed to work, and may not satisfy your needs. Please use these pages for *inspiration* only. If you would like support in modifying and adding on to your FarmBot, consider posting in the [community forum](http://forum.wenextfarm.com).
+{.is-info}
+
 
 
 # What's next?
