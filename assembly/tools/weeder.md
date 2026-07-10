@@ -2,15 +2,16 @@
 title: Weeder
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T14:00:23.522Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:37:41.471Z
 ---
+
 The weeder tool works by pushing small weeds under the soil surface and disrupting their fragile root systems.
 
 
-![weeder](_images/weeder.png =700px)
+![weeder](/assembly/tools/_images/weeder.png =700x)
 
 This tool, and FarmBot in general, is designed for removing weeds early and often such that the weeds are always **small, young, and fragile**, and therefore easily removed.
 
@@ -18,9 +19,17 @@ What makes this possible is FarmBot's diligence. FarmBot has 24 hours a day to m
 
 If you configure FarmBot well, you will never even notice weeds in your garden because they will never have a chance to survive beyond germination. Over time, the number of weed seeds in your growing area will approach zero.
 
-> **ℹ️ Not designed for large, established weeds:** Do not expect this tool to work with larger, more established weeds. Instead, configure your FarmBot to weed more often so that weeds do not have a chance at becoming large and established. You may also consider using the powered [Rotary Tool](rotary-tool.md) instead.
+> **ℹ️ Not designed for large, established weeds:** 
+> 
+> Do not expect this tool to work with larger, more established weeds. Instead, configure your FarmBot to weed more often so that weeds do not have a chance at becoming large and established. You may also consider using the powered [Rotary Tool](rotary-tool.md) instead.
+{.is-info}
 
-> **✅ Pre-assembled for your convenience:** As of the v1.6 hardware release, the weeder comes [pre-assembled](../../manufacturing/pre-assembly/tools/weeder.md) with medium sized weeder blades.
+
+> **✅ Pre-assembled for your convenience:** 
+> 
+> As of the v1.6 hardware release, the weeder comes [pre-assembled](../../manufacturing/pre-assembly/tools/weeder.md) with medium sized weeder blades.
+{.is-success}
+
 
 # Customizing the weeder
 
