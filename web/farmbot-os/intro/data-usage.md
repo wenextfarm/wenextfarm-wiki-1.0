@@ -1,15 +1,20 @@
 ---
-title: "Data Usage"
+title: Data Usage
 description: 
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T13:38:58.161Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T06:57:43.046Z
 ---
+
 Depending on how you setup your FarmBot, the device will send and receive different amounts of data. For users who are connecting the device to the internet with a cellular or other metered data connection plan, the amount of data transmitted may be of concern.
 
-> **⚠️ For reference only:** The numbers in this document are for reference only, and meant to serve as a starting point for estimating the amount of data your FarmBot will use. These numbers are not meant to show the exact amount of data your device will use, as that will depend on your exact configuration and other variables. FarmBot Inc cannot be held liable for unexpected data usage charges.
+> **⚠️ For reference only:** 
+> 
+> The numbers in this document are for reference only, and meant to serve as a starting point for estimating the amount of data your FarmBot will use. These numbers are not meant to show the exact amount of data your device will use, as that will depend on your exact configuration and other variables. FarmBot Inc cannot be held liable for unexpected data usage charges.
+{.is-warning}
+
 
 # Average data required by task
 The table below shows the average amounts of data transmitted and received by the FarmBot to complete various tasks. Again, these are average amounts; actual data required may be more or less depending on your configuration.
