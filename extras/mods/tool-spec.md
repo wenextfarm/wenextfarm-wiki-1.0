@@ -2,16 +2,22 @@
 title: Tool Spec
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T03:53:01.161Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:05:18.406Z
 ---
+
 Want to design and make your own tools for FarmBot? Follow these instructions to ensure compatibility with the universal tool mount (UTM), a toolbay, and your FarmBot's electronics.
 
-![3d printing a tool](_images/3d_printing_a_tool.jpg =700px)
+![3d printing a tool](/extras/mods/_images/3d_printing_a_tool.jpg =700x)
 
-> **ℹ️ Unlimited possibilities:** The following recommendations should be followed to ensure your tool works with a stock FarmBot. However, don't shy away from experimentation and the possibility of modifying your UTM, toolbay, or electronics to accommodate your desired tool design. FarmBot is yours to play with and modify!
+> **ℹ️ Unlimited possibilities:** 
+> 
+> The following recommendations should be followed to ensure your tool works with a stock FarmBot. However, don't shy away from experimentation and the possibility of modifying your UTM, toolbay, or electronics to accommodate your desired tool design. FarmBot is yours to play with and modify!
+{.is-info}
+
+
 
 # Hardware
 
@@ -28,13 +34,21 @@ Design your tools to meet these hardware specifications to ensure compatibility 
 
 Tools must have the correct physical dimensions and component layout on the top face so that they can correctly couple and de-couple with the [UTM](UTM) as well as slide in and out of a [toolbay](toolbay).
 
-> **✅ Start with a CAD model:** [Download or copy the CAD model](../cad.md) of an existing tool as a starting point for your own design.
+> **✅ Start with a CAD model:** 
+> 
+> [Download or copy the CAD model](../cad.md) of an existing tool as a starting point for your own design.
+{.is-success}
+
 
 # Electrical
 
 In addition to tool verification, tools can make other electrical connections with components in the electronics box via the [UTM](UTM). See [UTM pin mapping](../../assembly/tools/utm.md#pin-mapping) for existing and available connections.
 
-> **⚠️ At your own risk:** Building your own tools that utilize the electrical contacts of the UTM could result in damage if improperly designed. Proceed at your own risk. If you would like help building custom tools, consider posting in the [community forum](http://forum.farmbot.org).
+> **⚠️ At your own risk:** 
+> 
+> Building your own tools that utilize the electrical contacts of the UTM could result in damage if improperly designed. Proceed at your own risk. If you would like help building custom tools, consider posting in the [community forum](http://forum.farmbot.org).
+{.is-warning}
+
 
 # Example projects
 
@@ -45,7 +59,11 @@ Below are some example projects from university teams that have developed their 
 A senior design team at the Liberty University School of Engineering partnered with FarmBot Inc to design and prototype a weed trimming tool.
 
 
-> **✅ Note:** This project was further developed by FarmBot Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools/rotary-tool.md).
+> **✅ Note:** 
+> 
+> This project was further developed by FarmBot Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools/rotary-tool.md).
+{.is-success}
+
 
 ## Gripper tool
 
