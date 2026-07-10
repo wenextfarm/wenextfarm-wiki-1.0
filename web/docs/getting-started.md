@@ -1,12 +1,13 @@
 ---
-title: "Getting Started"
-description: "Suggested steps for getting started with FarmBot"
+title: Getting Started
+description: Suggested steps for getting started with FarmBot
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T08:15:01.423Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:02.439Z
 ---
+
 If you just finished your FarmBot hardware assembly, you're now ready to set up FarmBot's software. Let's get started! :rocket:
 
 # Step 1: Create a web app account
@@ -19,31 +20,39 @@ If you just finished your FarmBot hardware assembly, you're now ready to set up 
 
 Click the <span style="background: #434343; color: #f4f4f4; padding: 4px 6px; border-radius: 4px; font-size: 75%; font-weight: bold;">Setup: 0% complete</span> button in the main navbar to open the **setup panel**. Complete all of the setup steps in the order that they are presented in.
 
-![setup wizard](_images/setup_wizard_1.png =700px)
-![setup wizard](_images/setup_wizard_2.png =700px)
+![setup wizard](/web/docs/_images/setup_wizard_1.png =700x)
+![setup wizard](/web/docs/_images/setup_wizard_2.png =700x)
 
 ## Providing feedback
 
 If you get stuck on any setup step, you may be prompted to make hardware adjustments, go back to another setup step, or contact support. When contacting support, please be as descriptive as possible with the issue you are experiencing so that we are best prepared to help you.
 
-![setup wizard troubleshoot](_images/setup_wizard_troubleshoot.png =700px)
-![setup wizard provide feedback](_images/setup_wizard_provide_feedback.png =700px)
+![setup wizard troubleshoot](/web/docs/_images/setup_wizard_troubleshoot.png =700x)
+![setup wizard provide feedback](/web/docs/_images/setup_wizard_provide_feedback.png =700x)
 
 ## Order info
 
 We request that all users enter their original FarmBot **ORDER NUMBER** as part of the setup process. This will register your purchase with your web app account so that you may receive faster support should you run into any issues.
 
-![order info](_images/setup_wizard_order_info.png =700px)
+![order info](/web/docs/_images/setup_wizard_order_info.png =700x)
 
-> **⚠️ Note:** If you do not know your original order number, built your own FarmBot from scratch, or purchased a kit from a 3rd party, we may offer you more limited support.
+> **⚠️ Note:** 
+> 
+> If you do not know your original order number, built your own FarmBot from scratch, or purchased a kit from a 3rd party, we may offer you more limited support.
+{.is-info}
+
 
 ## FarmBot model
 
 Selecting your **FarmBot model** will add a set of starter resources (peripherals, sequences, etc) and apply a set of settings (map size, firmware version, etc) appropriate to your FarmBot model. This will allow you to get started working with your FarmBot more quickly.
 
-![FarmBot model](_images/setup_wizard_model.png =700px)
+![FarmBot model](/web/docs/_images/setup_wizard_model.png =700x)
 
-> **⚠️ Note:** If you want to build up your FarmBot account completely from scratch, you can do so by selecting `Custom bot` in the dropdown. This is recommended only for advanced users.
+> **⚠️ Note:** 
+> 
+> If you want to build up your FarmBot account completely from scratch, you can do so by selecting `Custom bot` in the dropdown. This is recommended only for advanced users.
+{.is-info}
+
 
 ## Connecting your FarmBot
 
@@ -77,7 +86,11 @@ Selecting your **FarmBot model** will add a set of starter resources (peripheral
 
 # Step 3: Add tools, seed containers, slots, peripherals, and sensors
 
-> **ℹ️ Note:** If you chose your FarmBot model in the setup process, then all of these resources will have already been added for you. However, you will still want to test the peripherals and sensors.
+> **ℹ️ Note:** 
+> 
+> If you chose your FarmBot model in the setup process, then all of these resources will have already been added for you. However, you will still want to test the peripherals and sensors.
+{.is-info}
+
 
 1. Add [tools and seed containers](../app/tools.md) and then load them into [slots](../app/tools.md#tools-and-seed-containers) so that FarmBot knows where everything is located in the garden bed. Remember: the virtual configuration must always match the real-life configuration.
 
@@ -87,13 +100,21 @@ Selecting your **FarmBot model** will add a set of starter resources (peripheral
 
 [Add plants](../app/plants.md) to the [farm designer](../app/farm-designer.md). Remember to choose crops that will grow well in your area at this time of year, and that will be [compatible with FarmBot](http://seeds.farm.bot). Large, indeterminate crops such as Squash or Runner Beans should be placed at the front and back edges of the bed and trained outward so they do not interfere with FarmBot's movements along the x-axis.
 
-> **ℹ️ Note:** If you chose your FarmBot model in the setup process, then all of these resources will have already been added for you. However, you will still want to test the peripherals and sensors.
+> **ℹ️ Note:**
+> 
+> If you chose your FarmBot model in the setup process, then all of these resources will have already been added for you. However, you will still want to test the peripherals and sensors.
+{.is-info}
+
 
 # Step 5: Build and test sequences
 
 Create [sequences](../app/sequences.md) and try them out with the <span class="fb-button fb-orange">RUN</span> button. Start with short, simple sequences and combine them later with the <span class="fb-step fb-execute">EXECUTE SEQUENCE</span> command to do longer, more complex routines. You might first try mounting or dismounting a tool, picking up seeds, or watering. This is where things get really fun!
 
-> **✅ Note:** If you chose your FarmBot model in the setup process, then there will be some starter sequences already available for you to try. Feel free to use them as-is, copy them, or modify them.
+> **✅ Note:** 
+> 
+> If you chose your FarmBot model in the setup process, then there will be some starter sequences already available for you to try. Feel free to use them as-is, copy them, or modify them.
+{.is-success}
+
 
 # Step 6: Create regimens
 
