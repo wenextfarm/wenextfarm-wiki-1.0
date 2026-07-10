@@ -2,7 +2,7 @@
 title: Intro to FarmBot's Software
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-10T08:08:55.657Z
+date: 2026-07-10T08:12:28.469Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:15:17.856Z
@@ -14,9 +14,17 @@ There are many **software systems** contributing to FarmBot's functionality. The
 
 ![farmbot software high level overview](/web/docs/_images/farmbot_software_high_level_overview.jpg =700x)
 
-> **ℹ️ Everything is open-source:** All of our software is [licensed](http://licensing.farm.bot) permissively, allowing you to contribute to, copy, modify, redistribute, and even sell FarmBot software. Want to help build new features or have a bug to report? [Get involved on GitHub!](http://github.farm.bot).
+> **ℹ️ Everything is open-source:** 
+> 
+> All of our software is [licensed](http://licensing.farm.bot) permissively, allowing you to contribute to, copy, modify, redistribute, and even sell FarmBot software. Want to help build new features or have a bug to report? [Get involved on GitHub!](http://github.farm.bot).
+{.is-info}
 
-> **✅ We're here to help:** Have a question or need help setting up some of the software? Email us at [contact@farm.bot](mailto:contact@farm.bot)
+
+> **✅ We're here to help:** 
+> 
+> Have a question or need help setting up some of the software? Email us at [contact@farm.bot](mailto:contact@farm.bot)
+{.is-success}
+
 
 The Raspberry Pi is the communications link to the FarmBot Web App. The Raspberry Pi communicates directly with the Farmduino board. The Farmduino is the central component of the FarmBot from a electronic systems perspective. This diagram shows how all of the FarmBot components interact with the Farmduino with the Raspberry Pi acting as the communications node between the Web App and the Farmduino.
 
@@ -42,7 +50,11 @@ The **firmware** that is flashed onto the Arduino or Farmduino microcontroller i
 
 **[OpenFarm](https://openfarm.cc)** is a free and open database for farming and gardening knowledge. This service provides crop and growing information to the web app for a streamlined user experienced.
 
-> **✅ OpenFarm is built by us too!:** [OpenFarm](https://openfarm.cc) was originally conceived as a small component of the FarmBot project. As progress was made, it became clear that OpenFarm had no reason to be tied to FarmBot, but could rather live on its own. In September of 2014, 1,605 people [backed OpenFarm on Kickstarter](https://www.kickstarter.com/projects/roryaronson/openfarm-learn-to-grow-anything/). Today, OpenFarm is a standalone application, non-profit, and community. You can get involved with OpenFarm by joining the [Slack channel](http://slack.openfarm.cc), contributing on [GitHub](https://github.com/openfarmcc), or going to [OpenFarm](https://openfarm.cc) and creating content!
+> **✅ OpenFarm is built by us too!:** 
+> 
+> [OpenFarm](https://openfarm.cc) was originally conceived as a small component of the FarmBot project. As progress was made, it became clear that OpenFarm had no reason to be tied to FarmBot, but could rather live on its own. In September of 2014, 1,605 people [backed OpenFarm on Kickstarter](https://www.kickstarter.com/projects/roryaronson/openfarm-learn-to-grow-anything/). Today, OpenFarm is a standalone application, non-profit, and community. You can get involved with OpenFarm by joining the [Slack channel](http://slack.openfarm.cc), contributing on [GitHub](https://github.com/openfarmcc), or going to [OpenFarm](https://openfarm.cc) and creating content!
+{.is-success}
+
 
 
 # What's next?
