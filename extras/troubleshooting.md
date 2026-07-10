@@ -2,11 +2,12 @@
 title: Troubleshooting
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T12:06:07.527Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:20.303Z
 ---
+
 Having issues with your FarmBot's hardware? Try looking through our troubleshooting guides below. If you have software related issues, please see the [Software Troubleshooting Guide](https://software.farm.bot/docs/troubleshooting).
 
 > **✅ We're here to help:** Still having issues? Please email contact@farm.bot or consider posting in the [community forum](https://forum.farmbot.org).
@@ -22,3 +23,4 @@ Having issues with your FarmBot's hardware? Try looking through our troubleshoot
  * [Water Pressure](troubleshooting/water-pressure.md)
  * [Solenoid Valve Cable Fix](troubleshooting/solenoid-valve-cable-fix.md)
  * [Tool Verification](troubleshooting/tool-verification.md)
+ * [Mounting and Dismounting Tools](troubleshooting/mounting-and-dismounting-tools.md)
