@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-09T14:01:24.213Z
+date: 2026-07-10T00:20:37.536Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
