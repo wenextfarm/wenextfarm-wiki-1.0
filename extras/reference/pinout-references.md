@@ -2,11 +2,12 @@
 title: Pinout References
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T04:06:17.755Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:07.576Z
 ---
+
 # Pinout reference table
 
 |Mapped Pin Name  |v1.6 Farmduino                |
@@ -215,3 +216,169 @@ _https://www.arduino.cc/en/Hacking/PinMapping2560_
 |SS/NSS        |Sub Select (SPI)
 |TX            |Transmit
 |VCC           |Voltage Common Collector
+
+
+---
+title: FarmBot 硬件引脚定义 (Board.h)
+description: 各主控板（RAMPS、Farmduino）的引脚映射配置
+tags: [farmbot, hardware, pins, configuration]
+---
+
+# FarmBot 硬件引脚定义
+
+本文档整理了 FarmBot 系统中 `Board.h` 文件内各主控板版本的引脚映射定义，包含：
+
+- RAMPS 1.4
+- Farmduino v1.0 / v1.4
+- Farmduino v3.0
+- Farmduino v3.2
+- Farmduino Expansion v2.0 / v2.2
+
+所有定义均以 **C 语言宏** 形式给出，适用于固件编译时的条件编译。
+
+---
+
+## 📌 目录
+
+- [RAMPS 1.4](#ramps-14)
+- [Farmduino v1.0 / v1.4](#farmduino-v10--v14)
+- [Farmduino v3.0](#farmduino-v30)
+- [Farmduino Expansion v2.0 / v2.2](#farmduino-expansion-v20--v22)
+- [Farmduino v3.2](#farmduino-v32)
+
+---
+
+## RAMPS 1.4
+
+```c
+#include "Board.h"
+
+#ifdef RAMPS_V14
+
+  // For RAMPS 1.4
+
+  #define X_STEP_PIN 54
+  #define X_DIR_PIN 55
+  #define X_ENABLE_PIN 38
+  #define X_MIN_PIN 3
+  #define X_MAX_PIN 2
+  #define X_ENCDR_A 16
+  #define X_ENCDR_B 17
+  #define X_ENCDR_A_Q 31
+  #define X_ENCDR_B_Q 33
+
+  #define E_STEP_PIN 26
+  #define E_DIR_PIN 28
+  #define E_ENABLE_PIN 24
+
+  #define Y_STEP_PIN 60
+  #define Y_DIR_PIN 61
+  #define Y_ENABLE_PIN 56
+  #define Y_MIN_PIN 14
+  #define Y_MAX_PIN 15
+  #define Y_ENCDR_A 23
+  #define Y_ENCDR_B 25
+  #define Y_ENCDR_A_Q 35
+  #define Y_ENCDR_B_Q 37
+
+  #define Z_STEP_PIN 46
+  #define Z_DIR_PIN 48
+  #define Z_ENABLE_PIN 62
+  #define Z_MIN_PIN 18
+  #define Z_MAX_PIN 19
+  #define Z_ENCDR_A 27
+  #define Z_ENCDR_B 29
+  #define Z_ENCDR_A_Q 39
+  #define Z_ENCDR_B_Q 41
+
+  #define UTM_C 63
+  #define UTM_D 59
+  #define UTM_E 40
+  #define UTM_F 64
+  #define UTM_G 42
+  #define UTM_H 44
+  #define UTM_I 65
+  #define UTM_J 66
+  #define UTM_K 52
+  #define UTM_L 53
+
+  #define SDPOWER -1
+  #define SDSS 53
+  #define LED_PIN 13
+
+  #define FAN_PIN 9
+
+  #define PS_ON_PIN 12
+  #define KILL_PIN -1
+
+  #define HEATER_0_PIN 10
+  #define HEATER_1_PIN 8
+  #define TEMP_0_PIN 13 // ANALOG NUMBERING
+  #define TEMP_1_PIN 14 // ANALOG NUMBERING
+
+  #define SERVO_0_PIN 4
+  #define SERVO_1_PIN 5
+  #define SERVO_2_PIN 6
+  #define SERVO_3_PIN 11
+
+  #define AUX1_00 0
+  #define AUX1_01 1
+  #define AUX1_57 57
+  #define AUX1_58 58
+  #define AUX3_49 49
+  #define AUX3_50 50
+  #define AUX3_51 51
+  #define AUX4_43 43
+  #define AUX4_45 45
+  #define AUX4_47 47
+  #define AUX4_32 32
+
+  // Encoder X channel A: pin 16, port H1
+  #define ENC_X_A_PORT PINH
+  #define ENC_X_A_BYTE 0x02
+
+  // Encoder X channel B: pin 17, port H0
+  #define ENC_X_B_PORT PINH
+  #define ENC_X_B_BYTE 0x01
+
+  // Encoder X channel A Q: pin 31, port C6
+  #define ENC_X_A_Q_PORT PINC
+  #define ENC_X_A_Q_BYTE 0x40
+
+  // Encoder X channel B Q: pin 33, port C4
+  #define ENC_X_B_Q_PORT PINC
+  #define ENC_X_B_Q_BYTE 0x10
+
+  // Encoder Y channel A: pin 23, port A1
+  #define ENC_Y_A_PORT PINA
+  #define ENC_Y_A_BYTE 0x02
+
+  // Encoder Y channel B: pin 25, port A3
+  #define ENC_Y_B_PORT PINA
+  #define ENC_Y_B_BYTE 0x08
+
+  // Encoder Y channel A Q: pin 35, port C2
+  #define ENC_Y_A_Q_PORT PINC
+  #define ENC_Y_A_Q_BYTE 0x04
+
+  // Encoder Y channel B Q: pin 37, port C0
+  #define ENC_Y_B_Q_PORT PINC
+  #define ENC_Y_B_Q_BYTE 0x01
+
+  // Encoder Z channel A: pin 27, port A5
+  #define ENC_Z_A_PORT PINA
+  #define ENC_Z_A_BYTE 0x20
+
+  // Encoder Z channel B: pin 29, port A7
+  #define ENC_Z_B_PORT PINA
+  #define ENC_Z_B_BYTE 0x80
+
+  // Encoder Z channel A Q: pin 39, port G2
+  #define ENC_Z_A_Q_PORT PING
+  #define ENC_Z_A_Q_BYTE 0x04
+
+  // Encoder Z channel B Q: pin 41, port G0
+  #define ENC_Z_B_Q_PORT PING
+  #define ENC_Z_B_Q_BYTE 0x01
+
+#endif
