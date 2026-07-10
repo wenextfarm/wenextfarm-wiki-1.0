@@ -1,17 +1,18 @@
 ---
-title: "Intro to FarmBot's Software"
-description: "The powerful web app, custom operating system, and firmware that bring FarmBot to life"
+title: Intro to FarmBot's Software
+description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T08:08:55.657Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:15:17.856Z
 ---
+
 There are many **software systems** contributing to FarmBot's functionality. The diagram below shows the different components and how data flows between them. Read the brief descriptions of each component in the following sections to understand the system as a whole, and then dive into setting up the needed components for your FarmBot.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWQvQOfVNQB8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQvQOfVNQB8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWQvQOfVNQB8%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-![farmbot software high level overview](_images/farmbot_software_high_level_overview.jpg =700px)
+![farmbot software high level overview](/web/docs/_images/farmbot_software_high_level_overview.jpg =700x)
 
 > **ℹ️ Everything is open-source:** All of our software is [licensed](http://licensing.farm.bot) permissively, allowing you to contribute to, copy, modify, redistribute, and even sell FarmBot software. Want to help build new features or have a bug to report? [Get involved on GitHub!](http://github.farm.bot).
 
@@ -19,13 +20,13 @@ There are many **software systems** contributing to FarmBot's functionality. The
 
 The Raspberry Pi is the communications link to the FarmBot Web App. The Raspberry Pi communicates directly with the Farmduino board. The Farmduino is the central component of the FarmBot from a electronic systems perspective. This diagram shows how all of the FarmBot components interact with the Farmduino with the Raspberry Pi acting as the communications node between the Web App and the Farmduino.
 
-![farmbot system diagram](_images/farmbot_system_diagram.jpeg =700px)
+![farmbot system diagram](/web/docs/_images/farmbot_system_diagram.jpeg =700x)
 
 # The FarmBot web app
 
 The **web app** allows you to easily control and configure your FarmBot from a web browser using your laptop, tablet, or smartphone. The application features real-time manual controls and logging, a sequence builder for creating custom routines for FarmBot to execute, and a drag-and-drop farm designer so you can graphically design your garden.
 
-![web app on different devices](_images/web_app_on_different_devices.png =700px)
+![web app on different devices](/web/docs/_images/web_app_on_different_devices.png =700x)
 
 # FarmBot OS
 
