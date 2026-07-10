@@ -2,7 +2,7 @@
 title: Tool Verification
 description: 
 published: true
-date: 2026-07-10T03:21:27.266Z
+date: 2026-07-10T03:22:39.854Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:53.497Z
@@ -26,7 +26,7 @@ Clean the pogo pins with a small amount of isopropyl alcohol, making sure to ful
 
 # 3. Double check the tool's jumper link
 
-FarmBot verifies that a tool has been mounted by checking for an electrical connection between pins `B` and `C`. Each tool should have a [jumper link](jumper link) [installed](../../extras/reference/basic-tool-hardware.md#step-2-install-the-tool-verification-jumper-link) that connects pins `B` and `C` together.
+WenextFarm verifies that a tool has been mounted by checking for an electrical connection between pins `B` and `C`. Each tool should have a [jumper link](jumper link) [installed](../../extras/reference/basic-tool-hardware.md#step-2-install-the-tool-verification-jumper-link) that connects pins `B` and `C` together.
 
 If you continue to have issues, you may try repositioning the jumper link to the top of the tool to increase the amount the pogo pins are depressed when the tool is mounted.
 
