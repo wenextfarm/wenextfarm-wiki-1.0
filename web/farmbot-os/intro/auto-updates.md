@@ -1,17 +1,18 @@
 ---
-title: "Auto Updates"
+title: Auto Updates
 description: 
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T13:41:26.583Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T06:57:31.574Z
 ---
+
 FarmBot OS is regularly improved to include new features, security enhancements, and bug fixes. It is recommended that you keep your FarmBot updated with the latest version of FarmBot OS at all times so that you can enjoy the best that FarmBot has to offer.
 
 By default, all FarmBots are configured to update automatically at 3AM local time, meaning you don't have to worry about manually staying up-to-date. You can change the **UPDATE TIME** and also turn off **AUTO UPDATE** from the device settings panel, though this is not recommended.
 
-![FBOS updates](_images/fbos_updates.png =700px)
+![FBOS updates](/web/farmbot-os/intro/_images/fbos_updates.png =700x)
 
 # The update process
 Updates will happen **over-the-air**, meaning FarmBot will download the latest version of the software when it becomes available, apply it, and reboot as necessary. Under normal circumstances there will be no need for reconfiguration or any manual effort required by the user; FarmBot should come back online, re-sync, and resume any scheduled events automatically.
@@ -25,4 +26,4 @@ Major releases of FarmBot OS may have **breaking changes** that allow the greate
 
 To view a summarized change of what's new in FarmBot OS, click the **Release Notes** popup.
 
-![farmbot os release notes](_images/farmbot_os_release_notes.png =700px)
+![farmbot os release notes](/web/farmbot-os/intro/_images/farmbot_os_release_notes.png =700x)
