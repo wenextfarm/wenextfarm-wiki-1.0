@@ -1,13 +1,14 @@
 ---
-title: Reference Docs
+title: Assembly Reference
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T04:00:06.211Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:05:36.642Z
 ---
-These pages contain detailed, deep-dive information that you will need to assemble your FarmBot. They are referenced throughout the other assembly steps in more than one location.
+
+These pages contain detailed, deep-dive information that you will need to assemble your WenextFarm. They are referenced throughout the other assembly steps in more than one location.
 
 # What's next?
 
