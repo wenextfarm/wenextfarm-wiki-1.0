@@ -2,7 +2,7 @@
 title: Universal Tool Mount
 description: 
 published: true
-date: 2026-07-10T14:06:33.505Z
+date: 2026-07-10T14:09:55.672Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:29.499Z
