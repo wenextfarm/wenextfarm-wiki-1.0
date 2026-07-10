@@ -2,11 +2,12 @@
 title: Cables and Tubing
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T11:38:52.491Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:28:51.729Z
 ---
+
 Installing the cables and tubing through FarmBot's cable carriers can be a tedious process. Take your time when installing the cables to ensure you complete this part of the assembly correct the first time, otherwise it might become frustrating if you need to re-do anything.
 
 # Cable carrier reference
@@ -27,15 +28,19 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 |ZY  |2.6m   |4.1m
 |ZZ  |1.8m   |1.8m
 
-> **✅ Labelled for clarity:** All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
+> **✅ Labelled for clarity:** 
+> 
+> All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
+{.is-success}
+
 
 ## Motor cables
 
-![motor cables](_images/motor_cables.jpg =700px)
+![motor cables](/assembly/_images/motor_cables.jpg =700x)
 
 ## Encoder cables
 
-![encoder cables](_images/encoder_cables.jpg =700px)
+![encoder cables](/assembly/_images/encoder_cables.jpg =700x)
 
 # What's next?
 
