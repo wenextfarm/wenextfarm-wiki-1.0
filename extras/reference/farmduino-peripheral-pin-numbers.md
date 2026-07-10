@@ -1,12 +1,13 @@
 ---
-title: Farmduino Peripheral Pin Numbers
+title: MKS Peripheral Pin Numbers
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-10T04:35:45.997Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:06:01.172Z
 ---
+
 Refer to this reference table to control Farmduino's peripherals from the Web App Controls page Peripherals widget or in a Sequence.
 
 |Peripheral                    |Pin Number                    |
@@ -18,7 +19,11 @@ Refer to this reference table to control Farmduino's peripherals from the Web Ap
 |PERIPH 5                      |12
 
 
-> **ℹ️ Software Documentation:** See the [FarmBot Web App Documentation](https://software.farmbot.io/docs/the-farmbot-web-app) for more information on controls and sequences.
+> **Software Documentation:**
+> 
+> See the [FarmBot Web App Documentation](https://software.farmbot.io/docs/the-farmbot-web-app) for more information on controls and sequences.
+{.is-info}
 
-![peripherals list](_images/peripherals_list.png =700px)
-![light flash sequence](_images/light_flash_sequence.png =700px)
+
+![peripherals list](/extras/reference/_images/peripherals_list.png =700x)
+![light flash sequence](/extras/reference/_images/light_flash_sequence.png =700x)
