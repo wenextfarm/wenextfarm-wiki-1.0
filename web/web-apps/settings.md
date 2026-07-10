@@ -1,12 +1,13 @@
 ---
-title: "Settings"
-description: "Manage app and FarmBot settings <i class='fa fa-cog'></i> [Open in the app](https://my.farm.bot/app/designer/settings)"
+title: Settings
+description: Manage app and FarmBot settings <i class='fa fa-cog'></i> [Open in the app](https://my.farm.bot/app/designer/settings)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-10T07:57:00.205Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:55:19.589Z
 ---
+
 The settings panel contains a bunch of settings that determine how FarmBot moves, syncs, updates, and more. All of the settings on this panel are stored in your web app account and then get synchronized to the FarmBot. This means that if you ever need to reset your FarmBot, your settings will not be lost.
 
 # Show advanced settings
@@ -14,7 +15,7 @@ The settings panel contains a bunch of settings that determine how FarmBot moves
 
 Some settings are not shown by default because they are only useful in very special circumstances and can cause problems for non-advanced users. To show advanced settings, turn <span class="fb-peripheral-on">ON</span> the **SHOW ADVANCED SETTINGS** toggle located in the (cog) menu of the settings panel.
 
-![advanced settings](_images/advanced_settings.png =700px)
+![advanced settings](/web/web-apps/_images/advanced_settings.png =700x)
 
 # What's next?
 
