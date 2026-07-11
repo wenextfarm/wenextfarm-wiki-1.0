@@ -2,27 +2,36 @@
 title: Take Time Lapse Plant Photography
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T09:07:46.653Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:05:12.546Z
 ---
+
 Want to make cool time lapse videos of your food growing? FarmBot can help you do this in a variety of ways.
 
 # Individual plant time lapse
 
 Plant a seed and then use FarmBot's camera to take a photo from the plant's X and Y coordinates with a sufficient amount of Z-height for the plant to fully grow. Move back to this location every day at the same time to take another photo. You'll end up with a time lapse of that individual plant growing - perfect for Instagram!
 
-> **✅ Note:** Sharing stuff on social media? Make sure to use **#FarmBot**!
+> **✅ Note:** 
+> 
+> Sharing stuff on social media? Make sure to use **#FarmBot**!
+{.is-success}
 
 
-![plant growth timelapse](_images/plant_growth_timelapse.gif =700px)
+
+![plant growth timelapse](/extras/mods/_images/plant_growth_timelapse.gif =700x)
 
 
-> **✅ Pro tip:** Use the sequence builder and event scheduler of the web app to easily automate the daily process of moving to the plant's location and taking the photo.
+> **✅ Pro tip:** 
+> 
+> Use the sequence builder and event scheduler of the web app to easily automate the daily process of moving to the plant's location and taking the photo.
+{.is-success}
 
 
-![timelapse plant photo sequence](_images/timelapse_plant_photo_sequence.png =700px)
+
+![timelapse plant photo sequence](/extras/mods/_images/timelapse_plant_photo_sequence.png =700x)
 
 
 # Fly-over time lapse
