@@ -2,7 +2,7 @@
 title: Complete the Cycle with Compost
 description: 
 published: true
-date: 2026-07-11T09:01:51.482Z
+date: 2026-07-11T09:01:55.202Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:23.408Z
