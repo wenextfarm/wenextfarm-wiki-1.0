@@ -2,7 +2,7 @@
 title: Final Steps
 description: 
 published: true
-date: 2026-07-10T11:49:53.517Z
+date: 2026-07-11T10:07:25.637Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:46.183Z
@@ -21,6 +21,7 @@ You're now ready to move onto the software portion of setting up your FarmBot. R
 
 Now that you've got your bot assembled and connected to the web, it's time to start growing things! Most common garden veggies will work great with FarmBot, though there are some limitations and best practices. Check out our [seed selection guide](http://seeds.farm.bot) for tips and best practices.
 
+![截屏2026-07-11_18.06.14.jpg](/assembly/_images/截屏2026-07-11_18.06.14.jpg)
 
 # Join the community forum
 
