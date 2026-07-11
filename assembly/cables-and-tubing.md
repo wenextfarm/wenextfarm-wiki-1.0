@@ -2,7 +2,7 @@
 title: Cables and Tubing
 description: 
 published: true
-date: 2026-07-11T10:31:42.436Z
+date: 2026-07-11T10:33:16.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:28:51.729Z
@@ -44,8 +44,8 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 
 # What's next?
 
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
- * [Y-Axis Cable Carrier](/assembly/cables-and-tubing/y-axis-cable-carrier.md)
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
+ * [Z-Axis Cable Carrier](assembly/cables-and-tubing/z-axis-cable-carrier.md)
+ * [Y-Axis Cable Carrier](assembly/cables-and-tubing/y-axis-cable-carrier.md)
+ * [X-Axis Cable Carrier](assembly/cables-and-tubing/x-axis-cable-carrier.md)
+ * [X-Axis Motors](assembly/cables-and-tubing/x-axis-motors.md)
+ * [Lighting](assembly/cables-and-tubing/Lighting.md)
