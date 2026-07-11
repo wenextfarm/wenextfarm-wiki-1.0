@@ -2,11 +2,12 @@
 title: CAD Models
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T09:12:38.205Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:03.844Z
 ---
+
 FarmBot Genesis was designed in **[Onshape](https://onshape.com)**, allowing you to have full access to **view**, **copy**, **edit**, and **export** all of the source 3D CAD models for *free* from any computer or mobile device! Simply click the links below to access the various assemblies and other resources.
 
 |Category                      |Link                          |
