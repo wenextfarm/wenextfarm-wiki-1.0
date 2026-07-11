@@ -2,11 +2,12 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T11:55:22.931Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:39.289Z
 ---
+
 # Is FarmBot weatherproof/rainproof?
 
 Yes. All electronics are protected from rain with plastic housings and enclosures. All other parts are made from corrosion resistant materials such as aluminum, stainless steel, and UV stabilized plastic.
@@ -54,4 +55,8 @@ FarmBot Genesis kits are shipped in two boxes. The **Extrusions and Leadscrew Ki
 |Genesis        |23cm x 43cm x 80cm (9 in x 17in x 31in)<br><br>19kg (42lbs)|13cm x 13cm x 154cm (5in x 5in x 61in)<br><br>10.3kg (22lbs, 11oz)
 |Genesis (XL)     |23cm x 43cm x 90cm (9 in x 17in x 35in)<br><br>23.6kg (52lbs 2oz)|13cm x 15cm x 154cm (5in x 6in x 61in)<br><br>16.6kg (36lbs, 10oz)
 
-> **ℹ️ Note:** View our full [shipping policy](http://shipping.farm.bot).
+> **ℹ️ Note:**
+> 
+> View our full [shipping policy](http://shipping.farm.bot).
+{.is-info}
+
