@@ -2,7 +2,7 @@
 title: Mods and Add-Ons
 description: 
 published: true
-date: 2026-07-11T09:19:17.026Z
+date: 2026-07-11T09:19:51.701Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:53.405Z
@@ -17,7 +17,7 @@ _This FarmBot has been augmented with a weather station_
 ## Scalable Module
 
 
- * [CAD Mods](extras/cad.md)
+ * [CAD Mods](cad.md)
  * [Maximizing Output](mods/maximizing-output.md)
  * [Capture and Use Rainwater](mods/capture-and-use-rainwater.md)
  * [Turn FarmBot into a Weather Station](mods/turn-farmbot-into-a-weather-station.md)
