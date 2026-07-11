@@ -2,7 +2,7 @@
 title: Gantry
 description: 
 published: true
-date: 2026-07-11T11:02:17.894Z
+date: 2026-07-11T11:06:10.567Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:35:56.631Z
@@ -23,3 +23,4 @@ _The back side of the gantry_
 #  Installation Steps
 
  * [Assemble the Gantry Wheel Plates](gantry/assemble-the-gantry-wheel-plates.md)
+ * [Construct the Gantry Structure](gantry/construct-the-gantry-structure.md)
