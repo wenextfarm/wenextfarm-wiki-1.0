@@ -2,11 +2,12 @@
 title: Monitor FarmBot with a Webcam
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T09:03:46.663Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:04:47.335Z
 ---
+
 There are many reasons you might want to add a webcam to your FarmBot. Here are a few:
 * To watch FarmBot move from work, inside your house, or across the world
 * To show FarmBot off to your friends
@@ -20,12 +21,12 @@ Below we offer two ways for setting up a webcam for your FarmBot.
 
 There are many web connected security cameras on the market that you can purchase and install pointed at your FarmBot. We recommend using a high quality camera that has low lag and built-in infrared LEDs for a night vision ability. Depending on your local weather and where you plan to install your camera, you might need to purchase a camera that is meant for the outdoors and weatherproof. At FarmBot Inc, we use Nest brand outdoor cameras.
 
-![farmbot webcam in the day](_images/farmbot_webcam_in_the_day.jpg =700px)
+![farmbot webcam in the day](/extras/mods/_images/farmbot_webcam_in_the_day.jpg =700x)
 
 _FarmBot webcam in the day_
 
 
-![farmbot webcam at night](_images/farmbot_webcam_at_night.png =700px)
+![farmbot webcam at night](/extras/mods/_images/farmbot_webcam_at_night.png =700x)
 
 _FarmBot webcam at night_
 
@@ -39,4 +40,4 @@ You can use an additional Raspberry Pi and a **Raspberry Pi Camera Module** to s
 
 The Pi and camera module needs to be mounted either on your FarmBot or external to it (on an adjacent building for example) in a rain proof location. This could be done with a [small plastic bracket](https://www.adafruit.com/products/1434) and a 3D printed roof structure, or other materials. How and where you mount your camera is up to you.
 
-![pi and pi camera](_images/pi_and_pi_camera.jpg =700px)
+![pi and pi camera](/extras/mods/_images/pi_and_pi_camera.jpg =700x)
