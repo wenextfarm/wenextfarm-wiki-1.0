@@ -2,7 +2,7 @@
 title: Gantry
 description: 
 published: true
-date: 2026-07-11T11:09:05.026Z
+date: 2026-07-11T11:12:46.078Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:35:56.631Z
@@ -17,7 +17,6 @@ _The back side of the gantry_
 > 
 > This is the estimated time it will take to assemble the Gantry.
 {.is-info}
-
 
 
 #  Installation Steps
