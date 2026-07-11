@@ -2,7 +2,7 @@
 title: Lighting
 description: 
 published: true
-date: 2026-07-10T11:43:03.849Z
+date: 2026-07-11T10:47:20.979Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:03.707Z
