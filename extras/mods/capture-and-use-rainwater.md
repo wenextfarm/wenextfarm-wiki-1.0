@@ -2,20 +2,29 @@
 title: Capture and Use Rainwater
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T08:49:08.932Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:04:17.264Z
 ---
+
 If you live off-grid or want to save on your water bill, consider installing a rain barrel to store collected rain from your roof or other collection surface, and then using this source of water with your FarmBot.
 
-> **ℹ️ Inspiration only:** Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+> **ℹ️ Inspiration only:** 
+> 
+> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+{.is-info}
 
 
-![off-grid farmbot](_images/off-grid_farmbot.jpg =700px)
+
+![off-grid farmbot](/extras/mods/_images/off-grid_farmbot.jpg =700x)
 
 
-> **🚫 Captured rainwater is not safe for drinking:** In general, captured rainwater is not clean nor suitable for direct consumption. Your collection surfaces and piping (rooftops, tarps, gutters, etc) will introduce contamination such as tar or other roofing materials, paint chips, bird poop, leaves, dust and dirt, and other unwanted substances to the water supply. Rainwater can also collect pollution from the air on its way down. Additionally, because rainwater is not treated with chlorine like municipal water, storing it can introduce algae growth, mosquito larva, and other biological pests to the water.
+> **🚫 Captured rainwater is not safe for drinking:** 
+> 
+> In general, captured rainwater is not clean nor suitable for direct consumption. Your collection surfaces and piping (rooftops, tarps, gutters, etc) will introduce contamination such as tar or other roofing materials, paint chips, bird poop, leaves, dust and dirt, and other unwanted substances to the water supply. Rainwater can also collect pollution from the air on its way down. Additionally, because rainwater is not treated with chlorine like municipal water, storing it can introduce algae growth, mosquito larva, and other biological pests to the water.
+{.is-danger}
+
 
 If you decide to install a rain collection system to be used in conjunction with your FarmBot, DO NOT consume the collected water directly. Furthermore, WASH ALL PRODUCE that has been watered with rainwater. Additionally, follow all manufacturer's precautions listed in your rain barrel's instruction manual. The manual for the rain barrel you see in these photos listed warnings for the following hazards: drowning, electrocution, tipping, installation, contamination, and infestation. Take your rain barrel installation and usage seriously.
 
@@ -40,14 +49,14 @@ Your rain barrel should be within a few feet from a gutter downspout so that wat
 
 The area should also be flat, and have sufficient working room around it so that you can easily access the barrel's tap. Some people raise their barrel off the ground with cinder blocks, wood, or bricks so that the lower tap can be used with a hose bib.
 
-![water barrel](_images/water_barrel.jpg =700px)
+![water barrel](/extras/mods/_images/water_barrel.jpg =700x)
 
 
 # Step 3: Install the barrel
 
 Follow the instructions provided with your rain barrel to complete the installation. This will often include drilling a few holes, installing the water diverter in your gutter downspout, and installing a hose bib in the barrel. Our barrel features a plant-able area in the top lid that we filled with potting soil and a variety of succulents.
 
-![barrel downspout connection](_images/barrel_downspout_connection.jpg =700px)
+![barrel downspout connection](/extras/mods/_images/barrel_downspout_connection.jpg =700x)
 
 
 # Step 4: Replace the solenoid valve with the pump
@@ -60,11 +69,11 @@ At this time we don't have detailed instructions for how to do this, though a lo
   * Connect the pump's output to the barrel output
   * Secure the pump in the bottom of the barrel
 
-![pump](_images/pump.jpg =700px)
+![pump](/extras/mods/_images/pump.jpg =700x)
 
 Then hook up FarmBot's hose to the hose bib on the rain barrel.
 
-![barrel hose bib](_images/barrel_hose_bib.jpg =700px)
+![barrel hose bib](/extras/mods/_images/barrel_hose_bib.jpg =700x)
 
 
 # Step 5: Install a float valve for municipal water backup
@@ -75,35 +84,39 @@ The float valve will be inserted into the rain barrel and allow municipal water 
 
 To install the float valve, drill a 7/8" diameter hole in the rain barrel about 5cm *above* the hose bib that FarmBot is connected to.
 
-![drill hole in barrel](_images/drill_hole_in_barrel.jpg =700px)
+![drill hole in barrel](/extras/mods/_images/drill_hole_in_barrel.jpg =700x)
 
 Insert the float valve's threaded end out from the inside of the rain barrel and tighten on the **plastic retaining ring**.
 
-![inserting barrel float](_images/inserting_barrel_float.jpg =700px)
-![barrel float retaining ring](_images/barrel_float_retaining_ring.jpg =700px)
+![inserting barrel float](/extras/mods/_images/inserting_barrel_float.jpg =700x)
+![barrel float retaining ring](/extras/mods/_images/barrel_float_retaining_ring.jpg =700x)
 
 Wrap 5-7 layers of **PTFE tape** to the **float valve** threads. Wrap in a clockwise direction so that when you screw on the garden hose adapter, the clockwise rotation does not unravel the tape.
 
-![barrel float PTFE tape](_images/barrel_float_ptfe_tape.jpg =700px)
+![barrel float PTFE tape](/extras/mods/_images/barrel_float_ptfe_tape.jpg =700x)
 
 Screw the **1/2" female NPT to female Garden Hose Adapter** onto the **float valve**.
 
-![barrel float garden hose adapter](_images/barrel_float_garden_hose_adapter.jpg =700px)
+![barrel float garden hose adapter](/extras/mods/_images/barrel_float_garden_hose_adapter.jpg =700x)
 
 Connect the **garden hose** to the **adapter**, and then connect the other end of this hose to your municipal water supply.
 
-![barrel float with garden hose connected](_images/barrel_float_with_garden_hose_connected.jpg =700px)
+![barrel float with garden hose connected](/extras/mods/_images/barrel_float_with_garden_hose_connected.jpg =700x)
 
 Open your home's municipal water valve so that the rain barrel starts filling with water. If all has gone well, the barrel should fill up until the float valve shuts off the water automatically.
 
-![barrel filling with water](_images/barrel_filling_with_water.jpg =700px)
+![barrel filling with water](/extras/mods/_images/barrel_filling_with_water.jpg =700x)
 
 The water level should be slightly higher than the point where FarmBot is connected such that water is always available for FarmBot to use. As soon as FarmBot pumps out some water, the float valve will open and allow municipal water to refill the barrel automatically. Test this by manually controlling FarmBot with the web app and having it water a few plants.
 
-![barrel full of water](_images/barrel_full_of_water.jpg =700px)
+![barrel full of water](/extras/mods/_images/barrel_full_of_water.jpg =700x)
 
 
-> **✅ Awesome work!:** Your FarmBot will now use stored rainwater when it it is available, and municipal water during drier times. On the subject, why don't you go treat yourself to an ice cold glass of water after all that effort!
+> **✅ Awesome work!:** 
+> 
+> Your FarmBot will now use stored rainwater when it it is available, and municipal water during drier times. On the subject, why don't you go treat yourself to an ice cold glass of water after all that effort!
+{.is-success}
+
 
 
 # Optional: Daisy chain rain barrels
@@ -112,6 +125,10 @@ You may find that you want to increase your capacity for storing rainwater. Whil
 
 Most rain barrels can be easily "daisy chained" together to effectively create one larger barrel. You can do this by connecting hoses between barrels.
 
-> **✅ Daisy chain at the bottom:** Connect barrels with hoses as close to the bottom of the barrels as possible. This will ensure that FarmBot can access the majority of the water from all of the barrels.
+> **✅ Daisy chain at the bottom:** 
+> 
+> Connect barrels with hoses as close to the bottom of the barrels as possible. This will ensure that FarmBot can access the majority of the water from all of the barrels.
+{.is-success}
+
 
 If you connect the barrels with a hose up near the top, then water will become trapped inside the additional barrels and not be available to FarmBot.
