@@ -2,11 +2,12 @@
 title: Assembly Preparation
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T11:53:10.668Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:32.629Z
 ---
+
 # Installation tips
 
 Watch the short video below to understand how to provide power, water, and an internet connection to your FarmBot in a safe a reliable way.
@@ -16,9 +17,17 @@ Watch the short video below to understand how to provide power, water, and an in
 
 When you first open up your FarmBot hardware package, pull out all of the component bags and boxes so that you develop a full idea of what's included, and so that you can place them on a table in locations that make sense to you. For the most part, components are already organized inside the boxes, but it is still good to take a look over everything.
 
-> **⚠️ Handle with care:** The aluminum extrusions may have sharp corners and edges.
+> **⚠️ Handle with care:** 
+> 
+> The aluminum extrusions may have sharp corners and edges.
+{.is-warning}
 
-> **✅ We'll make it right:** If anything is missing or damaged from your box of components, let us know right away at [contact@farm.bot](mailto:contact@farm.bot). We'll ship out replacement parts as soon as we can.
+
+> **✅ We'll make it right:** 
+> 
+> If anything is missing or damaged from your box of components, let us know right away at [contact@farm.bot](mailto:contact@farm.bot). We'll ship out replacement parts as soon as we can.
+{.is-success}
+
 
 # Plan accordingly
 
