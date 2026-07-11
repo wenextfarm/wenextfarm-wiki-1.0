@@ -2,7 +2,7 @@
 title: Capture and Use Rainwater
 description: 
 published: true
-date: 2026-07-11T08:49:08.932Z
+date: 2026-07-11T08:52:55.803Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:17.264Z
