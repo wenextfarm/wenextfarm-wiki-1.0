@@ -2,14 +2,19 @@
 title: Product Safety
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T11:51:33.494Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:51.250Z
 ---
+
 While FarmBot is an easy-to-use product suitable for home and classroom environments, it is important to recognize and understand the potential **safety hazards** associated with assembly and use of the machine. Refer to the non-exhaustive table below of the most common hazards before beginning assembly or using your FarmBot, especially with children.
 
-> **✅ Safety first:** Adhering to the recommended safety precautions can help prevent accidents and injuries.
+> **✅ Safety first:** 
+> 
+> Adhering to the recommended safety precautions can help prevent accidents and injuries.
+{.is-success}
+
 
 # Hazards
 
