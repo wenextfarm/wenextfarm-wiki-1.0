@@ -2,7 +2,7 @@
 title: High Level Overview
 description: 
 published: true
-date: 2026-07-11T11:36:59.376Z
+date: 2026-07-11T11:47:39.376Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:45.301Z
@@ -27,36 +27,7 @@ We hope you'll find our documentation useful and a great starting point for work
 
 # Architecture
 
-<div class="tracks-image">
-  <img class="fb" src="/assembly/intro/_images/high_level_overview.png" />
-  <p style="top:1%;left:35%;width:100px;background:#9fc5e8;border: 2px solid #0b5394;">Z-Axis</p>
-  <p style="top: 1%;left: 52%;width: 100px;background: #ea9999;border: 2px solid #660000;">Cross-Slide</p>
-  <p style="top: 1%;left: 67%;width: 100px;background: #93c47d;border: 2px solid #274e13;">Gantry</p>
-  <p style="top: 37%;left: 55%;width: 100px;background: #f9cb9c;border: 2px solid #b45f06;">Universal Tool Mount</p>
-  <p style="top: 63%; left: 37%;width: 100px;background: #b7b7b7;border: 2px solid #434343;">Tracks</p>
-  <p style="top: 70%; left: 50%;width: 100px;color: #274e13;">X-Direction</p>
-  <p style="top: 77%; left: 40%;width: 100px;color: #486a8a;">Z-Direction</p>
-  <p style="top: 89%; left: 28%;width: 100px;color: #975656;">Y-Direction</p>
-</div>
-
-<style>
-img.fb {
-  width: 100%;
-}
-.tracks-image {
-  position: relative;
-  width: 100%;
-  border-radius: 3px;
-}
-.tracks-image p {
-  position: absolute;
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-  border-radius: 10%;
-  color: black;
-}
-</style>
+![截屏2026-07-11_19.46.40.jpg](/assembly/intro/_images/截屏2026-07-11_19.46.40.jpg)
 
 ## Tracks
 
