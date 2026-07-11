@@ -2,22 +2,31 @@
 title: Power FarmBot with Solar
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T08:56:50.464Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:04:59.404Z
 ---
-> **🚫 Inspiration only:** Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. Furthermore, incorrect installation of a new electrical system for your FarmBot could result in damage to your electronics, electrical shock, fire, or more serious consequences such as property damage or death. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+
+> **🚫 Inspiration only:** 
+> 
+> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. Furthermore, incorrect installation of a new electrical system for your FarmBot could result in damage to your electronics, electrical shock, fire, or more serious consequences such as property damage or death. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+{.is-danger}
 
 
-![farmbot with solar and compost](_images/farmbot_with_solar_and_compost.jpg =700px)
+
+![farmbot with solar and compost](/extras/mods/_images/farmbot_with_solar_and_compost.jpg =700x)
 
 
 # Understanding FarmBot's energy usage
 
 To power FarmBot exclusively with solar energy, you first need to calculate how much electricity FarmBot uses so that you can size your solar system appropriately. You can do this by estimating the duty cycle of each component and then tallying up the estimated energy usage.
 
-> **ℹ️ What's duty cycle?:** Duty cycle is the percentage of time that the component is used. For example, the Raspberry Pi will be on all the time, so its duty cycle is 100%. The motors are not likely to be used all the time, so their duty cycle might be closer to 5%. Of course, this depends on how you use your FarmBot.
+> **ℹ️ What's duty cycle?:** 
+> 
+> Duty cycle is the percentage of time that the component is used. For example, the Raspberry Pi will be on all the time, so its duty cycle is 100%. The motors are not likely to be used all the time, so their duty cycle might be closer to 5%. Of course, this depends on how you use your FarmBot.
+{.is-info}
+
 
 ## Component daily energy usage
 
@@ -45,7 +54,11 @@ To power FarmBot exclusively with solar energy, you first need to calculate how 
 
 As you can see from the tables above, how you configure and use your FarmBot will vary the total daily energy usage significantly.
 
-> **ℹ️ Theoretical vs empirical:** Note that the energy usage values above are theoretical only. If you need more precise data about your FarmBot's actual energy usage, we recommend using an energy usage monitor such as a [Kill-A-Watt](http://www.amazon.com/P3-P4400-Electricity-Usage-Monitor/dp/B00009MDBU/ref=sr_1_1?ie=UTF8&qid=1455578147&sr=8-1&keywords=kill+a+watt).
+> **ℹ️ Theoretical vs empirical:** 
+> 
+> Note that the energy usage values above are theoretical only. If you need more precise data about your FarmBot's actual energy usage, we recommend using an energy usage monitor such as a [Kill-A-Watt](http://www.amazon.com/P3-P4400-Electricity-Usage-Monitor/dp/B00009MDBU/ref=sr_1_1?ie=UTF8&qid=1455578147&sr=8-1&keywords=kill+a+watt).
+{.is-info}
+
 
 
 # Sizing the solar system
@@ -63,15 +76,23 @@ Because it doesn't rain or get cloudy often in San Luis Obispo, we're going to p
 
 For our application, we selected a 12 volt, 35  amp-hour deep cycle lead acid battery, which will hold 460 watt-hours of energy.
 
-> **ℹ️ 12v or 24v?:** v1.2 and v1.3 FarmBot Genesis systems ran off of 12v power. However, all Genesis v1.4+ and Express v1.0+ FarmBots run off 24v power. Depending on your kit, you may need to use a 24v battery array or use a 12v to 24v converter.
+> **ℹ️ 12v or 24v?:** 
+> 
+> v1.2 and v1.3 FarmBot Genesis systems ran off of 12v power. However, all Genesis v1.4+ and Express v1.0+ FarmBots run off 24v power. Depending on your kit, you may need to use a 24v battery array or use a 12v to 24v converter.
+{.is-info}
 
 
-![12 Volt, 35 Amp-Hour Deep Cycle Sealed Lead Acid Battery](_images/deep_cycle_battery.jpg =700px)
+
+![12 Volt, 35 Amp-Hour Deep Cycle Sealed Lead Acid Battery](/extras/mods/_images/deep_cycle_battery.jpg =700x)
 
 _12 Volt, 35 Amp-Hour Deep Cycle Sealed Lead Acid Battery_
 
 
-> **✅ Don't stress about it:** Remember, if FarmBot runs out of power, its not the end of the world. Your data will be safe in the web app, and FarmBot will come back on again when your battery is recharged. You can always plug back into grid power too if needed.
+> **✅ Don't stress about it:** 
+> 
+> Remember, if FarmBot runs out of power, its not the end of the world. Your data will be safe in the web app, and FarmBot will come back on again when your battery is recharged. You can always plug back into grid power too if needed.
+{.is-success}
+
 
 If you find yourself without power often, you can always upgrade your solar system with a second battery and/or panel.
 
@@ -80,7 +101,11 @@ If you find yourself without power often, you can always upgrade your solar syst
 
 You can use any brand solar panel, charge controller, battery, and AC inverter you like, as long as they are designed to safely work with each other. In the table below we recommend the specific components used in our San Luis Obispo system.
 
-> **🚫 Make sure your components will work together safely:** When purchasing components, pay close attention to their maximum operating voltages, currents, and temperatures, as well as other specifications that must be within a certain range or of a specific type.
+> **🚫 Make sure your components will work together safely:** 
+> 
+> When purchasing components, pay close attention to their maximum operating voltages, currents, and temperatures, as well as other specifications that must be within a certain range or of a specific type.
+{.is-danger}
+
 
 We recommend purchasing a solar panel, charge controller, and wiring harness from one supplier as a kit, rather than mixing and matching these components.
 
@@ -101,28 +126,40 @@ You must protect your solar system from rain, condensation, and animals. A damag
 |                              |**TOTAL without options**     |**$234**
 
 
-> **ℹ️ Optional inverter:** It is possible to run your FarmBot directly from the battery. If you do this, you will bypass the 12V DC to 110V AC inverter as well as FarmBot's stock 110V AC to 12V DC power supply. By doing this, you will eliminate the need for these components, which will save you money, and you will also make your system more energy efficient because the inverter and power supply will no longer use a small amount of electricity.
+> **ℹ️ Optional inverter:** 
+> 
+> It is possible to run your FarmBot directly from the battery. If you do this, you will bypass the 12V DC to 110V AC inverter as well as FarmBot's stock 110V AC to 12V DC power supply. By doing this, you will eliminate the need for these components, which will save you money, and you will also make your system more energy efficient because the inverter and power supply will no longer use a small amount of electricity.
+{.is-info}
+
 
 Keep in mind that if you completely remove your FarmBot's power supply, you will not be able to use grid power.
 
 
-![Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)](_images/power_inverter.jpg =700px)
+![Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)](/extras/mods/_images/power_inverter.jpg =700x)
 
 _Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)_
 
 
-> **ℹ️ Optional power meter:** Having a power meter hooked up between the solar system and FarmBot can provide you with some fun insights into how your system is performing. The one we have hooked up tells us the voltage of our battery, the current and power that FarmBot is drawing, as well as the total energy FarmBot has used.
+> **ℹ️ Optional power meter:** 
+> 
+> Having a power meter hooked up between the solar system and FarmBot can provide you with some fun insights into how your system is performing. The one we have hooked up tells us the voltage of our battery, the current and power that FarmBot is drawing, as well as the total energy FarmBot has used.
+{.is-info}
+
 
 Alternatively, you can set up your power meter in between the battery and the charge controller to show you stats on the solar panel (how much energy it has produced, and the solar panel's current output amperage and power).
 
 
-![power meter](_images/power_meter.jpg =700px)
+![power meter](/extras/mods/_images/power_meter.jpg =700x)
 
 
 # Assembly instructions
 
 
-> **ℹ️ 2 hours:** This is the estimated time it will take to setup the solar system
+> **ℹ️ 2 hours:** 
+> 
+> This is the estimated time it will take to setup the solar system
+{.is-info}
+
 
 ## Step 1: Install the solar panel
 The first thing you want to do is find a sunny location near your FarmBot. If you live in the Northern hemisphere, your panel will need to face South. If you live in the Southern hemisphere, your panel will need to face North. Make sure you minimize the amount of shade your panel will receive from nearby trees and plants, buildings, and even FarmBot itself. Keep in mind how the sun moves throughout each day and how that changes with the seasons.
@@ -131,7 +168,7 @@ Once you have a location chosen, proceed to install your panel. Some panels come
 
 For our example installation, we used the South facing side of the house to support one half of the panel, while the other half is supported by two aluminum extrusions and a few screws, tee nuts, corner brackets, and locknuts.
 
-![solar panel](_images/solar_panel.jpg =700px)
+![solar panel](/extras/mods/_images/solar_panel.jpg =700x)
 
 ### Optimize the panel angle
 Depending on your latitude, you will want to angle your panel towards the sun in order to get the most power out of it each day. The table below suggests optimum panel angles for different latitudes.
@@ -153,7 +190,7 @@ Depending on your latitude, you will want to angle your panel towards the sun in
 ## Step 2: Wire up the panel and the charge controller
 Follow the instructions provided by the manufacturer of your panel and controller kit. In general, this will simply entail connecting the output of the solar panel to the input of the charge controller. Remember: negative/ground to negative/ground, and positive to positive.
 
-![panel and charge controller wired to battery](_images/panel_and_charge_controller_wired_to_battery.jpg =700px)
+![panel and charge controller wired to battery](/extras/mods/_images/panel_and_charge_controller_wired_to_battery.jpg =700x)
 
 ## Step 3: Wire up the battery and the inverter
 You can do this in two ways. Both ways will function the same. One way might make more sense to you than the other, or one might work better with the lengths of your wires, the types of connectors you have available, and the location of your components. Choose only one method.
@@ -167,10 +204,14 @@ First connect the output of the charge controller to the input of the inverter. 
 ## Step 4: Rainproof the charge controller, battery, and inverter
 Make sure you position these components in a rainproof location. This can be under your panel, inside your house or a shed, or under some other type of roofing structure. There should be no possible way for rain to drip onto the components either directly or from creeping along a wall or edge. Plan accordingly for rain coming in at an angle due to high winds; as well as sprinklers, hoses, and other sources of water that might be present around the solar system
 
-![mounted charge controller and inverter](_images/mounted_charge_controller_and_inverter.jpg =700px)
+![mounted charge controller and inverter](/extras/mods/_images/mounted_charge_controller_and_inverter.jpg =700x)
 
 
-> **🚫 Maintain adequate airflow:** DO NOT put your components in a a small plastic or wooden box or under a bucket. This will prevent the components from cooling with natural airflow and they may overheat and catch fire. Follow all instructions and safety precautions included with your charge controller, battery, and power inverter.
+> **🚫 Maintain adequate airflow:** 
+> 
+> DO NOT put your components in a a small plastic or wooden box or under a bucket. This will prevent the components from cooling with natural airflow and they may overheat and catch fire. Follow all instructions and safety precautions included with your charge controller, battery, and power inverter.
+{.is-danger}
+
 
 ## Step 5: Add the power meter (optional)
 Mount your power meter somewhere where you can easily read the LCD screen, while also making sure it will be protected from the rain. Connect the meter according to the manufacturer's instructions.
@@ -179,4 +220,8 @@ Mount your power meter somewhere where you can easily read the LCD screen, while
 ## Step 6: Plug in FarmBot
 Plug FarmBot into the inverter output and then turn on the inverter.
 
-> **✅ Welcome to the future:** If all has gone well, FarmBot should turn on and will now be running off of clean solar energy. Congrats!
+> **✅ Welcome to the future:** 
+> 
+> If all has gone well, FarmBot should turn on and will now be running off of clean solar energy. Congrats!
+{.is-success}
+
