@@ -2,28 +2,33 @@
 title: High Level Overview
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-11T11:36:07.905Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:45.301Z
 ---
+
 **FarmBot Genesis** and **Genesis** (XL) are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
 
-![farmbot genesis v1.6](_images/farmbot_genesis_v1.6.png =700px)
-![farmbot genesis xl v1.6](_images/farmbot_genesis_xl_v1.6.png =700px)
+![farmbot genesis v1.6](/assembly/intro/_images/farmbot_genesis_v1.6.png =700x)
+![farmbot genesis xl v1.6](/assembly/intro/_images/farmbot_genesis_xl_v1.6.png =700x)
 
-> **✅ Not your typical product:** We've gone through great lengths to design FarmBot Genesis to be durable, easily assembled and modified with common tools, and upgradeable. Nothing about FarmBot speaks obsolescence or proprietary.
+> **✅ Not your typical product:** 
+> 
+> We've gone through great lengths to design FarmBot Genesis to be durable, easily assembled and modified with common tools, and upgradeable. Nothing about FarmBot speaks obsolescence or proprietary.
+{.is-success}
+
 
 We've done this because at our core, we're makers and hackers just like you. We enjoy tearing apart our gadgets and gizmos to fix them, improve them, and make them different and unique. So that's what FarmBot Genesis is all about - empowering you to truly own FarmBot technology inside and out.
 
 Go ahead and make your tracks longer, design a tool that electrocutes weeds, program FarmBot to spray water at the local cats, grow mushrooms, flowers, hydroponically, or on your living room wall! We can't wait to see what you do with FarmBot.
 
-We hope you'll find our documentation useful and a great starting point for working with FarmBot and making it your own. If you ever have any questions, please head on over to the [forum](http://forum.farmbot.org). Cheers! 🍻
+We hope you'll find our documentation useful and a great starting point for working with FarmBot and making it your own. If you ever have any questions, please head on over to the [forum](http://forum.wenextfarm.com). Cheers! 🍻
 
 # Architecture
 
 <div class="tracks-image">
-  <img class="fb" src="_images/high_level_overview.png" />
+  <img class="fb" src="/assembly/intro/_images/high_level_overview.png" />
   <p style="top:1%;left:35%;width:100px;background:#9fc5e8;border: 2px solid #0b5394;">Z-Axis</p>
   <p style="top: 1%;left: 52%;width: 100px;background: #ea9999;border: 2px solid #660000;">Cross-Slide</p>
   <p style="top: 1%;left: 67%;width: 100px;background: #93c47d;border: 2px solid #274e13;">Gantry</p>
@@ -60,14 +65,18 @@ img.fb {
 2. Any type of packing structure of plants can be created and managed
 3. Tracks take up less area than paths for tractor wheels and do not compact the soil
 
-> **ℹ️ Raised tracks vs low tracks:** For FarmBots to properly grow taller plants, the gantry, cross-slide, z-axis, and tools must have adequate vertical clearance from the plants. This can generally be accomplished in two ways:
+> **ℹ️ Raised tracks vs low tracks:** 
+> 
+> For FarmBots to properly grow taller plants, the gantry, cross-slide, z-axis, and tools must have adequate vertical clearance from the plants. This can generally be accomplished in two ways:
+{.is-info}
+
 
 1. Using raised tracks and a low-profile gantry
 2. Using low tracks with a tall gantry
 
 In general, using low tracks with a tall gantry is the better design, especially for larger applications because it saves on material cost, is less of an eyesore, blocks less sunlight, and would be easier to maintain. However, in the case of a FarmBot being installed in a greenhouse or other structure, utilizing the existing walls to support the tracks higher may be a better solution.
 
-![raised tracks vs low tracks](_images/track_types.png =700px)
+![raised tracks vs low tracks](/assembly/intro/_images/track_types.png =700x)
 
 ## Gantry
 
