@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-10T00:20:37.536Z
+date: 2026-07-12T04:55:36.845Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -19,7 +19,11 @@ In the next sections we offer advice for building four types of supporting infra
 |Wood Posts          |:heavy_check_mark:  |:heavy_check_mark:                           |
 |Pier Block Supports |:heavy_check_mark:  |:heavy_check_mark:                           |
 
-> **✅ Be prepared:** If you recently ordered a FarmBot kit, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you'll be prepared for a faster assembly time when your package arrives.
+> **✅ Be prepared:** 
+> 
+> If you recently ordered a FarmBot kit, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you'll be prepared for a faster assembly time when your package arrives.
+{.is-success}
+
 
 # Four tutorials on making planting beds
  * [Fixed Raised Bed](supporting-infrastructure/raised-bed.md)
