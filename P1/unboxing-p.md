@@ -1,8 +1,8 @@
 ---
-title: unboxing-p1
+title: Unboxing p1
 description: A general guide to unboxing the P1
 published: true
-date: 2026-07-12T05:15:17.171Z
+date: 2026-07-12T05:16:05.039Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-12T05:15:17.171Z
