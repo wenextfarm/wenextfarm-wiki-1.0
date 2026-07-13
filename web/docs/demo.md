@@ -2,7 +2,7 @@
 title: Demo the App
 description: Try before you buy at [demo.farm.bot](http://demo.farm.bot) :robot: :seedling:
 published: true
-date: 2026-07-13T02:46:18.482Z
+date: 2026-07-13T05:21:59.388Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:13:55.229Z
@@ -77,9 +77,17 @@ If you're thinking about getting a FarmBot but want to try the app first, you ca
   }
 </style>
 
-> **ℹ️ Note:** Not all features of the app will work in demo mode because there will not be a real FarmBot connected to the account. For example, you cannot take pictures.
+> **ℹ️ Note:** 
+> 
+> Not all features of the app will work in demo mode because there will not be a real FarmBot connected to the account. For example, you cannot take pictures.
+{.is-info}
 
-> **ℹ️ Note:** Demo accounts and their data are automatically deleted after 1 hour.
+
+> **ℹ️ Note:** 
+> 
+> Demo accounts and their data are automatically deleted after 1 hour.
+{.is-info}
+
 
 # Ready to get a bot?
 
