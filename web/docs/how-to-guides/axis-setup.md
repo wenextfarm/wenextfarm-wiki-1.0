@@ -1,12 +1,13 @@
 ---
-title: "Axis Setup"
-description: "**In this guide:** Learn how to find and set FarmBot's home position and axis lengths, and restrict FarmBot from moving beyond those boundaries"
+title: Axis Setup
+description: **In this guide:** Learn how to find and set FarmBot's home position and axis lengths, and restrict FarmBot from moving beyond those boundaries
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T02:55:51.444Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:18.742Z
 ---
+
 Accurate position tracking is imperative for FarmBot to sow seeds one day and return to water the plants week after week. To keep track of its location within the garden coordinate system, FarmBot must:
 
   * Base all movements off a fixed **home position**, also known as the **origin**, **zero**, or `(0, 0, 0)`.
@@ -25,9 +26,11 @@ All of FarmBot's movements must be based off a fixed **home position**, also kno
 
 ## Automatically find home
 
-> **ℹ️ Note:** **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be <span class=\
+> ℹ️ Note:** 
+> 
+> **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be **automatically find home**, FarmBot will:
+{.is-info}
 
-To **automatically find home**, FarmBot will:
 
 :mag: Move in the direction of the home position, **searching** for it.
 
@@ -35,9 +38,9 @@ To **automatically find home**, FarmBot will:
 
 :white_check_mark: Once the home position is reached the first time, FarmBot will back up a short distance and then move forward again to **verify** that the home position is found a second time in the same location. If the verification fails, FarmBot will go back to step 1 of the process.
 
-:house: Once the verification succeeds, FarmBot will **set** the current location as the home position. In other words, FarmBot's coordinates will be set to `(0, 0, 0)`.
+:house: Once the verification succeeds, FarmBot will **set** the current location as the home position. In other words, FarmBotis coordinates will be set to `(0, 0, 0)`.
 
-![find home process](_images/find_home_process.gif =700px)
+![find home process](/web/docs/how-to-guides/_images/find_home_process.gif =700x)
 
 _Note that the graphic above omits step 3 of the process_
 
@@ -64,9 +67,11 @@ To restrict movement beyond the maximum position of an axis, FarmBot must first 
 
 ## Automatically find axis length
 
-> **ℹ️ Note:** **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be <span class=\
+> **ℹ️ Note:** 
+> 
+> **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be To **automatically find an axis length**, FarmBot will:
+{.is-info}
 
-To **automatically find an axis length**, FarmBot will:
 
 :mag: Move in the direction of the maximum position, **searching** for it.
 
@@ -78,7 +83,7 @@ To **automatically find an axis length**, FarmBot will:
 
 :white_check_mark: FarmBot will then **set** the **AXIS LENGTH** to the distance that was measured between the maximum and home positions. FarmBot will also set the current location as the home position.
 
-![calibrate process](_images/calibrate_process.gif =700px)
+![calibrate process](/web/docs/how-to-guides/_images/calibrate_process.gif =700x)
 
 To instruct FarmBot to automatically find an axis length right now, use the <span class="fb-button fb-yellow">FIND LENGTH X</span>, <span class="fb-button fb-yellow">FIND LENGTH Y</span>, and <span class="fb-button fb-yellow">FIND LENGTH Z</span> buttons in the settings panel. This is recommended after first assembling your FarmBot or making any changes to the hardware that may affect the distance FarmBot can travel.
 
@@ -105,13 +110,21 @@ Automatically finding home and axis lengths requires special hardware to signal 
 
 FarmBot Genesis kits include **rotary encoders** on each motor that monitor how much the motor shafts have rotated. Whenever FarmBot reaches a hardware hardstop located at an axis end, the motors will stall, and the rotary encoders will signal to FarmBot that the axis end has been reached.
 
-> **ℹ️ Note:** See the [stall detection hardware](../../farmbot-os/arduino-firmware/stall-detection-hardware.md#rotary-encoders) page for more information.
+> **ℹ️ Note:** 
+> 
+> See the [stall detection hardware](../../farmbot-os/arduino-firmware/stall-detection-hardware.md#rotary-encoders) page for more information.
+{.is-info}
+
 
 ## Stall detecting stepper drivers
 
 FarmBot Express kits include **stall detecting stepper drivers** that can detect when a motor has stalled. Whenever FarmBot reaches a hardware hardstop located at an axis end, the motors will stall, and the stepper drivers will signal to FarmBot that the axis end has been reached.
+> 
+> **ℹ️ Note:** 
+> 
+> See the [stall detection hardware](../../farmbot-os/arduino-firmware/stall-detection-hardware.md#stall-detecting-stepper-drivers) page for more information.
+{.is-info}
 
-> **ℹ️ Note:** See the [stall detection hardware](../../farmbot-os/arduino-firmware/stall-detection-hardware.md#stall-detecting-stepper-drivers) page for more information.
 
 ## Limit switches
 
