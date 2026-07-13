@@ -1,12 +1,13 @@
 ---
-title: "Use FarmBot's Buttons"
-description: "**In this guide:** See examples for how to use FarmBot's buttons"
+title: Use FarmBot's Buttons
+description: **In this guide:** See examples for how to use FarmBot's buttons
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:37:45.344Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:15:03.888Z
 ---
+
 FarmBot Genesis v1.4+ kits include five **push buttons** on top of the electronics box. Two of these buttons are reserved for triggering <span class="fb-button fb-red">E-STOP</span> and <span class="fb-button fb-yellow">UNLOCK</span> actions while the other three buttons are user customizable. In this guide we'll show you how you can configure your buttons to:
 
 [:flashlight: Toggle lights for nighttime harvesting](#example-1-toggle-lights-for-nighttime-harvesting)
@@ -23,10 +24,10 @@ A common need for FarmBot owners is to turn lights on for nighttime harvesting. 
 
 Create two sequences, one to turn the lights ON, and one to turn the lights OFF. Each sequence only needs to have one step in it, a <span class="fb-step fb-write-pin">CONTROL PERIPHERAL</span> command for the `Lighting` peripheral.
 
-![lights on sequence](_images/lights_on_sequence.png =700px)
+![lights on sequence](/web/docs/how-to-guides/_images/lights_on_sequence.png =700x)
 
 
-![lights off sequence](_images/lights_off_sequence.png =700px)
+![lights off sequence](/web/docs/how-to-guides/_images/lights_off_sequence.png =700x)
 
 ## Step 2: Create a sequence to toggle the lights
 
@@ -34,13 +35,13 @@ Make a third sequence with an <span class="fb-step fb-if-statement">IF STATEMENT
 
 If the lighting is currently off (a value of `0`), and the button is pressed, FarmBot should execute the sequence that turns the lighting on. Else, it should turn the lighting off.
 
-![toggle lights sequence](_images/toggle_lights_sequence.png =700px)
+![toggle lights sequence](/web/docs/how-to-guides/_images/toggle_lights_sequence.png =700x)
 
 ## Step 3: Assign the sequence to a push button
 
 Assign your sequence that toggles the lights to an available **[push button](../../app/controls/peripherals.md#push-buttons)**. Press <span class="fb-button fb-gray">EDIT</span>, open the dropdown for the push button, select your sequence, press <span class="fb-button fb-gray">BACK</span>, and then try everything out by pressing the button on your FarmBot!
 
-![toggle lights push button](_images/toggle_lights_push_button.png =700px)
+![toggle lights push button](/web/docs/how-to-guides/_images/toggle_lights_push_button.png =700x)
 
 # Example 2: Wash your bounty and your hands
 
@@ -56,13 +57,13 @@ Create a sequence with the following commands:
 
 **Step 3:** <span class="fb-step fb-write-pin">CONTROL PERIPHERAL</span> to turn the water OFF
 
-![water dose sequence](_images/water_dose_sequence.png =700px)
+![water dose sequence](/web/docs/how-to-guides/_images/water_dose_sequence.png =700x)
 
 ## Step 2: Assign the sequence to a push button
 
 Assign your sequence that doses water to an available **[push button](../../app/controls/peripherals.md#push-buttons)**. Press <span class="fb-button fb-gray">EDIT</span>, open the dropdown for the push button, select your sequence, press <span class="fb-button fb-gray">BACK</span>, and then try everything out by pressing the button on your FarmBot!
 
-![water dose push button](_images/water_dose_push_button.png =700px)
+![water dose push button](/web/docs/how-to-guides/_images/water_dose_push_button.png =700x)
 
 # Example 3: Get FarmBot out of the way
 
@@ -74,10 +75,10 @@ Create two sequences, one to <span class="fb-step fb-move-absolute">MOVE TO</spa
 
 Both sequences should start with a <span class="fb-step fb-find-home">FIND HOME</span> command set to **FIND Z**. This will raise the Z-axis before the X and Y axes begin moving so FarmBot does not run into any plants.
 
-![move home sequence](_images/move_home_sequence.png =700px)
+![move home sequence](/web/docs/how-to-guides/_images/move_home_sequence.png =700x)
 
 
-![move to max sequence](_images/move_to_max_sequence.png =700px)
+![move to max sequence](/web/docs/how-to-guides/_images/move_to_max_sequence.png =700x)
 
 ## Step 2: Create a sequence to move to either the home or the max position
 
@@ -85,10 +86,10 @@ Make a third sequence with an <span class="fb-step fb-if-statement">IF STATEMENT
 
 If FarmBot's current `X position` is in the first half of the bed (a value less than `1400`), and the button is pressed, FarmBot should execute the sequence that moves it to the max position. Else, it should move to the home position.
 
-![move away sequence](_images/move_away_sequence.png =700px)
+![move away sequence](/web/docs/how-to-guides/_images/move_away_sequence.png =700x)
 
 ## Step 3: Assign the sequence to a push button
 
 Assign your sequence that determines where FarmBot should move to an available **[push button](../../app/controls/peripherals.md#push-buttons)**. Press <span class="fb-button fb-gray">EDIT</span>, open the dropdown for the push button, select your sequence, press <span class="fb-button fb-gray">BACK</span>, and then try everything out by pressing the button on your FarmBot!
 
-![move away push button](_images/move_away_push_button.png =700px)
+![move away push button](/web/docs/how-to-guides/_images/move_away_push_button.png =700x)
