@@ -1,13 +1,14 @@
 ---
-title: "Camera settings"
-description: "Select a camera and capture resolution."
+title: Camera settings
+description: Select a camera and capture resolution.
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:34:25.120Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:54:34.190Z
 ---
-![camera settings](_images/camera_settings.png =700px)
+
+![camera settings](/web/web-apps/photos/_images/camera_settings.png =700x)
 
 # Camera
 
