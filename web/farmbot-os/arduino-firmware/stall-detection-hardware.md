@@ -1,12 +1,13 @@
 ---
-title: "Stall Detection Hardware"
-description: "Hardware that allows FarmBot to detect stalls and find home and axis maximums"
+title: Stall Detection Hardware
+description: Hardware that allows FarmBot to detect stalls and find home and axis maximums
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:57:46.036Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T06:57:19.064Z
 ---
+
 To move around the garden, FarmBot sends electronic pulses to its motors. **Under normal circumstances**, these pulses cause the motors to rotate an exact amount and move FarmBot to exactly where it needs to be.
 
 However, the garden environment is **unpredictable**, and FarmBot cannot always rely on circumstances being normal. For example, if a tomato plant :tomato: grows across the tracks, FarmBot might get stuck on its vines, causing one or more motors to **stall**.
@@ -23,11 +24,19 @@ In situations like this, FarmBot needs a way to **detect** the stall so that it 
 
 In addition to detecting stalls, rotary encoders also keep track of FarmBot's position. This even works when FarmBot is idle and you move an axis _by hand_.
 
-> **✅ FarmBot Genesis includes rotary encoders:** All of our top-of-the-line Genesis kits include rotary encoders pre-mounted on all four stepper motors.
+> **✅ FarmBot Genesis includes rotary encoders:** 
+> 
+> All of our top-of-the-line Genesis kits include rotary encoders pre-mounted on all four stepper motors.
+{.is-success}
+
 
 # Stall detecting stepper drivers
 Some advanced stepper drivers, such as those offered by Trinamic, can sense if a motor has stalled.
 
 While stall detecting stepper drivers can detect when stalls occur, they cannot keep track of FarmBot's exact motor position all the time like rotary encoders can. Thus, they present themselves as the more economical way of performing stall detection.
 
-> **✅ FarmBot Express includes stall detecting stepper drivers:** All of our more affordable Express kits include Trinamic TMC2130 stall detecting stepper drivers to power each of the motors.
+> **✅ FarmBot Express includes stall detecting stepper drivers:** 
+> 
+> All of our more affordable Express kits include Trinamic TMC2130 stall detecting stepper drivers to power each of the motors.
+{.is-success}
+
