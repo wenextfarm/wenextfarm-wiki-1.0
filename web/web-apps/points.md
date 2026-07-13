@@ -2,7 +2,7 @@
 title: Points
 description: Create custom locations in your garden :round_pushpin: [Open this panel in the app](https://my.farm.bot/app/designer/points)
 published: true
-date: 2026-07-13T06:09:19.373Z
+date: 2026-07-13T06:09:24.114Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T08:02:13.028Z
