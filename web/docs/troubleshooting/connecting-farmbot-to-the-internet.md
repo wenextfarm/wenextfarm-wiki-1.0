@@ -1,15 +1,16 @@
 ---
-title: "Connecting FarmBot to the Internet"
-description: "**Problem description:** FarmBot is having trouble connecting to the Internet or staying connected consistently."
+title: Connecting FarmBot to the Internet
+description: **Problem description:** FarmBot is having trouble connecting to the Internet or staying connected consistently.
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:47:40.548Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:15:43.754Z
 ---
+
 Your FarmBot needs to be connected to the internet and the Web App. When everything is connected and functioning, the **connectivity popup** should show a `code 31` diagnosis code and the points on the graphic should show green. Follow this troubleshooting guide if you are having trouble getting full connectivity to your FarmBot.
 
-![Connectivity pop-up](_images/connectivity_pop-up.png =700px)
+![Connectivity pop-up](/web/docs/troubleshooting/_images/connectivity_pop-up.png =700x)
 
 |Suggested steps               |Applies to                    |
 |------------------------------|------------------------------|
@@ -24,7 +25,7 @@ Your FarmBot needs to be connected to the internet and the Web App. When everyth
 
 The **connectivity popup** is used to diagnose communications between the various FarmBot systems. To learn more about the connectivity popup and to get access to the full list of connectivity codes check out this page: [Connectivity Diagnosis Codes](connectivity-codes.md).
 
-![Connectivity diagnosis code](_images/connectivity_diagnosis_code.png =700px)
+![Connectivity diagnosis code](/web/docs/troubleshooting/_images/connectivity_diagnosis_code.png =700x)
 
 # Step 2: Check your internet connection
 
@@ -42,7 +43,11 @@ If your FarmBot does not connect with the hotspot, there may be an issue with yo
 
 # Step 4: Check for blocked ports
 
-> **ℹ️ Note:** This solution usually only applies to FarmBots being connected to school and/or corporate networks.
+> **Note:** 
+> 
+> This solution usually only applies to FarmBots being connected to school and/or corporate networks.
+{.is-info}
+
 
 It is very common for the IT department of schools and corporate networks to **block ports** that are not commonly used. Just because the FarmBot is connected to the internet doesn't mean the FarmBot will be able to connect to the Web App because of these blocked ports. We have [specific instructions for your IT department](for-it-security-professionals.md) to help you connect your FarmBot to the internet if you suspect any ports are blocked.
 
@@ -55,7 +60,7 @@ FarmBot requires the following ports to be open on your network:
 
 On FarmBot Genesis v1.4+ check the Blue LED communication light. You have blocked ports if the Blue LED is OFF and the Green LED is ON. On Express v1.0+, the blue and green LEDs are located in the top right of the electronics board itself. See the [status LEDs page](../../farmbot-os/intro/status-leds.md) for more information.
 
-![FarmBot Lights](_images/farmbot_lights.png =700px)
+![FarmBot Lights](/web/docs/troubleshooting/_images/farmbot_lights.png =700x)
 
 # Step 5: Try a wired Ethernet connection
 
@@ -65,8 +70,8 @@ The most reliable way to connect FarmBot to the internet is with a **wired Ether
 
 For Genesis kits, simply connect an Ethernet cable between the Raspberry Pi and your router. Then proceed through the configuration process and select the **Ethernet** option when prompted.
 
-![pi 3B+ with ethernet port labeled](_images/raspberry_pi_3_b_plus_ethernet.jpeg =700px)
-![pi 4B with ethernet port labeled](_images/raspberry_pi_4_b_ethernet.jpeg =700px)
+![pi 3B+ with ethernet port labeled](/web/docs/troubleshooting/_images/raspberry_pi_3_b_plus_ethernet.jpeg =700x)
+![pi 4B with ethernet port labeled](/web/docs/troubleshooting/_images/raspberry_pi_4_b_ethernet.jpeg =700x)
 
 <center><i>The Ethernet port location on the Raspberry Pi can vary.</i></center>
 
@@ -74,7 +79,7 @@ For Genesis kits, simply connect an Ethernet cable between the Raspberry Pi and 
 
 For Express v1.1+ kits, simply connect an Ethernet cable between the Ethernet port on the Farmduino Express and your router. Then proceed through the configuration process and select the **Ethernet** option when prompted.
 
-![farmduino express v1.1 with ethernet port labeled](_images/farmduino_express_ethernet.jpeg =700px)
+![farmduino express v1.1 with ethernet port labeled](/web/docs/troubleshooting/_images/farmduino_express_ethernet.jpeg =700x)
 
 ## Express v1.0
 
@@ -101,11 +106,15 @@ There are multiple ways users can use a **Wi-Fi range extender** and these are a
 
 2) Use both the range extender and an Ethernet cord to plug into the Raspberry Pi on the FarmBot. This will work in case it is infeasible to run an Ethernet cord from the primary router all the way to the FarmBot.
 
-> **⚠️ Test the Wi-Fi range extender:** If you decide to try a Wi-Fi range extender, make sure you test it first to ensure it works with your network and provides adequate signal where your FarmBot is located. Test the Wi-Fi range extender by connecting to it with a laptop or other device and loading [my.farm.bot](https://my.farm.bot).
+> **Test the Wi-Fi range extender:** 
+> 
+> If you decide to try a Wi-Fi range extender, make sure you test it first to ensure it works with your network and provides adequate signal where your FarmBot is located. Test the Wi-Fi range extender by connecting to it with a laptop or other device and loading [my.farm.bot](https://my.farm.bot).
+{.is-info}
+
 
 There are many range extenders and repeaters on the market and this one is just an example:
 
-![Dell Range Extender](_images/dell_range_extender.bmp =700px)
+![Dell Range Extender](/web/docs/troubleshooting/_images/dell_range_extender.bmp =700x)
 
 <center><i>Netgear Universal Wi-Fi Range Extender (WN3000RP)</i></center>
 
