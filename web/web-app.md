@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T03:29:27.296Z
+date: 2026-07-13T03:36:17.023Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -39,25 +39,42 @@ dateCreated: 2026-07-13T02:38:53.507Z
  ## ⚡Web-App
  
   #### * [The FarmBot Web App](/web/web-apps/intro.md){target=_blank}
-  * [Creating an Account](/web/web-apps/intro/creating-an-account.md)
- * [Connectivity](/web/web-apps/intro/connectivity.md)
- * [Jobs and Logs](/web/web-apps/intro/jobs-and-logs.md)
- * [Message Center](/web/web-apps/intro/message-center.md)
- * [Help](/web/web-apps/intro/help.md)
+  * [Creating an Account](/web/web-apps/intro/creating-an-account.md){target=_blank}
+ * [Connectivity](/web/web-apps/intro/connectivity.md){target=_blank}
+ * [Jobs and Logs](/web/web-apps/intro/jobs-and-logs.md){target=_blank}
+ * [Message Center](/web/web-apps/intro/message-center.md){target=_blank}
+ * [Help](/web/web-apps/intro/help.md){target=_blank}
  
  
 ---
 
- * [Farm Designer](farm-designer.md)
+ * [Farm Designer](farm-designer.md){target=_blank}
  
 #### * [Plants](/web/web-apps/plants.md){target=_blank}
-* [Gardens](/web/web-apps/plants/gardens.md)
+* [Gardens](/web/web-apps/plants/gardens.md){target=_blank}
  
  ---
  
+* [Weeds](/web/web-apps/weeds.md){target=_blank}
+* [Points](/web/web-apps/points.md) {target=_blank}
+* [Curves](/web/web-apps/Curves.md){target=_blank}
+* [Groups](/web/web-apps/Groups.md){target=_blank}
+
+
+#### * [Sequences](/web/web-apps/Sequences.md) {target=_blank}
+ * [Sequence Commands](/web/web-apps/sequences/sequence-commands.md){target=_blank}
+ * [Building a Sequence](/web/web-apps/sequences/building-a-sequence.md){target=_blank}
+ * [Example Sequences](/web/web-apps/sequences/example-sequences.md){target=_blank}
+ * [Variables](/web/web-apps/sequences/variables.md){target=_blank}
+ * [Externally Defined Variables](/web/web-apps/sequences/externally-defined-variables.md){target=_blank}
+ * [Multiple Variable](/web/web-apps/sequences/multiple-variables.md){target=_blank}
+ * [Variable Types](/web/web-apps/sequences/variable-types.md){target=_blank}
+ * [Shared Sequences](/web/web-apps/sequences/shared-sequences.md){target=_blank}
+ * [Featured Sequences](/web/web-apps/sequences/featured-sequences.md){target=_blank}
+
+
+---
+
+
 * [Weeds](/web/web-apps/weeds.md)
-* [Points](/web/web-apps/points.md) 
-* [Curves](/web/web-apps/Curves.md)
-* [Groups](/web/web-apps/Groups.md)
-* [Weeds](/web/web-apps/weeds.md) * [Weeds](/web/web-apps/weeds.md)
     
