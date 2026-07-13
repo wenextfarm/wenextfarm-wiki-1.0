@@ -1,13 +1,14 @@
 ---
-title: "Filter map photos"
-description: "Choose a time period to display or highlight photos in the map :framed_picture:"
+title: Filter map photos
+description: Choose a time period to display or highlight photos in the map :framed_picture:
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:31:34.037Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:54:46.977Z
 ---
-![filter map photos](_images/filter_map_photos.png =700px)
+
+![filter map photos](/web/web-apps/photos/_images/filter_map_photos.png =700x)
 
 |                                         |   |
 |-----------------------------------------|---|
