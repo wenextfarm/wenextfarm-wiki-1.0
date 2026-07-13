@@ -1,12 +1,13 @@
 ---
-title: "Sequence Commands"
-description: "Categories of commands you can use in a sequence"
+title: Sequence Commands
+description: Categories of commands you can use in a sequence
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:13:45.043Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T08:03:19.869Z
 ---
+
 The next pages include detailed information for all of the commands you can use in a sequence, organized by category. When using the web app, hover over the <i class='fa fa-question-circle'></i> icon in the top right of any sequence step to view quick-access usage information.
 
 |Movements|   |
@@ -42,7 +43,7 @@ In addition to adding individual commands to a sequence, you can also add **subs
 
 For example, you could make a sequence to `Mount the watering nozzle`, another sequence to `Water the plant`, and a third sequence to `Unmount the watering nozzle`. Then, in a new sequence, you could add all three of these sequences to execute all the steps needed to take care of a plant.
 
-![execute subsequences](_images/execute_subsequences.png =700px)
+![execute subsequences](/web/web-apps/sequences/_images/execute_subsequences.png =700x)
 
 # What's next?
 
