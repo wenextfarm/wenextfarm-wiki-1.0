@@ -1,16 +1,21 @@
 ---
-title: "Connecting FarmBot to the Web App"
-description: "**Problem description:** I completed all steps of the [configuration process](../../farmbot-os/intro/configurator.md) and now I'm waiting for FarmBot to connect to the web application."
+title: Connecting FarmBot to the Web App
+description: **Problem description:** I completed all steps of the [configuration process](../../farmbot-os/intro/configurator.md) and now I'm waiting for FarmBot to connect to the web application.
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:48:31.806Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:15:49.875Z
 ---
+
 # 1. Ensure you have created a web app account
 You must create a web app account at [my.farm.bot](http://my.farm.bot) prior to completing the configuration process. Otherwise your FarmBot will try to connect with account credentials that do not yet exist.
 
-> **✅ Don't forget to verify your email address:** After creating a web app account, you must also verify that you control the email address you used to make the account. Please check your email and click the verification link we sent you.
+> **✅ Don't forget to verify your email address:** 
+> 
+> After creating a web app account, you must also verify that you control the email address you used to make the account. Please check your email and click the verification link we sent you.
+{.is-success}
+
 
 # 2. Reconnect to the Internet and be patient
 Immediately after completing configuration, FarmBot will disable the `farmbot-xxxx` WiFi network. Check to make sure that your smartphone, tablet, or laptop reconnects to your normal WiFi network (with Internet access), as this might not happen automatically or quickly. Then use your web browser to load the web app ([my.farm.bot](https://my.farm.bot)). If you already had the web app loaded in a tab, refresh the tab.
@@ -29,4 +34,8 @@ If your FarmBot is too far from your WiFi router, then it will not be able to fi
 # 6. Firewall is blocking network traffic
 If you are installing FarmBot at a school or company with restricted network access (firewall), then FarmBot may not be able to fully connect to the web application to send and receive messages. Tell your network administrator that FarmBot needs access to ports `1883` (MQTT), `8883` (MQTT over SSL), `80` (HTTP), and `443` (HTTPS) in order to function correctly. Additionally, the FarmBot device also requires outbound access to two redundant NTP servers for setting the system clock: `0.pool.ntp.org` and `1.pool.ntp.org`. The servers are based in the United States. The services are provided on `UDP port 123`. Obstructed access to these servers is another common pitfall when operating a FarmBot behind a firewall. You may also want to send your network admin [this page](for-it-security-professionals.md), which contains additional details for allowing FarmBot to work with a firewall.
 
-> **✅ We're here to help:** Still having trouble? Please email contact@farm.bot.
+> **✅ We're here to help:** 
+> 
+> Still having trouble? Please email contact@farm.bot.
+{.is-success}
+
