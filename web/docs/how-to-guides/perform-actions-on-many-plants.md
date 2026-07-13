@@ -1,12 +1,13 @@
 ---
-title: "Perform Actions on Many Plants"
-description: "**In this guide:** Use groups, variables, and sequences to perform the same action on many plants"
+title: Perform Actions on Many Plants
+description: **In this guide:** Use groups, variables, and sequences to perform the same action on many plants
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:35:33.145Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:38.670Z
 ---
+
 When setting up FarmBot to take care of your whole garden, you will frequently need to **perform the same action on many plants**. For example, you may need to water all of your Spinach plants, or you may wish to take a photo of every plant to track growth. In this guide we'll show you how to accomplish this quickly by:
 
   * **Creating a group** of plants you wish to perform the same action on.
@@ -16,14 +17,22 @@ When setting up FarmBot to take care of your whole garden, you will frequently n
 # Step 1: Create a group
 Navigate to the **groups panel** and click <span class="fb-button fb-blue"><i class='fa fa-plus'></i></span>. **Select all** plants, and then use **FILTERS** to narrow your selection. In this example we will filter by **Type** so that only the Spinach plants are selected. Give your group a descriptive name such as "All Spinach Plants" and then press <i class='fa fa-arrow-left'></i> to save the group.
 
-![create group](_images/create_group.gif =700px)
+![create group](/web/docs/how-to-guides/_images/create_group.gif =700x)
 
 
-> **ℹ️ Note:** You can also create groups of points or weeds, use other filters, and even manually select specific plants. For more detailed instructions and advanced methods for creating groups, [click here](../../app/groups.md).
+> **ℹ️ Note:** 
+> 
+> You can also create groups of points or weeds, use other filters, and even manually select specific plants. For more detailed instructions and advanced methods for creating groups, [click here](../../app/groups.md).
+{.is-info}
+
 
 # Step 2: Perform an action on one plant
 
-> **ℹ️ Note:** If you are unfamiliar with what sequences and variables are, read the [sequences](../../app/sequences.md) and [variables](../../app/sequences/variables.md) documentation before beginning.
+> **ℹ️ Note:** 
+> 
+> If you are unfamiliar with what sequences and variables are, read the [sequences](../../app/sequences.md) and [variables](../../app/sequences/variables.md) documentation before beginning.
+{.is-info}
+
 
 The first sequence you need to make will perform an action (in this example, watering) on one plant. We'll name this sequence "Water one plant", and it should have the following steps:
 
@@ -39,7 +48,7 @@ The important part of this sequence is the **location variable**. Instead of sel
 
 To perform a different action, replace steps 2, 3, and 4 with your own.
 
-![water a plant sequence](_images/water_a_plant_sequence.png =700px)
+![water a plant sequence](/web/docs/how-to-guides/_images/water_a_plant_sequence.png =700x)
 
 # Step 3: Execute the action on every plant in the group
 
@@ -47,7 +56,7 @@ Now use the "Water one plant" sequence as a building block to water all the plan
 
 Create a new sequence with an <span class="fb-step fb-execute">EXECUTE</span> command. Select the "Water one plant" sequence in the dropdown. Because "Water one plant" has an externally defined variable, you will be presented with the **LOCATION VARIABLE** form in the command. Select the "All Spinach Plants" group and save the sequence.
 
-![water all spinach plants sequence](_images/water_all_spinach_plants_sequence.png =700px)
+![water all spinach plants sequence](/web/docs/how-to-guides/_images/water_all_spinach_plants_sequence.png =700x)
 
 When FarmBot runs this "Water all Spinach plants" sequence, it will execute the "Water one plant" sequence over and over for every plant in the "All Spinach Plants" group. Press the <span class="fb-button fb-orange">RUN</span> button to try it out!
 
