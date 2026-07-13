@@ -1,13 +1,14 @@
 ---
-title: "Measure Soil Moisture"
-description: "**In this guide:** Learn how to measure soil moisture and then use that data to dose more or less water"
+title: Measure Soil Moisture
+description: **In this guide:** Learn how to measure soil moisture and then use that data to dose more or less water
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:34:13.575Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:25.746Z
 ---
-![profile view soil sensor in soil](_images/profile_view_soil_sensor_in_soil.png =700px)
+
+![profile view soil sensor in soil](/web/docs/how-to-guides/_images/profile_view_soil_sensor_in_soil.png =700x)
 
 Before we get started, make sure you and your FarmBot meet the following prerequisites:
 
@@ -20,7 +21,7 @@ Before we get started, make sure you and your FarmBot meet the following prerequ
 
 Ensure you have added the **SOIL MOISTURE** sensor by checking the SENSORS list in the Sensors panel. If you do not see the sensor, add it using [these instructions](../../app/sensors.md#creating-sensors).
 
-![sensor list](_images/sensor_list.png =700px)
+![sensor list](/web/docs/how-to-guides/_images/sensor_list.png =700x)
 
 # Step 2: Build watering sequences
 
@@ -34,7 +35,7 @@ Build two simple watering sequences, one that doses water for 2 seconds, and one
 
 Name your sequences something descriptive, such as "Water for 2 seconds" and "Water for 5 seconds".
 
-![watering sequence](_images/watering_sequence.png =700px)
+![watering sequence](/web/docs/how-to-guides/_images/watering_sequence.png =700x)
 
 # Step 3: Measure the soil moisture
 
@@ -42,19 +43,19 @@ Start building a third sequence and name it "Measure soil moisture and water for
 
 **Step 1:** <span class="fb-step fb-execute">EXECUTE</span> a sequence to mount the soil moisture sensor. If you haven't built a sequence for this yet, refer to [this guide](mount-and-dismount-tools.md).
 
-![mount soil moisture sensor step](_images/mount_soil_moisture_sensor_step.png =700px)
+![mount soil moisture sensor step](/web/docs/how-to-guides/_images/mount_soil_moisture_sensor_step.png =700x)
 
 **Step 2:** <span class="fb-step fb-move-absolute">MOVE TO</span> the X and Y location *above* where you would like to measure the soil moisture. You can type in Custom Coordinates or select a plant's location and add **OFFSET** values to measure the soil next to the plant. The z-axis should be fully raised for this movement to ensure you do not hit any plants on the way to this location.
 
-![move to location step](_images/move_to_location_step.png =700px)
+![move to location step](/web/docs/how-to-guides/_images/move_to_location_step.png =700x)
 
 **Step 3:** <span class="fb-step fb-move">MOVE</span> in the negative **Z** direction to have FarmBot move the sensor straight down into the soil. The value you enter for the **Z** field should be the distance (in the negative direction) that FarmBot needs to descend to insert the soil moisture sensor approximately 40mm into the soil.
 
-![move into soil step](_images/move_into_soil_step.png =700px)
+![move into soil step](/web/docs/how-to-guides/_images/move_into_soil_step.png =700x)
 
 **Step 4:** <span class="fb-step fb-read-pin">READ SENSOR</span> to measure the Soil Moisture sensor using the Analog **MODE**.
 
-![read soil moisture sensor step](_images/read_soil_moisture_sensor_step.png =700px)
+![read soil moisture sensor step](/web/docs/how-to-guides/_images/read_soil_moisture_sensor_step.png =700x)
 
 # Step 4: Interpret the soil moisture reading
 
@@ -72,7 +73,7 @@ Once you have an understanding of soil moisture readings and what they mean for 
 
 In this example, if the soil moisture is less than `500`, FarmBot will then water for 5 seconds. Else, FarmBot will water for 2 seconds.
 
-![watering amount decision step](_images/watering_amount_decision_step.png =700px)
+![watering amount decision step](/web/docs/how-to-guides/_images/watering_amount_decision_step.png =700x)
 
 Note that when FarmBot goes to execute the watering sequences, you will need to have it first dismount the soil moisture sensor, then mount the watering nozzle, and then dose the water where needed.
 
@@ -82,7 +83,7 @@ Let's say you want FarmBot to have four choices depending on the sensor reading:
 
 In the example below, FarmBot will check the soil moisture sensor reading and if it is less than `350`, it will water for 10 seconds. Else (if the reading is greater than `350`), it will move on to the second IF statement. If the reading is less than `500`, it will water for 5 seconds, else move on to the third IF statement. And finally if the reading is less than `650`, it will water for 2 seconds, else move on without watering.
 
-![more watering amount decisions](_images/more_watering_amount_decisions.png =700px)
+![more watering amount decisions](/web/docs/how-to-guides/_images/more_watering_amount_decisions.png =700x)
 
 # Troubleshooting
 
