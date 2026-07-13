@@ -1,12 +1,13 @@
 ---
-title: "Mount and Dismount Tools"
-description: "**In this guide:** Learn how to mount and dismount tools"
+title: Mount and Dismount Tools
+description: **In this guide:** Learn how to mount and dismount tools
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:25:14.193Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:32.038Z
 ---
+
 Before we get started, make sure you and your FarmBot meet the following prerequisites:
 
 * Your FarmBot has a **UTM** and **interchangeable tooling**. This is included with all FarmBot Genesis kits, but not with FarmBot Express kits.
@@ -18,13 +19,13 @@ Before we get started, make sure you and your FarmBot meet the following prerequ
 
 Ensure you have added the **TOOL VERIFICATION** sensor by checking the SENSORS list in the Sensors panel. If you do not see the sensor, add it using [these instructions](../../app/sensors.md#creating-sensors).
 
-![sensor list](_images/sensor_list.png =700px)
+![sensor list](/web/docs/how-to-guides/_images/sensor_list.png =700x)
 
 # Step 2: Load tools into slots
 
 Ensure you have loaded your **tools** into **slots** by checking the **tools panel** on the Farm Designer page. If you do not see any tools in slots, add them using [these instructions](../../app/tools.md). Then check to make sure your **real-life** configuration matches your **virtual** configuration.
 
-![tools panel](_images/tools_panel.png =700px)
+![tools panel](/web/docs/how-to-guides/_images/tools_panel.png =700x)
 
 # Step 3: Build a tool mounting sequence
 
@@ -32,36 +33,41 @@ Our tool mounting sequence will not only instruct FarmBot to mount a tool and pu
 
 **Step 1:** Start the sequence off with a <span class="fb-step fb-find-home">FIND HOME</span> command. This will ensure your FarmBot mounts the tool with the greatest level of precision.
 
-![find home all step](_images/find_home_all_step.png =700px)
+![find home all step](/web/docs/how-to-guides/_images/find_home_all_step.png =700x)
 
 **Step 2:** <span class="fb-step fb-move-absolute">MOVE TO</span> above the location of the tool you wish to mount by selecting the tool in the dropdown and using a positive **Z-OFFSET**.
 
-![move to above seeder step](_images/move_to_above_seeder_step.png =700px)
+![move to above seeder step](/web/docs/how-to-guides/_images/move_to_above_seeder_step.png =700x)
 
 **Step 3:** <span class="fb-step fb-move-absolute">MOVE TO</span> the exact tool location to mount it. We recommend slowing down the **SPEED** of this movement to about 50%.
 
-![move to seeder step](_images/move_to_seeder_step.png =700px)
+![move to seeder step](/web/docs/how-to-guides/_images/move_to_seeder_step.png =700x)
 
 **Step 4:** <span class="fb-step fb-move">MOVE</span> 150mm in the **DIRECTION** of the slot's opening to pull the tool out of the slot. This will likely be in the `Positive X` or `Negative X` direction. As with the previous movement, we recommend setting the **SPEED** of this command to 50%.
 
-![move seeder out of tool slot step](_images/move_seeder_out_of_tool_slot_step.png =700px)
+![move seeder out of tool slot step](/web/docs/how-to-guides/_images/move_seeder_out_of_tool_slot_step.png =700x)
 
 **Step 5:** Use a <span class="fb-step fb-read-pin">READ SENSOR</span> command to read the Tool Verification sensor using the Digital **MODE**. This will allow FarmBot to check if the tool has been successfully mounted.
 
-![read tool verification pin step](_images/read_tool_verification_pin_step.png =700px)
+![read tool verification pin step](/web/docs/how-to-guides/_images/read_tool_verification_pin_step.png =700x)
 
 
-> **ℹ️ What happens behind-the-scenes:** When this command is executed, FarmBot will send a log message with the sensor value, `Tool Verification is 0` or `Tool Verification is 1`. The FarmBot firmware uses pull-up resistors for all input pins, so a value of `0` means that a tool is connected (pin D63 / UTM pin **C** is connected through the tool pin jumper to UTM pin **B** / ground) and a value of `1` means no tool is connected (pin D63 not connected to ground--UTM pins **B** and **C** are not connected together).
+> ** What happens behind-the-scenes:** 
+> 
+> When this command is executed, FarmBot will send a log message with the sensor value, `Tool Verification is 0` or `Tool Verification is 1`. The FarmBot firmware uses pull-up resistors for all input pins, so a value of `0` means that a tool is connected (pin D63 / UTM pin **C** is connected through the tool pin jumper to UTM pin **B** / ground) and a value of `1` means no tool is connected (pin D63 not connected to ground--UTM pins **B** and **C** are not connected together).
+{.is-info}
+
+
 
 **Step 6:** Use an <span class="fb-step fb-if-statement">If Statement</span> command to determine what to do next. In this example, if the tool verification is `0` (the tool is connected), then FarmBot will simply continue onto the next steps in the sequence.
 
 If the tool verification is `1` (the tool is not connected) then FarmBot will execute a sequence to send a message that it failed to pick up the tool, and then it will go home. What you instruct FarmBot to do in both scenarios is up to you!
 
-![tool verification error step](_images/tool_verification_error_step.png =700px)
+![tool verification error step](/web/docs/how-to-guides/_images/tool_verification_error_step.png =700x)
 
 **Step 7:** Now that the tool has been successfully mounted to the UTM, use a <span class="fb-step fb-mark-as">MARK AS</span> command to **MARK** the `Tool Mount` **AS** `Mounted to: the tool`. This will make FarmBot understand what the previous steps in the sequence accomplished, and allow the user interface in the web app to show the correct tool mounted to the UTM as it moves throughout the map.
 
-![mark tool as mounted step](_images/mark_tool_as_mounted_step.png =700px)
+![mark tool as mounted step](/web/docs/how-to-guides/_images/mark_tool_as_mounted_step.png =700x)
 
 # Step 4: Build a tool dismounting sequence
 
