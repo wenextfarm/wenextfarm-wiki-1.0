@@ -1,23 +1,24 @@
 ---
-title: "Groups"
-description: "Organize your plants, weeds, and points"
+title: Groups
+description: Organize your plants, weeds, and points
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:11:55.752Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:53:27.429Z
 ---
+
 **Groups** allow you to group plants, weeds, or points in your garden so you can easily run sequences on all members of the group. For example, with a group of all your plants, you could instruct FarmBot to run a watering sequence on all of them.
 
 # Creating a group
 
 To create a group, click the <span class="fb-button fb-green"><i class='fa fa-plus'></i></span> button in the **PLANT GROUPS**, **WEED GROUPS**, or **POINT GROUPS** section of the plants, weeds, or points panels. This will open the **edit group** panel with your new _Untitled Group_ loaded, and all of the plants, weeds, or points selected.
 
-![all plants group](_images/all_plants_group.png =700px)
+![all plants group](/web/web-apps/_images/all_plants_group.png =700x)
 
 Alternatively you can use the [multi-select mode](farm-designer.md#select-mode) in the farm designer and then click <span class="fb-button fb-blue">CREATE GROUP</span> to create a new group with your selection.
 
-![create group from selection](_images/create_group_from_selection.png =700px)
+![create group from selection](/web/web-apps/_images/create_group_from_selection.png =700x)
 
 # Editing a group
 
@@ -25,31 +26,31 @@ From the edit group panel, you can change the name, **SORT BY** order, add **FIL
 
 The **SORT BY** method will change the ordering that FarmBot uses when traveling to each group member when the group is used in a sequence. A dashed line will be shown in the map visualizing the chosen path, along with numbers next to each group member indicating its order within the group. We encourage you to play around with the options to find the most efficient path FarmBot can take, or keep the selection at the default **Optimized** option.
 
-![group sort by](_images/group_sort_by.png =700px)
+![group sort by](/web/web-apps/_images/group_sort_by.png =700x)
 
 # Using filters
 
 **FILTERS** allow you to narrow down which members are in the group based on the filtering options selected. For plant groups, you may filter by **Stage**, **Type**, **Age**, and **Location**. In the example below we've selected Broccoli and Spinach as the allowed **Types**. You may mix and match as many filter options as needed to create dynamic groups for all kinds of purposes.
 
-![spinach and broccoli plants group](_images/spinach_and_broccoli_plants_group.png =700px)
+![spinach and broccoli plants group](/web/web-apps/_images/spinach_and_broccoli_plants_group.png =700x)
 
 As your garden changes over time (new weeds discovered, crops get harvested, etc), FarmBot will use the filters to always calculate the current group members. For example, without changing the group at all, if additional plants are added to the garden that match the group's filters, they will automatically become group members.
 
-![spinach and broccoli group with added plants](_images/spinach_and_broccoli_group_with_added_plants.png =700px)
+![spinach and broccoli group with added plants](/web/web-apps/_images/spinach_and_broccoli_group_with_added_plants.png =700x)
 
 The example weeds group below selects all of the weeds in the garden (no additional filters applied). As weeds are removed and new ones discovered, the group members list will always stay updated without any action required.
 
-![all weeds group](_images/all_weeds_group.png =700px)
+![all weeds group](/web/web-apps/_images/all_weeds_group.png =700x)
 
 ## Filtering by location
 
 The **Location** filter allows you to select items that are within certain areas of the garden. For example, if you would like to select plants that are in one corner of your garden, you can add two coordinate boundaries.
 
-![half-bounded location group](_images/half-bounded_location_group.png =700px)
+![half-bounded location group](/web/web-apps/_images/half-bounded_location_group.png =700x)
 
 If you would like to select plants that are within a box in the middle of the garden, you can add four coordinate boundaries.
 
-![fully bounded location group](_images/fully_bounded_location_group.png =700px)
+![fully bounded location group](/web/web-apps/_images/fully_bounded_location_group.png =700x)
 
 Toggling the **EDIT IN MAP** setting to **ON** will allow you to click and drag a rectangle in the farm designer map rather than manually typing in coordinate boundaries. It is recommended to toggle this **OFF** when not in use.
 
@@ -57,7 +58,7 @@ Toggling the **EDIT IN MAP** setting to **ON** will allow you to click and drag 
 
 To manually add additional group members that aren't already selected by filters, click items in the farm designer map. Note that each group can only have members of one type (plants, weeds, points, or slots), so if you already have plants in the group, only plants will be clickable in the map.
 
-![manually add group members](_images/manually_add_group_members.png =700px)
+![manually add group members](/web/web-apps/_images/manually_add_group_members.png =700x)
 
 To remove manually added group members, click their icon again in the farm designer map or in the **GROUP MEMBERS** list. When mousing over icons in the list, the corresponding icon in the map will be highlighted, allowing you to ensure you're removing the correct item. To remove all manually added group members at once, click the <span class="fb-button fb-red">CLEAR</span> button next to "manually selected".
 
@@ -65,11 +66,11 @@ To remove manually added group members, click their icon again in the farm desig
 
 Once you're happy with your group, try it in a sequence! First, create a sequence with an [externally defined location variable](sequences/externally-defined-variables.md).
 
-![using a group in a sequence](_images/using_a_group_in_a_sequence.png =700px)
+![using a group in a sequence](/web/web-apps/_images/using_a_group_in_a_sequence.png =700x)
 
 Then run this sequence from another sequence, a regimen, or an event, with the location variable set to your group.
 
-![execute sequence over group step](_images/execute_sequence_over_group_step.png =700px)
+![execute sequence over group step](/web/web-apps/_images/execute_sequence_over_group_step.png =700x)
 
 # Deleting a group
 
