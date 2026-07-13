@@ -1,12 +1,13 @@
 ---
-title: "FarmBot Settings"
-description: ":robot: Device name and software updates. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=farmbot)"
+title: FarmBot Settings
+description: :robot: Device name and software updates. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=farmbot)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:45:00.192Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:55:58.363Z
 ---
+
 # Name
 
 Give your FarmBot a fun name. For example: `Broccoli Overlord` 🥦 🤖
@@ -15,13 +16,21 @@ Give your FarmBot a fun name. For example: `Broccoli Overlord` 🥦 🤖
 
 By registering your original FarmBot **ORDER NUMBER** with your web app account you will receive prioritized help should you run into any issues.
 
-> **⚠️ Note:** We have limited capacity to help users of the app that did not purchase hardware from [farm.bot](https://farm.bot).
+> **⚠️ Note:** 
+> 
+> We have limited capacity to help users of the app that did not purchase hardware from [farm.bot](https://farm.bot).
+{.is-warning}
+
 
 # Timezone
 
 Set the device's timezone.
 
-> **ℹ️ Automatically set:** When you create your FarmBot web app account and login for the first time, we will automatically set your device's timezone to match your computer or phone's timezone (whichever was used to login to the account). If your FarmBot is located somewhere else, you can change the timezone setting here.
+> **ℹ️ Automatically set:** 
+> 
+> When you create your FarmBot web app account and login for the first time, we will automatically set your device's timezone to match your computer or phone's timezone (whichever was used to login to the account). If your FarmBot is located somewhere else, you can change the timezone setting here.
+{.is-info}
+
 
 # Location
 
@@ -41,15 +50,27 @@ You may also choose the `As soon as possible` option, in which case FarmBot will
 
 # Auto update
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 By default, FarmBot OS will automatically download and install software updates at **3AM**. The update process may take up to 1 hour to complete. If you need your FarmBot to perform updates at a different time, you can choose the desired time with this setting, or disable auto updates entirely.
 
-> **⚠️ Note:** If you decide to disable auto updates, please make sure you regularly manually update your device so that it stays within our [support policy](../../docs/troubleshooting/support-policy.md).
+> **⚠️ Note:** 
+> 
+> If you decide to disable auto updates, please make sure you regularly manually update your device so that it stays within our [support policy](../../docs/troubleshooting/support-policy.md).
+{.is-warning}
+
 
 # FarmBot OS
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 View the version of FarmBot OS that you have installed on your device, that version's release notes, and install updates if they are available using the <span class="fb-button fb-green">UPDATE</span> button. Note that the update button will display as <span class="fb-button fb-gray">UP TO DATE</span> when there are no updates available.
 
@@ -63,11 +84,19 @@ We recommend getting started with a boot sequence that finds home and sends a me
 
 Select the firmware to be used with your electronics board and then press <span class="fb-button fb-yellow">FLASH FIRMWARE</span> to manually flash the firmware to the microcontroller. This may be required when installing a new electronics board.
 
-> **ℹ️ Just upgraded?:** If you are upgrading your FarmBot's electronics board, you may need to manually add any new peripherals, sensors, and tools that your new electronics board supports.
+> **ℹ️ Just upgraded?:** 
+> 
+> If you are upgrading your FarmBot's electronics board, you may need to manually add any new peripherals, sensors, and tools that your new electronics board supports.
+{.is-info}
+
 
 # Firmware path
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 View and change the firmware device path. Select `ttyACM0` for Genesis, `ttyAMA0` for Express, or choose `Manual input` to select a custom device path. This value is automatically set based on FarmBot model for most users, but can be configured for custom setups with multiple serial devices connected.
 
