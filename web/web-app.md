@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T05:19:50.396Z
+date: 2026-07-13T05:20:08.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-13T02:38:53.507Z
 
  * [Intro to FarmBot's Software](/web/docs/intro.md){target=_blank}
  * [Getting Started](/web/docs/getting-started.md){target=_blank}
- * [Demo the App](web/docs/demo){target=_blank}
+ * [Demo the App](/web/docs/demo.md){target=_blank}
  
 ### * [How-to Guides](/web/docs/how-to-guides.md){target=_blank}
 
