@@ -1,13 +1,18 @@
 ---
-title: "Parameter Management"
-description: ":gear: Parameter import, export, and reset options. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=parameter_management)"
+title: Parameter Management
+description: :gear: Parameter import, export, and reset options. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=parameter_management)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:55:19.059Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:56:18.166Z
 ---
-> **ℹ️ Note:** These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+
+> **ℹ️ Note:** 
+> 
+> These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+{.is-info}
+
 
 # Parameter load progress
 
@@ -26,7 +31,7 @@ to send the parameters to FarmBot again.
 Press the <i class='fa fa-download'></i> icon to view all parameter data
 in a format that can be copied and pasted to share with others or save for later use.
 
-![export parameters](_images/export_parameters.png =700px)
+![export parameters](/web/web-apps/settings/_images/export_parameters.png =700x)
 
 # Import parameters
 
@@ -36,7 +41,11 @@ Imported data will replace all parameters in your account.
 
 # Highlight modified settings
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 Disable this toggle to hide the high-visibility border around every parameter
 that differs from the default value. Default values for individual parameters
