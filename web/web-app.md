@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T03:26:33.844Z
+date: 2026-07-13T03:29:27.296Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -55,4 +55,9 @@ dateCreated: 2026-07-13T02:38:53.507Z
  
  ---
  
- * [Weeds](/web/web-apps/weeds.md)
+* [Weeds](/web/web-apps/weeds.md)
+* [Points](/web/web-apps/points.md) 
+* [Curves](/web/web-apps/Curves.md)
+* [Groups](/web/web-apps/Groups.md)
+* [Weeds](/web/web-apps/weeds.md) * [Weeds](/web/web-apps/weeds.md)
+    
