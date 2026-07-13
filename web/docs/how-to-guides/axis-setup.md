@@ -2,7 +2,7 @@
 title: Axis Setup
 description: **In this guide:** Learn how to find and set FarmBot's home position and axis lengths, and restrict FarmBot from moving beyond those boundaries
 published: true
-date: 2026-07-13T02:55:51.444Z
+date: 2026-07-13T02:56:45.951Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:14:18.742Z
