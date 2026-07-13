@@ -1,19 +1,28 @@
 ---
-title: "Limit Switches"
-description: ":left_right_arrow: Settings to support DIY axis end detection. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=limit_switches)"
+title: Limit Switches
+description: :left_right_arrow: Settings to support DIY axis end detection. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=limit_switches)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:52:04.439Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:56:04.904Z
 ---
-> **ℹ️ Note:** These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
 
-> **⚠️ Note:** **LIMIT SWITCHES** are not part of the standard FarmBot kit hardware and are typically only used by expert users. Please do not enable **LIMIT SWITCHES** for your device if you have not specifically installed them on your FarmBot.
+> **ℹ️ Note:** 
+> 
+> These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+{.is-info}
+
+
+> **⚠️ Note:** 
+> 
+> **LIMIT SWITCHES** are not part of the standard FarmBot kit hardware and are typically only used by expert users. Please do not enable **LIMIT SWITCHES** for your device if you have not specifically installed them on your FarmBot.
+{.is-warning}
+
 
 **Limit switches**, are small switches or sensors that are used to tell a machine if it has reached an end position (home or an axis maximum).
 
-![limit switch](_images/limit_switch.jpg =700px)
+![limit switch](/web/web-apps/settings/_images/limit_switch.jpg =700x)
 
 _Example of Limit Switch for CNC devices.  [Model SS-5GL13T  Omeron Electronics]_
 
