@@ -1,15 +1,16 @@
 ---
-title: "Photos"
-description: "Take and view photos of your plants :camera: [Open this panel in the app](https://my.farm.bot/app/designer/photos)"
+title: Photos
+description: Take and view photos of your plants :camera: [Open this panel in the app](https://my.farm.bot/app/designer/photos)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:30:54.065Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:54:12.092Z
 ---
+
 The **photos panel** offers a carousel for you to view all of the photos you've taken with your FarmBot, as well as controls and settings for taking photos, deleting photos, calibrating the camera, measuring soil height, and performing weed detection.
 
-![photos panel](_images/photos_panel.png =700px)
+![photos panel](/web/web-apps/_images/photos_panel.png =700x)
 
 Photos in the carousel are displayed in reverse chronological order, so the most recent photo you've taken always shows up first.
 
