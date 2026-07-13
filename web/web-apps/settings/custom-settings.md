@@ -1,15 +1,16 @@
 ---
-title: "Custom Settings"
-description: "Add custom settings to support Lua commands and custom FarmBot functionality. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=custom_settings)"
+title: Custom Settings
+description: Add custom settings to support Lua commands and custom FarmBot functionality. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=custom_settings)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:55:50.984Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:55:39.356Z
 ---
+
 FarmBot supports custom **key/value** settings that can be accessed via the [Lua env() function](http://lua.farm.bot). Custom settings are useful for a wide variety of use cases such as storing 3rd party API keys or configuration values that you want to use in more than one sequence and/or Lua command.
 
-![custom settings](_images/custom_settings.png =700px)
+![custom settings](/web/web-apps/settings/_images/custom_settings.png =700x)
 
 # Add a custom setting
 
@@ -23,4 +24,8 @@ To edit a custom setting, change the key and/or value and then click outside of 
 
 To delete a custom setting, press the <span class="fb-button fb-red"><i class='fa fa-times'></i></span> button.
 
-> **⚠️ Note:** The web app does not perform any checks when deleting a custom setting. Sequences that still try to access a setting after it has been deleted may fail or have unexpected results.
+> **⚠️ Note:** 
+> 
+> The web app does not perform any checks when deleting a custom setting. Sequences that still try to access a setting after it has been deleted may fail or have unexpected results.
+{.is-warning}
+
