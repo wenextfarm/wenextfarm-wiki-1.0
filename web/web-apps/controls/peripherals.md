@@ -1,27 +1,32 @@
 ---
-title: "Peripherals"
-description: "Manually operate FarmBot's peripherals <i class='fa fa-toggle-on'></i> [Open this popup in the app](https://my.farm.bot/app/designer/controls)"
+title: Peripherals
+description: Manually operate FarmBot's peripherals <i class='fa fa-toggle-on'></i> [Open this popup in the app](https://my.farm.bot/app/designer/controls)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:27:21.939Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:52:54.412Z
 ---
+
 The **PERIPHERALS** tab of the controls popup allows you to manage FarmBot's peripherals and control them in real-time with toggle switches and sliders. Here you can also manage the actions associated with the electronics box push buttons, and interact with a virtual representation of the buttons and LED indicators.
 
-![controls popup peripherals tab](_images/controls_popup_peripherals_tab.png =700px)
+![controls popup peripherals tab](/web/web-apps/controls/_images/controls_popup_peripherals_tab.png =700x)
 
 # Editing peripherals
 
 To create a new peripheral, press <span class="fb-button fb-gray">EDIT</span>, and then the <span class="fb-button fb-green"><i class='fa fa-plus'></i></span> button. Provide a <span class="fb-input">Name</span>, <span class="fb-input fb-dropdown">Select a pin <i class='fa fa-caret-down'></i></span>, and choose `Digital` or `Analog` to define the peripheral. Pressing <span class="fb-button fb-green"><i class='fa fa-plus'></i> STOCK</span> will add all of the standard peripherals included with your FarmBot kit.
 
-> **⚠️ Note:** Pin numbers are required and must be unique.
+> **⚠️ Note:** 
+> 
+> Pin numbers are required and must be unique.
+{.is-warning}
+
 
 To delete a peripheral, press the peripheral's <span class="fb-button fb-red"><i class='fa fa-times'></i></span> button. You cannot delete a peripheral that is in-use by a sequence.
 
 When finished editing, press <span class="fb-button fb-green">SAVE</span>.
 
-![edit peripherals](_images/edit_peripherals.png =700px)
+![edit peripherals](/web/web-apps/controls/_images/edit_peripherals.png =700x)
 
 # Controlling peripherals
 
@@ -38,7 +43,7 @@ You can press a toggle switch to manually control digital peripherals when FarmB
 
 Analog peripherals can be controlled with the sliders when FarmBot is connected and idle.
 
-![analog peripheral control](_images/analog_peripheral_control.png =700px)
+![analog peripheral control](/web/web-apps/controls/_images/analog_peripheral_control.png =700x)
 
 # Push buttons
 
@@ -46,7 +51,7 @@ To change a push button's behavior, press <span class="fb-button fb-gray">EDIT</
 
 Once synced, you can press the physical push button on top of the FarmBot electronics box or click the virtual button in the app to activate the chosen action or sequence.
 
-![edit push button](_images/edit_push_button.png =700px)
+![edit push button](/web/web-apps/controls/_images/edit_push_button.png =700x)
 
 
 # What's next?
