@@ -1,27 +1,40 @@
 ---
-title: "Motors"
-description: ":zap: Adjust motor speed, acceleration, and power. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=motors)"
+title: Motors
+description: :zap: Adjust motor speed, acceleration, and power. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=motors)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:48:53.070Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:56:11.028Z
 ---
+
 # Max speed
 
 This setting controls the **MAX SPEED** in millimeters per second that FarmBot will reach after accelerating.
 
 We recommend starting with the default values shown in the <i class='fa fa-question-circle'></i> popup, which are dependent on your FarmBot model and the axis. If tuning is necessary or desired, make small adjustments (+/- 10%) and test the new values each time before making further adjustments.
 
-> **ℹ️ Note:** For the Z-axis, you can also set the **MAX SPEED TOWARD HOME** independently from the max speed traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+> **ℹ️ Note:** 
+> 
+> For the Z-axis, you can also set the **MAX SPEED TOWARD HOME** independently from the max speed traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+{.is-info}
 
-> **ℹ️ Using non-standard hardware:** The arduino firmware automatically calculates a **Motor Speed** (in steps/s) from your desired **Linear Speed** (in mm/s) and the specs of the stock FarmBot hardware. If you wish to use non-standard hardware (for example, a different leadscrew), refer to the [kinematic equations page](../..//farmbot-os/arduino-firmware/kinematic-equations.md#convert-motor-speed-into-linear-speed).
+
+> **ℹ️ Using non-standard hardware:** 
+> 
+> The arduino firmware automatically calculates a **Motor Speed** (in steps/s) from your desired **Linear Speed** (in mm/s) and the specs of the stock FarmBot hardware. If you wish to use non-standard hardware (for example, a different leadscrew), refer to the [kinematic equations page](../..//farmbot-os/arduino-firmware/kinematic-equations.md#convert-motor-speed-into-linear-speed).
+{.is-info}
+
 
 # Minimum speed
 
 This setting controls the **MINIMUM SPEED** in millimeters per second that FarmBot will move.
 
-> **ℹ️ Note:** For the Z-axis, you can also set the **MINIMUM SPEED TOWARD HOME** independently from the minimum speed traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+> **ℹ️ Note:** 
+> 
+> For the Z-axis, you can also set the **MINIMUM SPEED TOWARD HOME** independently from the minimum speed traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+{.is-info}
+
 
 # Accelerate for
 
@@ -29,7 +42,11 @@ This setting controls the distance in millimeters that FarmBot will **ACCELERATE
 
 We recommend starting with the default values shown in the <i class='fa fa-question-circle'></i> popup, which are dependent on your FarmBot model and the axis. If tuning is necessary or desired, make small adjustments (+/- 10%) and test the new values each time before making further adjustments.
 
-> **ℹ️ Note:** For the Z-axis, you can also set the **ACCELERATE FOR TOWARD HOME** independently from the acceleration for traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+> **ℹ️ Note:** 
+> 
+> For the Z-axis, you can also set the **ACCELERATE FOR TOWARD HOME** independently from the acceleration for traveling away from the home position. This is especially useful for the Z-axis because the motor will either be fighting against or working with gravity depending on the direction of movement.
+{.is-info}
+
 
 # Always power motors
 
@@ -41,13 +58,21 @@ This inverts the direction that the motors move for the chosen axis. Changing th
 
 # Advanced settings
 
-> **ℹ️ Note:** These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+> **ℹ️ Note:** 
+> 
+> These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+{.is-info}
+
 
 ## Motor current
 
 Motor current as a percentage of the maximum. (Only available for Genesis v1.5+ and Express v1.0+ kits).
 
-> **⚠️ Note:** While the frontend will allow you to set the motor current as a percentage, under the hood this percentage is converted into milliamps. Setting motor current via Lua, farmbot-js, or farmbot-py will need to be set in milliamps directly.
+> **⚠️ Note:** 
+> 
+> While the frontend will allow you to set the motor current as a percentage, under the hood this percentage is converted into milliamps. Setting motor current via Lua, farmbot-js, or farmbot-py will need to be set in milliamps directly.
+{.is-warning}
+
 
 ## Steps per mm
 
