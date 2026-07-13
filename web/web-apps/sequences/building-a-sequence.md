@@ -1,39 +1,48 @@
 ---
-title: "Building a Sequence"
+title: Building a Sequence
 description: 
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:14:57.875Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T08:02:37.630Z
 ---
+
 # Step 1: Create or select a sequence
 
 In the **sequences** panel, click the <span class="fb-button fb-green"><i class='fa fa-plus'></i></span> button to create a new sequence. Or, select an existing sequence if you would like to edit it. If you have many sequences, use the search box to find one more quickly.
 
 Once a sequence has been created or selected, it will be loaded into the editor. Enter a unique <span class="fb-input">Sequence name</span> and optionally assign it a color by clicking the <i class='fa fa-paint-brush'></i> icon. The color will not affect FarmBot's execution of the sequence, it is only for helping you organize and recognize your own sequences.
 
-![new sequence](_images/new_sequence.gif =700px)
+![new sequence](/web/web-apps/sequences/_images/new_sequence.gif =700x)
 
 # Step 2: Add commands
 
 Add the first command (or another sequence) to your sequence by scrolling through the options available in the command palette or by using the search bar. Click a <span class="fb-add-command-button"><i class='fa fa-plus'></i></span> button to open the command palette to add an additional sequence step at that location.
 
-![add command](_images/add_command.gif =700px)
+![add command](/web/web-apps/sequences/_images/add_command.gif =700x)
 
 On large screens, you may press the <i class='fa fa-expand'></i> icon to open the sequence in a full-screen editor. From the full-screen editor you can add commands by dragging and dropping them from the **commands** panel into the **edit sequence** panel. When dragging and dropping, you can add the new command to the top, bottom, or somewhere in the middle of the sequence. Alternatively, you can click a command and it will be added to the bottom of the sequence.
 
-![dragging wait command into sequence](_images/dragging_wait_command_into_sequence.png =700px)
+![dragging wait command into sequence](/web/web-apps/sequences/_images/dragging_wait_command_into_sequence.png =700x)
 
-> **ℹ️ Note:** The drag and drop functionality of the full editor does not work on touchscreens. However, sequence editing can be performed on-the-go with just tapping and the default interface.
+> **ℹ️ Note:** 
+> 
+> The drag and drop functionality of the full editor does not work on touchscreens. However, sequence editing can be performed on-the-go with just tapping and the default interface.
+{.is-info}
 
-![phone with add command panel open](_images/phone_with_add_command_panel_open.jpeg =700px)
+
+![phone with add command panel open](/web/web-apps/sequences/_images/phone_with_add_command_panel_open.jpeg =700x)
 
 # Step 3: Define step parameters
 
 For each step (command) in the sequence, enter in your desired parameter values. Some parameters such as **SPEED** will have default values and do not need to be entered in every time. Other parameters require a value to be added or chosen every time.
 
-> **✅ We check your work:** If you try to save a sequence without values for all of the required parameters for each step, an error will be shown. You can then go back and provide values and try to save again.
+> **✅ We check your work:** 
+> 
+> If you try to save a sequence without values for all of the required parameters for each step, an error will be shown. You can then go back and provide values and try to save again.
+{.is-success}
+
 
 # Step 4: Use the step control icons
 
@@ -54,7 +63,7 @@ Each step in a sequence has a cluster of control icons in the top right:
 
 You can rename each sequence step by clicking on its name and typing in something new. While this is optional, naming each step with some descriptive text can allow you to easily remember what each step is for when you look at the sequence again tomorrow, or in a few months. It might also be useful if multiple people use the same FarmBot account, such as in a school setting, so everyone can understand what each sequence does.
 
-![custom step name](_images/custom_step_name.png =700px)
+![custom step name](/web/web-apps/sequences/_images/custom_step_name.png =700x)
 
 # Step 6: Use AI to write the sequence name and description
 
