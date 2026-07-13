@@ -1,15 +1,16 @@
 ---
-title: "Jobs and Logs"
-description: "Keep track of what FarmBot is doing :clipboard: :construction_worker: [Open this popup in the app](https://my.farm.bot/app/logs)"
+title: Jobs and Logs
+description: Keep track of what FarmBot is doing :clipboard: :construction_worker: [Open this popup in the app](https://my.farm.bot/app/logs)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:57:17.320Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:53:58.964Z
 ---
+
 The **jobs and logs popup** in the main nav bar of the app features two tabs allowing you to keep track of FarmBot's progress while it is performing long-running jobs as well as audit the detailed logs of each individual operation.
 
-![jobs and logs popup](_images/jobs_and_logs_popup.png =700px)
+![jobs and logs popup](/web/web-apps/intro/_images/jobs_and_logs_popup.png =700x)
 
 # Jobs tab
 
@@ -17,15 +18,19 @@ When FarmBot is executing long-running sequences or tasks such as watering the w
 
 The jobs table shows the **JOB** name, **%** completion, current **STATUS**, and the **DURATION** of time <i class='fa fa-clock-o'></i> that the job has been executing for. Completed jobs are shown at the bottom of the table and may be cleared after 5 minutes upon refreshing the browser tab.
 
-![jobs tab](_images/jobs_tab.gif =700px)
+![jobs tab](/web/web-apps/intro/_images/jobs_tab.gif =700x)
 
-> **ℹ️ Use job progress tracking:** To implement job progress tracking in your own sequences, see the [Lua developer documentation](http://lua.farm.bot) for `set_job()` and `get_job()`.
+> **ℹ️ Use job progress tracking:**
+> 
+> To implement job progress tracking in your own sequences, see the [Lua developer documentation](http://lua.farm.bot) for `set_job()` and `get_job()`.
+{.is-info}
+
 
 # Logs tab
 
 The **logs tab** shows a low-level view of each individual operation that FarmBot has performed. Logs can be useful for debugging sequences and diagnosing issues with FarmBot, but are generally not needed during normal operation.
 
-![logs tab](_images/logs_tab.png =700px)
+![logs tab](/web/web-apps/intro/_images/logs_tab.png =700x)
 
 ## Log types
 
@@ -50,13 +55,13 @@ Every log that FarmBot sends has a **verbosity** of `1`, `2`, or `3`, which can 
 
 You can filter logs by using the search bar or by clicking the filter <i class='fa fa-filter'></i> icon. The verbosity sliders allow you to choose to see more verbose or less verbose logs of each type, or turn them off completely.
 
-![log filters](_images/log_filters.png =700px)
+![log filters](/web/web-apps/intro/_images/log_filters.png =700x)
 
 ## Logs settings menu
 
 You can customize whether or not FarmBot sends some types of logs or not by using the options in the (cog) menu. Each option is described in the tooltip shown when the (?) icon is clicked.
 
-![log settings menu](_images/log_settings_menu.png =700px)
+![log settings menu](/web/web-apps/intro/_images/log_settings_menu.png =700x)
 
 ## Log limits
 
@@ -70,15 +75,23 @@ Time Period | Max Number of Logs
 
 If a log limit is reached, a **cooldown period** will begin where log storage and display is suspended until the next time period. For example, if the 1 minute limit is reached, logs will be suspended until the next minute. A warning log and toast notification will be displayed, indicating the suspension:
 
-![device sending too many logs warning log message](_images/device_sending_too_many_logs_warning_log_message.png =700px)
+![device sending too many logs warning log message](/web/web-apps/intro/_images/device_sending_too_many_logs_warning_log_message.png =700x)
 
-> **✅ You still have control:** Even when log storage and display is suspended, you can still control the FarmBot from the web application (manual movements, <span class=\
+> **✅ You still have control:**
+> 
+> Even when log storage and display is suspended, you can still control the FarmBot from the web application (manual movements, 
+{.is-success}
+
 
 Once the cooldown period has ended, logs will resume being stored and displayed in the web application. An informational log and toast notification will indicate this:
 
-![cooldown period ended log message](_images/cooldown_period_ended_log_message.png =700px)
+![cooldown period ended log message](/web/web-apps/intro/_images/cooldown_period_ended_log_message.png =700x)
 
-> **ℹ️ Don't fret:** We do not expect average users to ever experience these limits. Instead, they are designed to minimize the disruption that an incorrectly configured FarmBot or a malicious attacker can have on our systems.
+> **ℹ️ Don't fret:** 
+> 
+> We do not expect average users to ever experience these limits. Instead, they are designed to minimize the disruption that an incorrectly configured FarmBot or a malicious attacker can have on our systems.
+{.is-info}
+
 
 # What's next?
 
