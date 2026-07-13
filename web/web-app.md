@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T02:59:48.161Z
+date: 2026-07-13T03:05:27.533Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -26,16 +26,14 @@ dateCreated: 2026-07-13T02:38:53.507Z
  * [Share FarmBot with Many Users](/web/docs/how-to-guides/share-farmbot-with-many-users.md){target=_blank}
  * [Use the Rotary Tool](/web/docs/how-to-guides/use-the-rotary-tool.md){target=_blank}
  
- ### * [Troubleshooting](/extras/troubleshooting.md){target=_blank}
+ ### * [troubleshooting](/web/docs/troubleshooting.md){target=_blank}
  
-  * [Picking Up Seeds](/extras/troubleshooting/picking-up-seeds.md){target=_blank}
- * [Z-Axis Movements](/extras/troubleshooting/z-axis-movements.md){target=_blank}
- * [Track Tolerance](/extras/troubleshooting/track-tolerance.md){target=_blank}
- * [Why is my FarmBot not moving?](/extras/troubleshooting/why-is-my-farmbot-not-moving.md){target=_blank}
- * [Are my encoders working?](/extras/troubleshooting/are-my-encoders-working.md){target=_blank}
- * [Water Pressure](/extras/troubleshooting/water-pressure.md){target=_blank}
- * [Solenoid Valve Cable Fix](/extras/troubleshooting/solenoid-valve-cable-fix.md){target=_blank}
- * [Tool Verification](/extras/troubleshooting/tool-verification.md){target=_blank}
- * [Mounting and Dismounting Tools](/extras/troubleshooting/mounting-and-dismounting-tools.md){target=_blank}
+ * [Accessing Configurator](/web/docs/troubleshooting/accessing-configurator.md){target=_blank}
+ * [Connecting FarmBot to the Internet](/web/docs/troubleshooting/connecting-farmbot-to-the-internet.md){target=_blank}
+ * [Connecting FarmBot to the Web App](/web/docs/troubleshooting/connecting-farmbot-to-the-web-app.md){target=_blank}
+ * [Connectivity Diagnosis Codes](/web/docs/troubleshooting/connectivity-codes.md){target=_blank}
+ * [For IT Security Professionals](/web/docs/troubleshooting/for-it-security-professionals.md){target=_blank}
+ * [Support Policy](/web/docs/troubleshooting/support-policy.md){target=_blank}
+ * [Moving FarmBot to New Locations](/web/docs/troubleshooting/moving-farmbot-to-new-locations.md){target=_blank}
  
  
