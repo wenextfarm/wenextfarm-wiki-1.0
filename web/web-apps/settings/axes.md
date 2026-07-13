@@ -1,19 +1,24 @@
 ---
-title: "Axes"
-description: ":triangular_ruler: Axis home, length, and position presets. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=axes)"
+title: Axes
+description: :triangular_ruler: Axis home, length, and position presets. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=axes)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:47:42.264Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:55:32.995Z
 ---
+
 # Find home
 
 Finding home instructs FarmBot to find the home (minimum) position by moving towards home until a rotary encoder, stepper driver, or limit switch signals that the end of the axis has been reached. Note that **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be <span class="fb-peripheral-on">ON</span> for FarmBot to automatically find home.
 
 To find home for an axis, click the <span class="fb-button fb-yellow">FIND HOME X</span>, <span class="fb-button fb-yellow">FIND HOME Y</span>, or <span class="fb-button fb-yellow">FIND HOME Z</span> buttons. To home all three axes, you can use the <span class="fb-button fb-gray"><i class='fa fa-home'></i></span> button in the controls panel (assuming that that button is set to its default behavior).
 
-> **ℹ️ \:** Finding Home is the act of _finding_ the home (zero) position by using rotary encoders, stall-detecting stepper drivers, or limit switches. _Going to Home_ is the act of moving to (0, 0, 0).
+> **ℹ️ \:** 
+> 
+> Finding Home is the act of _finding_ the home (zero) position by using rotary encoders, stall-detecting stepper drivers, or limit switches. _Going to Home_ is the act of moving to (0, 0, 0).
+{.is-info}
+
 
 # Set home
 
@@ -27,15 +32,27 @@ These buttons may come in handy though when playing around with experimental seq
 
 # Find home on boot
 
-> **⚠️ Note:** This setting has been deprecated in favor of the [BOOT SEQUENCE](../settings/farmbot-settings.md#boot-sequence) setting, which allows for significantly more customization to the boot process.
+> **⚠️ Note:** 
+> 
+> This setting has been deprecated in favor of the [BOOT SEQUENCE](../settings/farmbot-settings.md#boot-sequence) setting, which allows for significantly more customization to the boot process.
+{.is-warning}
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 Enabling this setting will run a homing command for each axis upon boot. This is most useful for allowing FarmBot to recover and resume operations after a power outage. Note that **ENCODERS**, **STALL DETECTION**, or **LIMIT SWITCHES** must be <span class="fb-peripheral-on">ON</span> for this feature.
 
 # Stop at home
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 The **stop at home** software limits prevent FarmBot from moving through the zero coordinate of each axis. For example, if an axis is normally moving in positive coordinates, then the software limit will prevent it from moving through zero into negative coordinates. If an axis has **NEGATIVE COORDINATES ONLY** enabled, then it normally moves in negative coordinates and the software limit will prevent it from moving through zero into positive coordinates.
 
@@ -43,13 +60,21 @@ These settings are enabled by default for all three axes, so that FarmBot will n
 
 # Stop at max
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 If the **SET AXIS LENGTH** setting for an axis is non-zero, FarmBot will stop at the axis maximum. These settings are enabled by default for all three axes and should only be disabled under certain custom installation circumstances.
 
 # Negative coordinates only
 
-> **ℹ️ Note:** This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+> **ℹ️ Note:** 
+> 
+> This [advanced setting](../settings.md#show-advanced-settings) is not shown by default.
+{.is-info}
+
 
 This setting will allow movements to only occur in negative coordinates for the chosen axis. This is most useful for the z-axis if you want your home position to be at the highest point and for FarmBot to move down into negative coordinates.
 
@@ -59,13 +84,21 @@ Finding an axis length instructs FarmBot to find the maximum position and then f
 
 Also note that you must enable **STOP AT MAX** for FarmBot to stop at the measured maximum.
 
-> **ℹ️ Note:** The speed of finding an axis length is currently determined by the **HOMING SPEED** setting.
+> **ℹ️ Note:** 
+> 
+> The speed of finding an axis length is currently determined by the **HOMING SPEED** setting.
+{.is-info}
+
 
 # Set axis length
 
 With these inputs you can manually specify the length in mm of each axis. This is useful if you want to limit your FarmBot's movements along an axis with software rather than a physical hardware stop such as a belt clip or an endstop. For example: you may occasionally want to prevent movements at the far end of your garden because you put a seasonal garden gnome there, but you don't want to adjust the belts and belt clips. You must enable **STOP AT MAX** for FarmBot to stop at the values inputted.
 
-> **ℹ️ Reminder:** The length values of each axis are measured and auto-filled whenever your use the [find axis length](#find-axis-length) function.
+> **ℹ️ Reminder:** 
+> 
+> The length values of each axis are measured and auto-filled whenever your use the [find axis length](#find-axis-length) function.
+{.is-info}
+
 
 # Gantry height
 
@@ -81,6 +114,6 @@ This setting should be updated after any hardware modification that will affect 
 
 Z axis coordinate (millimeters) of the soil. This value will be used by <span class="fb-step fb-move">Move</span> sequence commands when _Soil Height_ is selected as the z-axis override and no soil height measurements are available. After soil height measurements have been added [automatically](../photos/measure-soil-height.md) or [manually](../points.md#soil-height-points), a matching or interpolated soil height value will be used based on the selected location.
 
-![profile view with safe and soil heights](_images/profile_view_with_safe_and_soil_heights.png =700px)
+![profile view with safe and soil heights](/web/web-apps/settings/_images/profile_view_with_safe_and_soil_heights.png =700x)
 
 _Safe and soil heights as shown in the [profile viewer](../farm-designer.md#profile-viewer)_
