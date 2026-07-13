@@ -1,12 +1,13 @@
 ---
-title: "Share FarmBot with Many Users"
-description: "**In this guide:** Learn best practices for sharing FarmBot with many users or user groups, such as in an educational setting."
+title: Share FarmBot with Many Users
+description: **In this guide:** Learn best practices for sharing FarmBot with many users or user groups, such as in an educational setting.
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:40:16.448Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:14:57.501Z
 ---
+
 A single FarmBot can be shared with many users or user groups. Depending on needs, there are two ways to share access to the FarmBot, each suitable in different scenarios.
 
 # Creating multiple web app accounts
@@ -15,9 +16,13 @@ If your users are sharing the same physical FarmBot but need to have their own a
 
 When a user or group is going to use the FarmBot, they can power down the machine, insert their microSD card, power it back on, and control the FarmBot with their web app account. For smaller FarmBots, users may need to [swap in a growing tray with their garden in it](https://www.youtube.com/watch?v=8q1syAAzhfA). For larger FarmBots, they may only be allocated a certain portion of the growing area to use.
 
-![swap growing trays](_images/swap_growing_trays.png =700px)
+![swap growing trays](/web/docs/how-to-guides/_images/swap_growing_trays.png =700x)
 
-> **✅ Recommended for schools:** Creating multiple web app accounts and microSD cards is recommended for educational institutions where multiple classrooms or student groups may all be sharing one physical FarmBot but need access to their own sequences, plants, etc to achieve the desired learning experience.
+> **✅ Recommended for schools:** 
+> 
+> Creating multiple web app accounts and microSD cards is recommended for educational institutions where multiple classrooms or student groups may all be sharing one physical FarmBot but need access to their own sequences, plants, etc to achieve the desired learning experience.
+{.is-success}
+
 
 # Sharing web app credentials
 
@@ -25,7 +30,11 @@ If all of your users need to have full access to the same account resources (seq
 
 This method should only be used when the total number of users is relatively small (less than 10) and when every person who is given the credentials can be trusted to have full control over the FarmBot and the web app account's resources (creating, editing, and deleting sequences, plants, events, sensors, gardens, etc).
 
-> **⚠️ Note:** Keep in mind that whoever has the web app credentials may perform irreversible actions such as deleting the account entirely, modifying FarmBot settings, or changing the account password.
+> **⚠️ Note:** 
+> 
+> Keep in mind that whoever has the web app credentials may perform irreversible actions such as deleting the account entirely, modifying FarmBot settings, or changing the account password.
+{.is-warning}
+
 
 Sharing web app credentials is only recommended for small groups of users that share a high level of trust and who all need to have access to the same account resources. For example: a team of four working on a FarmBot research project together.
 
