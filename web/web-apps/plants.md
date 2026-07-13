@@ -1,22 +1,23 @@
 ---
-title: "Plants"
-description: "Add and manage the plants in your garden [Open this panel in the app](https://my.farm.bot/app/designer/plants)"
+title: Plants
+description: Add and manage the plants in your garden [Open this panel in the app](https://my.farm.bot/app/designer/plants)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:03:58.017Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T08:02:06.179Z
 ---
+
 You can view all of your plants in the **plants panel** list, as well as in the map as a virtual representation of your FarmBot bed.
 
 # Adding plants
 To add a plant, click the <span class="fb-button fb-green"><i class='fa fa-plus'></i></span> button in the plants panel. This will open the **choose a crop** panel where you can type in the name of the **crop** you would like the add to your garden. We recommend searching for more generic common crop names rather than specific varieties and cultivars, for example, "Mushrooms".
 
-![crop catalog](_images/crop_catalog.png =700px)
+![crop catalog](/web/web-apps/_images/crop_catalog.png =700x)
 
 Once you've found the crop that you'd like to add, click it to open the **crop details panel**. Here you'll find information (from [OpenFarm](https://openfarm.cc)) about the crop including a brief description, an image, the scientific name, expected spread, spacing suggestions, and more.
 
-![golden beet crop page](_images/golden_beet_crop_page.png =700px)
+![golden beet crop page](/web/web-apps/_images/golden_beet_crop_page.png =700x)
 
 From here, there are three methods by which you can add plants to your garden, which we'll discuss in the following subsections.
 
@@ -27,21 +28,21 @@ Drag and drop the crop image into the **map** to create a **plant** in your **ga
 >
 > Drag and drop does not work with touchscreens.
 
-![drag and drop planting](_images/drag_and_drop_planting.gif =700px)
+![drag and drop planting](/web/web-apps/_images/drag_and_drop_planting.gif =700x)
 
  Alternatively, click the `ADD TO MAP` button and drag and drop the **crop icon** into the map.
 
-![drag and drop planting from add panel](_images/drag_and_drop_planting_from_add_panel.gif =700px)
+![drag and drop planting from add panel](/web/web-apps/_images/drag_and_drop_planting_from_add_panel.gif =700x)
 
 ## Click to add
 Whenever the `ADD TO MAP` panel is open, clicking on the map will add another plant to that location.
 
-![click to add plant](_images/click_to_add_plant.gif =700px)
+![click to add plant](/web/web-apps/_images/click_to_add_plant.gif =700x)
 
 ## Grid and row planting
 From the `ADD TO MAP` panel, use the form to create a **grid** or **row** of plants. Simply specify the starting plant's coordinates, and the number of plants and spacing you want in each direction. Then press `PREVIEW` to preview the grid or row in the map. If you are happy with the results, press `SAVE` to add the plants, otherwise press `CANCEL`.
 
-![grid planting](_images/grid_planting.gif =700px)
+![grid planting](/web/web-apps/_images/grid_planting.gif =700x)
 
 > 📘
 >
@@ -57,7 +58,7 @@ To change the plant's location, you can either enter new coordinates in the **X*
  * Short light red dashes will appear around other plants in the map when they are horizontally or vertically aligned with the current plant.
  * The current plant's spread will appear, along with other plants' spreads if the plants are close by. If the current plant's spread overlaps with another plant's spread, the other plant's spread will turn colors indicating the degree of overlap. Green indicates a nearby plant spread, yellow is slightly overlapping, and red is severely overlapping.
 
-![edit plant location](_images/edit_plant_location.png =700px)
+![edit plant location](/web/web-apps/_images/edit_plant_location.png =700x)
 
 # Deleting plants
 To delete a plant, click on it to bring up the plant details panel. Then press the <span class="fb-button fb-red">DELETE</span> button. Press the <span class="fb-button fb-gray">DELETE MULTIPLE</span> button to bring up the **multi-select panel** for deleting multiple plants at once, or taking other actions on the selection.
