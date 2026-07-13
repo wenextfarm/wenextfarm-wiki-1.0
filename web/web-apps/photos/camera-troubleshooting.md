@@ -1,20 +1,21 @@
 ---
-title: "Camera Troubleshooting"
+title: Camera Troubleshooting
 description: 
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:40:03.287Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:54:40.427Z
 ---
+
 Use this document to troubleshoot camera issues and determine if you need to replace the camera. Common camera issues include:
 1) When trying to take a photo, the USB Camera is not detected.
 
-![usb camera not detected log message](_images/usb_camera_not_detected_log_message.png =700px)
+![usb camera not detected log message](/web/web-apps/photos/_images/usb_camera_not_detected_log_message.png =700x)
 
 2) Photos are showing up as black images.
 
-![black image in photo viewer](_images/black_image_in_photo_viewer.png =700px)
+![black image in photo viewer](/web/web-apps/photos/_images/black_image_in_photo_viewer.png =700x)
 
 # Step 1: Reflash FarmBot OS
 
@@ -28,7 +29,7 @@ Before troubleshooting the camera itself, first [manually reflash FarmBot OS ont
 
 For Genesis models, also check to make sure that 90 Degree USB camera cable connector at the Raspberry Pi is plugged in sufficiently. Give both ends of the connector an extra push to ensure that everything is connected.
 
-![90 degree usb adapter](_images/90_degree_usb_adapter.png =700px)
+![90 degree usb adapter](/web/web-apps/photos/_images/90_degree_usb_adapter.png =700x)
 
 Once the issues with the intermediate connectors are resolved the “[take photo] - USB camera not detected” error will likely go away. If you are still having trouble with your camera, continue onto the next step.
 
@@ -37,7 +38,7 @@ Once the issues with the intermediate connectors are resolved the “[take photo
 ## FarmBot Genesis
 Test the camera in another device such as a laptop or desktop computer and see if the USB device is recognized. This borescope camera is a plug-and-play USB device and it should be instantly recognized by a PC or Mac. Check if you are able to generate an image using the camera. Once you know that the borescope camera works properly and is able to produce an image move on to the next step.
 
-![camera plugged into laptop](_images/camera_plugged_into_laptop.png =700px)
+![camera plugged into laptop](/web/web-apps/photos/_images/camera_plugged_into_laptop.png =700x)
 
 If your camera is not recognized by another device please contact us (contact@farm.bot) and we will send you a replacement camera. If your camera is recognized, please proceed to the next step.
 
@@ -47,14 +48,18 @@ Please test your micro USB camera by plugging it directly into your phone or oth
 
 For testing in a smartphone you may need to download an app to test the camera on your device. The [USB Camera - Connect EasyCap or USB WebCam](https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera) on the Google Play Store worked for us.
 
-> **ℹ️ Note:** The **use hardware decoder** setting needs to be turned OFF for the app to access the camera.
+> **ℹ️ Note:** 
+> 
+> The **use hardware decoder** setting needs to be turned OFF for the app to access the camera.
+{.is-info}
 
 
-![use hardware decoder setting screenshot](_images/use_hardware_decoder_setting_screenshot.png =700px)
+
+![use hardware decoder setting screenshot](/web/web-apps/photos/_images/use_hardware_decoder_setting_screenshot.png =700x)
 
 Once the app is installed and the camera is plugged into your device, you should be able to test the operation of the camera. If the camera is functional, the USB Camera web app will display an image similar to the one shown below. If the camera is not functioning properly the device will fail to recognize the camera.
 
-![image from camera in phone app](_images/image_from_camera_in_phone_app.png =700px)
+![image from camera in phone app](/web/web-apps/photos/_images/image_from_camera_in_phone_app.png =700x)
 
 ## Results of Camera Testing for both Genesis and Express Cameras
 
@@ -66,7 +71,7 @@ If you are still having trouble with your camera, continue onto the next step.
 
 The Raspberry Pi 3 computers sometimes have issues with their USB ports. Visually check the USB port for any debris or packaging material that may have gotten into the USB port. If one port does not function, test all 4 USB ports to see if a camera connection can be made.
 
-![raspberry pi with usb ports labeled](_images/raspberry_pi_with_usb_ports_labeled.png =700px)
+![raspberry pi with usb ports labeled](/web/web-apps/photos/_images/raspberry_pi_with_usb_ports_labeled.png =700x)
 
 If your camera is recognized by another device however your camera is not recognized by the Raspberry Pi 3, it is likely that your Raspberry Pi 3 has faulty USB ports. If this is your situation please [contact us](mailto:contact@farm.bot) and we will send you a replacement Raspberry Pi 3.
 
@@ -75,17 +80,21 @@ If your camera is recognized by another device however your camera is not recogn
 If you are getting blank or completely black images from your FarmBot camera, there is likely low voltage getting to your Raspberry Pi to power the camera. This means that the camera is being recognized by the USB port but there is not sufficient voltage to produce an image.
 This photo below is an example of Blank or Black photos produced from low voltage at the Raspberry Pi.
 
-![black image in photo viewer](_images/black_image_in_photo_viewer.png =700px)
+![black image in photo viewer](/web/web-apps/photos/_images/black_image_in_photo_viewer.png =700x)
 
 To confirm this issue, measure the voltage across the GPIO pins on the Raspberry Pi Adapter Board. We are looking to measure the voltage between Pin 2 and Pin 6 as shown in the diagram below.
 
-> **🚫 Note:** While measuring the voltage across the GPIO pins, please take care to only touch the pins you intend to measure. Touching multiple pins with the multimeter probes or touching the probes together will cause a short circuit and damage the electronics.
+> **🚫 Note:** 
+> 
+> While measuring the voltage across the GPIO pins, please take care to only touch the pins you intend to measure. Touching multiple pins with the multimeter probes or touching the probes together will cause a short circuit and damage the electronics.
+{.is-danger}
 
 
-![rpi pin header diagram with 5v and ground pins labeled](_images/rpi_pin_header_diagram_with_5v_and_ground_pins_labeled.png =700px)
+
+![rpi pin header diagram with 5v and ground pins labeled](/web/web-apps/photos/_images/rpi_pin_header_diagram_with_5v_and_ground_pins_labeled.png =700x)
 
 
-![pi adapter board with 5v and ground pins labeled](_images/pi_adapter_board_with_5v_and_ground_pins_labeled.png =700px)
+![pi adapter board with 5v and ground pins labeled](/web/web-apps/photos/_images/pi_adapter_board_with_5v_and_ground_pins_labeled.png =700x)
 
 ​If the voltage measures below 4.8V please request a new USB power cable at [contact@farm.bot](mailto:contact@farm.bot).
 
