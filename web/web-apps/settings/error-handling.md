@@ -1,12 +1,13 @@
 ---
-title: "Error Handling"
-description: ":stop_sign: Let FarmBot know what to do when something goes wrong. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=error_handling)"
+title: Error Handling
+description: :stop_sign: Let FarmBot know what to do when something goes wrong. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=error_handling)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:52:36.914Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:55:52.460Z
 ---
+
 # Max retries
 
 The number of times that FarmBot will try to move to a position before stopping and reporting that the movement has failed.
@@ -21,13 +22,21 @@ Emergency stop if movement is not complete after the maximum number of retries. 
 
 # Advanced settings
 
-> **ℹ️ Note:** These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+> **ℹ️ Note:** 
+> 
+> These [advanced settings](../settings.md#show-advanced-settings) are not shown by default.
+{.is-info}
+
 
 ## Timeout after
 
 This is the amount of time in seconds that the firmware will wait until a movement command times out, or stops executing. The default value for each axis is 120 seconds.
 
-> **⚠️ Use reasonable timeout values:** Do not set the timeout times to extremely high values (such as 20,000 seconds). Under certain circumstances, such as when endstops and encoders are disabled and you send an extremely long movement command, this could cause your FarmBot to stall at the end of an axis for a very long time, requiring an e-stop or system reboot.
+> **⚠️ Use reasonable timeout values:** 
+> 
+> Do not set the timeout times to extremely high values (such as 20,000 seconds). Under certain circumstances, such as when endstops and encoders are disabled and you send an extremely long movement command, this could cause your FarmBot to stall at the end of an axis for a very long time, requiring an e-stop or system reboot.
+{.is-warning}
+
 
 ## Calibration retry reset distance
 
