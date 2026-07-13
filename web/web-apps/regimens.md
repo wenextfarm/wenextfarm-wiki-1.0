@@ -1,12 +1,13 @@
 ---
-title: "Regimens"
-description: "Plant care recipes for your FarmBot to follow :seedling: [Open this panel in the app](https://my.farm.bot/app/designer/regimens)"
+title: Regimens
+description: Plant care recipes for your FarmBot to follow :seedling: [Open this panel in the app](https://my.farm.bot/app/designer/regimens)
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:22:27.659Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T08:02:18.904Z
 ---
+
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLMUPc8XfxI0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLMUPc8XfxI0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLMUPc8XfxI0%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 **Regimens** allow you to easily take care of a plant throughout its entire life and re-use each "recipe" season after season. To explain the utility of regimens, let's go through a practical example. Imagine you create three sequences for growing Cherry Tomatoes:
@@ -28,32 +29,36 @@ Let's look at our tomatoes example again, this time using a regimen to reach the
 2. `Light Watering` will run every other day from **Day 2 to 13**
 3. `Medium Watering` will run every other day from **Day 15 to 49**
 
-![regimen](_images/regimen.png =700px)
+![regimen](/web/web-apps/_images/regimen.png =700x)
 
 We can then use events to schedule this regimen to start on March 1st, March 9th, March 25th, and April 19th. Using this method, we created one regimen and four events, instead of the 12 events from before. Plus, we can continue to re-use the regimen each time we want to re-plant tomatoes to save even more time. We can also make changes to the regimen and all of the scheduled instances will be updated automatically.
 
 # Creating a regimen
 
-![no regimens yet](_images/no_regimems_yet.png =700px)
+![no regimens yet](/web/web-apps/_images/no_regimems_yet.png =700x)
 
 In the **Regimens** panel, press the <span class="fb-button fb-gray"><i class='fa fa-plus'></i></span> button to create a new regimen. The new regimen will be loaded into the panel. Give your regimen a descriptive name and optionally assign it a color.
 
-![a new regimen](_images/new_regimen.png =700px)
+![a new regimen](/web/web-apps/_images/new_regimen.png =700x)
 
 To add a sequence to the regimen, press the <span class="fb-button fb-gray">SCHEDULE ITEM</span> button then select the **SEQUENCE** you wish to add to the regimen. Pick a **TIME** and the **DAYS** for it to run. For this example, we will run the `Seed Injection` sequence at `10am` on `Day 1`. Press the <span class="fb-button fb-green"><i class='fa fa-plus'></i></span> button to add the sequence to the regimen.
 
-> **⚠️ FarmBot performs updates at 3AM:** Avoid adding any regimen items between 2AM and 4AM.
+> **⚠️ FarmBot performs updates at 3AM:** 
+> 
+> Avoid adding any regimen items between 2AM and 4AM.
+{.is-warning}
 
-![regimen scheduler with seed injection added](_images/regimen_scheduler_seed_injection_added.png =700px)
+
+![regimen scheduler with seed injection added](/web/web-apps/_images/regimen_scheduler_seed_injection_added.png =700x)
 
 To view the added items, click <i class='fa fa-arrow-left'></i> to leave the scheduler. If you make a mistake, remove items from the regimen by clicking the <i class='fa fa-trash'></i> icon next to the item you wish to remove. If you need to edit or review a sequence, click the <i class='fa fa-external-link'></i> icon to navigate to that sequence.
 
-![regimen with seed injection item](_images/regimen_with_seed_injection_item.png =700px)
+![regimen with seed injection item](/web/web-apps/_images/regimen_with_seed_injection_item.png =700x)
 
 Next we'll add a `Light Watering` sequence to the regimen to run at `8PM` every other day for the first two weeks, and last we'll add a `Medium Watering` sequence to run at `8PM` every other day for weeks 3 through 7. Clicking <i class='fa fa-arrow-left'></i> will leave the scheduler so we can review the added items. Press <span class="fb-button fb-green">SAVE</span> to save the regimen.
 
-![regimen scheduler with light watering sequence added](_images/regimen_scheduler_light_watering_added.png =700px)
-![regimen scheduler with medium watering items added](_images/regimen_scheduler_medium_watering_added.png =700px)
+![regimen scheduler with light watering sequence added](/web/web-apps/_images/regimen_scheduler_light_watering_added.png =700x)
+![regimen scheduler with medium watering items added](/web/web-apps/_images/regimen_scheduler_medium_watering_added.png =700x)
 ![regimen saved](_images/regimen_saved.png =700px)
 
 # Running a regimen
