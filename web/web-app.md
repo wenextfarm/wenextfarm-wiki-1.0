@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T03:36:17.023Z
+date: 2026-07-13T03:46:47.906Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -76,5 +76,46 @@ dateCreated: 2026-07-13T02:38:53.507Z
 ---
 
 
-* [Weeds](/web/web-apps/weeds.md)
+* [Regimens](/web/web-apps/Regimens.md){target=_blank}
+
+* [Events](/web/web-apps/Events.md){target=_blank}
+
+
+#### * [Controls](/web/web-apps/Controls.md) {target=_blank}
+ * [Move](/web/web-apps/controls/move.md){target=_blank}
+ * [Peripherals](/web/web-apps/controls/peripherals.md){target=_blank}
+ * [Webcam Feeds](/web/web-apps/controls/webcam-feeds.md){target=_blank}
+
+* [Sensors](/web/web-apps/Sensors.md){target=_blank}
+
+#### * [Photos](/web/web-apps/Photos.md) {target=_blank}
+ * [Filter Map Photos](/web/web-apps/photos/filter-map-photos.md){target=_blank}
+ * [Camera Settings](/web/web-apps/photos/camera-settings.md){target=_blank}
+ * [Camera Calibration](/web/web-apps/photos/camera-calibration.md){target=_blank}
+ * [Weed Detection](/web/web-apps/photos/weed-detection.md){target=_blank}
+ * [Measure Soil Height](/web/web-apps/photos/measure-soil-height.md){target=_blank}
+ * [Camera Troubleshooting](/web/web-apps/photos/camera-troubleshooting.md){target=_blank}
+ * [Plug and Play Cameras](/web/web-apps/photos/plug-and-play-cameras.md){target=_blank}
+
+
+
+* [Tools](/web/web-apps/Tools.md){target=_blank}
+
+#### * [Settings](/web/web-apps/Settings.md) {target=_blank}
+ * [Account Settings](/web/web-apps/settings/account-settings.md){target=_blank}
+ * [FarmBot Settings](/web/web-apps/settings/farmbot-settings.md){target=_blank}
+ * [Axes](/web/web-apps/settings/axes.md){target=_blank}
+ * [Motors](/web/web-apps/settings/motors.md){target=_blank}
+ * [Encoders](/web/web-apps/settings/encoders.md){target=_blank}
+ * [Stall Detection](/web/web-apps/settings/stall-detection.md){target=_blank}
+ * [Limit Switches](/web/web-apps/settings/limit-switches.md){target=_blank}
+ * [Error Handling](/web/web-apps/settings/error-handling.md){target=_blank}
+ * [Pin Bindings](/web/web-apps/settings/pin-bindings.md){target=_blank}
+ * [Pin Guard](/web/web-apps/settings/pin-guard.md){target=_blank}
+ * [Parameter Management](/web/web-apps/settings/parameter-management.md){target=_blank}
+ * [Custom Settings](/web/web-apps/settings/custom-settings.md){target=_blank}
+
+
+
+
     
