@@ -1,12 +1,13 @@
 ---
-title: "For IT Security Professionals"
+title: For IT Security Professionals
 description: 
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:52:12.643Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:16:02.347Z
 ---
+
 FarmBot requires access to various servers to operate properly.
 
 The first server is the web server (HTTPS). The servers are operated in the United States by Heroku, a Salesforce subsidiary. Heroku subcontracts their infrastructure services to Amazon Web Services (AWS). The servers reside in Amazon's `us-east-1` region, which is located in Virginia. The server uses the domains `my.farm.bot` and `my.farmbot.io`. Both domains point to the same server. Services are provided on TCP port 443 (HTTPS and WSS). Heroku does not provide lists of IP ranges, but they should mirror Amazon's us-east-1 IP ranges. We do not have control over IP allocation, but the most up-to-date list can be found [here](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html). Our DNS server is `herokudns.com`.
@@ -15,7 +16,11 @@ The second server is the real-time message broker, which runs the RabbitMQ softw
 
 **New FarmBot OS port requirement (March 2021):** FarmBot requires access to TCP port 8883. This port is used for MQTT. You must enable this port prior to upgrading to FBOS versions above 13.0.1. Please update port restrictions as quickly as possible, as upgrades are mandatory for continued device operation on the publicly hosted server at my.farm.bot.
 
-> **ℹ️ Long-running connections are required:** Connections to this server will be kept open for long periods of time via the WebSocket protocol. This is critical to the smooth operation of the device. From the perspective of your security software, it will appear as a long-running HTTPS connection. It is important that your security software does not prematurely close this socket. Disallowing the use of WebSockets or attempting to close sockets after a timeout is a common obstacle to smooth device operation in an enterprise setting.
+> **ℹ️ Long-running connections are required:** 
+> 
+> Connections to this server will be kept open for long periods of time via the WebSocket protocol. This is critical to the smooth operation of the device. From the perspective of your security software, it will appear as a long-running HTTPS connection. It is important that your security software does not prematurely close this socket. Disallowing the use of WebSockets or attempting to close sockets after a timeout is a common obstacle to smooth device operation in an enterprise setting.
+{.is-info}
+
 
 The FarmBot device also requires outbound access to two redundant NTP servers for setting the system clock: `0.pool.ntp.org` and `1.pool.ntp.org`. The servers are based in the United States. The services are provided on UDP port 123. **Obstructed NTP access is an extremely common source of FarmBot failures in an enterprise setting**.
 
