@@ -1,15 +1,20 @@
 ---
-title: "Measure soil height"
-description: "Map your garden's soil surface using FarmBot's camera."
+title: Measure soil height
+description: Map your garden's soil surface using FarmBot's camera.
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T06:38:04.697Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:54:53.476Z
 ---
+
 FarmBot uses computer vision software to detect the average z-axis coordinate of the soil in an image. See [how it works](https://developer.farm.bot/docs/measure-soil-height).
 
-> **ℹ️ Note:** While the **Measure Soil Height** feature provides an automated method for mapping the soil surface, you may also manually add soil surface points through the [points panel](https://my.farm.bot/app/designer/points). It is recommended to add at least several points manually (even if using the automatic method) for comparison.
+> **ℹ️ Note:** 
+> 
+> While the **Measure Soil Height** feature provides an automated method for mapping the soil surface, you may also manually add soil surface points through the [points panel](https://my.farm.bot/app/designer/points). It is recommended to add at least several points manually (even if using the automatic method) for comparison.
+{.is-info}
+
 
 # Calibrate
 
@@ -40,11 +45,11 @@ When measuring soil height, FarmBot will:
 5. Process the images to determine the soil height
 6. Upload the processed image and create a soil height point
 
-![measure soil height](_images/measure_soil_height.gif =700px)
+![measure soil height](/web/web-apps/photos/_images/measure_soil_height.gif =700x)
 
 For full garden soil mapping, follow the [scan the garden for weeds guide](../../docs/how-to-guides/scan-the-garden-for-weeds.md) and use the <span class="fb-step fb-run-farmware">Measure Soil Height</span> sequence command.
 
-![full garden soil mapping](_images/measure_soil_height_whole_garden.gif =700px)
+![full garden soil mapping](/web/web-apps/photos/_images/measure_soil_height_whole_garden.gif =700x)
 
 # Check results
 
@@ -58,11 +63,11 @@ After scanning the entire bed for soil height, it is likely you will have a coup
 
 To remove or adjust outliers, open up the [soil height points list](../points.md#soil-height-points) and inspect the highest and lowest points on the list. Note that all soil height measurements are color coded on a white-to-black scale with the lightest measurements having the highest z coordinates and the darkest measurements having the lowest. If there are any outliers, click them to open the edit point panel and either delete the point entirely or manually adjust it's z coordinate.
 
-![soil height outliers](_images/soil_height_outliers.png =700px)
+![soil height outliers](/web/web-apps/photos/_images/soil_height_outliers.png =700x)
 
 You may also open the [profile viewer](../farm-designer.md#profile-viewer) and check the detected soil cross-section to quickly find any anomalies.
 
-![soil height outlier in profile viewer](_images/soil_height_outlier_in_profile_viewer.png =700px)
+![soil height outlier in profile viewer](/web/web-apps/photos/_images/soil_height_outlier_in_profile_viewer.png =700x)
 
 # Use soil height
 
@@ -70,7 +75,7 @@ After checking the detected soil points and removing or adjusting any outliers, 
 
 Then, from any <span class="fb-step fb-move">Move</span> command in your sequences, select Soil height in the z-coordinate **OVERRIDE** dropdown.
 
-![use soil height in move command](_images/soil_height_move_command.png =700px)
+![use soil height in move command](/web/web-apps/photos/_images/soil_height_move_command.png =700x)
 
 # Tips
 
