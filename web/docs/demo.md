@@ -1,12 +1,13 @@
 ---
-title: "Demo the App"
-description: "Try before you buy at [demo.farm.bot](http://demo.farm.bot) :robot: :seedling:"
+title: Demo the App
+description: Try before you buy at [demo.farm.bot](http://demo.farm.bot) :robot: :seedling:
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T02:46:18.482Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:13:55.229Z
 ---
+
 If you're thinking about getting a FarmBot but want to try the app first, you can use our **demo account** feature. Simply go to [demo.farm.bot](http://demo.farm.bot) and click <span class="fb-button fb-blue">DEMO THE APP</span> at the bottom of the screen. The demo can be tried on desktop computers, laptops, tablets, and phones.
 
 <div class="laptop" style="perspective: 1000px;">
