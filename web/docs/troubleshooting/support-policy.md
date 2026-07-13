@@ -1,12 +1,13 @@
 ---
-title: "Support Policy"
-description: "60 days after a version is released, all previous releases will be considered deprecated"
+title: Support Policy
+description: 60 days after a version is released, all previous releases will be considered deprecated
 published: true
-date: 2026-07-10T14:00:00.000Z
+date: 2026-07-13T05:52:41.746Z
 tags: v15
 editor: markdown
-dateCreated: 2026-07-10T13:58:00.000Z
+dateCreated: 2026-07-10T07:16:14.687Z
 ---
+
 When a new version of a software package is released, users are expected to upgrade as soon as possible.
 
 **60 days after a version is released, all previous releases will be considered deprecated.** Devices running deprecated software may experience breaking changes that result in a loss of access to FarmBot servers. Bug reports for deprecated releases will not be investigated unless the issue is reproducible on non-deprecated releases.
@@ -30,4 +31,8 @@ To focus as much of our resources on moving forward, FarmBot Inc does not provid
  * Causes slowdowns and compromises on new feature development due to backward compatibility requirements.
  * Hurts the legitimacy of FarmBot when security breaches occur due to unpatched vulnerabilities by end-users that refuse to upgrade.
 
-> **ℹ️ No LTS:** Due to resource constraints and the issues noted above, **FarmBot Inc does not provide [long term support (LTS)](https://en.wikipedia.org/wiki/Long-term_support) for any of its software packages** and reserves the right to deny server access to devices that fail to update in a timely manner.
+> **ℹ️ No LTS:** 
+> 
+> Due to resource constraints and the issues noted above, **FarmBot Inc does not provide [long term support (LTS)](https://en.wikipedia.org/wiki/Long-term_support) for any of its software packages** and reserves the right to deny server access to devices that fail to update in a timely manner.
+{.is-info}
+
