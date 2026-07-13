@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T02:50:44.829Z
+date: 2026-07-13T02:51:30.627Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -20,6 +20,6 @@ dateCreated: 2026-07-13T02:38:53.507Z
  * [Measure Soil Moisture](/web/docs/how-to-guides/measure-soil-moisture.md){target=_blank}
  * [Perform Actions on Many Plants](/web/docs/how-to-guides/perform-actions-on-many-plants.md){target=_blank}
  * [Use FarmBot's Buttons](/web/docs/how-to-guides/use-farmbots-buttons.md){target=_blank}
- * [Scan the Garden for Weeds]/web/docs/(how-to-guides/scan-the-garden-for-weeds.md){target=_blank}
+ * [Scan the Garden for Weeds](/web/docs/how-to-guides/scan-the-garden-for-weeds.md){target=_blank}
  * [Share FarmBot with Many Users](/web/docs/how-to-guides/share-farmbot-with-many-users.md){target=_blank}
  * [Use the Rotary Tool](/web/docs/how-to-guides/use-the-rotary-tool.md){target=_blank}
