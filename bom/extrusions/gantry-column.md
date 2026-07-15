@@ -2,11 +2,12 @@
 title: Gantry Column
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-15T06:13:05.180Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-15T04:59:08.836Z
 ---
+
 ![](_images/gantry_column.jpg =700x)
 ![](_images/gantry_column_closeup.jpg =700x)
 
@@ -21,7 +22,6 @@ dateCreated: 2026-07-08T09:58:30.747Z
 | material | 6063-T5 Aluminum |
 | surface treatment | Sand blasted and clear anodized |
 
-**价格:** $15.00
 **数量:** standard: 2 | xl: 2
 **CAD 模型:** [在线预览](https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/5e4be9906800472a862f2982?configuration=List_q9HBefhOmUpWt5%3D_5000&renderMode=0&uiState=6254ebce50f84e1a8d3b78d8)
 
