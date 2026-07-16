@@ -2,7 +2,7 @@
 title: bom
 description: 
 published: true
-date: 2026-07-16T06:19:14.151Z
+date: 2026-07-16T06:20:57.339Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-14T11:12:34.587Z
@@ -26,10 +26,10 @@ dateCreated: 2026-07-14T11:12:34.587Z
 Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit our shop to purchase parts.
 | NO. | Physical photos | Component Designation   | Specification| Quantity  |
 |-----|-----------------|-------------|-------------|-------|
-| 1 |![belt_clip.jpeg](/bom/plates-and-brackets/_images/belt_clip.jpeg)|[belt-clip](/bom/plates-and-brackets/belt-clip) |500mm         | 2             |
-| 1 | ![cable_carrier_mount_35mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_35mm.jpg)  |  [cable-carrier-mount-35mm](/bom/plates-and-brackets/cable-carrier-mount-35mm)  |500mm         | 2             |
-| 1 | ![cable_carrier_mount_80mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_80mm.jpg)  |  [cable-carrier-mount-80mm](/bom/plates-and-brackets/cable-carrier-mount-80mm)  |500mm         | 2             |
-| 1 | ![cross-slide_plate.jpg](/bom/plates-and-brackets/_images/cross-slide_plate.jpg)  |  [cross-slide-plate](/bom/plates-and-brackets/cross-slide-plate)  |500mm         | 2             |
+| 1 |![belt_clip.jpeg](/bom/plates-and-brackets/_images/belt_clip.jpeg =300x)|[belt-clip](/bom/plates-and-brackets/belt-clip) |500mm         | 2             |
+| 1 | ![cable_carrier_mount_35mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_35mm.jpg =300x)  |  [cable-carrier-mount-35mm](/bom/plates-and-brackets/cable-carrier-mount-35mm)  |500mm         | 2             |
+| 1 | ![cable_carrier_mount_80mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_80mm.jpg =300x)  |  [cable-carrier-mount-80mm](/bom/plates-and-brackets/cable-carrier-mount-80mm)  |500mm         | 2             |
+| 1 | ![cross-slide_plate.jpg](/bom/plates-and-brackets/_images/cross-slide_plate.jpg =300x)  |  [cross-slide-plate](/bom/plates-and-brackets/cross-slide-plate)  |500mm         | 2             |
 
 
 
