@@ -2,7 +2,7 @@
 title: bom
 description: 
 published: true
-date: 2026-07-16T06:20:57.339Z
+date: 2026-07-16T06:22:29.483Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-14T11:12:34.587Z
@@ -13,7 +13,7 @@ dateCreated: 2026-07-14T11:12:34.587Z
 
 ## Extrusions
 
-| NO. | Physical photos | Component Designation   | Specification| Quantity  |
+|-----NO. | Physical photos | Component Designation   |------- Specification|---- Quantity  |
 |-----|-----------------|-------------|-------------|-------|
 | 1 |![gantry_column.jpg](/bom/extrusions/_images/gantry_column.jpg =300x) | [gantry-column](/bom/extrusions/gantry-column)       |500mm         | 2             |
 | 2 |![gantry_main_beam.jpg](/bom/extrusions/_images/gantry_main_beam.jpg =300x)| [gantry-main-beam](/bom/extrusions/gantry-main-beam)| 1500mm      |1 |
