@@ -2,7 +2,7 @@
 title: bom
 description: 
 published: true
-date: 2026-07-16T02:50:04.030Z
+date: 2026-07-16T06:19:14.151Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-14T11:12:34.587Z
@@ -19,25 +19,31 @@ dateCreated: 2026-07-14T11:12:34.587Z
 | 2 |![gantry_main_beam.jpg](/bom/extrusions/_images/gantry_main_beam.jpg =300x)| [gantry-main-beam](/bom/extrusions/gantry-main-beam)| 1500mm      |1 |
 | 3 |![track_extrusion_closeup.jpg](/bom/extrusions/_images/track_extrusion_closeup.jpg =300x)| [track-extrusion](/bom/extrusions/track-extrusion)|1500mm       | 4|
 | 4 |![z-axis_extrusion_closeup.jpg](/bom/extrusions/_images/z-axis_extrusion_closeup.jpg =300x)| [z-axis-extrusion](/bom/extrusions/z-axis-extrusion)|1000mm       |1 |
+| 1 |   |    |500mm         | 2             |
 
 
-
-| NO. | Physical photos | Part        | Specification| Qty  |
+## Plates and Brackets
+Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit our shop to purchase parts.
+| NO. | Physical photos | Component Designation   | Specification| Quantity  |
 |-----|-----------------|-------------|-------------|-------|
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
+| 1 |![belt_clip.jpeg](/bom/plates-and-brackets/_images/belt_clip.jpeg)|[belt-clip](/bom/plates-and-brackets/belt-clip) |500mm         | 2             |
+| 1 | ![cable_carrier_mount_35mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_35mm.jpg)  |  [cable-carrier-mount-35mm](/bom/plates-and-brackets/cable-carrier-mount-35mm)  |500mm         | 2             |
+| 1 | ![cable_carrier_mount_80mm.jpg](/bom/plates-and-brackets/_images/cable_carrier_mount_80mm.jpg)  |  [cable-carrier-mount-80mm](/bom/plates-and-brackets/cable-carrier-mount-80mm)  |500mm         | 2             |
+| 1 | ![cross-slide_plate.jpg](/bom/plates-and-brackets/_images/cross-slide_plate.jpg)  |  [cross-slide-plate](/bom/plates-and-brackets/cross-slide-plate)  |500mm         | 2             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
