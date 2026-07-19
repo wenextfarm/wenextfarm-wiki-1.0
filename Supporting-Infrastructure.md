@@ -2,26 +2,26 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-19T03:12:28.951Z
+date: 2026-07-19T03:18:57.508Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
 ---
 
-FarmBot's tracks need to be attached to **supporting infrastructure** such as a typical raised garden bed. Where you decide to install your FarmBot will determine how you setup your tracks and therefore what type of supporting infrastructure you need.
+WenextFarm's tracks need to be attached to **supporting infrastructure** such as a typical raised garden bed. Where you decide to install your WenextFarm will determine how you setup your tracks and therefore what type of supporting infrastructure you need.
 
 In the next sections we offer advice for building four types of supporting infrastructure: a **fixed raised bed**, a **mobile raised bed**, **wood posts**, and **pier block supports**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.
 
 |<i></i>             |----------- P1 ------------ |-----------   P1(MAX) ------------|
 |--------------------|:------------------:|:-------------------------------------------:|
-|Fixed Raised Bed    |:heavy_check_mark:  |:heavy_check_mark:                           |
-|Mobile Raised Bed   |:heavy_check_mark:  |:no_entry:                                   |
-|Wood Posts          |:heavy_check_mark:  |:heavy_check_mark:                           |
-|Pier Block Supports |:heavy_check_mark:  |:heavy_check_mark:                           |
+|[Fixed Raised Bed](supporting-infrastructure/raised-bed.md)    |:heavy_check_mark:  |:heavy_check_mark:                           |
+|[Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md)   |:heavy_check_mark:  |:no_entry:                                   |
+|[Wood Posts](supporting-infrastructure/wood-posts.md)|:heavy_check_mark:  |:heavy_check_mark:                           |
+|[Pier Block Supports](supporting-infrastructure/pier-block-supports.md) |:heavy_check_mark:  |:heavy_check_mark:                           |
 
 > **✅ Be prepared:** 
 > 
-> If you recently ordered a FarmBot kit, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you'll be prepared for a faster assembly time when your package arrives.
+> If you recently ordered a WenextFarm kit, you may want to begin building your supporting infrastructure while your WenextFarm is in the mail. This way you'll be prepared for a faster assembly time when your package arrives.
 {.is-success}
 
 
@@ -98,7 +98,7 @@ In the next sections we offer advice for building four types of supporting infra
     </a>
   </h3>
   <p style="margin-bottom: 10px;">
-    If you have ideas or suggestions about our products, wiki content or you wish to discuss farmbot topics with fellow farmbot enthusiasts, we invite you to join our Forum. You will find a lot of Bambu Lab users sharing various topics related to WenextFarm.
+    If you have ideas or suggestions about our products, wiki content or you wish to discuss WenextFarm topics with fellow WenextFarm enthusiasts, we invite you to join our Forum. You will find a lot of Bambu Lab users sharing various topics related to WenextFarm.
   </p>
   <div style="text-align: center;">
     <a href="https://forum.WenextFarm.com/" target="_blank" style="display: inline-block; padding: 4px 16px; background: #007bff; color: #ffffff; border: none; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
