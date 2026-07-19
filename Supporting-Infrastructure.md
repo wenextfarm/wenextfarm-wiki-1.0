@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-19T03:18:57.508Z
+date: 2026-07-19T03:25:46.192Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -12,12 +12,12 @@ WenextFarm's tracks need to be attached to **supporting infrastructure** such as
 
 In the next sections we offer advice for building four types of supporting infrastructure: a **fixed raised bed**, a **mobile raised bed**, **wood posts**, and **pier block supports**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.
 
-|<i></i>             |----------- P1 ------------ |-----------   P1(MAX) ------------|
-|--------------------|:------------------:|:-------------------------------------------:|
-|[Fixed Raised Bed](supporting-infrastructure/raised-bed.md)    |:heavy_check_mark:  |:heavy_check_mark:                           |
-|[Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md)   |:heavy_check_mark:  |:no_entry:                                   |
-|[Wood Posts](supporting-infrastructure/wood-posts.md)|:heavy_check_mark:  |:heavy_check_mark:                           |
-|[Pier Block Supports](supporting-infrastructure/pier-block-supports.md) |:heavy_check_mark:  |:heavy_check_mark:                           |
+|<i></i>             |------- P1 -------- |-------   P1(MAX) ---------|------- A1 -------|
+|--------------------|:------------------:|:-------------------------------------------:|------------------:|
+|[Fixed Raised Bed](supporting-infrastructure/raised-bed.md)    |:heavy_check_mark:  |:heavy_check_mark:  |Comes with a built-in planting bed|
+|[Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md) |:heavy_check_mark: |:no_entry:                                   |Comes with a built-in planting bed|
+|[Wood Posts](supporting-infrastructure/wood-posts.md)|:heavy_check_mark:  |:heavy_check_mark:                   |Comes with a built-in planting bed|
+|[Pier Block Supports](supporting-infrastructure/pier-block-supports.md) |:heavy_check_mark:  |:heavy_check_mark:                 |Comes with a built-in planting bed|
 
 > **✅ Be prepared:** 
 > 
