@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-22T00:48:46.714Z
+date: 2026-07-22T00:55:08.341Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -162,4 +162,39 @@ You can find articles related to WenextFarm products in the following categories
   </div>
 </div>
 
+
+<!-- 这段文字在渲染后的页面中不会显示，下面为论坛模块 -->
+
+<div style="border-left: 4px solid #007bff; padding: 15px; background-color: #f8f9fa; border-radius: 0 5px 5px 0; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #007bff;">
+    <a href="https://forum.WenextFarm.com/" target="_blank" style="color: #007bff; text-decoration: none;">
+      ☁ ☁ Participate in the WenextFarm Community Forum
+    </a>
+  </h3>
+  <p style="margin-bottom: 10px;">
+    If you have ideas or suggestions about our products, wiki content or you wish to discuss WenextFarm topics with fellow WenextFarm enthusiasts, we invite you to join our Forum. You will find a lot of Bambu Lab users sharing various topics related to WenextFarm.
+  </p>
+  <div style="text-align: center;">
+    <a href="https://forum.WenextFarm.com/" target="_blank" style="display: inline-block; padding: 4px 16px; background: #007bff; color: #ffffff; border: none; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
+      Check out our Forum →
+    </a>
+  </div>
+</div>
+
+
+<div style="border-left: 4px solid #007bff; padding: 15px; background-color: #f8f9fa; border-radius: 0 5px 5px 0; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #007bff;">
+    <a href="/Glossary" target="_blank" style="color: #007bff; text-decoration: none;">
+      📚 Glossary
+    </a>
+  </h3>
+  <p style="margin-bottom: 10px;">
+    This page provides a glossary of common terms and abbreviations used in the WenextFarm community. We recommend reviewing this glossary to better understand the content across the wiki. If you encounter a term on any wiki page that is unfamiliar, you can refer to this glossary for a clear and detailed explanation.
+  </p>
+  <div style="text-align: center;">
+    <a href="/Glossary" target="_blank" style="display: inline-block; padding: 4px 16px; background: #007bff; color: #ffffff; border: none; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
+      Go to Glossary →
+    </a>
+  </div>
+</div>
 
