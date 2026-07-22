@@ -2,7 +2,7 @@
 title: FarmBot OS
 description: Step-by-step instructions for installing FarmBot OS. Download the latest FarmBot OS `.img` file at [os.farm.bot](http://os.farm.bot).
 published: true
-date: 2026-07-10T13:32:51.988Z
+date: 2026-07-22T12:39:57.978Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:24.903Z
@@ -15,7 +15,6 @@ The Raspberry Pi runs a custom operating system named **FarmBot OS**, allowing F
   * Take photos with a USB or Raspberry Pi camera, and upload the photos to the web application.
   * Get configured over WiFi, mitigating the need to plug in a mouse, keyboard, or screen.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F76ZwipJ3Dpw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D76ZwipJ3Dpw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F76ZwipJ3Dpw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 # Step 1: Download FarmBot OS
 
@@ -27,7 +26,7 @@ Using a desktop computer or laptop, go to [os.farm.bot](http://os.farm.bot) to d
 
 To write FarmBot OS onto the microSD card, you must use a special **`.img` writing tool** called **[Raspberry Pi Imager](https://www.raspberrypi.com/software/)**.
 
-> **🚫 Drag and drop will not work:** 
+> **Drag and drop will not work** 
 > 
 > Using your computer's default file browser to drag and drop or copy and paste the FarmBot OS `.img` file onto the microSD card **will not work**. You *must* use Raspberry Pi Imager.
 {.is-danger}
@@ -48,7 +47,7 @@ Open up the Raspberry Pi Imager program and make the following selections:
 
 ![choose the microSD card storage](/web/farmbot-os/_images/rpi_imager_choose_storage.png =700x)
 
-> **⚠️ Do not use large capacity microSD cards:** 
+> **Do not use large capacity microSD cards** 
 > 
 > FarmBot OS will not work with microSD cards larger than 32GB in capacity. Please use the microSD card provided with your FarmBot kit.
 {.is-warning}
