@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-22T07:51:56.094Z
+date: 2026-07-22T14:00:24.489Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -31,12 +31,11 @@ In the next sections we offer advice for building four types of supporting infra
   <!-- 卡片 1：H2系列 -->
   <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/raised-bed.md" style="text-decoration: none; color: inherit;">
-      <img src="/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png" alt="H2系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.jpg" alt="H2系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Fixed Raised Bed</strong>
     </a>
   </div>
-
   <!-- 卡片 2：X系列 -->
   <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/mobile-raised-bed.md" style="text-decoration: none; color: inherit;">
