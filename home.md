@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-22T00:44:53.239Z
+date: 2026-07-22T00:48:46.714Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -59,14 +59,37 @@ You can find articles related to WenextFarm products in the following categories
   </div>
 </div>
 
-
-
-## 维护保养
+## Software
 
 💡 In here you can find some of the most searched pages on our wiki!
 
 <div style="text-align: center;">
-  <!-- 卡片 1：P1 -->
+  <!-- 卡片 1：web-app -->
+  <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
+      <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <br>
+      <strong>Web-app</strong>
+    </a>
+  </div>
+  
+  <!-- 卡片 2：OS -->
+  <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <a href="/Glossary" style="text-decoration: none; color: inherit;">
+      <img src="/wiki/wiki_questions_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <br>
+      <strong>OS</strong>
+    </a>
+  </div>
+</div>
+
+
+## Usage experience
+
+💡 In here you can find some of the most searched pages on our wiki!
+
+<div style="text-align: center;">
+  <!-- 卡片 1：种植床 -->
   <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -74,7 +97,7 @@ You can find articles related to WenextFarm products in the following categories
       <strong>Supporting Infrastructure</strong>
     </a>
   </div>
-    <!-- 卡片 1：P1 -->
+    <!-- 卡片 2：维护保养 -->
   <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -82,7 +105,7 @@ You can find articles related to WenextFarm products in the following categories
       <strong>Troubleshooting</strong>
     </a>
   </div>
-  <!-- 卡片 2：P1 max -->
+  <!-- 卡片 3：常见问题 -->
   <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Glossary" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_questions_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -90,7 +113,7 @@ You can find articles related to WenextFarm products in the following categories
       <strong>Maintenance</strong>
     </a>
   </div>
-  <!-- 卡片 3：A -->
+  <!-- 卡片 4：DIY -->
   <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_know_icon.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -102,12 +125,16 @@ You can find articles related to WenextFarm products in the following categories
 
 
 
+
+
+
+
 ## General Pages
 
 💡 In here you can find some of the most searched pages on our wiki!
 
 <div style="text-align: center;">
-  <!-- 卡片 1：P1 -->
+  <!-- 卡片 1：知识分享 -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -116,7 +143,7 @@ You can find articles related to WenextFarm products in the following categories
     </a>
   </div>
   
-  <!-- 卡片 2：P1 max -->
+  <!-- 卡片 2：常见术语 -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Glossary" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_questions_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
@@ -125,7 +152,7 @@ You can find articles related to WenextFarm products in the following categories
     </a>
   </div>
 
-  <!-- 卡片 3：A -->
+  <!-- 卡片 3：FAQ -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wiki_know_icon.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
