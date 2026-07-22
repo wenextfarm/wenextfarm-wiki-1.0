@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-22T00:55:08.341Z
+date: 2026-07-22T01:09:09.046Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -197,4 +197,21 @@ You can find articles related to WenextFarm products in the following categories
     </a>
   </div>
 </div>
+
+## ✅ Help us improve
+
+our feedback is a valuable part of our wiki content, and we would love it if you could share it with us through comments or messages, so that we can continuously improve and refine the wiki pages. Our goal is to provide accurate and comprehensive information about the WenextFarm project, which extends the original FarmBot system.
+
+If you find any errors or inaccuracies, please leave a comment or contact us at [wiki@wenextfarm.com](mailto:wiki@wenextfarm.com) or open an issue on our GitHub repository. Your ongoing feedback and support will help us enhance both the project and its documentation.
+
+At the bottom of each page in the WenextFarm Wiki, you can use the comment section to provide feedback, ask questions, offer additional information, or point out corrections regarding the content.
+
+Please note that we do not provide technical support through these comments. For specific technical questions or help requests, please refer to the official FarmBot documentation or reach out to the WenextFarm community via our [WenextFarm Farum](https://forum.WenextFarm.com)  .
+
+
+## Use of the Site
+
+Some content on this WenextFarm wiki (including but not limited to text, images, diagrams, configuration examples, etc.) references the official FarmBot documentation. This wiki is created as a customized reference for the WenextFarm open‑source project, which extends the original FarmBot system. This wiki is independently maintained for WenextFarm, and all original FarmBot copyrights and trademarks remain with their respective owners.
+
+
 
