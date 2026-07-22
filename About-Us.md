@@ -2,7 +2,7 @@
 title: About Us
 description: We are WenextFarm – a name that carries our vision for the future: the next stop for farming is at home.
 published: true
-date: 2026-07-22T03:02:09.473Z
+date: 2026-07-22T07:28:16.659Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T05:46:52.052Z
@@ -16,10 +16,11 @@ We are three passionate young people from China, driven by both enthusiasm and a
 
 WenextFarm has always been committed to providing better services to our customers. You can contact us through the following ways:
 
-Official website: https://www.wenextfarm.com
-WenextFarm-web-app：https://my.wenextfarm.com
-Forun：https://forum.wenextfarm.com
-Email: contact@wenextfarm.com
+Official website: [Fixed Raised Bed](supporting-infrastructure/raised-bed.md){target=_blank}
+[https://www.wenextfarm.com](https://www.wenextfarm.com) {target=_blank}
+WenextFarm-web-app：https://my.wenextfarm.com{target=_blank}
+Forun：https://forum.wenextfarm.com{target=_blank}
+Email: contact@wenextfarm.com{target=_blank}
 
 
 
