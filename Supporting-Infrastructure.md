@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-22T14:00:24.489Z
+date: 2026-07-22T14:17:41.196Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -39,7 +39,7 @@ In the next sections we offer advice for building four types of supporting infra
   <!-- 卡片 2：X系列 -->
   <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/mobile-raised-bed.md" style="text-decoration: none; color: inherit;">
-      <img src="/Supporting-Infrastructure/_images/mobile_raised_bed.jpg" alt="X1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/Supporting-Infrastructure/_images/mobile_raised_bed（1）.jpg" alt="X1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Mobile Raised Bed</strong>
     </a>
@@ -48,7 +48,7 @@ In the next sections we offer advice for building four types of supporting infra
   <!-- 卡片 3：P系列 -->
   <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/wood-posts.md" style="text-decoration: none; color: inherit;">
-      <img src="/Supporting-Infrastructure/_images/wood_posts_genesis.png" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/Supporting-Infrastructure/_images/wood_posts_genesis.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Wood Posts
      </strong>
@@ -58,7 +58,7 @@ In the next sections we offer advice for building four types of supporting infra
   <!-- 卡片 4：A系列 -->
   <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
-      <img src="/supporting-infrastructure/_images/pier_block_supports_genesis.png" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/Supporting-Infrastructure/_images/pier_block_supports_genesis.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Pier Block Supports</strong>
     </a>
@@ -83,7 +83,5 @@ In the next sections we offer advice for building four types of supporting infra
     </a>
   </div>
 </div>
-
-
-
+![mobile_raised_bed（1）.jpg]()
 
