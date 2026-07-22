@@ -2,7 +2,7 @@
 title: About Us
 description: We are WenextFarm – a name that carries our vision for the future: the next stop for farming is at home.
 published: true
-date: 2026-07-22T02:43:40.941Z
+date: 2026-07-22T02:49:57.799Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T05:46:52.052Z
@@ -17,7 +17,7 @@ WenextFarm has always been committed to providing better services to our custome
 
 Official website: https://www.wenextfarm.com
 WenextFarm-web-app：https://my.wenextfarm.com
-forun：https://forum.wenextfarm.com
+Forun：https://forum.wenextfarm.com
 Email: contact@wenextfarm.com
 
 
@@ -26,10 +26,12 @@ Email: contact@wenextfarm.com
 ## What We Do
 We build cost‑effective, high‑quality open‑source CNC farming hardware, making this powerful “agricultural robot” affordable and easy to use. Whether you are a beginner growing on a city balcony or a maker exploring vertical farming, aquaponics, or other innovative systems, our machines are designed to be your key to unlocking the future of fresh food.
 
+
 ## Our Starting Point
 Our first step is FarmBot – an open‑source precision agriculture project invented by Rory Aronson, Rick Carlino, and Tim Evers. We consider it the most exciting platform available today. But we are not simply copying it; we are making extensive modifications and upgrades: improving the structure, simplifying assembly, and adapting it to a wider range of growing scenarios. We also produce and sell hardware kits, and we reinvest all proceeds into product iteration.
 
 We firmly believe that only when more people use, experiment with, and improve open‑source technology can it truly flourish.
+
 
 ## Why Are Our Prices So Competitive?
 Lower R&D costs – We stand on the shoulders of the open‑source community. Most of our designs are derived from FarmBot, which saves us enormous upfront development expenses.
