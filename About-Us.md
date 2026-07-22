@@ -1,8 +1,8 @@
 ---
 title: About Us
-description: We are wenextfarm – a name that carries our vision for the future: the next stop for farming is at home.
+description: We are WenextFarm – a name that carries our vision for the future: the next stop for farming is at home.
 published: true
-date: 2026-07-14T09:10:57.534Z
+date: 2026-07-22T02:25:08.838Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T05:46:52.052Z
@@ -32,10 +32,10 @@ We are now exploring smaller‑scale, industrial‑grade automated farming solut
 We believe that the combination of technology and agriculture should not just be a grand narrative; it should also be the simple joy of everyone being able to eat food they grew themselves.
 
 ## Our Relationship with FarmBot
-We are MicroFarm – an independent company founded by three devoted fans of FarmBot. We are not FarmBot Inc., nor do we represent the official project. If you love and want to support the original main project, please visit FarmBot’s official website – we encourage you to do so. What we can do, in the spirit of open source, is to lower the entry barrier with more affordable hardware and localised service, so that more people can first get their hands on it and then create with it.
+We are WenextFarm – an independent company founded by three devoted fans of FarmBot. We are not FarmBot Inc., nor do we represent the official project. If you love and want to support the original main project, please visit FarmBot’s official website – we encourage you to do so. What we can do, in the spirit of open source, is to lower the entry barrier with more affordable hardware and localised service, so that more people can first get their hands on it and then create with it.
 
 
 ---
 
 
-wenextfarm – where the future begins with a single seed.
+WenextFarm – where the future begins with a single seed.
