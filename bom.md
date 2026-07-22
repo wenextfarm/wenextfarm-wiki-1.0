@@ -2,7 +2,7 @@
 title: bom
 description: 
 published: true
-date: 2026-07-16T06:33:33.869Z
+date: 2026-07-22T07:55:59.984Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-14T11:12:34.587Z
@@ -43,6 +43,17 @@ Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit our sh
 | 1 |  ![z-axis_motor_mount.jpg](/bom/plates-and-brackets/_images/z-axis_motor_mount.jpg =300x) |  [z-axis-motor-mount](/bom/plates-and-brackets/z-axis-motor-mount)  |500mm         | 2             |
 
 
+
+部分样式
+<blockquote class="is-info">
+  <p>
+    💡 提示：点击此链接查看 
+    <strong>
+      <a href="/en/general/filament-guide-material-table" target="_blank">耗材指南 - 与打印机、喷嘴、AMS、构建平台、胶水和所需参数的兼容性</a>
+    </strong>
+    。
+  </p>
+</blockquote>
 
 
 
