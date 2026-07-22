@@ -2,7 +2,7 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-13T06:00:01.487Z
+date: 2026-07-22T12:43:25.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
@@ -72,14 +72,11 @@ dateCreated: 2026-07-13T02:38:53.507Z
  * [Shared Sequences](/web/web-apps/sequences/shared-sequences.md){target=_blank}
  * [Featured Sequences](/web/web-apps/sequences/featured-sequences.md){target=_blank}
 
-
 ---
-
 
 * [Regimens](/web/web-apps/Regimens.md){target=_blank}
 
 * [Events](/web/web-apps/Events.md){target=_blank}
-
 
 #### * [Controls](/web/web-apps/Controls.md) {target=_blank}
  * [Move](/web/web-apps/controls/move.md){target=_blank}
@@ -98,7 +95,6 @@ dateCreated: 2026-07-13T02:38:53.507Z
  * [Plug and Play Cameras](/web/web-apps/photos/plug-and-play-cameras.md){target=_blank}
 
 
-
 * [Tools](/web/web-apps/Tools.md){target=_blank}
 
 #### * [Settings](/web/web-apps/Settings.md) {target=_blank}
@@ -114,8 +110,3 @@ dateCreated: 2026-07-13T02:38:53.507Z
  * [Pin Guard](/web/web-apps/settings/pin-guard.md){target=_blank}
  * [Parameter Management](/web/web-apps/settings/parameter-management.md){target=_blank}
  * [Custom Settings](/web/web-apps/settings/custom-settings.md){target=_blank}
-
-
-
-
-    
