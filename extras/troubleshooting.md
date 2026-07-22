@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: 
 published: true
-date: 2026-07-10T13:43:48.379Z
+date: 2026-07-22T07:53:55.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:20.303Z
@@ -24,7 +24,7 @@ Having issues with your FarmBot's hardware? Try looking through our troubleshoot
  * [Mounting and Dismounting Tools](troubleshooting/mounting-and-dismounting-tools.md)
  
  
-> **✅ We're here to help:** 
+> **We're here to help:** 
 > 
-> Still having issues? Please email contact@farm.bot or consider posting in the [community forum](https://forum.wenextfarm.com.).
+> Still having issues? Please email [contact@wenextfarm.com](contact@wenextfarm.com) or consider posting in the [community forum](https://forum.wenextfarm.com).
 {.is-success}
