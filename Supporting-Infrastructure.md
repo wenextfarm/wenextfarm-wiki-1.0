@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-22T07:47:24.269Z
+date: 2026-07-22T07:51:39.365Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -86,13 +86,5 @@ In the next sections we offer advice for building four types of supporting infra
 </div>
 
 
-<blockquote class="is-info">
-  <p>
-    💡 提示：点击此链接查看 
-    <strong>
-      <a href="/en/general/filament-guide-material-table" target="_blank">耗材指南 - 与打印机、喷嘴、AMS、构建平台、胶水和所需参数的兼容性</a>
-    </strong>
-    。
-  </p>
-</blockquote>
+
 
