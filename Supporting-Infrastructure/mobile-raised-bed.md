@@ -2,7 +2,7 @@
 title: Mobile Raised Bed
 description: 
 published: true
-date: 2026-07-10T00:18:26.752Z
+date: 2026-07-22T14:20:19.085Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:20:08.446Z
@@ -10,17 +10,17 @@ dateCreated: 2026-07-08T10:20:08.446Z
 
 Building a **mobile raised bed** is the recommended method for installing FarmBot Genesis **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, warehouse, or museum space.
 
-> **⚠️ Not suitable for Genesis XL:** We do not recommend building a mobile raised bed for Genesis XL devices because it would be extremely heavy and difficult to move.
+> **Not suitable for Genesis XL** We do not recommend building a mobile raised bed for Genesis XL devices because it would be extremely heavy and difficult to move.
 
-![mobile raised bed](/Supporting-Infrastructure/_images/mobile_raised_bed.jpg =700x)
+![mobile_raised_bed（1）.jpg](/Supporting-Infrastructure/_images/mobile_raised_bed（1）.jpg =700x)
 
-> **ℹ️ 6 hours:** This is the estimated time it will take to build a mobile raised bed.
+> **ℹ6 hours** This is the estimated time it will take to build a mobile raised bed.
 
 # Determining bed size
 
 We recommend building your mobile raised bed as big as it can be for your space, without exceeding the maximum assembled size of the FarmBot. This will ensure you get the most value out of your FarmBot without making the bed unnecessarily large. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
-> **✅ Consider your space:** In determining how large your bed can be, consider if you will ever need to move the bed from room to room, down any hallways, around any corners, and/or through any doorways. Your bed should be able to fit nicely in all the places you want to place it *and* be moveable between those places.
+> **Consider your space:** In determining how large your bed can be, consider if you will ever need to move the bed from room to room, down any hallways, around any corners, and/or through any doorways. Your bed should be able to fit nicely in all the places you want to place it *and* be moveable between those places.
 
 For FarmBot Genesis kits, the outer width of your bed must not be wider than 1.48m. While the outer length _can_ be longer than 3m, we do not recommend building beyond 3m long, as any larger and the bed will become unwieldy, and that soil space will not be reachable by the FarmBot.
 
@@ -166,7 +166,7 @@ Unfold the **tarp** and lay it in the bed such that it wraps up the side walls. 
 
 Fill the bed with a mix of soil and compost, and keep out large rocks and branches. We recommend purchasing potting soil from your local nursery.
 
-> **✅ Congrats!:** Your mobile raised bed is now ready for your FarmBot installation.
+> **Congrats!:** Your mobile raised bed is now ready for your FarmBot installation.
 
 ![bed filled with soil](/Supporting-Infrastructure/_images/bed_filled_with_soil.jpg =700x)
 
