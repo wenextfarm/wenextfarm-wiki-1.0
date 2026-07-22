@@ -2,7 +2,7 @@
 title: bom
 description: 
 published: true
-date: 2026-07-22T07:55:59.984Z
+date: 2026-07-22T08:20:37.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-14T11:12:34.587Z
@@ -55,7 +55,7 @@ Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit our sh
   </p>
 </blockquote>
 
-
+⚙ ⚒ 📦 ✉ 📖
 
 
 
