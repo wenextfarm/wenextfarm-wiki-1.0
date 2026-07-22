@@ -2,7 +2,7 @@
 title: About Us
 description: We are WenextFarm – a name that carries our vision for the future: the next stop for farming is at home.
 published: true
-date: 2026-07-22T02:25:08.838Z
+date: 2026-07-22T02:43:40.941Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T05:46:52.052Z
@@ -10,6 +10,18 @@ dateCreated: 2026-07-10T05:46:52.052Z
 
 
 We are three passionate young people from China, driven by both enthusiasm and a deep respect for the soil, as well as a love for technology. We believe that farming should not be a laborious chore far from city life, but a creative and accessible experience for everyone. That's why we chose FarmBot as our starting point – but we are not stopping there.
+
+## Contact Us
+
+WenextFarm has always been committed to providing better services to our customers. You can contact us through the following ways:
+
+Official website: https://www.wenextfarm.com
+WenextFarm-web-app：https://my.wenextfarm.com
+forun：https://forum.wenextfarm.com
+Email: contact@wenextfarm.com
+
+
+
 
 ## What We Do
 We build cost‑effective, high‑quality open‑source CNC farming hardware, making this powerful “agricultural robot” affordable and easy to use. Whether you are a beginner growing on a city balcony or a maker exploring vertical farming, aquaponics, or other innovative systems, our machines are designed to be your key to unlocking the future of fresh food.
