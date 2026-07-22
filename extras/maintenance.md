@@ -1,19 +1,23 @@
 ---
 title: Maintenance
-description: 
+description: Daily use and maintenance
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-22T08:02:09.448Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T04:03:10.627Z
 ---
-In the following sections we'll go over maintenance tips and techniques that can keep your FarmBot operating like the day you installed it.
 
-# What's next?
+In the following sections, we will cover maintenance tips and techniques to help keep your WenextFarm operating as reliably as it did on the day of installation.
 
- * [General Maintenance](maintenance/general-maintenance.md)
- * [Track Maintenance](maintenance/track-maintenance.md)
- * [Gantry Maintenance](maintenance/gantry-maintenance.md)
- * [UTM and Tool Maintenance](maintenance/utm-and-tool-maintenance.md)
- * [Storing FarmBot for Winter](maintenance/storing-farmbot-for-winter.md)
- * [Thermal Management](maintenance/thermal-management.md)
+## WenextFarm
+ * [General Maintenance](maintenance/general-maintenance.md){target=_blank}
+ * [Track Maintenance](maintenance/track-maintenance.md){target=_blank}
+ * [Gantry Maintenance](maintenance/gantry-maintenance.md){target=_blank}
+ * [UTM and Tool Maintenance](maintenance/utm-and-tool-maintenance.md){target=_blank}
+ * [Storing FarmBot for Winter](maintenance/storing-farmbot-for-winter.md){target=_blank}
+ * [Thermal Management](maintenance/thermal-management.md){target=_blank}
+
+
+> If you encounter any issues during use or have maintenance tips to share, you are welcome to post them on the [WenextFarm Forum](https://forum.wenextfarm.com). We will regularly compile these contributions and publish them in the WenextFarm Wiki for the benefit of all users.
+{.is-success}
