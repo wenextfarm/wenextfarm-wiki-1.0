@@ -2,12 +2,13 @@
 title: About Us
 description: We are WenextFarm – a name that carries our vision for the future: the next stop for farming is at home.
 published: true
-date: 2026-07-22T02:49:57.799Z
+date: 2026-07-22T03:02:09.473Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T05:46:52.052Z
 ---
 
+![生成图片_(1).jpg](/wiki/生成图片_(1).jpg)
 
 We are three passionate young people from China, driven by both enthusiasm and a deep respect for the soil, as well as a love for technology. We believe that farming should not be a laborious chore far from city life, but a creative and accessible experience for everyone. That's why we chose FarmBot as our starting point – but we are not stopping there.
 
