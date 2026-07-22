@@ -2,20 +2,26 @@
 title: Mods and Add-Ons
 description: 
 published: true
-date: 2026-07-20T13:08:27.222Z
+date: 2026-07-22T08:25:37.948Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:53.405Z
 ---
 
-FarmBot Genesis has been designed to be a platform for growing plants in any way you want. What comes out-of-the-box is just the beginning of what is possible. In the following documentation pages we share just a handful of ideas for what more you can do with your FarmBot. Go ahead and explore!
+WenextFarm is designed as a flexible platform for growing plants in virtually any way you envision. The out‑of‑the‑box setup is just the starting point. In the following documentation pages, we share a handful of ideas to inspire you to get even more out of your WenextFarm. Feel free to explore!
+
 
 ![This FarmBot has been augmented with a weather station](/extras/_images/farmbot_with_weather_station.jpg =700x)
 
-_This FarmBot has been augmented with a weather station_
+△ _This WenextFarm has been augmented with a weather station_
+
+
+> **Modify at your own risk** 
+> 
+> Please keep in mind that the following pages contain ideas for modifying your WenextFarm. They are not complete step‑by‑step guides, nor are they guaranteed to work in every case, and they may not fully meet your specific needs. We encourage you to treat these pages as sources of inspiration rather than definitive instructions. If you are interested in modifying or expanding your WenextFarm and would like support, feel free to post in the[community forum](http://forum.wenextfarm.com).
+{.is-info}
 
 ## Scalable Module
-
 
  * [CAD Mods](cad.md)
  * [Maximizing Output](mods/maximizing-output.md)
@@ -34,14 +40,8 @@ _This FarmBot has been augmented with a weather station_
  * [Control Relays](mods/control-relays.md)
  * [Tool Spec](mods/tool-spec.md)
 
-> **Modify at your own risk** 
-> 
-> Please note that the following pages contain *ideas* for how to modify your FarmBot. They are not necessarily complete instruction sets or guaranteed to work, and may not satisfy your needs. Please use these pages for *inspiration* only. If you would like support in modifying and adding on to your FarmBot, consider posting in the [community forum](http://forum.wenextfarm.com).
-{.is-info}
 
 
-
-# ⚙ ⚒ 📦 ✉ 📖  
 
 
 
