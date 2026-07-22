@@ -2,13 +2,13 @@
 title: Troubleshooting
 description: 
 published: true
-date: 2026-07-22T07:54:22.884Z
+date: 2026-07-22T07:54:55.688Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:20.303Z
 ---
 
-Having issues with your FarmBot's hardware? Try looking through our troubleshooting guides below. If you have software related issues, please see the [Software Troubleshooting Guide](/web/web-app).
+Having issues with your WenextFarm's hardware? Try looking through our troubleshooting guides below. If you have software related issues, please see the [Software Troubleshooting Guide](/web/web-app).
 
 
 ## Common Faults
