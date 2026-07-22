@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-19T03:27:12.805Z
+date: 2026-07-22T07:47:24.269Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -19,39 +19,17 @@ In the next sections we offer advice for building four types of supporting infra
 |[Wood Posts](supporting-infrastructure/wood-posts.md)|:heavy_check_mark:  |:heavy_check_mark:                   |Comes with a built-in planting bed|
 |[Pier Block Supports](supporting-infrastructure/pier-block-supports.md) |:heavy_check_mark:  |:heavy_check_mark:                 |Comes with a built-in planting bed|
 
-> **✅ Be prepared:** 
+> **Be prepared** 
 > 
 > If you recently ordered a WenextFarm kit, you may want to begin building your supporting infrastructure while your WenextFarm is in the mail. This way you'll be prepared for a faster assembly time when your package arrives.
 {.is-success}
 
 
 # Four tutorials on making planting beds
- * [Fixed Raised Bed](supporting-infrastructure/raised-bed.md)
- * [Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md)
- * [Wood Posts](supporting-infrastructure/wood-posts.md)
- * [Pier Block Supports](supporting-infrastructure/pier-block-supports.md)
-
-
-
-<a href="supporting-infrastructure/raised-bed.md" class="custom-btn">Fixed Raised Bed</a>
-
-![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =300x)
-
-<a href="supporting-infrastructure/mobile-raised-bed.md" class="custom-btn">Mobile Raised Bed</a>
-
-![all_legs_attached.jpg](/Supporting-Infrastructure/_images/mobile_raised_bed.jpg =300x)
-
-<a href="supporting-infrastructure/wood-posts.md" class="custom-btn">Wood Posts</a>
-
-![all_legs_attached.jpg](/Supporting-Infrastructure/_images/wood_posts_genesis.png =300x)
-
-<a href="supporting-infrastructure/pier-block-supports.md" class="custom-btn">Pier Block Supports</a>
-
-![all_legs_attached.jpg](/supporting-infrastructure/_images/pier_block_supports_genesis.png =300x)
-
+ 
 <div style="text-align: center;">
   <!-- 卡片 1：H2系列 -->
-  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/raised-bed.md" style="text-decoration: none; color: inherit;">
       <img src="/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png" alt="H2系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
@@ -60,7 +38,7 @@ In the next sections we offer advice for building four types of supporting infra
   </div>
 
   <!-- 卡片 2：X系列 -->
-  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/mobile-raised-bed.md" style="text-decoration: none; color: inherit;">
       <img src="/Supporting-Infrastructure/_images/mobile_raised_bed.jpg" alt="X1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
@@ -69,7 +47,7 @@ In the next sections we offer advice for building four types of supporting infra
   </div>
 
   <!-- 卡片 3：P系列 -->
-  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/wood-posts.md" style="text-decoration: none; color: inherit;">
       <img src="/Supporting-Infrastructure/_images/wood_posts_genesis.png" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
@@ -79,7 +57,7 @@ In the next sections we offer advice for building four types of supporting infra
   </div>
 
   <!-- 卡片 4：A系列 -->
-  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 40%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
       <img src="/supporting-infrastructure/_images/pier_block_supports_genesis.png" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
@@ -107,18 +85,6 @@ In the next sections we offer advice for building four types of supporting infra
   </div>
 </div>
 
-<div style="border-radius: 10px; padding: 8px; background: linear-gradient(135deg, #2b7fff 0%, #6ab1ff 100%); margin: 5px 0; box-shadow: none;">
-  <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-    <p style="color: #ffffff; margin: 0 0 1px; font-size: 22px; font-weight: bold;">
-      🚀 Must-Read for Beginners! Master Wiki in 3 Minutes
-    </p>
-    <a href="/en/how-to-use-wiki" style="display: inline-block; padding: 4px 16px; background: #ffd700; color: #2b7fff; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
-      📖 View Full Guide Now →
-    </a>
-  </div>
-</div>
-
-
 
 <blockquote class="is-info">
   <p>
@@ -129,10 +95,4 @@ In the next sections we offer advice for building four types of supporting infra
     。
   </p>
 </blockquote>
-
-
-| NO. | Physical photos | Description | Application | Marks |
-|-----|-----------------|-------------|-------------|-------|
-| 1 | ![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x)| Bambu Textured PEI Plate | Placed on the heat bed to hold the model. | Pre-installed on the heat bed of the printer |
-| 2 |![all_legs_attached.jpg](/supporting-infrastructure/_images/fixed_raised_bed_fill_bed.png =200x) | LCD Screen | | |
 
