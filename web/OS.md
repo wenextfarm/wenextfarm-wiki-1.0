@@ -2,13 +2,22 @@
 title: FarmBot OS
 description: 
 published: true
-date: 2026-07-13T04:01:23.156Z
+date: 2026-07-22T12:41:23.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T03:57:23.231Z
 ---
 
- ## FarmBot OS
+
+The Raspberry Pi runs a custom operating system named [FarmBot OS](https://my.wenextfarm.com/OS), allowing FarmBot to:
+
+- Communicate with the web application over WiFi or ethernet so that it can synchronize (download) sequences, regimens, farm designs, events, and more; upload logs and sensor data; and accept real-time commands.
+- Communicate with the Farmduino to send G and F commands and receive sensor and encoder data.
+- Take photos with a USB or Raspberry Pi camera, and upload the photos to the web application.
+- Get configured over WiFi, mitigating the need to plug in a mouse, keyboard, or screen.
+
+
+## FarmBot OS
  
  * [Intro FarmBot OS](/web/farmbot-os/intro.md){target=_blank}
  * [Configurator](/web/farmbot-os/intro/configurator.md)
