@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-23T07:57:44.686Z
+date: 2026-07-23T07:58:14.159Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
