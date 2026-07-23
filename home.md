@@ -2,15 +2,13 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-23T07:58:14.159Z
+date: 2026-07-23T14:56:46.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
 ---
 
 ## Welcome to WenextFarm Wiki !
-
-
 
 <div style="border-radius: 10px; padding: 8px; background: linear-gradient(135deg, #2b7fff 0%, #6ab1ff 100%); margin: 5px 0; box-shadow: none;">
   <div style="max-width: 800px; margin: 0 auto; text-align: center;">
@@ -52,7 +50,7 @@ You can find articles related to WenextFarm products in the following categories
   <!-- 卡片 3：A -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
-      <img src="/supporting-infrastructure/_images/pier_block_supports_genesis.png" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/a1.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>A1</strong>
     </a>
