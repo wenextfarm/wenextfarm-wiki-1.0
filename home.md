@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-22T01:34:17.400Z
+date: 2026-07-23T02:46:16.858Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -34,7 +34,7 @@ You can find articles related to WenextFarm products in the following categories
   <!-- 卡片 1：P1 -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="supporting-infrastructure/wood-posts.md" style="text-decoration: none; color: inherit;">
-      <img src="/Supporting-Infrastructure/_images/wood_posts_genesis.png" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/wenextfarm-p1.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>P1
      </strong>
