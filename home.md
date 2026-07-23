@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-23T07:37:21.804Z
+date: 2026-07-23T07:57:44.686Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -67,16 +67,15 @@ You can find articles related to WenextFarm products in the following categories
   <!-- 卡片 1：web-app -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/wenextfarm-web-app.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Web-app</strong>
     </a>
   </div>
-  
   <!-- 卡片 2：OS -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Glossary" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_questions_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/wenextfarm-os.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>OS</strong>
     </a>
