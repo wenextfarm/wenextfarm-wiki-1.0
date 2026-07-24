@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-23T14:56:46.814Z
+date: 2026-07-24T00:54:44.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -30,7 +30,7 @@ You can find articles related to WenextFarm products in the following categories
 <div style="text-align: center;">
   <!-- 卡片 1：P1 -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-    <a href="supporting-infrastructure/wood-posts.md" style="text-decoration: none; color: inherit;">
+    <a href="/P1" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wenextfarm-p1.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>P1
@@ -40,7 +40,7 @@ You can find articles related to WenextFarm products in the following categories
 
   <!-- 卡片 2：P1 max -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-    <a href="supporting-infrastructure/wood-posts.md" style="text-decoration: none; color: inherit;">
+    <a href="/P1-Max" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wenextfarm-p1-max.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>P1 MAX
@@ -49,7 +49,7 @@ You can find articles related to WenextFarm products in the following categories
   </div>
   <!-- 卡片 3：A -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-    <a href="/en/a-series" style="text-decoration: none; color: inherit;">
+    <a href="/A1" style="text-decoration: none; color: inherit;">
       <img src="/wiki/a1.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>A1</strong>
@@ -64,7 +64,7 @@ You can find articles related to WenextFarm products in the following categories
 <div style="text-align: center;">
   <!-- 卡片 1：web-app -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-    <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
+    <a href="/web/web-app" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wenextfarm-web-app.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Web-app</strong>
@@ -72,7 +72,7 @@ You can find articles related to WenextFarm products in the following categories
   </div>
   <!-- 卡片 2：OS -->
   <div style="display: inline-block; width: 30%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-    <a href="/Glossary" style="text-decoration: none; color: inherit;">
+    <a href="/web/OS" style="text-decoration: none; color: inherit;">
       <img src="/wiki/wenextfarm-os.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>OS</strong>
