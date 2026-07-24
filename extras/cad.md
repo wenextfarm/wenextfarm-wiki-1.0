@@ -2,7 +2,7 @@
 title: CAD Models
 description: 
 published: true
-date: 2026-07-24T01:29:30.053Z
+date: 2026-07-24T01:30:12.534Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:03.844Z
@@ -14,7 +14,7 @@ WenextFarm is designed based on FarmBot Genesis, and we are truly grateful to th
 
 # Copying and modifying parts
 
-Click on "FarmBot Genesis v1.6" to view the CAD models of FarmBot Genesis v1.6. This is because WenextFarm is redesigned and optimized based on FarmBot Genesis v1.6. To make any changes, you need to create your own copy. To do so, you will first need to sign up for a free Onshape account. Then you can click “Make a copy” in the top‑left corner of the Onshape workspace. Onshape will copy the entire workspace into a new document (owned by you), which will include all parts, drawings, assemblies, and other files.
+Click on ["FarmBot Genesis v1.6"](https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/3a231755273e980d277c3a4c) to view the CAD models of FarmBot Genesis v1.6. This is because WenextFarm is redesigned and optimized based on FarmBot Genesis v1.6. To make any changes, you need to create your own copy. To do so, you will first need to sign up for a free Onshape account. Then you can click “Make a copy” in the top‑left corner of the Onshape workspace. Onshape will copy the entire workspace into a new document (owned by you), which will include all parts, drawings, assemblies, and other files.
 
 > **Please note**
 > 
