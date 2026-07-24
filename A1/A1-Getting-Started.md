@@ -2,21 +2,21 @@
 title: A1 Getting Started & Configuration Guide (Important)
 description: 
 published: true
-date: 2026-07-24T02:56:40.396Z
+date: 2026-07-24T03:14:26.582Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T02:56:40.396Z
 ---
 
-1. Creating Your Web App Account
-1.1 Access the Website
+## Creating Your Web App Account
+### Access the Website
 Open a web browser and navigate to my.farm.bot.
 
 Note: The WnextFarm web frontend is scheduled to launch before May 1, 2026 — stay tuned!
 
 https://media/image1.jpeg{width="5.810416666666667in" height="2.863888888888889in"}
 
-1.2 Register an Account
+### 1.Register an Account
 Fill in the following fields:
 
 Email address
@@ -35,12 +35,12 @@ Check your email inbox and click the confirmation link to verify your account.
 
 https://media/image2.jpeg{width="4.486805555555556in" height="2.997916666666667in"}
 
-1.3 Log In to Your Account
+### 2.Log In to Your Account
 Sign in with your credentials to access the WnextFarm web application.
 
 https://media/image3.jpeg{width="5.684722222222222in" height="2.504166666666667in"}
 
-1.4 Select the FarmBot Version
+### 3.Select the FarmBot Version
 Navigate to the Message Center.
 
 Click on "Select FarmBot Version".
@@ -51,7 +51,7 @@ https://media/image4.png{width="5.676388888888889in" height="2.5256944444444445i
 
 https://media/image5.jpeg{width="3.316666666666667in" height="2.384027777777778in"}
 
-2. Configuring Firmware Version and Port
+##  Configuring Firmware Version and Port
 [IMPORTANT — Incorrect settings here will prevent your WnextFarm from connecting.]
 
 Follow the steps below to open the Advanced Settings panel:
@@ -65,7 +65,7 @@ Version	1.2
 Flash Path	tty USB 0
 https://media/image7.png{width="5.520138888888889in" height="2.8534722222222224in"}
 
-3. Network Setup and Connection
+##  Network Setup and Connection
 This section covers how to connect your WnextFarm to your local network.
 
 Turn on the power to your WnextFarm.
@@ -100,11 +100,11 @@ https://media/image12.jpeg{width="3.5125in" height="4.211805555555555in"}
 
 Reconnect your phone or computer to your regular WiFi network.
 
-4. Connection Status and Initial Setup
-4.1 Access the Web App
+## Connection Status and Initial Setup
+### 1.Access the Web App
 Open your browser and go to my.farm.bot, then log in to your account.
 
-4.2 Check Connection Status
+### 2.Check Connection Status
 Click the Connection Status button to verify whether your WnextFarm is properly connected to the web application.
 
 Note: Please be patient — it may take up to 5 minutes after completing network configuration for the machine to fully restart.
@@ -124,12 +124,12 @@ Version	1.2
 Flash Path	tty USB 0
 https://media/image14.png{width="5.44375in" height="2.776388888888889in"}
 
-4.3 Basic Machine Configuration
+### 3.Basic Machine Configuration
 [IMPORTANT — Incorrect settings here may prevent your WnextFarm from operating properly.]
 
 Open the Advanced Settings panel.
 
-4.3.1 Axes Configuration
+#### 1.1 Axes Configuration
 In the "Axes" tab, set the following axis lengths:
 
 Axis	Length
@@ -140,41 +140,43 @@ Spare soil height: -300
 
 https://media/image15.png{width="5.391666666666667in" height="3.290277777777778in"}
 
-4.3.2 Encoder Settings
+#### 1.2 Encoder Settings
 In the "Encoders" tab, turn off the encoders for the X, Y, and Z axes (one by one).
 
 https://media/image16.png{width="5.377777777777778in" height="3.276388888888889in"}
 
-4.3.3 Limit Switch Settings
+#### 1.3 Limit Switch Settings
 In the "Limit Switches" tab, turn on the limit switches for the X, Y, and Z axes.
 
 https://media/image17.png{width="5.628472222222222in" height="3.6416666666666666in"}
 
-5. Adding Peripherals
-5.1 Open the Peripherals Panel
+## Adding Peripherals
+### 1.Open the Peripherals Panel
 Click the "Controls" button, select the Peripherals window, then click "Edit".
 
 https://media/image18.png{width="5.374305555555556in" height="3.9243055555555557in"}
 
-5.2 Add a New Peripheral
+### 2.Add a New Peripheral
 Click the "+" button to add a new controlled peripheral device.
 
 https://media/image19.png{width="4.903472222222222in" height="3.29375in"}
 
-5.3 Configure Peripherals
+### 3.Configure Peripherals
 Add the following peripherals according to the table:
 
-Peripheral	Pin	Signal Mode
-Vacuum Pump	Pin 7	Digital
-LED	Pin 8	Digital
-Water Pump	Pin 9	Digital
-Grow Light	Pin 10	Digital
+|Peripheral	|Pin	    |Signal Mode|
+|-----------|---------|-----------|
+|Vacuum Pump|	Pin 7   |	Digital   |
+|LED        |	Pin 8	  |Digital    |
+|Water Pump	|Pin 9   	|Digital    |
+|Grow Light |	Pin 10	|Digital    |
+
 https://media/image20.png{width="4.929861111111111in" height="2.589583333333333in"}
 
-5.4 Save
+### 4.Save
 Click "Save" to confirm your settings.
 
-6. Adding Tool Slots
+## Adding Tool Slots
 Select the "Tools" option from the menu.
 
 Click the "+" button in the upper‑right corner to add a new tool.
@@ -217,7 +219,7 @@ Example of completed configuration:
 
 https://media/image26.png{width="4.815972222222222in" height="3.1118055555555557in"}
 
-7. Adding Sensors
+## Adding Sensors
 Select the "Sensors" option from the menu.
 
 Click the "Edit" button in the upper‑right corner.
@@ -230,11 +232,13 @@ https://media/image28.png{width="5.259027777777778in" height="2.5861111111111112
 
 Add the following sensors according to the table:
 
-Sensor	Pin	Signal Mode
-Soil Sensor	Pin 59 (A5)	Analog
-Tool Verification	Pin 8	Digital
-Vacuum Pressure Sensor	Pin 65 (A11)	Analog
-Light Sensor	Pin 66 (A12)	Analog
+|Sensor	    |Pin     	|Signal Mode|
+|-----------|---------|-----------|
+|Soil Sensor|Pin 59 (A5)|	Analog|
+|Tool Verification|	Pin 8|Digital|
+|Vacuum Pressure Sensor|Pin 65 (A11)	|Analog|
+|Light Sensor	|Pin 66 (A12)	|Analog|
+
 Click "Back" to return.
 
 Congratulations!
@@ -244,7 +248,4 @@ For more detailed software documentation, please refer to:
 
 FarmBot Official Documentation (English):
 https://software.farm.bot/v15/docs/intro
-
-FarmBot Community Documentation (Chinese):
-https://www.ncnynl.com/category/FarmBot-software/
 
