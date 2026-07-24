@@ -2,7 +2,7 @@
 title: WnextFarm A1 Unboxing & Setup Guide
 description: 
 published: true
-date: 2026-07-24T02:22:59.652Z
+date: 2026-07-24T03:17:26.991Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T02:11:41.324Z
@@ -120,5 +120,9 @@ Optional accessory: The unit comes with four legs that you can install if desire
 
 ![图片_20.png](/wiki/a1/图片_20.png =700x)
 
-Each of the 4 legs can be rotated to adjust their height (adjustable range: 24–36 cm).
+> Each of the 4 legs can be rotated to adjust their height (adjustable range: 24–36 cm).
+{.is-info}
+
+![a1.jpg](/wiki/a1.jpg)
+
 
