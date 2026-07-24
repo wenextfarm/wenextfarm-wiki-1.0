@@ -1,8 +1,8 @@
 ---
 title: CAD Models
-description: 
+description: WenextFarm is designed based on FarmBot Genesis.
 published: true
-date: 2026-07-24T01:30:12.534Z
+date: 2026-07-24T01:31:14.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:03.844Z
