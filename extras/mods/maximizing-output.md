@@ -2,28 +2,30 @@
 title: Maximizing Output
 description: 
 published: true
-date: 2026-07-11T08:46:31.215Z
+date: 2026-07-24T01:37:50.613Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:41.663Z
 ---
 
-FarmBot is primarily designed for servicing the area defined by the tracks and gantry (ie: within reach of the tool head). However, there are many ways in which FarmBot can take care of plants that are beyond the confines of the tracks and gantry. By using the techniques outlined below, you can maximize output and increase the value you get from your FarmBot.
+The growing zone that WenextFarm is designed to serve is typically bounded by the reach of its toolhead, as determined by the track and gantry system. Nevertheless, creative strategies exist to manage vegetation that lies outside this physical perimeter. By adopting the methods described in the following sections, you can boost overall productivity and significantly enhance the return on your investment in WenextFarm.
 
-# Place vining crops at the ends of the bed
-Many crops such as Pumpkins, Tomatoes, Squash, and Beans need a substantial amount of area to spread their foliage and fruits over. If you plant a row of these crops at the X-minimum and X-maximum ends of your raised bed, you can train them (by hand) to grow away from the bed and the FarmBot, allowing them to utilize additional area beyond the bed.
+## Position vine‑type crops at the two ends of the bed
+Certain vegetables—including pumpkins, tomatoes, squash, and beans—demand considerable space for their foliage and fruit to spread. When you plant these varieties in rows located at the X‑minimum and X‑maximum edges of your raised bed, you can manually guide their growth outward, away from both the bed and the WenextFarm system. This approach enables them to take advantage of the extra room available beyond the bed's boundaries.
 
 ![illustration of farmbot with vines at the ends of the bed](/extras/mods/_images/illustration_of_farmbot_with_vines_at_the_ends_of_the_bed.png =700x)
 
-As long as your FarmBot can continue to access the root location for watering, this technique can easily double or triple the amount of area your crops can utilize. This increased area allows for more sunlight to be absorbed, and more produce to be grown.
+Provided that the root zone remains accessible to the WenextFarm for irrigation purposes, this strategy can easily double or even triple the effective growing area available to your crops. The expanded footprint not only allows plants to capture more sunlight but also leads to significantly higher yields.
 
 > **✅ Manage the growth:** 
 > 
-> For this technique to be successful, you must ensure that these crops grow out of the bed only along the X-axis. If they grow out of the bed along the Y-axis, the plants will interfere with the tracks and the FarmBot's ability to move along the full length of the X-axis.
+> To make this approach work effectively, you will need to steer these plants so that they spread outward exclusively along the X direction. Should they instead extend beyond the bed along the Y direction, they would risk obstructing the track rails and thereby impede your WenextFarm's ability to travel the full span of the X‑axis.
 {.is-success}
 
 
-# Use additional solenoid valves to irrigate trees, bushes, and more
-By connecting additional solenoid valves, you can easily use FarmBot to irrigate other parts of your yard and garden. For example, you may have a row of fruit trees that need to be watered every week. By connecting a drip line to an extra solenoid valve, you can use the web app's Event scheduler to configure FarmBot to systematically water the trees every week for any duration of time. With a 1-year long Regimen, you could vary the amount of water the trees get based on the season without needing to manually adjust a timer every few months.
+## Expand irrigation capabilities with extra solenoid valves for trees, shrubs, and beyond
+By hooking up additional solenoid valves to your system, you can readily extend watering functions to other areas of your yard or garden. Take, for instance, a row of fruit trees that requires weekly watering. With a drip line attached to a spare solenoid valve, you can schedule the WenextFarm via the web app's Event scheduler to deliver water to those trees on a consistent weekly basis, for any desired run time. By setting up a Regimen that spans an entire year, you can adjust the water volume delivered to the trees according to seasonal changes—eliminating the need to manually readjust a timer every few months.
 
-This technique could be used to manage the water requirements of trees, bushes, lawns, compost piles, ponds, chicken coops, and even other garden beds. Depending on the water pressure available, you could use additional valves in combination with drip line, small sprinkler heads, soaker hose, and more.
+
+
+This approach can be applied to manage the hydration needs of trees, shrubs, lawns, compost piles, ponds, chicken coops, and even additional garden beds. Depending on your available water pressure, you may combine extra valves with drip line, small‑scale sprinkler heads, soaker hoses, or other irrigation hardware.
