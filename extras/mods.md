@@ -2,7 +2,7 @@
 title: Mods and Add-Ons
 description: 
 published: true
-date: 2026-07-22T09:06:10.341Z
+date: 2026-07-24T01:08:58.276Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:53.405Z
@@ -10,11 +10,8 @@ dateCreated: 2026-07-09T04:03:53.405Z
 
 WenextFarm is designed as a flexible platform for growing plants in virtually any way you envision. The out‑of‑the‑box setup is just the starting point. In the following documentation pages, we share a handful of ideas to inspire you to get even more out of your WenextFarm. Feel free to explore!
 
-
-![This FarmBot has been augmented with a weather station](/extras/_images/farmbot_with_weather_station.jpg =700x)
-
+![diy模块.jpg](/wiki/diy模块.jpg =700x)
 △ _This WenextFarm has been augmented with a weather station_
-
 
 > **Modify at your own risk** 
 > 
