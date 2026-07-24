@@ -2,7 +2,7 @@
 title: P1 Max
 description: 
 published: true
-date: 2026-07-24T01:01:30.542Z
+date: 2026-07-24T02:01:35.067Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T06:13:29.939Z
@@ -11,32 +11,89 @@ dateCreated: 2026-07-10T06:13:29.939Z
 
 ![wenextfarm-p1-max.jpg](/wiki/wenextfarm-p1-max.jpg =700x)
 
-# Intro to WenextFarm
-Your content here
+>**[What you need to provide？](/wiki/preliminary-preparation){target=_blank}**
+{.is-warning}
 
 
-# Supporting Infrastructure
-Your content here
+## ⚡Intro to WenextFarm
 
+ * [High Level Overview](/assembly/intro/high-level-overview.md){target=_blank}
+ * [Product Safety](/assembly/intro/Product-Safety.md){target=_blank}
+ * [Assembly Preparation](/assembly/intro/assembly-preparation.md){target=_blank}
+ * [FAQ](/assembly/intro/faq.md){target=_blank}
 
-
-# unboxing
-Your content here
-
-
-# assembly
-Your content here
-
-
-
-# Getting Started
-Your content here
+## 🚧Supporting Infrastructure
+ * [Fixed Raised Bed](supporting-infrastructure/raised-bed.md){target=_blank}
+ * [Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md){target=_blank}
+ * [Wood Posts](supporting-infrastructure/wood-posts.md){target=_blank}
+ * [Pier Block Supports](supporting-infrastructure/pier-block-supports.md){target=_blank}
 
 
 
-# Maintenance
-Your content here
+## :rocket:unboxing
+
+ * [Intro p1](P1/intro-p1p.md){target=_blank}
+ * [Packaging List for the P1](P1/p1-acc-in-the-box.md){target=_blank}
+ * [Unboxing Guide for the P1](P1/unboxing-p.md){target=_blank}
+ 
+## 🏗️assembly
+
+#### [Tracks](/assembly/Tracks.md){target=_blank}
+
+#### [gantry](/assembly/gantry.md){target=_blank}
+
+ * [Assemble the Gantry Wheel Plates](assembly/gantry/assemble-the-gantry-wheel-plates.md){target=_blank}
+ * [Construct the Gantry Structure](assembly/gantry/construct-the-gantry-structure.md){target=_blank}
+ * [Attach the Drivetrain](assembly/gantry/attach-the-drivetrain.md){target=_blank}
+
+#### [cross slide](/assembly/cross-slide.md){target=_blank}
+
+#### [z axis](/assembly/z-axis.md){target=_blank}
+
+#### [Cables and Tubing](/assembly/cables-and-tubing.md){target=_blank}
+
+ * [Z-Axis Cable Carrier](assembly/cables-and-tubing/z-axis-cable-carrier.md){target=_blank}
+ * [Y-Axis Cable Carrier](assembly/cables-and-tubing/y-axis-cable-carrier.md){target=_blank}
+ * [X-Axis Cable Carrier](assembly/cables-and-tubing/x-axis-cable-carrier.md){target=_blank}
+ * [X-Axis Motors](assembly/cables-and-tubing/x-axis-motors.md){target=_blank}
+ * [Lighting](assembly/cables-and-tubing/Lighting.md){target=_blank}
+ 
+ 
+ 
+#### [Universal Tool Mount](/assembly/tools.md){target=_blank}
+
+ * [Universal Tool Mount](/assembly/tools/utm.md){target=_blank}
+ * [Camera](/assembly/tools/camera.md){target=_blank}
+ * [Seeder](/assembly/tools/seeder.md){target=_blank}
+ * [Watering Nozzle](/assembly/tools/watering-nozzle.md){target=_blank}
+ * [Weeder](/assembly/tools/weeder.md){target=_blank}
+ * [Soil Sensor](/assembly/tools/soil-sensor.md){target=_blank}
+ * [Toolbays](/assembly/tools/toolbays.md){target=_blank}
 
 
-# Troubleshooting
-Your content here
+
+##  Getting Started
+
+
+## 🧩Maintenance
+
+ * [General Maintenance](/extras/maintenance/general-maintenance.md){target=_blank}
+ * [Track Maintenance](/extras/maintenance/track-maintenance.md){target=_blank}
+ * [Gantry Maintenance](/extras/maintenance/gantry-maintenance.md){target=_blank}
+ * [UTM and Tool Maintenance](/extras/maintenance/utm-and-tool-maintenance.md){target=_blank}
+ * [Storing FarmBot for Winter](/extras/maintenance/storing-farmbot-for-winter.md){target=_blank}
+ * [Thermal Management](/extras/maintenance/thermal-management.md){target=_blank}
+
+
+## 💡Troubleshooting
+
+ * [Picking Up Seeds](/extras/troubleshooting/picking-up-seeds.md){target=_blank}
+ * [Z-Axis Movements](/extras/troubleshooting/z-axis-movements.md){target=_blank}
+ * [Track Tolerance](/extras/troubleshooting/track-tolerance.md){target=_blank}
+ * [Why is my FarmBot not moving?](/extras/troubleshooting/why-is-my-farmbot-not-moving.md){target=_blank}
+ * [Are my encoders working?](/extras/troubleshooting/are-my-encoders-working.md){target=_blank}
+ * [Water Pressure](/extras/troubleshooting/water-pressure.md){target=_blank}
+ * [Solenoid Valve Cable Fix](/extras/troubleshooting/solenoid-valve-cable-fix.md){target=_blank}
+ * [Tool Verification](/extras/troubleshooting/tool-verification.md){target=_blank}
+ * [Mounting and Dismounting Tools](/extras/troubleshooting/mounting-and-dismounting-tools.md){target=_blank}
+ 
