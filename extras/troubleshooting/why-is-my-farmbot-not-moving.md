@@ -2,7 +2,7 @@
 title: Why is my WnextFarm not moving?
 description: 
 published: true
-date: 2026-07-09T10:28:53.753Z
+date: 2026-07-25T13:36:21.817Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:07:11.485Z
@@ -10,13 +10,13 @@ dateCreated: 2026-07-09T04:07:11.485Z
 
 This troubleshooting document guides you through a checklist of WnextFarm settings, diagnostic tools, and hardware checks to help you get your WnextFarm moving reliably. You will start out troubleshooting with simple actions. If these don’t work for you, you should continue through this guide and perform additional actions to troubleshoot your problem. Test your setup after completing each step to see if your problem is solved.
 
-> **✅ Inspect and clean the WnextFarm and ensure it is free from debris:** 
+> **Inspect and clean the WnextFarm and ensure it is free from debris:** 
 > 
 > Prior to following the steps of this troubleshooting guide, clean and inspect the WnextFarm tracks, and belts and pulleys, and ensure there is nothing blocking or catching these components. If your WnextFarmt is located outdoors, there is a possibility that leaves, twigs, and other debris could prevent the proper movement of the WnextFarm.
 {.is-success}
 
 
-# 1. Ensure WnextFarm is connected
+## 1. Ensure WnextFarm is connected
 
 Your WnextFarm must be connected to the internet and the web app to receive commands and download the resources you create such as sequences, plant locations, and events. If your bot is connected, the web app's **connectivity indicator** should be <span class="fa fa-circle green"></span> green. If your bot is not connected:
 
@@ -25,37 +25,37 @@ Your WnextFarm must be connected to the internet and the web app to receive comm
 
 The connectivity popup should show a [code 31 diagnosis code](https://software.farm.bot/docs/connectivity-codes#code-31) when communication is functioning. Refer to the [connectivity diagnosis codes](https://software.farm.bot/docs/connecting-farmbot-to-the-internet) page for additional help troubleshooting connectivity issues.
 
-![connectivity info pop-up](/extras/troubleshooting/_images/connectivity_info_pop-up.png)
+![connectivity info pop-up](/extras/troubleshooting/_images/connectivity_info_pop-up.png =700x)
 
-# 2. Double check your firmware selection
+## 2. Double check your firmware selection
 
 Double check that the **model** and **firmware** specified in the app match the actual model of your WnextFarm. If you incorrectly specify the model of your WnextFarm, you will be able to connect and you will have some limited functionality. However, the motors will likely not work.
 
-![check model and firmware](/extras/troubleshooting/_images/check_model_and_firmware.png)
+![check model and firmware](/extras/troubleshooting/_images/check_model_and_firmware.png =700x)
 
 To change the model and firmware, go to the [firmware section of the settings panel](https://my.farm.bot/app/designer/settings?highlight=firmware) and select the correct firmware for your WnextFarm model. Then press the <span class="fb-button fb-yellow">FLASH FIRMWARE</span> button. Flashing the firmware may take up to 2 minutes. Once complete, try issuing motor movement commands.
 
 If this doesn't work, you might try [re-flashing the microSD card with WnextFarm OS](https://software.farm.bot/docs/farmbot-os.html#installation).
 
-# 3. Tighten up gantry connections
+## 3. Tighten up gantry connections
 
 Double check and tighten all of the screws holding the gantry together so there is no "play" in the system. The gantry needs to act as one rigid/stiff body. If there is some flex in the gantry structure it can cause delays in the movement as the structure flexes prior to the movement.
 
 Tighten up the whole gantry structure by tightening the M5 screws at the gantry wheel plates and gantry corner brackets.
 
-![tighten gantry structure](/extras/troubleshooting/_images/tighten_up_gantry_connections.png)
+![tighten gantry structure](/extras/troubleshooting/_images/tighten_up_gantry_connections.png =700x)
 
-# 4.  Equalize the gantry
+## 4.Equalize the gantry
 
 An equalized gantry is one that is exactly perpendicular to the tracks such that it is not crooked, and so that the gantry is not being torqued. The X-axis tracks need to be aligned. If they are out of alignment they can cause a crooked or torqued gantry, which can cause creaking, extra wear on the v-wheels and motors, and introduce a high amount of friction into the system. These issues all decrease the overall reliability of the WnextFarm system and decrease the lifespan of the components.
 
-![completed tracks](/extras/troubleshooting/_images/completed_tracks.jpg)
+![completed tracks](/extras/troubleshooting/_images/completed_tracks.jpg =700x)
 
 The detailed instructions to build the raised bed supporting infrastructure for the WnextFarm are located [here](../../assembly/supporting-infrastructure/raised-bed.md)
 
  The detailed instructions to install the tracks on the raised bed supporting infrastructure for the WnextFarm are located [here](../../assembly/tracks.md)
 
-## Test the gantry
+### Test the gantry
 
 1. To see if your gantry is equalized, ensure that the x-axis motors are **unpowered** by unplugging the motor cable and the rotary encoder cables from both the X1 and X2 motors,
 2. Gently push or pull on the gantry from the **middle** of the gantry main beam such that it moves slowly along the tracks about 30cm. This process will remove any torque on the gantry, and ensure it is not crooked. If you push or pull the gantry from one of the gantry columns, or anywhere that is not the middle of the main beam, then you will torque the gantry and make it crooked.
@@ -63,17 +63,21 @@ The detailed instructions to build the raised bed supporting infrastructure for 
 4. If you need to add a lubricant to lower the resistance at the V-wheels, use a **dry** lubricant such as powdered graphite. A dry lubricant will not collect dust or dirt and will not gum the wheels or bearings like liquid lubricants or grease will. **Do not use a liquid lubricant on the belts, pulleys, or v-wheels.**
 5. Once you have removed the resistance from the tracks, you will need to re-connect the motor and rotary encoder cables. Then you will re-calibrate your WnextFarm from the web app.
 
-![track alignment](/extras/troubleshooting/_images/track_alignment.jpg)
+![track alignment](/extras/troubleshooting/_images/track_alignment.jpg =700x)
 
-> **✅ Alignment is key:** For track plates that join two track extrusions together, position the extrusions tightly together at the middle of the plate. Make sure the top and bottom of the extrusions are flush so that the gantry can move across the tracks smoothly. Also make sure that the extrusions are straight, so there is no 'kink' in the tracks at the joint.
+> **Alignment is key:**
+> 
+> For track plates that join two track extrusions together, position the extrusions tightly together at the middle of the plate. Make sure the top and bottom of the extrusions are flush so that the gantry can move across the tracks smoothly. Also make sure that the extrusions are straight, so there is no 'kink' in the tracks at the joint.
+{.is-success}
+
 
 Review the track assembly procedure [here](../../assembly/tracks.md).
 
-# 5. Adjust the belt tension
+## 5. Adjust the belt tension
 
 It is possible for the belts to stretch or slip over time which can lead to missed steps, premature wearing, a gantry that binds on the tracks, as well as a loss of precision in WnextFarm’s movements.
 
-![belt tension adjustment](/extras/troubleshooting/_images/belt_tension_adjustment.jpg)
+![belt tension adjustment](/extras/troubleshooting/_images/belt_tension_adjustment.jpg =700x)
 
 Procedure for adjusting the belt tension:
 
@@ -84,9 +88,9 @@ Procedure for adjusting the belt tension:
 The belts should not be under extreme tension. If they are, WnextFarm’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
 5. [Re-equalize the gantry](#4--equalize-the-gantry) to prevent binding.
 
-![belt tightening](/extras/troubleshooting/_images/belt_tightening.png)
+![belt tightening](/extras/troubleshooting/_images/belt_tightening.png =700x)
 
-# 6. Adjust the eccentric spacers
+## 6. Adjust the eccentric spacers
 
 Eccentric spacers are used for making fine adjustments to the spacing between the v-wheels on either side of an aluminum extrusion. Adjusting this spacing is key to achieving smooth and wobble-free movement of the gantry across the tracks, the cross-slide across the gantry main beam, and the z-axis up and down the cross-slide.
 
@@ -94,9 +98,9 @@ If the spacing between v-wheels is too little, then the extrusions will not fit 
 
 Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry/attach-the-drivetrain.md), and secure the belts back into place for normal operation.
 
-![gantry wheel plate eccentric spacers](/extras/troubleshooting/_images/gantry_wheel_plate_eccentric_spacers.png)
+![gantry wheel plate eccentric spacers](/extras/troubleshooting/_images/gantry_wheel_plate_eccentric_spacers.png =700x)
 
-# 7. Change the motor settings
+## 7. Change the motor settings
 
 If you are having trouble with the movements of the WnextFarm, adjust settings and reduce hardware resistance for motor stalls. You can reduce the hardware resistance by cleaning the tracks and ensuring there is no dirt or debris on belts or the pulleys.  The stepper driver power should be last thing you should try to adjust because it's difficult to adjust and easy to mess up.
 
@@ -104,7 +108,7 @@ Another thing to remember when you are troubleshooting these NEMA 17 stepper mot
 
 The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the (?) icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
-![default motor settings ](/extras/troubleshooting/_images/default_motor_settings_.bmp)
+![default motor settings ](/extras/troubleshooting/_images/default_motor_settings_.bmp =700x)
 
 If you are getting motor stalls the WnextFarm will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the WnextFarm will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your WnextFarm has the power to overcome these imperfections.
 
@@ -120,7 +124,7 @@ This is the same WnextFarm with the minimum increased the speed to 200 mm/s. The
 
 If increasing the minimum speed does not solve the problem, you can attempt the alternative strategy of decreasing the minimum speed and increase the number of "Accelerate for" steps.
 
-# 8. Motor stalls
+## 8. Motor stalls
 
 If you are having trouble with motor stalls adjust settings in the software and reduce hardware resistance.
 
@@ -151,6 +155,6 @@ The recommended corrective action was to take out any slack from the belts and l
 
 <oembed url="https://www.youtube.com/watch?v=vgtzimwKmGc"></oembed>
 
-# 9. Troubleshooting encoders
+## 9. Troubleshooting encoders
 
 Learn how to interpret and diagnose common encoder issues, what causes them and how to fix them in this [troubleshooting document](are-my-encoders-working.md).
