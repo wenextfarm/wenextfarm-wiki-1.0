@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2026-07-25T08:18:36.855Z
+date: 2026-07-25T08:19:23.201Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:39.289Z
@@ -36,7 +36,7 @@ Our software does not support multiple beds, and we do not recommend this approa
 
 FarmBot is an open‑source precision agriculture CNC farming project, originally created by Rory Aronson, Rick Carlino, and Tim Evers. It provides a complete open‑source hardware and software platform for automated gardening, enabling anyone to build their own farming robot.
 
-<br>![farmbot官网-首页.jpg](/wiki/farmbot官网-首页.jpg)
+<br>![farmbot官网-首页.jpg](/wiki/farmbot官网-首页.jpg =700x)
 
 WenextFarm is an independent company founded by three passionate FarmBot enthusiasts. We have deeply benefited from everything the FarmBot project has pioneered — from hardware design and software architecture to its open documentation ecosystem. **We sincerely thank the FarmBot team and the entire open‑source community for their extraordinary contributions. Without their openness and sharing, WenextFarm would not exist.**
 
@@ -52,7 +52,7 @@ We developed our own machine based on the open‑source FarmBot design, with opt
 ## Why is an open‑source project also available for sale?
 Because FarmBot is open‑source, all source files — including CAD models, software, and documentation — are freely available for anyone to use, modify, and build upon. WenextFarm is built on this open‑source foundation, and we fully embrace the spirit of open collaboration.
 
-![farmbot官网-开源.jpg](/wiki/farmbot官网-开源.jpg)
+![farmbot官网-开源.jpg](/wiki/farmbot官网-开源.jpg =700x)
 
 Open‑source licensing also allows anyone to sell compiled versions — whether as complete hardware kits or hosted software services. This gives you two options:
 
