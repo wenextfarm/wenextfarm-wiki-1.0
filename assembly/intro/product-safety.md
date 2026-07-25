@@ -2,7 +2,7 @@
 title: Product Safety
 description: 
 published: true
-date: 2026-07-11T11:51:33.494Z
+date: 2026-07-25T06:51:19.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:51.250Z
@@ -10,13 +10,13 @@ dateCreated: 2026-07-09T03:36:51.250Z
 
 While FarmBot is an easy-to-use product suitable for home and classroom environments, it is important to recognize and understand the potential **safety hazards** associated with assembly and use of the machine. Refer to the non-exhaustive table below of the most common hazards before beginning assembly or using your FarmBot, especially with children.
 
-> **✅ Safety first:** 
+> **Safety first:** 
 > 
 > Adhering to the recommended safety precautions can help prevent accidents and injuries.
 {.is-success}
 
 
-# Hazards
+## Hazards
 
 Not all hazards may apply to your specific FarmBot model or configuration, and other risks may exist that are not listed. If you have any questions or concerns about product safety, please [contact us](mailto:contact@farm.bot).
 
@@ -30,7 +30,7 @@ Not all hazards may apply to your specific FarmBot model or configuration, and o
 |Electrical shock|FarmBot operates at 24V DC and can be powered by a 120V or 240V AC power source. When the device is powered on, there is a risk of electrical shock inside the electronics box and at cable connections, the motors, peripherals, and the UTM.|Do not open the electronics box or plug or unplug cables while the device is plugged into a power source. Do not submerge FarmBot in water. Do not touch the power supply, electronics, or cabling with wet hands. Do not operate FarmBot if anything is damaged. Do not operate FarmBot if the power supply or electronics are not properly grounded. Power the device using a GFCI protected outlet.
 |Flooding|If the watering nozzle is left on for an extended period of time, the raised bed can flood and overflow.|Do not leave the water supply on for extended periods of time. Exercise caution when using custom code or 3rd party integrations to control your FarmBot's watering system. You may also connect the FarmBot's water system to a digitally scheduled irrigation timer so water is only available to the machine when personnel are present.
 
-# Certifications
+## Certifications
 
 The table below shows the components of FarmBot that have been tested and **certified** for safety by a third party.
 
@@ -42,7 +42,7 @@ The table below shows the components of FarmBot that have been tested and **cert
 |[Farmduino](Farmduino)|CE|Complies with the essential health, safety, and environmental requirements set by the European Union and can be legally sold and distributed within the European Economic Area.
 |<i></i>|RoHS|Complies with the Restriction of Hazardous Substances Directive for electronic products.
 
-# Safety features
+## Safety features
 
 The following **safety features** have been engineered into the FarmBot to provide a safer user experience and help mitigate various hazards.
 
@@ -52,7 +52,3 @@ The following **safety features** have been engineered into the FarmBot to provi
 |Stall detection|FarmBot can detect motor stalls and will by default [E-stop if a movement error occurs](https://my.farm.bot/app/designer/settings?highlight=e-stop_on_movement_error) too many times in a row. This can prevent injury and potential damage to the machine.
 |[Fuse](Fuse)|A fuse is located on the Farmduino to protect the electronics from over-current conditions that may be caused by a short or other malfunction.
 |[Pin guard](https://my.farm.bot/app/designer/settings?highlight=pin_guard)|FarmBot can be configured to set a peripheral to a certain state after a timeout period. This can act as a secondary precaution in case a poorly designed sequence or custom code instructs FarmBot to leave a peripheral in an unsafe state for an extended period of time, such as leaving the solenoid valve open for too long.
-
-# What's next?
-
- * [Assembly Preparation](assembly-preparation.md)
