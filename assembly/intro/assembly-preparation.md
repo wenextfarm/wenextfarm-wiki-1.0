@@ -2,7 +2,7 @@
 title: Assembly Preparation
 description: 
 published: true
-date: 2026-07-25T07:11:53.850Z
+date: 2026-07-25T07:18:35.672Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:32.629Z
@@ -16,6 +16,8 @@ Before you begin, watch the short video below for a quick overview of how to saf
 ## Organize your parts
 
 When you first open the hardware package, take out all component bags and boxes to get a full picture of what's included. Arrange them on a table in a way that makes sense to you — while most components are already pre‑organized, it's always helpful to do a quick inventory.
+
+![包装-压缩.jpg](/wiki/包装-压缩.jpg =700x)
 
 > **Handle with care:** 
 > 
