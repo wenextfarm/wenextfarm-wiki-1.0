@@ -2,7 +2,7 @@
 title: Assembly Preparation
 description: 
 published: true
-date: 2026-07-25T07:10:02.279Z
+date: 2026-07-25T07:11:53.850Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:32.629Z
@@ -33,7 +33,7 @@ When you first open the hardware package, take out all component bags and boxes 
 
 WenextFarm is a precision machine with over 1,000 components. Assembly time varies by model and experience level — below are typical estimates. Working with a friend can significantly speed things up and reduce errors.
 
-|Subassembly                   |Estimated Time (Genesis)      |Estimated Time (Genesis (XL))   |
+|Subassembly                   |Estimated Time (P1)  |Estimated Time (P1 MAX) |
 |------------------------------|------------------------------|-----------------|
 |Supporting Infrastructure     |8 hours<br>(raised bed)       |12 hours<br>(raised bed)
 |Tracks                        |2 hours                       |4 hours
