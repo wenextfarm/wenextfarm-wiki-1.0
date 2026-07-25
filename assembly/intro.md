@@ -2,7 +2,7 @@
 title: Intro to FarmBot Genesis
 description: 
 published: true
-date: 2026-07-25T06:48:36.256Z
+date: 2026-07-25T06:49:07.052Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:23.233Z
@@ -30,6 +30,8 @@ Our kits come complete with everything you need in a single package, backed by d
 
 ## License
 All WenextFarm hardware designs, software, and documentation are built upon open‑source foundations. For detailed licensing information, please refer to the original FarmBot licensing page: [licensing.farm.bot](licensing.farm.bot)
+
+
 
 
 
