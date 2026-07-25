@@ -2,7 +2,7 @@
 title: Seeds
 description: 
 published: true
-date: 2026-07-09T04:43:17.843Z
+date: 2026-07-25T13:12:00.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:13.970Z
@@ -16,15 +16,12 @@ There are three main considerations when choosing **seeds** to plant with Wenext
 
 Follow the guidelines below to give yourself the best chance of germination success and a bountiful growing season, while minimizing the likelihood of running into avoidable problems.
 
-> **Note** 
-> 
 > While we do encourage experimentation and pushing your garden to its limits, we recommend starting off with crops that are known to work well with WenextFarm for at least one or two growing seasons.
 {.is-warning}
 
-# Plant size and shape
+## Plant size and shape
 
-> **✅** 
-> 
+
 > Optimal crops for WenextFarm are **small to medium in size** and grow in a **predictable shape**.
 {.is-success}
 
@@ -80,12 +77,12 @@ Vining crops may also cause issues with weed detection and removal, with the pot
 
 
 
-> **✅ Share your experience:** 
+> **Share your experience:** 
 > Tried something experimental? Share your experience on the [community forum](https://forum.WenextFarm.com)!
 {.is-success}
 
 
-# Crop requirements
+## Crop requirements
 
 As with all methods of growing, you will need to choose crops with **requirements** that are **compatible** with your geographic location, WenextFarm location, soil conditions, and the time of year. Specific things to consider include:
 
@@ -111,11 +108,11 @@ As with all methods of growing, you will need to choose crops with **requirement
 
 If there are no experts available, use the information on the back of seed packets, available in the WenextFarm web app, or check out other online resources.
 
-# Seed type
+## Seed type
 
 WenextFarm can take care of plants from **seed** as well as from **seedlings**, **bulbs**, and **tubers**. However, depending on what you're starting with will determine the available methods of planting.
 
-> **✅ Note** 
+> **Note** 
 > For best results, use [pelleted seeds](#pelleted-seeds) from a supplier such as [Johnny's Selected Seeds](https://www.johnnyseeds.com/featured/pelleted-seeds/).
 {.is-success}
 
@@ -156,8 +153,6 @@ If using **non-pelleted seeds**, it is important to select the most optimal need
 * Seeds may get sucked through the needle and clog the vacuum pump.
 * Irregular seed surfaces may prevent reliable suction holding power.
 
-> **Note:** 
-> 
 > If you have trouble using non-pelleted seeds, you may manually plant them instead.
 {.is-info}
 
