@@ -2,7 +2,7 @@
 title: Intro to FarmBot Genesis
 description: 
 published: true
-date: 2026-07-25T06:47:21.509Z
+date: 2026-07-25T06:48:36.256Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:23.233Z
