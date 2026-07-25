@@ -2,39 +2,51 @@
 title: Fixed Raised Bed
 description: 
 published: true
-date: 2026-07-25T10:29:07.528Z
+date: 2026-07-25T13:19:17.539Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:35:57.907Z
 ---
 
-Building a **fixed raised bed** is the recommended method for installing FarmBot Genesis or Genesis (XL) outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
+Building a **fixed raised bed** is the recommended method for installing WenextFarm P1 or P1 MAX outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
 
 ![fixed_raised_bed_fill_bed.jpg](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.jpg =700x)
 ![genesis xl fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png =700x)
 
-> **8-12 hours:** This is the estimated time it will take to build a fixed raised bed.
+> **8-12 hours** 
+> 
+> This is the estimated time it will take to build a fixed raised bed.
+{.is-info}
+
 
 ## Maximum raised bed size
 
-The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis (XL) kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
+The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock P1 and P1 MAX kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your raised bed as large as possible to get the most value out of your WenextFarm. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing WenextFarm value.
 
-If you are going to modify our reference design, use the dimension guidelines below to ensure compatibility with the FarmBot.
+If you are going to modify our reference design, use the dimension guidelines below to ensure compatibility with the WenextFarm.
 
 |Model      |Outer Bed Width|Outer Bed Length|
 |-----------|---------------|----------------|
 |P1         |1.48m max      |3m recommended
 |P1 MAX     |2.98m max      |6m recommended
 
-> **Do not exceed the max width:** While you can adjust a FarmBot to accommodate smaller width beds, you cannot adjust it for beds larger than the maximum width listed.
+> **Do not exceed the max width:** 
+> 
+> While you can adjust a WenextFarm to accommodate smaller width beds, you cannot adjust it for beds larger than the maximum width listed.
+{.is-info}
 
-> **Longer length beds are OK:** While FarmBot Genesis and Genesis XL kits only include enough extrusions and other hardware to allow for gantry travel up to 3m and 6m respectively, creating a longer length bed will not prevent the system from being installed.
+
+> **Longer length beds are OK:** 
+> 
+> While WenextFarm Genesis and Genesis XL kits only include enough extrusions and other hardware to allow for gantry travel up to 3m and 6m respectively, creating a longer length bed will not prevent the system from being installed.
+{.is-info}
+
 
 ## Step 1: Acquire materials
 
-## Genesis bed (1.48m x 3m)
+### P1 bed (1.48m x 3m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
@@ -47,7 +59,7 @@ If you are going to modify our reference design, use the dimension guidelines be
 |1  |Sealer, stain, or polyurethane               |$20   |$20
 |   |**TOTAL**                                    |      |**$111**
 
-## Genesis XL bed (2.98m x 6m)
+### P1 MAX bed (2.98m x 6m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
@@ -60,22 +72,26 @@ If you are going to modify our reference design, use the dimension guidelines be
 |1  |Sealer, stain, or polyurethane               |$20   |$20
 |   |**TOTAL**                                    |      |**$190**
 
-# Step 2: Dig post holes
+## Step 2: Dig post holes
 
 Dig **post holes** according to the diagrams below. A post hole digger and pick axe can help with tougher soils.
 
-> **Maintain access:** Position the raised bed such that you will be able to access all sides of your FarmBot and garden.
+> **Maintain access**
+> 
+> Position the raised bed such that you will be able to access all sides of your WenextFarm and garden.
+{.is-info}
+
 
 ![post hole diagram for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram.png =700x)
 ![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug.png =700x)
 ![post hole diagram for farmbot genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram_xl.png =700x)
 ![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug_xl.png =700x)
 
-# Step 3: Prepare the materials
+## Step 3: Prepare the materials
 
 Cut all of your lumber to the lengths shown in the table in [step 1](#step-1-acquire-materials). Sand all of the wood surfaces to remove any markings and splinters. If desired, stain the wood or apply a protective coating of your choice.
 
-# Step 4: Postion the posts
+## Step 4: Postion the posts
 
 Place all of the **posts** in the holes. The top of the posts should be positioned 300mm above the ground.
 
@@ -84,7 +100,7 @@ Importantly, all of the post tops must be level with each other. Dig out or back
 ![posts positioned genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned.png =700x)
 ![posts positioned genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_posts_positioned_xl.png =700x)
 
-# Step 5: Attach the short walls
+## Step 5: Attach the short walls
 
 Clamp a **short wall** to the **posts** on one of the short sides of the bed. The posts should be flush with the top edge and ends of the short wall. If you are building an (XL) bed, also clamp the middle post to the short wall.
 
@@ -103,7 +119,7 @@ Repeat for the second **short wall** on the opposite side of the bed.
 ![second short wall genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall.png =700x)
 ![second short wall genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_attach_second_short_wall_xl.png =700x)
 
-# Step 6: Attach the long walls
+## Step 6: Attach the long walls
 
 Clamp the **long wall(s)** to the posts along a long side of the bed. The ends of the long wall(s) should be flush with the outer face of the short walls. If you are building an (XL) bed, the two long walls must meet at the middle of the middle post.
 
@@ -126,9 +142,9 @@ Repeat for the remaining **long wall(s)** on the opposite side of the bed.
 ![remaining long wall for genesis](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall.png =700x)
 ![remaining long walls for genesis xl](/Supporting-Infrastructure/_images/fixed_raised_bed_remaining_long_wall_xl.png =700x)
 
-# Step 7: Install tensioning cables (optional)
+## Step 7: Install tensioning cables (optional)
 
-With larger raised beds, especially those for FarmBot Genesis XL, it is possible that expansion and contraction of the soil will cause the longer sides of the raised bed to bend outwards, causing track misalignment. If you think that your bed will not be sturdy enough to resist bending, consider adding stainless steel tensioning cables every 3m to prevent the long sides of the bed from being pushed away from each other. The cables should be positioned in the lower half of the bed so as to not interfere with the FarmBot's tools once buried in the soil.
+With larger raised beds, especially those for WenextFarm P1, it is possible that expansion and contraction of the soil will cause the longer sides of the raised bed to bend outwards, causing track misalignment. If you think that your bed will not be sturdy enough to resist bending, consider adding stainless steel tensioning cables every 3m to prevent the long sides of the bed from being pushed away from each other. The cables should be positioned in the lower half of the bed so as to not interfere with the WenextFarm's tools once buried in the soil.
 
 ![tensioning cables](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables.jpg =700x)
 ![tensioning cables detail](/Supporting-Infrastructure/_images/fixed_raised_bed_tensioning_cables_detail.jpg =700x)
@@ -137,11 +153,13 @@ With larger raised beds, especially those for FarmBot Genesis XL, it is possible
 
 Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Genesis bed will require approximately 1m<sup>2</sup> of soil, while the Genesis (XL) bed will require approximately 4m<sup>2</sup>.
 
-![fill genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.png =700x)
+![fixed_raised_bed_fill_bed.jpg](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.jpg)
+
 ![fill genesis xl bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png =700x)
 
-> **✅ Congrats!:** Your raised bed is now ready for your FarmBot installation.
+> **Congrats!** 
+> 
+> Your raised bed is now ready for your WenextFarm installation.
+{.is-success}
 
-# What's next?
 
- * [Tracks](../tracks.md)
