@@ -2,17 +2,19 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2026-07-11T11:55:22.931Z
+date: 2026-07-25T07:31:09.280Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:39.289Z
 ---
 
-# Is FarmBot weatherproof/rainproof?
+# Is WenextFarm weatherproof/rainproof?
 
-Yes. All electronics are protected from rain with plastic housings and enclosures. All other parts are made from corrosion resistant materials such as aluminum, stainless steel, and UV stabilized plastic.
+Yes. All electronics are protected by sealed housings, and structural components are made from corrosion‑resistant materials like aluminum, stainless steel, and UV‑stabilized plastics.
 
-Please note that FarmBot is not waterproof, in the sense that you cannot fully submerge it underwater, like in an aquarium. Ultra humid areas may pose a risk for FarmBot's electronics as well, requiring you to take extra precautions and measures during your installation.
+![防雨-压缩.jpg](/wiki/防雨-压缩.jpg =700x)
+
+However, WenextFarm is not waterproof — it cannot be submerged. In extremely humid environments, additional precautions may be needed to protect the electronics.
 
 # Can FarmBot service multiple beds?
 
