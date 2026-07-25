@@ -2,7 +2,7 @@
 title: High Level Overview
 description: 
 published: true
-date: 2026-07-25T06:32:51.752Z
+date: 2026-07-25T06:35:04.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:45.301Z
@@ -54,7 +54,7 @@ The larger your WenextFarm, the lower the cost per square meter of growing area.
 
 *Note that the costs below do not account for [supporting infrastructure](../supporting-infrastructure.md), which will also increase in cost as the device size increases.*
 
-|Model  |Track Length|Gantry Width|Growing Area     |Cost    |
-|-------|------------|------------|-----------------|--------|
-|P1     |3m          |1.5m        |4.5m<sup>2</sup> |~$1,499 |
-|P1 MAX |6m          |3m          |18m<sup>2</sup>  |~$2,399 |
+|Model  |       |Track Length|Gantry Width|Growing Area     |Cost    |
+|-------|------ |------------|------------|-----------------|--------|
+|P1     |![wenextfarm-p1.jpg](/wiki/wenextfarm-p1.jpg =300x)|3m          |1.5m        |4.5m<sup>2</sup> |~$1,499 |
+|P1 MAX |![wenextfarm-p1-max.jpg](/wiki/wenextfarm-p1-max.jpg =300x) |6m          |3m          |18m<sup>2</sup>  |~$2,399 |
