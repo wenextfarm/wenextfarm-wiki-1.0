@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: 
 published: true
-date: 2026-07-22T07:54:55.688Z
+date: 2026-07-25T13:37:04.926Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:20.303Z
@@ -16,7 +16,7 @@ Having issues with your WenextFarm's hardware? Try looking through our troublesh
  * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
  * [Z-Axis Movements](troubleshooting/z-axis-movements.md)
  * [Track Tolerance](troubleshooting/track-tolerance.md)
- * [Why is my FarmBot not moving?](troubleshooting/why-is-my-farmbot-not-moving.md)
+ * [Why is my WnextFarm not moving?](troubleshooting/why-is-my-farmbot-not-moving.md)
  * [Are my encoders working?](troubleshooting/are-my-encoders-working.md)
  * [Water Pressure](troubleshooting/water-pressure.md)
  * [Solenoid Valve Cable Fix](troubleshooting/solenoid-valve-cable-fix.md)
