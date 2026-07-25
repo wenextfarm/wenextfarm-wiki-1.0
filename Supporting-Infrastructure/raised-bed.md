@@ -2,7 +2,7 @@
 title: Fixed Raised Bed
 description: 
 published: true
-date: 2026-07-22T13:58:22.013Z
+date: 2026-07-25T08:22:05.169Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:35:57.907Z
@@ -13,7 +13,7 @@ Building a **fixed raised bed** is the recommended method for installing FarmBot
 ![fixed_raised_bed_fill_bed.jpg](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed.jpg =700x)
 ![genesis xl fixed raised bed](/Supporting-Infrastructure/_images/fixed_raised_bed_fill_bed_xl.png =700x)
 
-> **ℹ️ 8-12 hours:** This is the estimated time it will take to build a fixed raised bed.
+> **8-12 hours:** This is the estimated time it will take to build a fixed raised bed.
 
 # Maximum raised bed size
 
@@ -25,16 +25,16 @@ If you are going to modify our reference design, use the dimension guidelines be
 
 |Model      |Outer Bed Width|Outer Bed Length|
 |-----------|---------------|----------------|
-|Genesis    |1.48m max      |3m recommended
-|Genesis (XL) |2.98m max      |6m recommended
+|P1         |1.48m max      |3m recommended
+|P1 MAX     |2.98m max      |6m recommended
 
-> **⚠️ Do not exceed the max width:** While you can adjust a FarmBot to accommodate smaller width beds, you cannot adjust it for beds larger than the maximum width listed.
+> **Do not exceed the max width:** While you can adjust a FarmBot to accommodate smaller width beds, you cannot adjust it for beds larger than the maximum width listed.
 
-> **✅ Longer length beds are OK:** While FarmBot Genesis and Genesis XL kits only include enough extrusions and other hardware to allow for gantry travel up to 3m and 6m respectively, creating a longer length bed will not prevent the system from being installed.
+> **Longer length beds are OK:** While FarmBot Genesis and Genesis XL kits only include enough extrusions and other hardware to allow for gantry travel up to 3m and 6m respectively, creating a longer length bed will not prevent the system from being installed.
 
-# Step 1: Acquire materials
+## Step 1: Acquire materials
 
-# Genesis bed (1.48m x 3m)
+## Genesis bed (1.48m x 3m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
@@ -47,7 +47,7 @@ If you are going to modify our reference design, use the dimension guidelines be
 |1  |Sealer, stain, or polyurethane               |$20   |$20
 |   |**TOTAL**                                    |      |**$111**
 
-# Genesis XL bed (2.98m x 6m)
+## Genesis XL bed (2.98m x 6m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
