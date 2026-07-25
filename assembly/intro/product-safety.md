@@ -2,7 +2,7 @@
 title: Product Safety
 description: 
 published: true
-date: 2026-07-25T06:57:05.361Z
+date: 2026-07-25T06:58:19.124Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:51.250Z
@@ -38,7 +38,7 @@ The table below shows the components of FarmBot that have been tested and **cert
 |-----------|---------------|-------------|
 | Power Supply | CE, IP67 | Complies with EU safety standards; dust‑proof and waterproof to 1m depth. |
 | Raspberry Pi | RoHS, FCC, CE | See [Raspberry Pi documentation](https://pip.raspberrypi.com/) for full list. |
-| Farmduino | CE, RoHS | Complies with EU safety standards and hazardous substance restrictions. |
+| MKS Gen V1.0 | CE, RoHS | Complies with EU safety standards and hazardous substance restrictions. |
 
 ## Safety features
 
@@ -48,5 +48,4 @@ The following **safety features** have been engineered into the FarmBot to provi
 |---------|-------------|
 | E‑stop button | Physical button on electronics box — press to immediately stop all motion and power. |
 | Stall detection | Automatically stops motors if movement errors occur repeatedly, preventing damage or injury. |
-| Fuse | Protects electronics from over‑current caused by shorts or malfunctions. |
 | Pin guard | Automatically resets peripherals after a timeout to prevent unsafe states (e.g., leaving water on too long). |
