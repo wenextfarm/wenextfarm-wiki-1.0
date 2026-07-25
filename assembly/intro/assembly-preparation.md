@@ -2,39 +2,39 @@
 title: Assembly Preparation
 description: 
 published: true
-date: 2026-07-11T11:53:10.668Z
+date: 2026-07-25T07:10:02.279Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:32.629Z
 ---
 
-# Installation tips
+## Installation tips
 
-Watch the short video below to understand how to provide power, water, and an internet connection to your FarmBot in a safe a reliable way.
+Before you begin, watch the short video below for a quick overview of how to safely set up power, water, and internet connectivity for your WenextFarm.
 
 
-# Organize your parts
+## Organize your parts
 
-When you first open up your FarmBot hardware package, pull out all of the component bags and boxes so that you develop a full idea of what's included, and so that you can place them on a table in locations that make sense to you. For the most part, components are already organized inside the boxes, but it is still good to take a look over everything.
+When you first open the hardware package, take out all component bags and boxes to get a full picture of what's included. Arrange them on a table in a way that makes sense to you — while most components are already pre‑organized, it's always helpful to do a quick inventory.
 
-> **⚠️ Handle with care:** 
+> **Handle with care:** 
 > 
-> The aluminum extrusions may have sharp corners and edges.
+> Aluminum extrusions may have sharp corners and edges.
 {.is-warning}
 
 
-> **✅ We'll make it right:** 
+> **We'll make it right** 
 > 
-> If anything is missing or damaged from your box of components, let us know right away at [contact@farm.bot](mailto:contact@farm.bot). We'll ship out replacement parts as soon as we can.
+> If anything is missing or damaged from your box of components, let us know right away at [contact@wenextfarm.com](mailto:contact@wenextfarm.com). We'll ship out replacement parts as soon as we can.
 {.is-success}
 
 
 # Plan accordingly
 
-FarmBot Genesis is a complex machine with over 1,000 components in total. Be prepared to spend the following amount of time assembling your FarmBot. Remember, these are just assembly time estimations. Depending on your skill level you may need more or less time. Consider assembling FarmBot with a friend to significantly speed things up and help reduce mistakes.
+WenextFarm is a precision machine with over 1,000 components. Assembly time varies by model and experience level — below are typical estimates. Working with a friend can significantly speed things up and reduce errors.
 
 |Subassembly                   |Estimated Time (Genesis)      |Estimated Time (Genesis (XL))   |
-|------------------------------|------------------------------|------------------------------|
+|------------------------------|------------------------------|-----------------|
 |Supporting Infrastructure     |8 hours<br>(raised bed)       |12 hours<br>(raised bed)
 |Tracks                        |2 hours                       |4 hours
 |Gantry                        |2 hours                       |2 hours
@@ -42,9 +42,4 @@ FarmBot Genesis is a complex machine with over 1,000 components in total. Be pre
 |Z-Axis                        |1 hour                        |1 hour
 |Cables and Tubing             |2 hours                       |3 hours
 |Electronics Box               |30 minutes                    |30 minutes
-|**TOTAL**                     |**17 hours**                  |**25 hours**
-
-
-# What's next?
-
- * [Supporting Infrastructure](../supporting-infrastructure.md)
+|**TOTAL**                     |**~17 hours**                  |**~25 hours**
