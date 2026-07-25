@@ -2,7 +2,7 @@
 title: Product Safety
 description: 
 published: true
-date: 2026-07-25T06:58:19.124Z
+date: 2026-07-25T06:59:21.923Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:51.250Z
@@ -27,7 +27,7 @@ Not all hazards may apply to your specific FarmBot model or configuration, and o
 | Tripping | Power and water lines can be trip hazards. | Route cables safely along the bed or ground; use underground conduits if possible. |
 | Pinch points | Moving parts can pinch fingers or catch hair/clothing. | Keep hands, hair, and pets away during operation. Power down before maintenance. |
 | Rotary tool debris | Spinning tools may eject soil, dust, or small rocks. | Wear safety glasses; keep a safe distance, especially around children and pets. |
-| Electrical shock | Device operates at 24V DC from 120/240V AC supply. | Do not open electronics box or plug/unplug cables while powered. Keep dry. Use GFCI outlet. |
+| Electrical shock | Device operates at 12V DC from 110/220V AC supply. | Do not open electronics box or plug/unplug cables while powered. Keep dry. Use GFCI outlet. |
 | Flooding | Extended watering may overflow the bed. | Do not leave water on unattended; use timers as a backup. |
 
 ## Certifications
