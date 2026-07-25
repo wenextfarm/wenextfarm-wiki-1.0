@@ -2,37 +2,49 @@
 title: Mobile Raised Bed
 description: 
 published: true
-date: 2026-07-22T14:20:19.085Z
+date: 2026-07-25T13:24:22.844Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:20:08.446Z
 ---
 
-Building a **mobile raised bed** is the recommended method for installing FarmBot Genesis **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, warehouse, or museum space.
+Building a **mobile raised bed** is the recommended method for installing WenextFarm P1 **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, warehouse, or museum space.
 
-> **Not suitable for Genesis XL** We do not recommend building a mobile raised bed for Genesis XL devices because it would be extremely heavy and difficult to move.
+> **Not suitable for WenextFarm P1 MAX** 
+> 
+> We do not recommend building a mobile raised bed for P1 MAX devices because it would be extremely heavy and difficult to move.
+{.is-warning}
+
 
 ![mobile_raised_bed（1）.jpg](/Supporting-Infrastructure/_images/mobile_raised_bed（1）.jpg =700x)
 
-> **ℹ6 hours** This is the estimated time it will take to build a mobile raised bed.
+> **ℹ6 hours** 
+> 
+> This is the estimated time it will take to build a mobile raised bed.
+{.is-info}
 
-# Determining bed size
 
-We recommend building your mobile raised bed as big as it can be for your space, without exceeding the maximum assembled size of the FarmBot. This will ensure you get the most value out of your FarmBot without making the bed unnecessarily large. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
+## Determining bed size
 
-> **Consider your space:** In determining how large your bed can be, consider if you will ever need to move the bed from room to room, down any hallways, around any corners, and/or through any doorways. Your bed should be able to fit nicely in all the places you want to place it *and* be moveable between those places.
+We recommend building your mobile raised bed as big as it can be for your space, without exceeding the maximum assembled size of the WenextFarm. This will ensure you get the most value out of your WenextFarm without making the bed unnecessarily large. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing WenextFarm value.
 
-For FarmBot Genesis kits, the outer width of your bed must not be wider than 1.48m. While the outer length _can_ be longer than 3m, we do not recommend building beyond 3m long, as any larger and the bed will become unwieldy, and that soil space will not be reachable by the FarmBot.
+> **Consider your space:** 
+> 
+> In determining how large your bed can be, consider if you will ever need to move the bed from room to room, down any hallways, around any corners, and/or through any doorways. Your bed should be able to fit nicely in all the places you want to place it *and* be moveable between those places.
+{.is-info}
+
+
+For WenextFarm Genesis kits, the outer width of your bed must not be wider than 1.48m. While the outer length _can_ be longer than 3m, we do not recommend building beyond 3m long, as any larger and the bed will become unwieldy, and that soil space will not be reachable by the WenextFarm.
 
 Refer to the table below for the recommended **maximum** outer dimensions of the bed.
 
-|FarmBot Model|Outer Bed Width|Outer Bed Length|
+|WenextFarm Model|Outer Bed Width|Outer Bed Length|
 |-------------|---------------|----------------|
 |Genesis      |1.48m max      |3m max
 
 In the step-by-step instructions below, we'll be building a bed that is narrower than the maximum size to facilitate reaching into the center of the bed. The outer dimensions of our bed will be 1.13m wide by 3m in length. The height from the floor to the top of the bed will be approximately 0.75m.
 
-# Step 1: Acquire materials
+## Step 1: Acquire materials
 
 |Qty|Component                                     |$/Unit|Subtotal|
 |---|----------------------------------------------|------|--------|
@@ -54,19 +66,19 @@ In the step-by-step instructions below, we'll be building a bed that is narrower
 |1  |2m x 4m tarp                                  |$15   |$15
 |   |**TOTAL**                                     |      |**$267.20**
 
-# Step 2: Lay out the floor panels and legs
+## Step 2: Lay out the floor panels and legs
 
 Lay the two **side floor panels** on the floor to form the outer shape of the bed. There should be about a 0.5m gap between them. The 105cm edges should be on the short sides of the bed outline.
 
 ![floor panels](/Supporting-Infrastructure/_images/floor_panels.png =700x)
 
-# Step 3: Mark where the legs will go
+## Step 3: Mark where the legs will go
 
 Stand the four **legs** up on the four corners of the **floor panels**. Using a pencil, mark where the inner edges of the legs meet the floor panels. Then remove the legs.
 
 ![floor panels with legs](/Supporting-Infrastructure/_images/floor_panels_with_legs.png =700x)
 
-# Step 4: Cut and attach the floor supports
+## Step 4: Cut and attach the floor supports
 
 If not already cut to length, cut the **floor supports** such that they will fit on the **floor panels** as shown, ensuring that they do not intrude on the space needed for the legs as marked in the previous step.
 
@@ -76,7 +88,7 @@ Flip everything over and attach the supports to the panels using **30mm screws**
 
 ![floor panel support screws](/Supporting-Infrastructure/_images/floor_panel_support_screws.png =700x)
 
-# Step 5: Attach the short walls
+## Step 5: Attach the short walls
 
 Temporarily raise one **floor panel** subassembly off of the floor by 90mm by positioning **legs** underneath the **floor supports**.
 
@@ -94,7 +106,7 @@ Repeat for the second panel and second short wall.
 
 ![both floor panels and short walls](/Supporting-Infrastructure/_images/both_floor_panels_and_short_walls.png =700x)
 
-# Step 6: Attach the long walls
+## Step 6: Attach the long walls
 
 Position one of the **long walls** such that its end faces are flush with the outer faces of the **short walls**.
 
@@ -108,11 +120,15 @@ Repeat for the second long wall.
 
 ![both long walls attached](/Supporting-Infrastructure/_images/both_long_walls_attached.png =700x)
 
-# Step 7: Attach the legs
+## Step 7: Attach the legs
 
 Using the help of another person (or two), carefully flip the raised bed upside down.
 
-> **⚠️ Don't trip!:** Remember: the **legs** are underneath the bed because you temporarily used them to offset the panels from the floor. Make sure not to trip on them when flipping the bed.
+> **Don't trip** 
+> 
+> Remember: the **legs** are underneath the bed because you temporarily used them to offset the panels from the floor. Make sure not to trip on them when flipping the bed.
+{.is-warning}
+
 
 ![upside down](/Supporting-Infrastructure/_images/upside_down.png =700x)
 
@@ -122,7 +138,11 @@ Position one of the **legs** in the corner of the bed.
 
 Mark and pre-drill one hole for an **M10 bolt** all the way through the long wall and leg. Then mark and pre-drill a second hole all the way through the short wall and leg. You may want to clamp the leg in place for pre-drilling.
 
-> **⚠️ Don't let the bolts hit each other:** Make sure to stagger the holes slightly so that the bolt coming in from one side of the bed does not hit the bolt coming in from the other side.
+> **⚠Don't let the bolts hit each other** 
+> 
+> Make sure to stagger the holes slightly so that the bolt coming in from one side of the bed does not hit the bolt coming in from the other side.
+{.is-warning}
+
 
 ![leg bolt holes](/Supporting-Infrastructure/_images/leg_bolt_holes.jpg =700x)
 
@@ -134,7 +154,7 @@ Repeat for the remaining three **legs**.
 
 ![all legs attached](/Supporting-Infrastructure/_images/all_legs_attached.jpg =700x)
 
-# Step 8: Attach the casters
+## Step 8: Attach the casters
 
 Using four **65mm screws**, attach a **caster** to the bottom of a **leg**.
 
@@ -144,7 +164,7 @@ Repeat for the remaining three casters.
 
 ![Casters](/Supporting-Infrastructure/_images/casters.jpg =700x)
 
-# Step 9: Attach the middle floor panel
+## Step 9: Attach the middle floor panel
 
 With the help of an extra person, flip the raised bed over onto its wheels. You may want to lock the casters before flipping the bed over, to prevent it from rolling.
 
@@ -154,22 +174,23 @@ Position the **middle floor panel** over the gap in the middle of the bed, and a
 
 ![middle panel attached](/Supporting-Infrastructure/_images/middle_panel_attached.jpg =700x)
 
-# Step 10: Apply the sealer or stain
+## Step 10: Apply the sealer or stain
 
-Consider using an orbital sander to smooth out any rough edges and corners, and remove any markings on the wood. Then follow the instructions on the the can of the **stain or sealer** you purchased to give your bed a finished look. While this step is optional, it can go a long way towards improving the aesthetics of your FarmBot installation.
+Consider using an orbital sander to smooth out any rough edges and corners, and remove any markings on the wood. Then follow the instructions on the the can of the **stain or sealer** you purchased to give your bed a finished look. While this step is optional, it can go a long way towards improving the aesthetics of your WenextFarm installation.
 
-# Step 11: Add the bed liner
+## Step 11: Add the bed liner
 
 Unfold the **tarp** and lay it in the bed such that it wraps up the side walls. You can cut off the extra tarp material or simply fold it back into the bed. Some cuts may need to be made to facilitate tidy folding. Optionally, you may use a staple gun to secure the tarp in place, though the soil will also hold it in place just fine.
 
-# Step 12: Fill the bed
+## Step 12: Fill the bed
 
 Fill the bed with a mix of soil and compost, and keep out large rocks and branches. We recommend purchasing potting soil from your local nursery.
 
-> **Congrats!:** Your mobile raised bed is now ready for your FarmBot installation.
+> **Congrats** 
+> 
+> Your mobile raised bed is now ready for your WenextFarm installation.
+{.is-info}
 
+
+![mobile_raised_bed（1）.jpg](/Supporting-Infrastructure/_images/mobile_raised_bed（1）.jpg)
 ![bed filled with soil](/Supporting-Infrastructure/_images/bed_filled_with_soil.jpg =700x)
-
-# What's next?
-
- * [Tracks](../tracks.md)
