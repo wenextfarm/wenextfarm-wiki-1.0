@@ -2,7 +2,7 @@
 title: A1-What you need to provide
 description: 
 published: true
-date: 2026-07-25T04:09:26.316Z
+date: 2026-07-25T04:21:57.497Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-25T04:09:26.315Z
@@ -24,13 +24,15 @@ WenextFarm must be plugged into a 110 or 220V outlet. The 30cm (1ft) power cord 
 WenextFarm can only be controlled using the web app, so an internet connection is required. The Raspberry Pi has built-in WiFi, though you may need to reposition your WiFi router or install a repeater to ensure a reliable connection.
 
 
+
+
 > ## 🪴 Planter Bed
-> All WenextFarms must be mounted to a raised bed or similar infrastructure. Neither materials for the bed nor soil are included with the kits because every installation will be different, and shipping lumber and soil would be prohibitively expensive.
+> The WnextFarm A1 comes complete with a planter bed and planting baskets, so you can skip the time‑consuming task of building your own structure. Just fill the baskets with suitable soil and you are ready to plant immediately — no additional construction or materials required. This all‑in‑one design gets you growing faster with minimal effort.
 {.is-success}
 
 
 > ## 💧 Water
-> WenextFarm's water system has a 3/4″ female Garden Hose Thread (GHT) connection, meaning you can take a standard US garden hose and screw it into your WenextFarm. You will need to provide a hose of the appropriate length.
+> The WnextFarm A1 features a built‑in water tank and pump, so you no longer need to connect it to a garden hose or plumb it into a water line. This gives you the freedom to place your unit anywhere — indoors, on a balcony, or in a greenhouse — without worrying about water access. The self‑contained system makes the WnextFarm A1 truly portable and easy to relocate whenever you like.
 {.is-success}
 
 
