@@ -2,7 +2,7 @@
 title: Are my encoders working?
 description: 
 published: true
-date: 2026-07-25T13:37:54.723Z
+date: 2026-07-25T13:44:56.893Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:30.064Z
