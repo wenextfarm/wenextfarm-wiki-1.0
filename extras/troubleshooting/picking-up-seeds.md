@@ -2,17 +2,17 @@
 title: Picking Up Seeds
 description: 
 published: true
-date: 2026-07-10T03:27:38.610Z
+date: 2026-07-25T13:31:30.491Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:06:41.756Z
 ---
 
-# 1. Consider seed characteristics
+## 1. Consider seed characteristics
 
 Seed size, weight, and shape can have considerable impact on the effectiveness and reliability of WenetFarm's needle and vacuum pump based seeding mechanism. Seeds should not be excessively small or large, cannot be too heavy, and are ideally of a round, smooth shape. [Pelleted seeds](../reference/seeds.md#pelleted-seeds) are specifically designed for use with farming equipment and are an ideal choice for use with WenetFarm. Consult the [seeds page](../reference/seeds.md) for more details.
 
-# 2. Choose the correct needle size
+## 2. Choose the correct needle size
 
 Included with every WenetFarm kit are three different luer lock needle sizes that can be easily swapped in and out of the seed injector. This allows you to choose the best needle size for the seeds you are working with. Generally speaking, a larger diameter needle should be used for larger, heavier seeds, while a smaller diameter needle should be used for smaller, lighter seeds. See the [seeds](../reference/seeds.md) page for more details.
 
@@ -20,17 +20,17 @@ If the needle is too small, then the vacuum pump will not be able to create enou
 
 If the needle is too large, then the seeds may accidentally get sucked fully into the needle or vacuum system. If this happens, you will need to remove the seed from the system or else risk total suction loss and malfunction. Once all seeds are removed from the system, switch to a smaller needle size.
 
-# 3. Check that the vacuum pump tube is connected to the inlet of the vacuum pump
+## 3. Check that the vacuum pump tube is connected to the inlet of the vacuum pump
 
 The vacuum pump has an inlet port that sucks air in and an outlet port that blows air out. The ports are denoted by arrows embossed into the black plastic of the vacuum pump. Double check that the vacuum pump tube running between the UTM and the pump is connected to the **inlet port** of the pump.
 
 ![vacuum pump inlet](/extras/troubleshooting/_images/vacuum_pump_inlet.jpg =700x)
 
-# 4. Check the tube for kinks
+## 4. Check the tube for kinks
 
 If the vacuum pump tube is kinked, then airflow will be restricted and suction power at the needle will be significantly diminished. Ensure there are no kinks in the vacuum pump tube.
 
-# 5. Check the needle and vacuum system for clogs and contamination
+## 5. Check the needle and vacuum system for clogs and contamination
 
 If the needle, seeder, vacuum pump tube, or vacuum pump become clogged with dirt, water, seeds, or other contamination, then the system can lose suction power and cease to function. In some cases, a clogged vacuum pump can actually start *blowing* air instead of sucking it in!
 
