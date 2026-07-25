@@ -2,7 +2,7 @@
 title: Pier Block Supports
 description: 
 published: true
-date: 2026-07-09T13:05:29.662Z
+date: 2026-07-25T13:29:32.752Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:35:51.142Z
@@ -10,11 +10,15 @@ dateCreated: 2026-07-08T10:35:51.142Z
 
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports**.
 
-![pier block supports for FarmBot Genesis](/supporting-infrastructure/_images/pier_block_supports_genesis.png =700x)
+![pier_block_supports_genesis.jpg](/Supporting-Infrastructure/_images/pier_block_supports_genesis.jpg)
 
 ![pier block supports for FarmBot Genesis XL](/supporting-infrastructure/_images/pier_block_supports_genesis_xl.png =700x)
 
-> **ℹ️ 2 hours:** This is the estimated time it will take to set up pier block supports.
+>**2 hours:** 
+> 
+> This is the estimated time it will take to set up pier block supports.
+{.is-info}
+
 
 # Step 1: Attach wood blocks to piers
 
@@ -26,18 +30,23 @@ Attach each block to a pier using [wood screws](wood screws) compatible with the
 
 # Step 2: Position the piers
 
-Position the piers according to a diagram below for a maximally sized growing area for FarmBot Genesis or Genesis XL. You may also position the two tracks closer together if you are space constrained. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum dimensions](raised-bed.md#maximum-raised-bed-size)**.
+Position the piers according to a diagram below for a maximally sized growing area for WenextFarm P1 orP1 MAX. You may also position the two tracks closer together if you are space constrained. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum dimensions](raised-bed.md#maximum-raised-bed-size)**.
 
-> **✅ Maintain access:** Position your pier blocks such that you will be able to access all sides of your FarmBot and garden.
+>**Maintain access:** 
+> 
+>Position your pier blocks such that you will be able to access all sides of your WenextFarm and garden.
+{.is-success}
 
 ![pier block position diagram for FarmBot Genesis](/supporting-infrastructure/_images/pier_block_diagram_genesis.png =700x)
 ![pier block position diagram for FarmBot Genesis XL](/supporting-infrastructure/_images/pier_block_diagram_genesis_xl.png =700x)
 
-> **⚠️ Parallel or bust:** It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
+> **Parallel or bust** 
+> 
+> It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
+{.is-warning}
 
-> **✅ Infrastructure complete!:** Your pier block supports are now ready for FarmBot installation!
 
-
-# What's next?
-
- * [Tracks](../tracks.md)
+> **Infrastructure complete** 
+> 
+> Your pier block supports are now ready for WenextFarm installation!
+{.is-success}
