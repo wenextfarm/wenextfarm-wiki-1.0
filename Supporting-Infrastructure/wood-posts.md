@@ -2,18 +2,18 @@
 title: Wood Posts
 description: 
 published: true
-date: 2026-07-25T13:26:13.747Z
+date: 2026-07-25T13:30:27.278Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:36:04.493Z
 ---
 
-As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to simple **wood posts** buried or cemented in the ground.
+As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your WenextFarm to simple **wood posts** buried or cemented in the ground.
 
 ![wood posts for FarmBot Genesis](/Supporting-Infrastructure/_images/wood_posts_genesis.png =700x)
 ![wood posts for FarmBot Genesis XL](/Supporting-Infrastructure/_images/wood_posts_genesis_xl.png =700x)
 
-> **2-4 hours:** 
+>**2-4 hours:** 
 > 
 > This is the estimated time it will take to setup wood posts.
 {.is-info}
@@ -21,11 +21,11 @@ As an alternative to [building a full raised bed](raised-bed.md), you may consid
 
 ## Step 1: Dig post holes
 
-Dig post holes approximately 400mm deep using a shovel, auger, post hole digger, pick axe, and/or other appropriate gardening tools according to the spacing diagram shown below. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum bed size](raised-bed.md#maximum-raised-bed-size) for your FarmBot**.
+Dig post holes approximately 400mm deep using a shovel, auger, post hole digger, pick axe, and/or other appropriate gardening tools according to the spacing diagram shown below. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum bed size](raised-bed.md#maximum-raised-bed-size) for your WenextFarm**.
 
 > **Maintain access** 
 > 
-> Position your posts such that you will be able to access all sides of your FarmBot and garden.
+> Position your posts such that you will be able to access all sides of your WenextFarm and garden.
 {.is-success}
 
 
@@ -56,5 +56,5 @@ Once you have positioned the posts, bury them or pour concrete in the holes. The
 
 > **Infrastructure complete!:** 
 > 
-> Your wood posts are now ready for FarmBot installation!
+> Your wood posts are now ready for WenextFarm installation!
 {.is-success}
