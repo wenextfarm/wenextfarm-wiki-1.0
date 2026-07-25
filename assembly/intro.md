@@ -2,36 +2,34 @@
 title: Intro to FarmBot Genesis
 description: 
 published: true
-date: 2026-07-08T10:00:12.808Z
+date: 2026-07-25T06:47:21.509Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-08T09:58:30.747Z
+dateCreated: 2026-07-09T03:36:23.233Z
 ---
-> **ℹ️ Announcing: FarmBot Genesis v1.6 documentation!:** As of December 22, 2021, the default version of the Genesis documentation is for v1.6. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs.
 
-**FarmBot Genesis** is our top-of-the-line FarmBot model designed with the most features and flexibility. It is suitable for growing food with the highest level of precision, running complex experiments, and capable of being easily modified and extended to do more.
+WenextFarm is an open‑source farming robot designed for precision agriculture, research, and creative gardening. Built upon the foundation of FarmBot Genesis v1.6, we've refined and optimized the design to deliver a more accessible, flexible, and cost‑effective solution — without compromising the core principles of openness and modifiability.
 
-Genesis is available in two sizes: **Genesis** and **Genesis** (XL) as shown in the table below.
+Our flagship model is available in two sizes to suit different spaces and needs:
 
-|Model                                        |Gantry Width|Track Length|Area            |Max Plant Height|
-|---------------------------------------------|------------|------------|----------------|----------------|
-|Genesis                                      |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
-|Genesis (XL)|3m          |6m          |18m<sup>2</sup> |0.5m
-
-
-Genesis and Genesis (XL) share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of both models. When certain information only applies to one model or the other, there will be clear indication.
-
-# Purchasing a kit
-
-Our kits include everything you need in one box and are backed by our customer support. Your purchase goes towards improving and supporting the open-source hardware plans, software, and documentation you are reading right now.
-
-**[Order your FarmBot here!](http://buy.farm.bot)**
+|Model|-|Gantry Width|Track Length|Area            |Max Plant Height|
+|-----|-|------------|------------|----------------|----------------|
+|P1   |![wenextfarm-p1.jpg](/wiki/wenextfarm-p1.jpg =300x)-|1.5m        |3m          |4.5m<sup>2</sup>|0.5m
+|P1 MAX|![wenextfarm-p1-max.jpg](/wiki/wenextfarm-p1-max.jpg =300x)-|3m          |6m          |18m<sup>2</sup> |0.5m
 
 
-# License
+Both models share the majority of components and assembly procedures. This documentation covers assembly, bill of materials, troubleshooting, and more for both sizes. Where instructions differ between the two, clear indicators are provided.
 
-Please see our [licensing page](http://licensing.farm.bot) to understand how our various works (hardware, software, documentation, etc) are licensed.
+## Purchasing a Kit
+Our kits come complete with everything you need in a single package, backed by dedicated customer support. Every purchase helps fund ongoing improvements to the open‑source hardware, software, and documentation that you're using right now.
 
-# What's next?
 
- * [High Level Overview](intro/high-level-overview.md)
+> **[Order your WenextFarm here!](http://www.wenextfarm.com)**
+{.is-success}
+
+
+## License
+All WenextFarm hardware designs, software, and documentation are built upon open‑source foundations. For detailed licensing information, please refer to the original FarmBot licensing page: [licensing.farm.bot](licensing.farm.bot)
+
+
+
