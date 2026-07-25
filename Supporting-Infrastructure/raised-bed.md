@@ -2,7 +2,7 @@
 title: Fixed Raised Bed
 description: 
 published: true
-date: 2026-07-25T08:22:05.169Z
+date: 2026-07-25T10:29:07.528Z
 tags: assembly, farmbot, genesis, supporting_infrastructure, v1.6
 editor: markdown
 dateCreated: 2026-07-08T10:35:57.907Z
@@ -15,7 +15,7 @@ Building a **fixed raised bed** is the recommended method for installing FarmBot
 
 > **8-12 hours:** This is the estimated time it will take to build a fixed raised bed.
 
-# Maximum raised bed size
+## Maximum raised bed size
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis (XL) kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
@@ -64,7 +64,7 @@ If you are going to modify our reference design, use the dimension guidelines be
 
 Dig **post holes** according to the diagrams below. A post hole digger and pick axe can help with tougher soils.
 
-> **✅ Maintain access:** Position the raised bed such that you will be able to access all sides of your FarmBot and garden.
+> **Maintain access:** Position the raised bed such that you will be able to access all sides of your FarmBot and garden.
 
 ![post hole diagram for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_hole_diagram.png =700x)
 ![post holes for farmbot genesis bed](/Supporting-Infrastructure/_images/fixed_raised_bed_post_holes_dug.png =700x)
