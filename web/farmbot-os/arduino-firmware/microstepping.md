@@ -2,21 +2,21 @@
 title: Microstepping
 description: 
 published: true
-date: 2026-07-13T06:59:13.996Z
+date: 2026-07-26T02:38:33.496Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:12.978Z
 ---
 
-> **⚠️ Note:** 
+> **⚠Note** 
 > 
 > The information on this page only applies to Genesis v1.2, v1.3, and v1.4 devices.
 {.is-warning}
 
 
-**Microstepping** allows the stepper drivers to position the stepper motor shaft *in between* full steps, which can allow for smoother and quieter movements. The RAMPS shield, Farmduino, and A4988 stepper drivers that come with FarmBot Genesis v1.2, v1.3, and v1.4 kits allow for full-step, 1/2 step, 1/4 step, 1/8 step, and 1/16 step settings. The microstepping setting for each stepper driver is set with **jumper pins** or **DIP switches**.
+**Microstepping** allows the stepper drivers to position the stepper motor shaft *in between* full steps, which can allow for smoother and quieter movements. The RAMPS shield, Farmduino, and A4988 stepper drivers that come with WenextFarm Genesis v1.2, v1.3, and v1.4 kits allow for full-step, 1/2 step, 1/4 step, 1/8 step, and 1/16 step settings. The microstepping setting for each stepper driver is set with **jumper pins** or **DIP switches**.
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > On Farmduino boards, microstepping is controlled by the `MS1`, `MS2`, and `MS3` **DIP switches** located just above the **A4988 stepper drivers**.
 {.is-info}
@@ -24,13 +24,13 @@ dateCreated: 2026-07-10T06:57:12.978Z
 
 ![microstepping dip switches](/web/farmbot-os/arduino-firmware/_images/microstepping_dip_switches.jpg =700x)
 
-Stock FarmBots are set to use full-steps by default (no microstepping), which means that one step pulse from the microcontroller will move the motor shaft one full step. With the stock 200 step/revolution motors, this equates to 1/200th of a rotation. If you set the drivers to 1/2 step microstepping, then each step pulse from the microcontroller will move the motor 1/2 of a step, or 1/400th of a revolution. This means that a full motor step would require two step pulses from the Arduino.
+Stock WenextFarms are set to use full-steps by default (no microstepping), which means that one step pulse from the microcontroller will move the motor shaft one full step. With the stock 200 step/revolution motors, this equates to 1/200th of a rotation. If you set the drivers to 1/2 step microstepping, then each step pulse from the microcontroller will move the motor 1/2 of a step, or 1/400th of a revolution. This means that a full motor step would require two step pulses from the Arduino.
 
 If you use microstepping, you will need to make changes in the [motor settings](../../app/settings/motors.md#steps-per-mm) section of the web app match the hardware DIP switch positions.
 
 ![MICROSTEP SETTINGS](/web/farmbot-os/arduino-firmware/_images/MICROSTEP_SETTINGS.jpg =700x)
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > When you change the **MICROSTEPS PER STEP** settings, **STEPS PER MM** will automatically be adjusted to compensate.
 {.is-info}
