@@ -2,7 +2,7 @@
 title: Configurator
 description: Configure FarmBot to connect to your home WiFi network and web app account
 published: true
-date: 2026-07-26T02:10:48.650Z
+date: 2026-07-26T02:12:18.182Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:37.406Z
