@@ -2,7 +2,7 @@
 title: Demo the App
 description: Try before you buy at [demo.farm.bot](http://demo.farm.bot) :robot: :seedling:
 published: true
-date: 2026-07-13T05:21:59.388Z
+date: 2026-07-26T04:23:20.386Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:13:55.229Z
@@ -76,21 +76,17 @@ If you're thinking about getting a FarmBot but want to try the app first, you ca
     opacity: 0.7;
   }
 </style>
-
-> **ℹ️ Note:** 
 > 
 > Not all features of the app will work in demo mode because there will not be a real FarmBot connected to the account. For example, you cannot take pictures.
 {.is-info}
 
-
-> **ℹ️ Note:** 
 > 
 > Demo accounts and their data are automatically deleted after 1 hour.
 {.is-info}
 
 
-# Ready to get a bot?
+## Ready to get a bot?
 
-Navigate to our online shop at [farm.bot](https://farm.bot) for availability and additional information about our latest generation FarmBot kits.
+Navigate to our online shop at [https://www.wenextfarm.com](https://www.wenextfarm.com) for availability and additional information about our latest generation FarmBot kits.
 
-If you have any questions or need assistance in placing an order, get in touch at [contact@farm.bot](mailto:contact@farm.bot).
+If you have any questions or need assistance in placing an order, get in touch at [contact@wenextfarm.com](mailto:contact@wenextfarm.com).
