@@ -2,7 +2,7 @@
 title: Track Maintenance
 description: 
 published: true
-date: 2026-07-26T00:47:01.536Z
+date: 2026-07-26T00:48:07.129Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:41.822Z
@@ -25,7 +25,7 @@ Once a month, inspect your tracks for an accumulation of mud, dirt, and other de
 
 
 ## Maintain track alignment
-FarmBot's tracks need to be very straight and parallel with each other in order for the gantry to move smoothly across them. With time, the tracks may move and twist due to a variety of factors such as:
+WenextFarm's tracks need to be very straight and parallel with each other in order for the gantry to move smoothly across them. With time, the tracks may move and twist due to a variety of factors such as:
 
 * Screws becoming loose
 * Thermal expansion and contraction due to large temperature swings
@@ -33,7 +33,7 @@ FarmBot's tracks need to be very straight and parallel with each other in order 
 * Supporting infrastructure shifting due to soil expansion and contraction
 * Falling branches, earthquakes, or other cataclysmic events
 
-Misaligned tracks can cause the system to creak and ultimately bind as the gantry attempts to move across the tracks. This can prevent FarmBot from working and even cause damage to other components. If you notice your tracks have become misaligned, work to fix them as soon as possible with the following suggestions.
+Misaligned tracks can cause the system to creak and ultimately bind as the gantry attempts to move across the tracks. This can prevent WenextFarm from working and even cause damage to other components. If you notice your tracks have become misaligned, work to fix them as soon as possible with the following suggestions.
 
 ## Realigning track plates
 Signs of a misaligned track plate include misaligned track extrusions (see below), twisted track extrusions, difficulty in the gantry moving across extrusion joints, and even visual misalignment.
