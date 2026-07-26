@@ -2,29 +2,29 @@
 title: Track Maintenance
 description: 
 published: true
-date: 2026-07-10T11:53:09.656Z
+date: 2026-07-26T00:47:01.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:03:41.822Z
 ---
 
-# Clean track surfaces
+## Clean track surfaces
 Once a month, inspect your tracks for an accumulation of mud, dirt, and other debris. Because the tracks are so low to the ground, it is common for them to accumulate unwanted materials. This can create unnecessary friction for the gantry when moving across the tracks, ultimately leading it to bind up if the tracks are not cleaned.
 
-> **✅ Regularly:** 
+> **Regularly** 
 > 
 > Use a brush, broom, sponge, compressed air, and/or hose to clean the surfaces of your tracks.
 {.is-success}
 
 
 
-> **⚠️ Be gentle:** 
+> **Be gentle:** 
 > 
 > Do not apply excessive force in order to avoid misaligning extrusions or bending plates.
 {.is-warning}
 
 
-# Maintain track alignment
+## Maintain track alignment
 FarmBot's tracks need to be very straight and parallel with each other in order for the gantry to move smoothly across them. With time, the tracks may move and twist due to a variety of factors such as:
 
 * Screws becoming loose
@@ -38,7 +38,7 @@ Misaligned tracks can cause the system to creak and ultimately bind as the gantr
 ## Realigning track plates
 Signs of a misaligned track plate include misaligned track extrusions (see below), twisted track extrusions, difficulty in the gantry moving across extrusion joints, and even visual misalignment.
 
-> **✅ To realign track plates...:** 
+> **To realign track plates...:** 
 > 
 > Try loosing their screws and re-tightening them. You may need to insert a washer or other shim in between the track plate and supporting infrastructure to adequately tighten the plate while maintaining alignment.
 {.is-success}
@@ -47,13 +47,7 @@ Signs of a misaligned track plate include misaligned track extrusions (see below
 ## Realigning track extrusions
 It is possible for a track extrusion to loosen and then become misaligned with an adjacent extrusion. Even small misalignments can prevent the gantry from smoothly moving across joints. Inspect for misalignment by running your fingers across track joints.
 
-> **✅ Smooth to the touch:** 
+> **Smooth to the touch** 
 > 
 > If you can feel one extrusion noticeably higher than another, then loosen the M5 screws attaching it to the track plate, realign the extrusion by hand, and re-tighten the screws.
 {.is-success}
-
-
-
-# What's next?
-
- * [Gantry Maintenance](gantry-maintenance.md)
