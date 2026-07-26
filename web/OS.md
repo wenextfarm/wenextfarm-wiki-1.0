@@ -2,7 +2,7 @@
 title: FarmBot OS
 description: 
 published: true
-date: 2026-07-26T02:13:35.277Z
+date: 2026-07-26T02:13:49.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T03:57:23.231Z
@@ -25,7 +25,7 @@ The Raspberry Pi runs a custom operating system named [FarmBot OS](https://my.we
  * [Data Usage](/web/farmbot-os/intro/data-usage.md){target=_blank}
  * [Auto Updates](/web/farmbot-os/intro/auto-updates.md){target=_blank}
  
-  ##  * [Arduino Firmware](/web/farmbot-os/arduino-firmware.md){target=_blank}
+  ## * [Arduino Firmware](/web/farmbot-os/arduino-firmware.md){target=_blank}
  * [Stall Detection Hardware](/web/farmbot-os/arduino-firmware/stall-detection-hardware.md){target=_blank}
  * [Kinematic Equations](/web/farmbot-os/arduino-firmware/kinematic-equations.md){target=_blank}
  * [Microstepping](/web/farmbot-os/arduino-firmware/microstepping.md){target=_blank}
