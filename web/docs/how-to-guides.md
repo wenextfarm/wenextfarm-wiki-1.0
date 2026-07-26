@@ -2,15 +2,15 @@
 title: How-to Guides
 description: Guides for accomplishing common tasks with your FarmBot
 published: true
-date: 2026-07-13T05:22:59.905Z
+date: 2026-07-26T04:24:46.484Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:14:09.077Z
 ---
 
-Check out the guides below for step-by-step instructions, pro-tips, and new ideas for using your FarmBot to complete common tasks.
+Check out the guides below for step-by-step instructions, pro-tips, and new ideas for using your WenextFarm to complete common tasks.
 
-# What's next?
+# catalogue
 
  * [Axis Setup](how-to-guides/axis-setup.md){target=_blank}
  * [Mount and Dismount Tools](how-to-guides/mount-and-dismount-tools.md){target=_blank}
