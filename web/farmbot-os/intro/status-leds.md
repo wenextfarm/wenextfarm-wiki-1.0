@@ -2,7 +2,7 @@
 title: Status LEDs
 description: The meaning behind the blinking
 published: true
-date: 2026-07-10T13:40:28.738Z
+date: 2026-07-26T02:16:17.899Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:48.732Z
@@ -62,22 +62,6 @@ This green LED indicates the **sync status** between FarmBot and the web app. It
 |<span class="fa fa-sun-o led green"></span> (blinking quickly)|Syncing
 |<span class="fa fa-circle-thin led green"></span> (off)|Offline - Check the connection status LED
 
-## LED 2 (connection)
-This blue LED indicates the **connection status** between FarmBot and the internet and web app. It is connected to Raspberry Pi GPIO BCM pin 25.
-
-|Blue (connection)             |Status                        |
-|------------------------------|------------------------------|
-|<span class="fa fa-circle led blue"></span> (solid blue)|Connected and working
-|<span class="fa fa-sun-o led blue"></span> (blinking slowly)|Needs configuration - [Configure FarmBot](configurator.md), press <span class="fb-button fb-yellow">UNLOCK</span> in the Web App, or check that the network FarmBot is connected to is online.
-|<span class="fa fa-circle-thin led blue"></span> (off)|Offline - Check your internet connection.<br><br>If you are connected to the internet but the Blue LED is off, one or more of your ports may be blocked. Get your network administrator to check the ports listed in the [Firewall is blocking network traffic](../../docs/troubleshooting/connecting-farmbot-to-the-web-app.md#6-firewall-is-blocking-network-traffic) troubleshooting section.
-
-## LED 3 (custom)
-
-This white LED (Genesis kits only) is user controllable via the <span class="fb-step fb-write-pin">Control Peripheral</span> sequence command. It is connected to Raspberry Pi GPIO BCM pin 12.
-
-## LED 4 (custom)
-
-This white LED (Genesis kits only) is user controllable via the <span class="fb-step fb-write-pin">Control Peripheral</span> sequence command. It is connected to Raspberry Pi GPIO BCM pin 13.
 
 # Electronics box buttons
 
