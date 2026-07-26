@@ -2,13 +2,13 @@
 title: Configurator
 description: Configure FarmBot to connect to your home WiFi network and web app account
 published: true
-date: 2026-07-10T13:37:47.230Z
+date: 2026-07-26T02:10:48.650Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:37.406Z
 ---
 
-> **ℹ️ Configuration requires a web app account:** 
+> **Configuration requires a web app account:** 
 > 
 > To complete configuration, you must have a **verified web app account**. See instructions for creating and verifying an account [here](../../app/intro/creating-an-account.md).
 {.is-info}
@@ -20,7 +20,7 @@ We also recommend [choosing a FarmBot model](../../docs/getting-started.md#farmb
 
 When FarmBot boots up, it will automatically start up Configurator. Configurator will check for configuration data. Initially, there will not be any configuration data, so FarmBot will not be able to connect to your home WiFi network or your web app account. In this case, Configurator will create its own WiFi network named `farmbot-xxxx`. Use this WiFi network to provide FarmBot with the information it needs by using the step-by-step instructions below.
 
-> **⚠️ Note:** 
+> **Note** 
 > 
 > Configurator will not run if you have not flashed the microSD card with [FarmBot OS](../intro.md).
 {.is-warning}
@@ -31,13 +31,13 @@ When FarmBot boots up, it will automatically start up Configurator. Configurator
 1. After installing FarmBot OS to the device SD card, connect to the `farmbot-xxxx` WiFi network from your phone or laptop. Configurator will not load if you do not flash the SD card.
 2. Once connected, a laptop computer should automatically open up a **captive portal** with the configuration utility. You might be familiar with this experience from using WiFi at an airport, hotel, or cafe. If you're using a smartphone, you may need to click a notification once you're connected to the FarmBot network to open up the captive portal.
 
-> **ℹ️ If you don't see the captive portal or notification...:** 
+> **If you don't see the captive portal or notification...:** 
 > 
 > Try navigating to [setup.farm.bot](http://setup.farm.bot) or [192.168.24.1](http://192.168.24.1) using your web browser.
 {.is-info}
 
 
-> **⚠️ Turn off cellular data:** 
+> **Turn off cellular data:** 
 > 
 > If you are using a smartphone you may need to disable cellular data to allow your phone's web browser to connect to the configurator.
 {.is-warning}
@@ -47,9 +47,9 @@ When FarmBot boots up, it will automatically start up Configurator. Configurator
 
 Select **ETHERNET** for wired connections and **WIFI** for wireless connections by pressing the corresponding icon.
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
-> If you need to know the **network interface name** and/or **MAC address**, press the <span class=\
+> If you need to know the **network interface name** and/or **MAC address**, press the 
 {.is-info}
 
 
@@ -61,7 +61,7 @@ If you are connecting FarmBot with WiFi, select the **WIFI NETWORK NAME** of the
 
 ![wifi](/web/farmbot-os/intro/_images/wifi.png =700x)
 
-> **✅ Choose a WiFi network with good signal strength:** 
+> **Choose a WiFi network with good signal strength:** 
 > 
 > FarmBot will **NOT** work reliably if it is not receiving a strong WiFi signal from your wireless router. It is recommended you only select a WiFi network if it has *GOOD* (green) or *OK* (orange) **STRENGTH**. If the signal strength is too weak, you will not be allowed to select that network.
 {.is-success}
@@ -84,15 +84,15 @@ Remember: you must already have a **verified web app account** in order for the 
 
 ![web app credentials](/web/farmbot-os/intro/_images/web_app_credentials.png =700x)
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
-> If you are self-hosting the web application on your own servers, replace <span class=\
+> If you are self-hosting the web application on your own servers, replace 
 {.is-info}
 
 
 # Step 4: Submit configuration
 
-Press <span class="fb-button fb-green">FINISH</span>. FarmBot OS will now attempt to connect to the WiFi network and Web App account provided. This will terminate the connection between your smartphone or laptop and FarmBot OS, so you can now close the captive portal or web browser tab that you were using to complete the configuration process.
+Press **FINISH** FarmBot OS will now attempt to connect to the WiFi network and Web App account provided. This will terminate the connection between your smartphone or laptop and FarmBot OS, so you can now close the captive portal or web browser tab that you were using to complete the configuration process.
 
 # Step 5: Check to see if FarmBot is online
 
@@ -100,7 +100,7 @@ Press <span class="fb-button fb-green">FINISH</span>. FarmBot OS will now attemp
 * Navigate to [my.farm.bot](https://my.farm.bot) and watch the status ticker to see when FarmBot comes online and begins sending messages. This should happen **within 5 minutes** of completing configuration.
 * Once FarmBot is initialized, try pressing one of the manual movement arrow buttons. You should see FarmBot responding to your commands and sending back messages.
 
-> **✅ Make sure you've chosen your FarmBot model:**
+> **Make sure you've chosen your FarmBot model:**
 > 
 > If you haven't yet [selected a FarmBot model](../../docs/getting-started.md#farmbot-model) from the setup process, then FarmBot will not know which firmware version to flash to the microcontroller. This will result in all movement commands failing. If this happens, make sure you choose a FarmBot model, or manually select a firmware option from the settings panel **Firmware** section and it will be flashed to the microcontroller.
 {.is-success}
