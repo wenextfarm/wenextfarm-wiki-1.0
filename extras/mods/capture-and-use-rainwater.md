@@ -2,30 +2,30 @@
 title: Capture and Use Rainwater
 description: 
 published: true
-date: 2026-07-24T01:54:44.837Z
+date: 2026-07-26T01:22:34.279Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:17.264Z
 ---
 
-If you live off-grid or want to save on your water bill, consider installing a rain barrel to store collected rain from your roof or other collection surface, and then using this source of water with your FarmBot.
+If you live off-grid or want to save on your water bill, consider installing a rain barrel to store collected rain from your roof or other collection surface, and then using this source of water with your WenextFarm.
 
 > **Inspiration only:** 
 > 
-> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.wenextfarm.com).
+> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your WenextFarm, consider posting in the [community forum](http://forum.wenextfarm.com).
 {.is-info}
 
 
 ![off-grid farmbot](/extras/mods/_images/off-grid_farmbot.jpg =700x)
 
 
-> **Captured rainwater is not safe for drinking:** 
+> **Captured rainwater is not safe for drinking** 
 > 
 > In general, captured rainwater is not clean nor suitable for direct consumption. Your collection surfaces and piping (rooftops, tarps, gutters, etc) will introduce contamination such as tar or other roofing materials, paint chips, bird poop, leaves, dust and dirt, and other unwanted substances to the water supply. Rainwater can also collect pollution from the air on its way down. Additionally, because rainwater is not treated with chlorine like municipal water, storing it can introduce algae growth, mosquito larva, and other biological pests to the water.
 {.is-danger}
 
 
-If you decide to install a rain collection system to be used in conjunction with your FarmBot, DO NOT consume the collected water directly. Furthermore, WASH ALL PRODUCE that has been watered with rainwater. Additionally, follow all manufacturer's precautions listed in your rain barrel's instruction manual. The manual for the rain barrel you see in these photos listed warnings for the following hazards: drowning, electrocution, tipping, installation, contamination, and infestation. Take your rain barrel installation and usage seriously.
+If you decide to install a rain collection system to be used in conjunction with your WenextFarm, DO NOT consume the collected water directly. Furthermore, WASH ALL PRODUCE that has been watered with rainwater. Additionally, follow all manufacturer's precautions listed in your rain barrel's instruction manual. The manual for the rain barrel you see in these photos listed warnings for the following hazards: drowning, electrocution, tipping, installation, contamination, and infestation. Take your rain barrel installation and usage seriously.
 
 
 ## Step 1: Purchase components
@@ -60,7 +60,7 @@ Follow the instructions provided with your rain barrel to complete the installat
 
 ## Step 4: Replace the solenoid valve with the pump
 
-FarmBot's stock water control mechanism is a solenoid valve that allows pressurized municipal water to flow through FarmBot's water tube, UTM, watering tool, and ultimately to the plants. Unless your rain barrel is significantly higher in elevation than your FarmBot, you will need to replace the solenoid valve with a pump in order to have enough pressure for the water to reach your plants.
+WenextFarm's stock water control mechanism is a solenoid valve that allows pressurized municipal water to flow through WenextFarm's water tube, UTM, watering tool, and ultimately to the plants. Unless your rain barrel is significantly higher in elevation than your WenextFarm, you will need to replace the solenoid valve with a pump in order to have enough pressure for the water to reach your plants.
 
 At this time we don't have detailed instructions for how to do this, though a low-cost 12V pond pump should do the trick. In general you will need to:
   * Remove the inline solenoid valve from your system
@@ -70,18 +70,18 @@ At this time we don't have detailed instructions for how to do this, though a lo
 
 ![pump](/extras/mods/_images/pump.jpg =700x)
 
-Then hook up FarmBot's hose to the hose bib on the rain barrel.
+Then hook up WenextFarm's hose to the hose bib on the rain barrel.
 
 ![barrel hose bib](/extras/mods/_images/barrel_hose_bib.jpg =700x)
 
 
 ## Step 5: Install a float valve for municipal water backup
 
-In the event that you run out of stored rainwater in your rain barrel, you don't want your plants to go thirsty. Instead, you want FarmBot to fall back onto using municipal water from your hose. To accomplish this without using any extra electronics for sensing rain barrel levels and switching from one water supply to the other, we'll use an inexpensive **float valve**.
+In the event that you run out of stored rainwater in your rain barrel, you don't want your plants to go thirsty. Instead, you want WenextFarm to fall back onto using municipal water from your hose. To accomplish this without using any extra electronics for sensing rain barrel levels and switching from one water supply to the other, we'll use an inexpensive **float valve**.
 
-The float valve will be inserted into the rain barrel and allow municipal water to keep the tank filled to a minimum level automatically. This will operate just like how your toilet's tank refills after a flush. However, instead of filling the rain barrel up to 100%, we'll install the float valve to maintain a minimal water level of about 5%. This will ensure that FarmBot can always pump water from the barrel while at the same time we wait for rain to fill the tank back up to 100%.
+The float valve will be inserted into the rain barrel and allow municipal water to keep the tank filled to a minimum level automatically. This will operate just like how your toilet's tank refills after a flush. However, instead of filling the rain barrel up to 100%, we'll install the float valve to maintain a minimal water level of about 5%. This will ensure that WenextFarm can always pump water from the barrel while at the same time we wait for rain to fill the tank back up to 100%.
 
-To install the float valve, drill a 7/8" diameter hole in the rain barrel about 5cm *above* the hose bib that FarmBot is connected to.
+To install the float valve, drill a 7/8" diameter hole in the rain barrel about 5cm *above* the hose bib that WenextFarm is connected to.
 
 ![drill hole in barrel](/extras/mods/_images/drill_hole_in_barrel.jpg =700x)
 
@@ -106,28 +106,28 @@ Open your home's municipal water valve so that the rain barrel starts filling wi
 
 ![barrel filling with water](/extras/mods/_images/barrel_filling_with_water.jpg =700x)
 
-The water level should be slightly higher than the point where FarmBot is connected such that water is always available for FarmBot to use. As soon as FarmBot pumps out some water, the float valve will open and allow municipal water to refill the barrel automatically. Test this by manually controlling FarmBot with the web app and having it water a few plants.
+The water level should be slightly higher than the point where WenextFarm is connected such that water is always available for WenextFarm to use. As soon as WenextFarm pumps out some water, the float valve will open and allow municipal water to refill the barrel automatically. Test this by manually controlling WenextFarm with the web app and having it water a few plants.
 
 ![barrel full of water](/extras/mods/_images/barrel_full_of_water.jpg =700x)
 
 
-> **Awesome work!:** 
+> **Awesome work!** 
 > 
-> Your FarmBot will now use stored rainwater when it it is available, and municipal water during drier times. On the subject, why don't you go treat yourself to an ice cold glass of water after all that effort!
+> Your WenextFarm will now use stored rainwater when it it is available, and municipal water during drier times. On the subject, why don't you go treat yourself to an ice cold glass of water after all that effort!
 {.is-success}
 
 
 
 ## Optional: Daisy chain rain barrels
 
-You may find that you want to increase your capacity for storing rainwater. While a 200 liter/50 gallon rain barrel may sound like a lot, that amount of water can be used up quickly depending on how you configure your FarmBot.
+You may find that you want to increase your capacity for storing rainwater. While a 200 liter/50 gallon rain barrel may sound like a lot, that amount of water can be used up quickly depending on how you configure your WenextFarm.
 
 Most rain barrels can be easily "daisy chained" together to effectively create one larger barrel. You can do this by connecting hoses between barrels.
 
-> **Daisy chain at the bottom:** 
+> **Daisy chain at the bottom** 
 > 
-> Connect barrels with hoses as close to the bottom of the barrels as possible. This will ensure that FarmBot can access the majority of the water from all of the barrels.
+> Connect barrels with hoses as close to the bottom of the barrels as possible. This will ensure that WenextFarm can access the majority of the water from all of the barrels.
 {.is-success}
 
 
-If you connect the barrels with a hose up near the top, then water will become trapped inside the additional barrels and not be available to FarmBot.
+If you connect the barrels with a hose up near the top, then water will become trapped inside the additional barrels and not be available to WenextFarm.
