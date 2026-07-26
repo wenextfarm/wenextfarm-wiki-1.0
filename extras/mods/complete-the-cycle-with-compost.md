@@ -2,17 +2,17 @@
 title: Complete the Cycle with Compost
 description: 
 published: true
-date: 2026-07-11T09:03:03.160Z
+date: 2026-07-26T01:13:21.309Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:23.408Z
 ---
 
-No matter how well FarmBot tends to your plants, they won't do well without nutrient-rich soil. Adding compost is an easy and low-cost way to build healthy soil using yard and kitchen waste. Examples of compostable materials include food scraps, leaves, papers, grass clippings and other yard waste, and dead or otherwise unwanted plants.
+No matter how well WenextFarm tends to your plants, they won't do well without nutrient-rich soil. Adding compost is an easy and low-cost way to build healthy soil using yard and kitchen waste. Examples of compostable materials include food scraps, leaves, papers, grass clippings and other yard waste, and dead or otherwise unwanted plants.
 
 # Setting up a composter
 
-First find a location for your composter. Ideally it should be located near your FarmBot and in direct sunlight so that you can easily and quickly move plants and yard waste into it and so that the sun helps to cook the compost. The area should also be flat, and have adequate space around it so that the composter can be accessed and tumbled easily. You might also consider positioning it near your kitchen or other major sources of organic material that you plan on composting.
+First find a location for your composter. Ideally it should be located near your WenextFarm and in direct sunlight so that you can easily and quickly move plants and yard waste into it and so that the sun helps to cook the compost. The area should also be flat, and have adequate space around it so that the composter can be accessed and tumbled easily. You might also consider positioning it near your kitchen or other major sources of organic material that you plan on composting.
 
 ![farmbot with solar and compost](/extras/mods/_images/farmbot_with_solar_and_compost.jpg =700x)
 
@@ -32,21 +32,18 @@ The composting process works best when nitrogen-rich moist **greens** are mixed 
 * Straw/hay
 * Sawdust/mulch
 
-> **✅ Ratio matters:** 
+> **Ratio matters** 
 > 
 > The mixing ratio should be **2 parts greens** to **1 part browns**.
 {.is-success}
 
 
-
-> **⚠️ Do not compost:** 
+> **Do not compost** 
 > * Meats/fats/bones
 > * Dairy products
 > * Trash/plastic
 > * Invasive plants/weeds
-{.is-warning}
-
-
+{.is-info}
 
 # How to compost in batches
 
@@ -58,14 +55,14 @@ Because the composting process takes anywhere between 2 weeks and 3 months to go
 4. When the second chamber is full, it should be time for you to remove the compost from the first chamber. The compost should be a very dark, moist, earthy smelling soil that is high in nutrients. If it doesn't look ready, keep it in the composter for a few more weeks. To get the compost out, rotate the tumbler so that the door is on the bottom. Place a bucket or tarp under the door and then open it to dump the contents out.
 5. Repeat the process by adding new raw materials to the first chamber while letting the second chamber cure.
 
-> **✅ Using the compost:** 
+> **Using the compost** 
 > 
 > Distribute the compost in your garden by mixing it into the soil with a trowel. You should never plant things directly in compost. Rather, you should use at most a 50/50 mix of compost/native soil.
 {.is-success}
 
 
 
-> **ℹ️ Composting produces heat:** 
+> **Composting produces hea:** 
 > 
 > When you strike the right balance of moisture, greens, browns, and tumbling, your compost should become hot. This heat is produced from the microorganisms multiplying and decomposing the materials, and is a sign that your compost is doing well. The hotter your compost gets, the quicker it will break down.
 {.is-info}
@@ -100,14 +97,17 @@ Small shredded materials have more surface area which allows more microorganisms
 # Hack your composter!
 
 If you're looking for a fun weekend project, consider hacking your composter! Here are some project ideas:
+
 ## Auto-tumble
 Use a motor, some 3D printed parts, and FarmBot's Arduino to auto-rotate your compost bin every few days. You can use the sequence builder and event scheduler of the web app to specify for how long and how often the bin should be tumbled.
+
 ## Monitor temperature
 Use a thermistor and some wire to monitor the temperature of your compost. You can plug directly into the Arduino's analog inputs and then pump the data to your web app dashboard!
+
 ## Monitor moisture and auto-water
 Hack an off-the-shelf moisture meter to plug directly into FarmBot's Arduino and pump the data to the web app. Add some misters inside of your composter and hook them up to a water source with a solenoid valve. You can use the sequence builder and event scheduler of the web app to specify for how long and how often the misters should be active for, and even use an IF statement block to make misting conditional based on the current moisture level!
 
-> **✅ Build something awesome or have ideas to share?:** 
+> **Build something awesome or have ideas to share?:** 
 > 
 > Share with us and the entire FarmBot community in the [forum](http://forum.wenextfarm.com)!
 {.is-success}
