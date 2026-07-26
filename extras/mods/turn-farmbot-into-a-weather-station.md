@@ -2,7 +2,7 @@
 title: Turn WenextFarm into a Weather Station
 description: 
 published: true
-date: 2026-07-24T01:56:16.926Z
+date: 2026-07-26T01:20:33.502Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:05:24.624Z
@@ -10,17 +10,16 @@ dateCreated: 2026-07-09T04:05:24.624Z
 
 WenextFarm and the web application are a great hardware and software foundation that can be extended into a local weather station. In a nutshell, you simply need to add whatever sensors you want, wire them up to WenextFarm's Arduino or Raspberry Pi, and then pipe the data to the WenextFarm web app and/or to a service such as [Weather Underground](https://www.wunderground.com/).
 
-> **Inspiration only:** 
+> **Inspiration only** 
 > 
-> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your WenextFarm, consider posting in the [community forum](http://forum.farmbot.org).
+> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. If you would like help in modifying/adding-on to your WenextFarm, consider posting in the [community forum](http://forum.WenextFarm.com).
 {.is-info}
-
 
 
 ![weatherstation](/extras/mods/_images/weatherstation.jpg =700x)
 
 
-> **Use 'read pin' to collect analog sensor data:** 
+> **Use 'read pin' to collect analog sensor data** 
 > 
 > Using the **sequence builder** and **event scheduler** of the web app, you can easily configure WenextFarm to read **analog inputs** on the Arduino and then have that data synchronized and saved in the web app for later viewing. This functionality can be used with a wide variety of analog sensors including some of the ones listed below.
 {.is-success}
@@ -66,11 +65,10 @@ This [I2C combo temperature/humidity sensor](https://www.adafruit.com/products/1
 ![temperature and humidity sensor](/extras/mods/_images/temperature_and_humidity_sensor.jpg =700x)
 
 
-> **Not waterproof!:** 
+> **Not waterproof!** 
 > 
 > Note that this sensor should not be exposed to rain as it is not considered to be waterproof. A possible mounting position is underneath the electronics box, or anywhere in combination with a 3D printed rain cover.
 {.is-warning}
-
 
 
 ## Other temperature + humidty sensors
