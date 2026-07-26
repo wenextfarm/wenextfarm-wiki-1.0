@@ -2,7 +2,7 @@
 title: Control Relays
 description: 
 published: true
-date: 2026-07-26T00:59:42.793Z
+date: 2026-07-26T01:00:07.512Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:29.767Z
@@ -14,8 +14,6 @@ We recommend purchasing a 110V relay such as the [Controllable Four Outlet Power
 1. Plugging the relay into a power source such as an extension cord,
 2. Connecting the peripheral to the relay's output, and
 3. Wiring the relay up to spare digital I/O pins on your electronics board.
-
-![110v relay switch](/extras/mods/_images/110v_relay_switch.jpg =700x)
 
 ![继电器.png](/wiki/继电器.png =700x)
 
