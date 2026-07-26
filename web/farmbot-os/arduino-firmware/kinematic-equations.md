@@ -2,13 +2,13 @@
 title: Kinematic Equations
 description: Equations relating linear speeds to motor speeds
 published: true
-date: 2026-07-13T06:58:07.162Z
+date: 2026-07-26T02:37:45.791Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:07.257Z
 ---
 
-The equations on this page are affected by the following specs of your FarmBot hardware:
+The equations on this page are affected by the following specs of your WenextFarm hardware:
 
 |                    |                    |
 |--------------------|--------------------|
