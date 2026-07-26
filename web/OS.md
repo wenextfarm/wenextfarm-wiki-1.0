@@ -2,12 +2,14 @@
 title: FarmBot OS
 description: 
 published: true
-date: 2026-07-26T02:13:49.882Z
+date: 2026-07-26T08:10:15.808Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T03:57:23.231Z
 ---
 
+
+![wenextfarm-os.jpg](/wiki/wenextfarm-os.jpg)
 
 The Raspberry Pi runs a custom operating system named [FarmBot OS](https://my.wenextfarm.com/OS), allowing FarmBot to:
 
