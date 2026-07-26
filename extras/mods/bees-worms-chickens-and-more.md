@@ -2,35 +2,34 @@
 title: Bees, Worms, Chickens, and More!
 description: 
 published: true
-date: 2026-07-11T09:04:52.441Z
+date: 2026-07-26T01:06:36.297Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:10.934Z
 ---
 
-Our friends at the [AKER project](http://akerkits.com) share a similar vision for the future of food as us. They have created simple garden kits that snap together without tools, which we recommend adding to your FarmBot so you can have a more complete food system right in your backyard!
+Our friends at the [AKER project](http://akerkits.com) share a similar vision for the future of food as us. They have created simple garden kits that snap together without tools, which we recommend adding to your WenextFarm so you can have a more complete food system right in your backyard!
 
 All of their designs are open-source and can be CNC routed at your local MakerSpace, or purchased from them directly at [akerkits.com](http://akerkits.com).
 
 <iframe width="100%" height="300" src="https://sketchfab.com/models/27324ad86e7c46c0a9233f71ce8f9876/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
-# GrowSquare
+## GrowSquare
 
 The GrowSquare is a simple, easy to assemble raised bed. It’s a great entry-level kit that snaps together in under a minute and can slot seamlessly into a backyard or rooftop environment to start growing vegetables.
 
-> **✅ I spy:** 
+> **I spy** 
 > 
-> The GrowSquare is perfect for using as the [supporting infrastructure](../../assembly/supporting-infrastructure.md) for a FarmBot!
+> The GrowSquare is perfect for using as the [supporting infrastructure](../../assembly/supporting-infrastructure.md) for a WenextFarm!
 {.is-success}
-
 
 Learn more and purchase the GrowSquare [here](http://akerkits.com).
 
 ![growsquare raised bed](/extras/mods/_images/growsquare_raised_bed.jpg =700x)
 
 
-# EggHaus
+## EggHaus
 
 The EggHaus is a modern chicken coop designed to house up to two hens. The sturdy snap-fit design creates a protective and well ventilated shelter during the night, while the locking door gives the hens an easy exit and re-entrance during the day.
 
@@ -41,7 +40,7 @@ Learn more and purchase the EggHaus [here](http://akerkits.com).
 ![egghaus hen coop](/extras/mods/_images/egghaus_hen_coop.jpg =700x)
 
 
-# Colorado Top Bar bee hive
+## Colorado Top Bar bee hive
 
 The Colorado Top Bar is a beautiful beehive for your backyard, community garden or rooftop. Designed by a team in Colorado and inspired by the classic Kenyan Top Bar design, the CTB contains minimal parts and requires no equipment to harvest honey and wax.
 
@@ -52,9 +51,9 @@ Learn more and purchase the Colorado Top Bar [here](http://akerkits.com).
 ![colorado top bar beehive](/extras/mods/_images/colorado_top_bar_beehive.jpg =700x)
 
 
-# WormHaus
+## WormHaus
 
-The WormHaus is a compact vermicomposting system offering a sustainable way to convert your food waste into nutrient-rich organic fertilizer (for your FarmBot bed!) Worms within the system process your organic scraps to nourish other plants and vegetables growing in your home.
+The WormHaus is a compact vermicomposting system offering a sustainable way to convert your food waste into nutrient-rich organic fertilizer (for your WenextFarm bed!) Worms within the system process your organic scraps to nourish other plants and vegetables growing in your home.
 
 The WormHaus can convert an amazing 3kg / 7lbs of food waste per week, making it perfect for small families and much more efficient than standard hot or cold composting systems. The kit comes with five stackable levels, allowing the system to expand and contract depending on how much waste is being created.
 
