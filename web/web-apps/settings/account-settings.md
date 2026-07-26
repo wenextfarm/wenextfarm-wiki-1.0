@@ -2,7 +2,7 @@
 title: Account Settings
 description: :computer: Manage your account and app settings. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=account)
 published: true
-date: 2026-07-13T06:43:17.308Z
+date: 2026-07-26T08:09:14.342Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:55:26.261Z
@@ -14,7 +14,7 @@ In this section you can change your name (displayed in the top right of the app)
 
 Disable use of language files to translate web app text.
 
-> **ℹ️ Translations may be incomplete:** 
+> **Translations may be incomplete** 
 > 
 > Interested in helping out? See the [instructions for submitting corrections or new languages](https://github.com/FarmBot/Farmbot-Web-App#translating-the-web-app-into-your-language).
 {.is-info}
@@ -36,7 +36,7 @@ If you're not using an external webcam to monitor your FarmBot, you can remove t
 
 <span class="fb-step fb-send-message">SEND MESSAGE</span> commands can optionally speak the message aloud. The audio can be heard from the Raspberry Pi's 3.5mm audio jack, and using this setting, output using your computer speakers as well.
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > This feature may not be available in some web browsers. We're sorry for the inconvenience.
 {.is-info}
@@ -70,7 +70,6 @@ Resetting your account will permanently delete all of your sequences, regimens, 
 
 Note that when FarmBot syncs after resetting your account, your FarmBot will delete all of its stored Sequences, etc, because your account will no longer have any of these resources until you create new ones. Furthermore, upon reset any customized device settings will be immediately overwritten with the default values downloaded from the reset web app account.
 
-> **🚫 Note:** 
 > 
 > Resetting an account is irreversible.
 {.is-danger}
@@ -80,7 +79,6 @@ Note that when FarmBot syncs after resetting your account, your FarmBot will del
 
 Permanently delete your account and all of its data. If you have a FarmBot connected to this account, it should be soft reset before the account is deleted. Otherwise you may need to reflash the microSD card to reconnect it to a new account.
 
-> **🚫 Note:** 
 > 
 > Deleting an account is irreversible. If you have a FarmBot connected to this account, it should be soft reset before the account is deleted. Otherwise you may need to reflash the microSD card to reconnect it to a new account.
 {.is-danger}
@@ -116,7 +114,3 @@ Once the account becomes eligible for deletion, an email will be sent with the s
 
 **3) Deletion**
 If the user does not login to their account within 14 days of the warning email, the account will be automatically deleted and cannot be recovered.
-
-# What's next?
-
- * [Logs](../intro/jobs-and-logs.md)
