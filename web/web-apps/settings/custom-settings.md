@@ -2,7 +2,7 @@
 title: Custom Settings
 description: Add custom settings to support Lua commands and custom FarmBot functionality. [Open these settings in the app](https://my.farm.bot/app/designer/settings?highlight=custom_settings)
 published: true
-date: 2026-07-13T06:55:50.984Z
+date: 2026-07-26T07:59:30.868Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T07:55:39.356Z
@@ -24,7 +24,7 @@ To edit a custom setting, change the key and/or value and then click outside of 
 
 To delete a custom setting, press the <span class="fb-button fb-red"><i class='fa fa-times'></i></span> button.
 
-> **⚠️ Note:** 
+> **Note** 
 > 
 > The web app does not perform any checks when deleting a custom setting. Sequences that still try to access a setting after it has been deleted may fail or have unexpected results.
 {.is-warning}
