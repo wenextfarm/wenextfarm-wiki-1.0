@@ -2,7 +2,7 @@
 title: Status LEDs
 description: The meaning behind the blinking
 published: true
-date: 2026-07-26T02:16:17.899Z
+date: 2026-07-26T02:22:00.239Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:48.732Z
@@ -14,13 +14,7 @@ The Raspberry Pi has LED lights that convey information about its status.
 
 ![RASPBERRY PI LIGHTS](/web/farmbot-os/intro/_images/raspberry_pi_lights.jpg =700x)
 
-_Raspberry Pi 3, included with Genesis kits_
-
-![Pi Zero](/web/farmbot-os/intro/_images/pi_zero.jpg =700x)
-
-_Raspberry Pi Zero W, included with Express kits_
-
-## Red (power) LED
+_Raspberry Pi 3B+, included with Genesis kits_
 
 _Genesis kits only_
 
