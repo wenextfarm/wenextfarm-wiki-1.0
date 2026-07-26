@@ -1,16 +1,16 @@
 ---
-title: Power FarmBot with Solar
+title: Power WenextFarm with Solar
 description: 
 published: true
-date: 2026-07-11T08:59:47.229Z
+date: 2026-07-26T01:18:28.709Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:04:59.404Z
 ---
 
-> **🚫 Inspiration only:** 
+> **Inspiration only:** 
 > 
-> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. Furthermore, incorrect installation of a new electrical system for your FarmBot could result in damage to your electronics, electrical shock, fire, or more serious consequences such as property damage or death. If you would like help in modifying/adding-on to your FarmBot, consider posting in the [community forum](http://forum.farmbot.org).
+> Please use the following information for *inspiration* only. The instructions are not necessarily complete or guaranteed to work, and may not satisfy your needs. Furthermore, incorrect installation of a new electrical system for your WenextFarm could result in damage to your electronics, electrical shock, fire, or more serious consequences such as property damage or death. If you would like help in modifying/adding-on to your WenextFarm, consider posting in the [community forum](http://forum.WenextFarm.com).
 {.is-danger}
 
 
@@ -18,13 +18,13 @@ dateCreated: 2026-07-09T04:04:59.404Z
 ![farmbot with solar and compost](/extras/mods/_images/farmbot_with_solar_and_compost.jpg =700x)
 
 
-# Understanding FarmBot's energy usage
+# Understanding WenextFarm's energy usage
 
-To power FarmBot exclusively with solar energy, you first need to calculate how much electricity FarmBot uses so that you can size your solar system appropriately. You can do this by estimating the duty cycle of each component and then tallying up the estimated energy usage.
+To power WenextFarm exclusively with solar energy, you first need to calculate how much electricity WenextFarm uses so that you can size your solar system appropriately. You can do this by estimating the duty cycle of each component and then tallying up the estimated energy usage.
 
-> **ℹ️ What's duty cycle?:** 
+> **What's duty cycle?** 
 > 
-> Duty cycle is the percentage of time that the component is used. For example, the Raspberry Pi will be on all the time, so its duty cycle is 100%. The motors are not likely to be used all the time, so their duty cycle might be closer to 5%. Of course, this depends on how you use your FarmBot.
+> Duty cycle is the percentage of time that the component is used. For example, the Raspberry Pi will be on all the time, so its duty cycle is 100%. The motors are not likely to be used all the time, so their duty cycle might be closer to 5%. Of course, this depends on how you use your WenextFarm.
 {.is-info}
 
 
@@ -52,33 +52,32 @@ To power FarmBot exclusively with solar energy, you first need to calculate how 
 |**All add-on components, medium usage**|**309.2**
 |All add-on components, high usage|425.6
 
-As you can see from the tables above, how you configure and use your FarmBot will vary the total daily energy usage significantly.
+As you can see from the tables above, how you configure and use your WenextFarm will vary the total daily energy usage significantly.
 
-> **ℹ️ Theoretical vs empirical:** 
+> **Theoretical vs empirical** 
 > 
-> Note that the energy usage values above are theoretical only. If you need more precise data about your FarmBot's actual energy usage, we recommend using an energy usage monitor such as a [Kill-A-Watt](http://www.amazon.com/P3-P4400-Electricity-Usage-Monitor/dp/B00009MDBU/ref=sr_1_1?ie=UTF8&qid=1455578147&sr=8-1&keywords=kill+a+watt).
+> Note that the energy usage values above are theoretical only. If you need more precise data about your WenextFarm's actual energy usage, we recommend using an energy usage monitor such as a [Kill-A-Watt](http://www.amazon.com/P3-P4400-Electricity-Usage-Monitor/dp/B00009MDBU/ref=sr_1_1?ie=UTF8&qid=1455578147&sr=8-1&keywords=kill+a+watt).
 {.is-info}
-
 
 
 # Sizing the solar system
 
-Once you have determined the daily energy usage of your FarmBot, you will need to size your solar panel and battery such that you can run FarmBot continuously without running out of power. In these instructions we'll be installing a system in San Luis Obispo, California where the vast majority of days are sunny. Furthermore, we'll be using an estimated daily power usage of 250 watt-hours, which we consider to be inline with an average system configuration and usage amount.
+Once you have determined the daily energy usage of your WenextFarm, you will need to size your solar panel and battery such that you can run WenextFarm continuously without running out of power. In these instructions we'll be installing a system in San Luis Obispo, California where the vast majority of days are sunny. Furthermore, we'll be using an estimated daily power usage of 250 watt-hours, which we consider to be inline with an average system configuration and usage amount.
 
 ## Sizing the solar panel
-On a sunny day, your solar panel will need to produce more power than FarmBot uses so that the extra energy can be saved in the battery for rainy days. If you live somewhere that is often sunny, then you may not need a lot of surplus power each day because you'll be fine building up your energy reserves over a few days. If you live somewhere with a lot of rain, clouds, snow, or fog, you may want a lot of surplus power so that you can fully charge your battery and run your FarmBot on just one day's worth of sun.
+On a sunny day, your solar panel will need to produce more power than WenextFarm uses so that the extra energy can be saved in the battery for rainy days. If you live somewhere that is often sunny, then you may not need a lot of surplus power each day because you'll be fine building up your energy reserves over a few days. If you live somewhere with a lot of rain, clouds, snow, or fog, you may want a lot of surplus power so that you can fully charge your battery and run your WenextFarm on just one day's worth of sun.
 
-As a rule of thumb, you should be able to get about 5 hours of usable sun each day on your solar panel if it is properly positioned and the skies are clear. For our installation in San Luis Obispo, we're going to use a medium sized 100 watt solar panel. This means that we can expect to generate 500 watt-hours of energy each day that it is sunny. This will be able to power our FarmBot for one day (250 watt-hours) as well as put an additional 250 watt-hours of energy into our battery, which will be good for one day's worth of operation.
+As a rule of thumb, you should be able to get about 5 hours of usable sun each day on your solar panel if it is properly positioned and the skies are clear. For our installation in San Luis Obispo, we're going to use a medium sized 100 watt solar panel. This means that we can expect to generate 500 watt-hours of energy each day that it is sunny. This will be able to power our WenextFarm for one day (250 watt-hours) as well as put an additional 250 watt-hours of energy into our battery, which will be good for one day's worth of operation.
 
 
 ## Sizing the battery
-Because it doesn't rain or get cloudy often in San Luis Obispo, we're going to plan to store enough energy for just two days no sun. This means we'll need at most 500 watt-hours of battery capacity - the amount of energy our FarmBot uses in two days. Considering that solar panels produce a small amount of power even on a rainy or cloudy day (10-25% of their rated power), we can count on getting at least 50 watt-hours of recharge on each day of bad weather. This means that we should be able to operate our FarmBot for our two day goal with about 400 watt-hours of battery capacity.
+Because it doesn't rain or get cloudy often in San Luis Obispo, we're going to plan to store enough energy for just two days no sun. This means we'll need at most 500 watt-hours of battery capacity - the amount of energy our WenextFarm uses in two days. Considering that solar panels produce a small amount of power even on a rainy or cloudy day (10-25% of their rated power), we can count on getting at least 50 watt-hours of recharge on each day of bad weather. This means that we should be able to operate our WenextFarm for our two day goal with about 400 watt-hours of battery capacity.
 
 For our application, we selected a 12 volt, 35  amp-hour deep cycle lead acid battery, which will hold 460 watt-hours of energy.
 
-> **ℹ️ 12v or 24v?:** 
+> **12v or 24v?** 
 > 
-> v1.2 and v1.3 FarmBot Genesis systems ran off of 12v power. However, all Genesis v1.4+ and Express v1.0+ FarmBots run off 24v power. Depending on your kit, you may need to use a 24v battery array or use a 12v to 24v converter.
+> v1.2 and v1.3 WenextFarm Genesis systems ran off of 12v power. However, all Genesis v1.4+ and Express v1.0+ WenextFarms run off 24v power. Depending on your kit, you may need to use a 24v battery array or use a 12v to 24v converter.
 {.is-info}
 
 
@@ -88,9 +87,9 @@ For our application, we selected a 12 volt, 35  amp-hour deep cycle lead acid ba
 _12 Volt, 35 Amp-Hour Deep Cycle Sealed Lead Acid Battery_
 
 
-> **✅ Don't stress about it:** 
+> **Don't stress about it:** 
 > 
-> Remember, if FarmBot runs out of power, its not the end of the world. Your data will be safe in the web app, and FarmBot will come back on again when your battery is recharged. You can always plug back into grid power too if needed.
+> Remember, if WenextFarm runs out of power, its not the end of the world. Your data will be safe in the web app, and WenextFarm will come back on again when your battery is recharged. You can always plug back into grid power too if needed.
 {.is-success}
 
 
@@ -101,7 +100,7 @@ If you find yourself without power often, you can always upgrade your solar syst
 
 You can use any brand solar panel, charge controller, battery, and AC inverter you like, as long as they are designed to safely work with each other. In the table below we recommend the specific components used in our San Luis Obispo system.
 
-> **🚫 Make sure your components will work together safely:** 
+> **Make sure your components will work together safely:** 
 > 
 > When purchasing components, pay close attention to their maximum operating voltages, currents, and temperatures, as well as other specifications that must be within a certain range or of a specific type.
 {.is-danger}
@@ -126,13 +125,13 @@ You must protect your solar system from rain, condensation, and animals. A damag
 |                              |**TOTAL without options**     |**$234**
 
 
-> **ℹ️ Optional inverter:** 
+> **Optional inverter:** 
 > 
-> It is possible to run your FarmBot directly from the battery. If you do this, you will bypass the 12V DC to 110V AC inverter as well as FarmBot's stock 110V AC to 12V DC power supply. By doing this, you will eliminate the need for these components, which will save you money, and you will also make your system more energy efficient because the inverter and power supply will no longer use a small amount of electricity.
+> It is possible to run your WenextFarm directly from the battery. If you do this, you will bypass the 12V DC to 110V AC inverter as well as WenextFarm's stock 110V AC to 12V DC power supply. By doing this, you will eliminate the need for these components, which will save you money, and you will also make your system more energy efficient because the inverter and power supply will no longer use a small amount of electricity.
 {.is-info}
 
 
-Keep in mind that if you completely remove your FarmBot's power supply, you will not be able to use grid power.
+Keep in mind that if you completely remove your WenextFarm's power supply, you will not be able to use grid power.
 
 
 ![Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)](/extras/mods/_images/power_inverter.jpg =700x)
@@ -140,9 +139,9 @@ Keep in mind that if you completely remove your FarmBot's power supply, you will
 _Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)_
 
 
-> **ℹ️ Optional power meter:** 
+> **Optional power meter:** 
 > 
-> Having a power meter hooked up between the solar system and FarmBot can provide you with some fun insights into how your system is performing. The one we have hooked up tells us the voltage of our battery, the current and power that FarmBot is drawing, as well as the total energy FarmBot has used.
+> Having a power meter hooked up between the solar system and WenextFarm can provide you with some fun insights into how your system is performing. The one we have hooked up tells us the voltage of our battery, the current and power that WenextFarm is drawing, as well as the total energy WenextFarm has used.
 {.is-info}
 
 
@@ -155,14 +154,14 @@ Alternatively, you can set up your power meter in between the battery and the ch
 # Assembly instructions
 
 
-> **ℹ️ 2 hours:** 
+> **2 hours:** 
 > 
 > This is the estimated time it will take to setup the solar system
 {.is-info}
 
 
 ## Step 1: Install the solar panel
-The first thing you want to do is find a sunny location near your FarmBot. If you live in the Northern hemisphere, your panel will need to face South. If you live in the Southern hemisphere, your panel will need to face North. Make sure you minimize the amount of shade your panel will receive from nearby trees and plants, buildings, and even FarmBot itself. Keep in mind how the sun moves throughout each day and how that changes with the seasons.
+The first thing you want to do is find a sunny location near your WenextFarm. If you live in the Northern hemisphere, your panel will need to face South. If you live in the Southern hemisphere, your panel will need to face North. Make sure you minimize the amount of shade your panel will receive from nearby trees and plants, buildings, and even WenextFarm itself. Keep in mind how the sun moves throughout each day and how that changes with the seasons.
 
 Once you have a location chosen, proceed to install your panel. Some panels come with mounting brackets, others with small adjustable stands, and others are just the panel. You may need to build some supporting infrastructure out of wood or aluminum extrusions. You might also use an existing building or your raised bed to support your panel. Every installation will be different.
 
@@ -207,7 +206,7 @@ Make sure you position these components in a rainproof location. This can be und
 ![mounted charge controller and inverter](/extras/mods/_images/mounted_charge_controller_and_inverter.jpg =700x)
 
 
-> **🚫 Maintain adequate airflow:** 
+> **Maintain adequate airflow:** 
 > 
 > DO NOT put your components in a a small plastic or wooden box or under a bucket. This will prevent the components from cooling with natural airflow and they may overheat and catch fire. Follow all instructions and safety precautions included with your charge controller, battery, and power inverter.
 {.is-danger}
@@ -217,11 +216,11 @@ Make sure you position these components in a rainproof location. This can be und
 Mount your power meter somewhere where you can easily read the LCD screen, while also making sure it will be protected from the rain. Connect the meter according to the manufacturer's instructions.
 
 
-## Step 6: Plug in FarmBot
-Plug FarmBot into the inverter output and then turn on the inverter.
+## Step 6: Plug in WenextFarm
+Plug WenextFarm into the inverter output and then turn on the inverter.
 
-> **✅ Welcome to the future:** 
+> **Welcome to the future:** 
 > 
-> If all has gone well, FarmBot should turn on and will now be running off of clean solar energy. Congrats!
+> If all has gone well, WenextFarm should turn on and will now be running off of clean solar energy. Congrats!
 {.is-success}
 
