@@ -2,7 +2,7 @@
 title: FarmBot OS
 description: Step-by-step instructions for installing FarmBot OS. Download the latest FarmBot OS `.img` file at [os.farm.bot](http://os.farm.bot).
 published: true
-date: 2026-07-22T12:39:57.978Z
+date: 2026-07-26T02:08:41.000Z
 tags: v15
 editor: markdown
 dateCreated: 2026-07-10T06:57:24.903Z
@@ -85,9 +85,3 @@ For Express kits, the card slot is located on the front side of the Raspberry Pi
 
 Plug your FarmBot's power supply into a wall outlet. You should now see a solid red <span class="fa fa-circle red"></span> LED and a steadily flashing green <span class="fa fa-circle led green"></span> LED on the Raspberry Pi, indicating that the Pi has adequate power and is busy booting up. Refer to the [status LEDs](intro/status-leds.md) page for more information, especially if your LEDs are not lit up as described above.
 
-# What's next?
-
- * [Configurator](intro/configurator.md)
- * [Status LEDs](intro/status-leds.md)
- * [Data Usage](intro/data-usage.md)
- * [Auto Updates](intro/auto-updates.md)
