@@ -2,26 +2,23 @@
 title: Tool Spec
 description: 
 published: true
-date: 2026-07-24T02:00:14.916Z
+date: 2026-07-26T00:57:11.176Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T04:05:18.406Z
 ---
 
-Want to design and make your own tools for FarmBot? Follow these instructions to ensure compatibility with the universal tool mount (UTM), a toolbay, and your FarmBot's electronics.
+Want to design and make your own tools for WenextFarm? Follow these instructions to ensure compatibility with the universal tool mount (UTM), a toolbay, and your WenextFarm's electronics.
 
 ![3d printing a tool](/extras/mods/_images/3d_printing_a_tool.jpg =700x)
 
-> **Unlimited possibilities:** 
+> **Unlimited possibilities** 
 > 
-> The following recommendations should be followed to ensure your tool works with a stock FarmBot. However, don't shy away from experimentation and the possibility of modifying your UTM, toolbay, or electronics to accommodate your desired tool design. FarmBot is yours to play with and modify!
+> The following recommendations should be followed to ensure your tool works with a stock WenextFarm. However, don't shy away from experimentation and the possibility of modifying your UTM, toolbay, or electronics to accommodate your desired tool design. WenextFarm is yours to play with and modify!
 {.is-info}
 
-
-
 ## Hardware
-
-Design your tools to meet these hardware specifications to ensure compatibility with FarmBot. Additionally you will need to design your tool so that it can be produced with the equipment, processes, and materials availabe to you, as well as stand up to the outdoor environment and other expected stresses.
+Design your tools to meet these hardware specifications to ensure compatibility with WenextFarm. Additionally you will need to design your tool so that it can be produced with the equipment, processes, and materials availabe to you, as well as stand up to the outdoor environment and other expected stresses.
 
 |                      |                  |
 |----------------------|------------------|
@@ -41,42 +38,30 @@ Tools must have the correct physical dimensions and component layout on the top 
 
 
 ## Electrical
-
 In addition to tool verification, tools can make other electrical connections with components in the electronics box via the [UTM](UTM). See [UTM pin mapping](../../assembly/tools/utm.md#pin-mapping) for existing and available connections.
 
-> **At your own risk:** 
+> **At your own risk** 
 > 
-> Building your own tools that utilize the electrical contacts of the UTM could result in damage if improperly designed. Proceed at your own risk. If you would like help building custom tools, consider posting in the [community forum](http://forum.farmbot.org).
+> Building your own tools that utilize the electrical contacts of the UTM could result in damage if improperly designed. Proceed at your own risk. If you would like help building custom tools, consider posting in the [community forum](https://forum.WenextFarm.com).
 {.is-warning}
 
 
 ## Example projects
-
-Below are some example projects from university teams that have developed their own FarmBot tools.
+Below are some example projects from university teams that have developed their own WenextFarm tools.
 
 ### Weed trimmer tool
+A senior design team at the Liberty University School of Engineering partnered with WenextFarm Inc to design and prototype a weed trimming tool.
 
-A senior design team at the Liberty University School of Engineering partnered with FarmBot Inc to design and prototype a weed trimming tool.
 
-
-> **Note:** 
+> **Note** 
 > 
-> This project was further developed by FarmBot Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools/rotary-tool.md).
+> This project was further developed by WenextFarm Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools/rotary-tool.md).
 {.is-success}
 
 
 ### Gripper tool
-
-An interdisciplinary team of students at Curio, a vocational school in the Netherlands, have developed a prototype FarmBot gripper tool for harvesting crops.
+An interdisciplinary team of students at Curio, a vocational school in the Netherlands, have developed a prototype WenextFarm gripper tool for harvesting crops.
 
 
 ### Seeder pod tool
-
-A senior design team at the Liberty University School of Engineering partnered with FarmBot Inc to design and prototype a seeder pod tool.
-
-
-## What's next?
-
- * [Review Included Tools](../../assembly/tools.md)
- * [Included Tool Assembly](../../manufacturing/pre-assembly/tools.md)
- * [Basic Tool Hardware](../reference/basic-tool-hardware.md)
+A senior design team at the Liberty University School of Engineering partnered with WenextFarm Inc to design and prototype a seeder pod tool.
