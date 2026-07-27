@@ -2,7 +2,7 @@
 title: Tracks
 description: 
 published: true
-date: 2026-07-11T11:18:01.932Z
+date: 2026-07-27T02:54:43.899Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:47.176Z
@@ -12,7 +12,7 @@ FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They a
 
 ![Completed tracks](/assembly/_images/completed_tracks.png =700x)
 
-> **ℹ️ 2-12 hours:** 
+> **2-12 hours:** 
 > 
 > This is the estimated time it will take to assemble the tracks, mostly dependent on which size kit you have.
 {.is-info}
@@ -28,7 +28,7 @@ The easiest way to shorten the tracks is to remove extrusions. Should you want a
 
 If you would like to extend your tracks, you will need additional extrusions, track joining plates, cable carrier supports, and hardware, as well as longer x-axis cable carrier, belt, wiring, and tubing.
 
-> **⚠️ For serious hackers and DIYers only:** 
+> **For serious hackers and DIYers only:** 
 > 
 > We do not currently sell extension hardware, offer kits with tracks longer than 18m, or provide support for kits that are modified in this way.
 {.is-warning}
@@ -38,7 +38,7 @@ Lengthening the tracks beyond what is included with your kit may introduce signi
 
 # Step 1: Lay out the track extrusions
 
-> **⚠️ Handle with care:** 
+> **Handle with care:** 
 > 
 > The aluminum extrusions may have sharp corners and edges.
 {.is-warning}
@@ -46,7 +46,7 @@ Lengthening the tracks beyond what is included with your kit may introduce signi
 
 Lay out all of the [track extrusions](track extrusions) in the location that you want to attach them to your **supporting infrastructure**. Make sure that extrusions are fully butted against each other. This will help you attach the plates in the correct location.
 
-> **✅ Overhang is a-ok:** 
+> **Overhang is a-ok:** 
 > 
 > The ends of your tracks do not have to match up perfectly with the ends of your supporting infrastructure. A little overhang or coming up short (when working with a raised bed) is just fine.
 {.is-success}
@@ -62,7 +62,7 @@ Repeat for all of the track extrusions on the side of the bed that will eventual
 ![Attach horizontal cable carrier supports](/assembly/_images/attach_horizontal_cable_carrier_supports_2.png =700x)
 ![Attach horizontal cable carrier supports](/assembly/_images/attach_horizontal_cable_carrier_supports_3.png =700x)
 
-> **ℹ️ Do your cable carrier supports look different?:** 
+> **Do your cable carrier supports look different?:** 
 > 
 > Some kits shipped in August of 2022 include horizontal cable carrier supports that are 10mm wider than shown in the images above and feature a different slot. If your kit includes these slightly larger supports (shown below), please proceed to use them for this step of the assembly and ignore the inconsistency with the documentation images.
 {.is-info}
@@ -74,7 +74,7 @@ Repeat for all of the track extrusions on the side of the bed that will eventual
 
 Position a [track end plate](track end plate) as shown below and screw it into the **supporting infrastructure** with three [wood screws](wood screws).
 
-> **✅ Vertically aligned:** 
+> **Vertically aligned:** 
 > 
 > Use the small **notches** in the [track end plates](track end plates) and [track joining plates](track joining plates) to help position the plates with perfect *vertical alignment* with respect to your supporting infrastructure and each other. *You should only use these notches if the top edge of your supporting infrastructure is level and straight.*
 {.is-success}
@@ -111,7 +111,7 @@ Slide the *lower* V-slot of the **second track extrusion** onto the [100mm nut b
 
 Push the second extrusion into place so there is no gap between the extrusions, then add two [M5 x 10mm screws](M5 x 10mm screws).
 
-> **✅ Extrusion alignment is key:** 
+> **Extrusion alignment is key:** 
 > 
 > Ensure the [track extrusions](track extrusions) are positioned tightly together at the middle of the [track joining plate](track joining plate). The top and bottom of the extrusions must be flush so that the gantry can move across the tracks smoothly. Ensure that your extrusions are parallel (no kink where they meet) by looking down the length of the tracks. If there is a kink, adjust the track extrusions and plates accordingly.
 {.is-success}
@@ -120,7 +120,7 @@ Push the second extrusion into place so there is no gap between the extrusions, 
 ![Mount the second track extrusion](/assembly/_images/second_track_extrusion_3.png =700x)
 
 
-> **⚠️ Support the free end:** 
+> **Support the free end:** 
 > 
 > At this time the 100mm nut bar will be keeping the two extrusions aligned. Avoid moving the free end of the second extrusion in a way that would cause misalignment, otherwise you risk bending the nut bar. You may wish to use a piece of wood or have someone help to support the free end of the extrusion while you prepare for the next step.
 {.is-warning}
@@ -128,7 +128,7 @@ Push the second extrusion into place so there is no gap between the extrusions, 
 
 # Step 7: Attach the next track joining plate
 
-> **ℹ️ This step applies to XL kits only:** 
+> **This step applies to XL kits only:** 
 > 
 > If you have a standard sized Genesis kit (3m long), proceed to the [next step](#step-8-attach-the-second-track-end-plate).
 {.is-info}
@@ -152,7 +152,7 @@ Repeat steps 3 through 8 for the track on the other side of the bed. Note that t
 
 ![Completed tracks](/assembly/_images/completed_tracks.png =700x)
 
-> **⚠️ Parallel or bust:** 
+> **Parallel or bust:** 
 > 
 > It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
 {.is-warning}
@@ -168,13 +168,7 @@ If needed, use **150 grit sand paper** to sand away any bumps on the diagonal su
 
 _This photo shows that the aluminum tracks can be sanded down so that there is no bump on the transition between one section of track to another._
 
-> **✅ Woo hoo!:** 
+> **Woo hoo!** 
 > 
 > You've just finished installing your FarmBot's tracks - arguably one of the most difficult parts of setting up your device :tada:Onward!
 {.is-success}
-
-
-
-# What's next?
-
- * [Gantry](gantry.md)
