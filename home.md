@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-24T00:54:44.024Z
+date: 2026-07-27T01:13:03.015Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -87,33 +87,33 @@ You can find articles related to WenextFarm products in the following categories
 
 <div style="text-align: center;">
   <!-- 卡片 1：种植床 -->
-  <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/种植床.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Supporting Infrastructure</strong>
     </a>
   </div>
     <!-- 卡片 2：维护保养 -->
-  <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Knowledge-Sharing" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_box_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/维护2.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Troubleshooting</strong>
     </a>
   </div>
   <!-- 卡片 3：常见问题 -->
-  <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/Glossary" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_questions_icon.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/故障排除.jpg" alt="P1系列" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Maintenance</strong>
     </a>
   </div>
   <!-- 卡片 4：DIY -->
-  <div style="display: inline-block; width: 20%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="display: inline-block; width: 18%; min-width: 140px; margin: 10px; text-align: center; background: #ffffff; border-radius: 10px; padding: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <a href="/en/a-series" style="text-decoration: none; color: inherit;">
-      <img src="/wiki/wiki_know_icon.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
+      <img src="/wiki/模组和插件.jpg" alt="A1" style="width: 100%; height: auto; border-radius: 5px; margin-bottom: 10px;">
       <br>
       <strong>Mods and Add-Ons</strong>
     </a>
@@ -208,4 +208,7 @@ Please note that we do not provide technical support through these comments. For
 Some content on this WenextFarm wiki (including but not limited to text, images, diagrams, configuration examples, etc.) references the official FarmBot documentation. This wiki is created as a customized reference for the WenextFarm open‑source project, which extends the original FarmBot system. This wiki is independently maintained for WenextFarm, and all original FarmBot copyrights and trademarks remain with their respective owners.
 
 
-
+![模组和插件.jpg]()
+![故障排除.jpg]()
+![维护2.jpg]()
+![种植床.jpg]()
