@@ -2,7 +2,7 @@
 title: A1 Getting Started & Configuration Guide (Important)
 description: 
 published: true
-date: 2026-07-27T04:01:21.820Z
+date: 2026-07-27T06:33:54.174Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T02:56:40.396Z
@@ -241,13 +241,17 @@ Add the following sensors according to the table:
 |Vacuum Pressure Sensor|Pin 65 (A11)	|Analog|
 |Light Sensor	|Pin 66 (A12)	|Analog|
 
-Click "Back" to return.
+Click **Back** to return.
 
-Congratulations!
-You have successfully completed the initial setup and configuration of your WnextFarm A1. You are now ready to explore and make full use of your device.
+> **Congratulations!**
+> 
+> You have successfully completed the initial setup and configuration of your WnextFarm A1. You are now ready to explore and make full use of your device.
+{.is-success}
 
-For more detailed software documentation, please refer to:
 
+
+
+> **For more detailed software documentation, please refer to**
 > FarmBot Official Documentation (English):[https://software.farm.bot/v15/docs/intro](https://software.farm.bot/v15/docs/intro)
 {.is-info}
 
