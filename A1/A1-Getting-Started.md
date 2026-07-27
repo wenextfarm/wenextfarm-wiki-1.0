@@ -2,7 +2,7 @@
 title: A1 Getting Started & Configuration Guide (Important)
 description: 
 published: true
-date: 2026-07-24T03:14:26.582Z
+date: 2026-07-27T03:52:03.471Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T02:56:40.396Z
@@ -235,7 +235,7 @@ Add the following sensors according to the table:
 |Sensor	    |Pin     	|Signal Mode|
 |-----------|---------|-----------|
 |Soil Sensor|Pin 59 (A5)|	Analog|
-|Tool Verification|	Pin 8|Digital|
+|Tool Verification|	Pin 63（A9）|Digital|
 |Vacuum Pressure Sensor|Pin 65 (A11)	|Analog|
 |Light Sensor	|Pin 66 (A12)	|Analog|
 
