@@ -2,7 +2,7 @@
 title: HOME
 description: The WenextFarm Wiki is a collection of helpful articles and guides dedicated to our Hardware and Software products
 published: true
-date: 2026-07-28T07:26:28.730Z
+date: 2026-07-28T07:27:41.355Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T02:59:32.291Z
@@ -15,7 +15,7 @@ dateCreated: 2026-07-08T02:59:32.291Z
     <p style="color: #ffffff; margin: 0 0 1px; font-size: 22px; font-weight: bold;">
       🚀 Don't have the WenextFarm kit yet? Buy Now
     </p>
-    <a href="https://www.wenextfarm.com" style="display: inline-block; padding: 4px 16px; background: #ffd700; color: #2b7fff; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;">
+    <a href="https://www.wenextfarm.com" style="display: inline-block; padding: 4px 16px; background: #ffd700; color: #2b7fff; border-radius: 50px; font-weight: bold; text-decoration: none; transition: transform 0.2s; margin: 5px; box-shadow: none;target=_blank;">
       Go To Purchase→
     </a>
   </div>
