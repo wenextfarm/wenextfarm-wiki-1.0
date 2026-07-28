@@ -2,7 +2,7 @@
 title: A1 Getting Started & Configuration Guide (Important)
 description: 
 published: true
-date: 2026-07-27T06:33:54.174Z
+date: 2026-07-28T02:34:02.180Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T02:56:40.396Z
@@ -19,17 +19,13 @@ Note: The WnextFarm web frontend is scheduled to launch before May 1, 2026 — s
 ### 1.Register an Account
 Fill in the following fields:
 
-Email address
+- Email address
+- Your name
+- Password
+- Confirm password
+- Check the box to agree to the Terms of Service.
 
-Your name
-
-Password
-
-Confirm password
-
-Check the box to agree to the Terms of Service.
-
-Click "Create Account".
+Click **Create Account**.
 
 Check your email inbox and click the confirmation link to verify your account.
 
@@ -45,14 +41,21 @@ Navigate to the Message Center.
 
 Click on "Select FarmBot Version".
 
-Choose version 1.2.
+> Choose version 1.2.
+{.is-success}
+
 
 ![4.jpg](/wiki/a/4.jpg =700x)
 
 ![5.jpg](/wiki/a/5.jpg =700x)
 
 ##  Configuring Firmware Version and Port
-[IMPORTANT — Incorrect settings here will prevent your WnextFarm from connecting.]
+
+> IMPORTANT 
+> 
+> Incorrect settings here will prevent your WnextFarm from connecting.
+{.is-warning}
+
 
 Follow the steps below to open the Advanced Settings panel:
 
@@ -69,19 +72,20 @@ Flash Path	tty USB 0
 ##  Network Setup and Connection
 This section covers how to connect your WnextFarm to your local network.
 
-Turn on the power to your WnextFarm.
-
-Using your phone or laptop, connect to the farmbot-xxxx WiFi network.
-
-Open a web browser and go to setup.farm.bot or 192.168.24.1.
-
-Select your preferred network type by tapping the corresponding icon — choose either Wired Ethernet or WiFi for wireless connection.
+- Turn on the power to your WnextFarm.
+- Using your phone or laptop, connect to the farmbot-xxxx WiFi network.
+- Open a web browser and go to setup.farm.bot or 192.168.24.1.
+- Select your preferred network type by tapping the corresponding icon — choose either Wired Ethernet or WiFi for wireless connection.
 
 ![图片_8.jpg](/wiki/a/图片_8.jpg =700x)
 
 Select the WiFi network name you wish to connect to, then tap "Next".
 
-Note: If you don't see your network immediately, tap "SCAN" in the upper‑right corner to refresh the list.
+> **Note**
+> 
+> If you don't see your network immediately, tap **SCAN** in the upper‑right corner to refresh the list.
+{.is-info}
+
 
 ![图片_9.jpg](/wiki/a/图片_9.jpg =700x)
 
@@ -93,7 +97,9 @@ Enter the email address and password you used to register your WnextFarm Web App
 
 ![图片_11.jpg](/wiki/a/图片_11.jpg =700x)
 
-Setup is now complete.
+> **Setup is now complete**.
+{.is-success}
+
 
 WnextFarm OS will restart and automatically connect to your WiFi network and your Web App account.
 
@@ -108,7 +114,10 @@ Open your browser and go to my.farm.bot, then log in to your account.
 ### 2.Check Connection Status
 Click the Connection Status button to verify whether your WnextFarm is properly connected to the web application.
 
-Note: Please be patient — it may take up to 5 minutes after completing network configuration for the machine to fully restart.
+> **Note**
+> 
+> Please be patient — it may take up to 5 minutes after completing network configuration for the machine to fully restart.
+{.is-info}
 
 ![13.jpg](/wiki/a/13.jpg =700x)
 
@@ -127,18 +136,22 @@ Flash Path	tty USB 0
 ![15.jpg](/wiki/a/15.jpg =700x)
 
 ### 3.Basic Machine Configuration
-[IMPORTANT — Incorrect settings here may prevent your WnextFarm from operating properly.]
 
-Open the Advanced Settings panel.
+> **IMPORTANT**
+> 
+> Incorrect settings here may prevent your WnextFarm from operating properly.
+> Open the Advanced Settings panel.
+{.is-warning}
+
 
 #### 1.1 Axes Configuration
 In the "Axes" tab, set the following axis lengths:
 
-Axis	Length
-X‑axis	800 mm
-Y‑axis	500 mm
-Z‑axis	300 mm (adjust later using the Z‑axis limit block)
-Spare soil height: -300
+- Axis	Length
+- X‑axis	800 mm
+- Y‑axis	500 mm
+- Z‑axis	300 mm (adjust later using the Z‑axis limit block)
+- Spare soil height: -300
 
 ![16.jpg](/wiki/a/16.jpg =700x)
 
@@ -186,16 +199,11 @@ Click the "+" button in the upper‑right corner to add a new tool.
 ![22.jpg](/wiki/a/22.jpg =700x)
 
 Select the required tools from the list:
-
-Watering nozzle
-
-Seeder
-
-Weeder
-
-Soil sensor
-
-Seed bin
+- Watering nozzle
+- Seeder
+- Weeder
+- Soil sensor
+- Seed bin
 
 Click "+ Selected" to confirm.
 
@@ -209,7 +217,11 @@ Note: To set the slot coordinates, you will need to manually move the tool head 
 
 Add the remaining 4 slots in the same manner.
 
-Note: For the remaining slots, the X and Z coordinates are identical to the first slot, while the Y‑axis spacing is 100 mm apart.
+> **Note**
+> 
+> For the remaining slots, the X and Z coordinates are identical to the first slot, while the Y‑axis spacing is 100 mm apart.
+{.is-warning}
+
 
 ![25.jpg](/wiki/a/25.jpg =700x)
 
