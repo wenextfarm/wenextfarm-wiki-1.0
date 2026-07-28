@@ -2,7 +2,7 @@
 title: Toolbays
 description: 
 published: true
-date: 2026-07-10T14:44:21.787Z
+date: 2026-07-28T00:33:41.845Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:23.657Z
@@ -13,7 +13,7 @@ FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or see
 
 ![3-slot toolbays](/assembly/tools/_images/3-slot_toolbays.jpg =700x)
 
-> **ℹ️ 15 minutes:** 
+> **15 minutes** 
 > 
 > This is the estimated time it will take to install both toolbays
 {.is-info}
@@ -23,7 +23,7 @@ FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or see
 
 Position and attach a **toolbay** to your **supporting infrastructure** using six [wood screws](wood screws).
 
-> **⚠️ Orientation matters:** 
+> **Orientation matters** 
 > 
 > Keep in mind that FarmBot's tools are designed to be mounted by the UTM in only one orientation so that the electrical pins and magnets match up. The text on the front of the tools should line up with the FarmBot logo on the front of the UTM cover. Because tools can only slot into the tool bay in two orientations, **you must orient your tool bay with the longer edge parallel to the gantry main beam**.
 {.is-warning}
@@ -31,7 +31,7 @@ Position and attach a **toolbay** to your **supporting infrastructure** using si
 
 Note: It is possible to orient the long edge parallel with the tracks, though that would require changing the orientation of the UTM by 90 degrees as well.
 
-> **✅ Within reach and squared up:** 
+> **Within reach and squared up** 
 > 
 > Ensure that you mount the tool bay in a location that FarmBot's UTM can get to. Keep in mind that the UTM needs to be able to slide tools **all the way into the bay**, **all the way out**, and be able to mount and dismount tools **from above**. Make sure you verify this for each of the tool bay's slots.
 {.is-success}
@@ -48,13 +48,13 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 ![both toolbays mounted to bed](_images/both_toolbays_mounted_to_bed.jpg =700px)
 
-> **✅ Genesis XL kits also include three 1-slot toolbays:** 
+> **Genesis XL kits also include three 1-slot toolbays:** 
 > 
 > Mount them using the same method used for the 3-slot toolbays.
 {.is-success}
 
 
-> **ℹ️ Are the included toolbays not enough?:** 
+> **Are the included toolbays not enough?:** 
 > 
 > If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://shop.farm.bot)** to purchase more.
 {.is-info}
@@ -65,8 +65,3 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let FarmBot know what tool is where!
 
 ![toolbays with tools](/assembly/tools/_images/toolbays_with_tools.jpg =700x)
-
-
-# What's next?
-
- * [Electronics](../electronics.md)
