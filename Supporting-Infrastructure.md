@@ -2,7 +2,7 @@
 title: Supporting Infrastructure
 description: 
 published: true
-date: 2026-07-22T14:17:41.196Z
+date: 2026-07-29T01:14:43.212Z
 tags: supporting infrastructure
 editor: markdown
 dateCreated: 2026-07-08T09:14:06.738Z
@@ -83,5 +83,5 @@ In the next sections we offer advice for building four types of supporting infra
     </a>
   </div>
 </div>
-![mobile_raised_bed（1）.jpg]()
+
 
