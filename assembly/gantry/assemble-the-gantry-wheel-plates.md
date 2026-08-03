@@ -2,7 +2,7 @@
 title: Assemble the Gantry Wheel Plates
 description: 
 published: true
-date: 2026-07-11T11:04:09.320Z
+date: 2026-08-03T01:45:20.315Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:05.094Z
@@ -12,7 +12,7 @@ Each gantry wheel plate will have nine wheel assemblies attached to allow slidin
 
 ![gantry wheel plates](/assembly/gantry/_images/gantry_wheel_plates.jpg =700x)
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > You need to assemble a left-hand and right-hand version of the gantry wheel plate assemblies. To reduce the likelihood of an assembly mistake, we recommend laying out the gantry wheel plates as a mirror image of each other and attaching all of the wheels facing towards you.
 {.is-info}
