@@ -2,7 +2,7 @@
 title: Watering Nozzle
 description: 
 published: true
-date: 2026-07-10T14:36:45.958Z
+date: 2026-08-08T02:16:12.798Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:35.291Z
@@ -13,9 +13,9 @@ The **watering nozzle** accepts a concentrated stream of water coming from the [
 
 ![Watering nozzle being used](/assembly/tools/_images/watering_nozzle_being_used.jpg =700x)
 
-> **✅ Pre-assembled for your convenience:** 
+> **Pre-assembled for your convenience:** 
 > 
-> As of the v1.6 hardware release, the watering nozzle tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/watering-nozzle.md). In the next steps we'll hook up the rest of FarmBot's watering system.
+> As of the v1.6 hardware release, the watering nozzle tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/watering-nozzle.md). In the next steps we'll hook up the rest of WenextFarm's watering system.
 {.is-success}
 
 
@@ -23,15 +23,15 @@ The **watering nozzle** accepts a concentrated stream of water coming from the [
 
 Insert [rubber gaskets](rubber gaskets) into the female ends of the [pressure regulator](pressure regulator), the [garden hose to barb adapter](garden hose to barb adapter), and both [NPT to barb adapters](NPT to barb adapters). Then screw one of the [NPT to barb adapters](NPT to barb adapters) onto the [solenoid valve](solenoid valve) inlet, the [pressure regulator](pressure regulator) onto the [solenoid valve](solenoid valve) outlet, and the second [NPT to barb adapter](NPT to barb adapter) onto the [pressure regulator](pressure regulator). The inlet and outlet are denoted by the arrow on the solenoid valve.
 
-> **ℹ️ Note:** 
+> **Note:** 
 > 
 > Note that the [garden hose to barb adapter](garden hose to barb adapter) and [NPT to barb adapters](NPT to barb adapters) look very similar. If the threads don't engage correctly, you may have grabbed the wrong adapter.
 {.is-info}
 
 
-> **ℹ️ Solenoid valve electrical terminals may vary:** 
+> **Solenoid valve electrical terminals may vary:** 
 > 
-> Depending on the prodution run of your FarmBot kit, your solenoid valve's electrical terminals may be pointed in the same direction or the opposite direction as the arrow indicating the direction of water flow. When performing the following assembly steps, the water flow arrow should point towards the [pressure regulator](pressure regulator), and then up towards the sky once mounted on the gantry column. The direction of the electrical terminals does not matter and will vary from kit to kit.
+> Depending on the prodution run of your WenextFarm kit, your solenoid valve's electrical terminals may be pointed in the same direction or the opposite direction as the arrow indicating the direction of water flow. When performing the following assembly steps, the water flow arrow should point towards the [pressure regulator](pressure regulator), and then up towards the sky once mounted on the gantry column. The direction of the electrical terminals does not matter and will vary from kit to kit.
 {.is-info}
 
 
@@ -51,7 +51,7 @@ Connect the [solenoid valve cable](solenoid valve cable) to the [solenoid valve]
 
 ![wired solenoid valve](/assembly/tools/_images/wired_solenoid_valve.png =700x)
 
-> **ℹ️ Do the quick-connect terminals not fit?:** 
+> **Do the quick-connect terminals not fit?:** 
 > 
 > Regretfully, some kits that shipped in August of 2022 included a solenoid valve cable with quick-connect terminals that are too small to fit onto the electrical tabs of the solenoid valve. If your cable does not fit, there should be two **quick connect terminals** of the correct size in a small plastic bag (shown below) that you can easily attach onto the cable with just a pair of scissors and needle nose pliers. Please refer to this troubleshooting document for [how to fix the solenoid valve cable](../../extras/troubleshooting/solenoid-valve-cable-fix.md) in about 5 minutes.
 {.is-info}
@@ -68,12 +68,8 @@ Push the **water tube** coming from the **y-axis cable carrier** onto the upper 
 ![solenoid valve y-axis tubing](/assembly/tools/_images/solenoid_valve_y-axis_tubing.png =700x)
 ![solenoid valve x-axis tubing](/assembly/tools/_images/solenoid_valve_x-axis_tubing.png =700x)
 
-# Step 5: Connect FarmBot to the water source
+# Step 5: Connect WenextFarm to the water source
 
-Screw the [garden hose to barb adapter](garden hose to barb adapter) onto the **garden hose**. *Note that you will need to provide a garden hose of the appropriate length to connect FarmBot to your municipal water source - one is not provided with the FarmBot kits.* Then push the **water tube** coming from the bottom of the **x-axis cable carrier** onto the barb.
+Screw the [garden hose to barb adapter](garden hose to barb adapter) onto the **garden hose**. *Note that you will need to provide a garden hose of the appropriate length to connect WenextFarm to your municipal water source - one is not provided with the WenextFarm kits.* Then push the **water tube** coming from the bottom of the **x-axis cable carrier** onto the barb.
 
 ![Connect to the water source](/assembly/tools/_images/connect_to_the_water_source.png =700x)
-
-# What's next?
-
- * [Rotary Tool](rotary-tool.md)
