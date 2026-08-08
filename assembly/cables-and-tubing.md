@@ -2,13 +2,13 @@
 title: Cables and Tubing
 description: 
 published: true
-date: 2026-07-11T10:34:24.502Z
+date: 2026-08-08T02:04:20.918Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:28:51.729Z
 ---
 
-Installing the cables and tubing through FarmBot's cable carriers can be a tedious process. Take your time when installing the cables to ensure you complete this part of the assembly correct the first time, otherwise it might become frustrating if you need to re-do anything.
+Installing the cables and tubing through WenextFarm's cable carriers can be a tedious process. Take your time when installing the cables to ensure you complete this part of the assembly correct the first time, otherwise it might become frustrating if you need to re-do anything.
 
 # Cable carrier reference
 
@@ -28,9 +28,9 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 |ZY  |2.6m   |4.1m
 |ZZ  |1.8m   |1.8m
 
-> **✅ Labelled for clarity:** 
+> **Labelled for clarity:** 
 > 
-> All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
+> All of WenextFarm's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
 {.is-success}
 
 
@@ -41,11 +41,3 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 ## Encoder cables
 
 ![encoder cables](/assembly/_images/encoder_cables.jpg =700x)
-
-# What's next?
-
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
- * [Y-Axis Cable Carrier](cables-and-tubing/y-axis-cable-carrier.md)
- * [X-Axis Cable Carrier](cables-and-tubing/x-axis-cable-carrier.md)
- * [X-Axis Motors](cables-and-tubing/x-axis-motors.md)
- * [Lighting](cables-and-tubing/Lighting.md)
