@@ -2,7 +2,7 @@
 title: Z-Axis
 description: 
 published: true
-date: 2026-07-11T10:52:56.918Z
+date: 2026-08-08T02:03:26.749Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:53.221Z
@@ -24,7 +24,7 @@ Attach a [motor](motor) to the [z-axis motor mount](z-axis motor mount) using fo
 
 # Step 2: Attach the motor mount to the Z-axis extrusion
 
-> **⚠️ Handle with care:** 
+> **Handle with care:** 
 > 
 > The aluminum extrusions may have sharp corners and edges.
 {.is-warning}
@@ -38,7 +38,7 @@ Attach the [z-axis motor mount](z-axis motor mount) to the [z-axis extrusion](z-
 
 Slide the [shaft coupler](shaft coupler) onto the **motor shaft** and tighten the top screw with the **2.5mm hex key**.
 
-> **⚠️ Mind the gap:** 
+> **Mind the gap** 
 > 
 > Make sure there is a small gap (about 2mm) between the shaft coupling and the z-axis motor mount. You might use a credit card to help provide the correct spacing needed.
 {.is-warning}
@@ -90,7 +90,7 @@ Slide the [z-axis extrusion](z-axis extrusion) through the v-wheels on the **cro
 
 # Step 9: Install the hardstops
 
-Attach the [z-axis hardstops](z-axis hardstops) onto the back side of the [z-axis extrusion](z-axis extrusion) approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts). Later, you can quickly adjust these to physically prevent FarmBot from moving too low or too high within its working space.
+Attach the [z-axis hardstops](z-axis hardstops) onto the back side of the [z-axis extrusion](z-axis extrusion) approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts). Later, you can quickly adjust these to physically prevent WenextFarm from moving too low or too high within its working space.
 
 ![z-axis top hardstop](/assembly/_images/z-axis_top_hardstop.png =700x)
 ![z-axis bottom hardstop](/assembly/_images/z-axis_bottom_hardstop.png =700x)
@@ -102,8 +102,3 @@ If you plan on stopping assembly after this page, it is recommended to attach th
 If you do not plan on stopping the assembly process now, you can skip this step and install the housing after the z motor and encoder cables have been connected in the next step.
 
 ![z-axis motor housing installed](/assembly/_images/z-axis_motor_housing_installed.png =700x)
-
-
-# What's next?
-
- * [Cables and Tubing](cables-and-tubing.md)
