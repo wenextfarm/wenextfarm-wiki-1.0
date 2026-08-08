@@ -2,13 +2,13 @@
 title: Camera
 description: 
 published: true
-date: 2026-07-10T14:11:10.084Z
+date: 2026-08-08T02:14:15.132Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:05.804Z
 ---
 
-The camera is not a typical FarmBot tool in the sense that it does not mount onto the universal tool mount and it is not stored in a toolbay. Instead, it remains fixed in place on the z-axis next to the UTM and can be used at any time, even when other tools are mounted.
+The camera is not a typical WenextFarm tool in the sense that it does not mount onto the universal tool mount and it is not stored in a toolbay. Instead, it remains fixed in place on the z-axis next to the UTM and can be used at any time, even when other tools are mounted.
 
 The camera itself is a borescope style camera that is fully waterproof. It can be used to take photos for weed detection, phenotyping research, or [time lapse photography](../../extras/mods/take-time-lapse-plant-photography.md) of your plants growing.
 
@@ -19,8 +19,3 @@ Sandwich the [camera](camera) between the two [camera mount half](camera mount h
 
 ![camera between camera mounts](/assembly/tools/_images/camera_between_camera_mounts.png =700x)
 ![camera mounted to z-axis](/assembly/tools/_images/camera_mounted_to_z-axis.png =700x)
-
-
-# What's next?
-
- * [Seeder](seeder.md)
