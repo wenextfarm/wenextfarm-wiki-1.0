@@ -2,7 +2,7 @@
 title: Lighting
 description: 
 published: true
-date: 2026-07-11T10:47:20.979Z
+date: 2026-08-08T02:11:43.015Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:03.707Z
@@ -15,7 +15,3 @@ Feed the [LED strip](LED strip) (highlighted orange in the image below) through 
 ![lights](/assembly/cables-and-tubing/_images/lights.png =700x)
 
 In a few steps from now, you will [plug the LED light strip into the Farmduino](../electronics.md#step-2-connect-the-peripherals).
-
-# What's next?
-
- * [Universal Tool Mount](../tools/utm.md)
