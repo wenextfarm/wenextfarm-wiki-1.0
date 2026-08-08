@@ -2,7 +2,7 @@
 title: Assemble the Gantry Wheel Plates
 description: 
 published: true
-date: 2026-08-08T07:48:51.959Z
+date: 2026-08-08T07:49:02.948Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:05.094Z
