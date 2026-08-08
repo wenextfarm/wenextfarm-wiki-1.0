@@ -2,7 +2,7 @@
 title: X-Axis Cable Carrier
 description: 
 published: true
-date: 2026-07-11T10:45:42.926Z
+date: 2026-08-08T02:10:28.870Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:10.367Z
@@ -29,7 +29,7 @@ Lay the **x-axis water tube** and the [power supply cable](power supply cable) i
 
 ![Add the water tube and power supply cable](/assembly/cables-and-tubing/_images/add_x_cc_contents.png =700x)
 
-> **✅ Organization is important!:** 
+> **Organization is important!:** 
 > 
 > When laying the cable and tube in the carrier, ensure that they do not criss-cross over each other. If they do, you will have trouble snapping in the tabs and you risk compressing the tube and preventing water flow.
 {.is-success}
@@ -53,7 +53,7 @@ Attach the other end of the **x-axis cable carrier** to the [30mm horizontal cab
 
 ![Mount the x-axis cable carrier](/assembly/cables-and-tubing/_images/mount_x_cc_3.png =700x)
 
-> **ℹ️ Does your mounting slot look different?:** 
+> **Does your mounting slot look different?:** 
 > 
 > Some kits shipped in August of 2022 included horizontal cable carrier supports that are 10mm wider than shown in the images above and feature a different slot. If your kit is like this, there should be **one more cable carrier support** in a small plastic bag (shown below) that has a narrower width and a slot compatible with your cable carrier.
 {.is-info}
@@ -69,12 +69,7 @@ Once everything is situated well, snap-in the remaining **cable carrier tabs**, 
 
 ![Snap in the remaining tabs](/assembly/cables-and-tubing/_images/all_x_cc_tabs.png =700x)
 
-> **⚠️ Not easy to adjust:** 
+> **Not easy to adjust:** 
 > 
 > Once you snap-in the remaining tabs, it will become difficult to adjust the cable and tube without removing many of the tabs first. Make sure everything is in place before you make a bunch of extra work for yourself.
 {.is-warning}
-
-
-# What's next?
-
- * [X-Axis Motors](x-axis-motors.md)
