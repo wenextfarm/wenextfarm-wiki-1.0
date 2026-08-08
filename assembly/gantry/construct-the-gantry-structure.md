@@ -2,7 +2,7 @@
 title: Construct the Gantry Structure
 description: 
 published: true
-date: 2026-07-11T11:08:17.932Z
+date: 2026-08-08T01:59:57.787Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:17.080Z
@@ -14,8 +14,7 @@ Slide a [gantry column](gantry column) (20mm x 60mm x 500mm extrusion) onto the 
 
 Repeat for the second gantry wheel plate and aluminum extrusion.
 
-> **⚠️ Handle with care:** 
-> 
+> **Handle with care:** 
 > The aluminum extrusions may have sharp corners and edges.
 {.is-warning}
 
@@ -26,7 +25,7 @@ Repeat for the second gantry wheel plate and aluminum extrusion.
 
 Lightly attach three [60mm nut bars](60mm nut bars) to the [left gantry corner bracket](left gantry corner bracket) and [right gantry corner bracket](right gantry corner bracket) using [M5 x 10mm screws](M5 x 10mm screws). Then slide the corner brackets onto the gantry column/plate assemblies. The top of the extrusions should line up with the notches in the corner brackets.
 
-**✅ Orientation is key:** 
+**Orientation is key:** 
 
 Pay special attention to the orientation of the brackets, extrusions, and wheel plates in the images below. You should end up with two assemblies that are mirror images of each other.
 
@@ -38,15 +37,19 @@ Pay special attention to the orientation of the brackets, extrusions, and wheel 
 
 # Step 3: Slide onto the tracks
 
-> **ℹ️ Adjust the eccentric spacers first:** This step is assuming that you have already adjusted the [eccentric spacers](eccentric spacers) according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md).
+> **Adjust the eccentric spacers first** 
+> 
+> This step is assuming that you have already adjusted the [eccentric spacers](eccentric spacers) according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md).
+{.is-info}
 
-Slide the [gantry columns](gantry columns) onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.
+
+Slide the [gantry columns](gantry columns) onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of WenextFarm. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the WenextFarm.
 
 ![slide the gantry columns onto the tracks](/assembly/gantry/_images/slide_the_gantry_columns_onto_the_tracks.png =700x)
 
 # Step 4: Assemble the main beam
 
-> **ℹ️ This step applies to XL kits only:**
+> **This step applies to XL kits only:**
 > 
 > If you have a standard sized Genesis kit (1.5m wide), proceed to the [next step](#step-5-attach-the-cable-carrier-supports).
 {.is-info}
@@ -68,7 +71,7 @@ For Genesis (XL) kits, there are two main beam extrusions, so 12 supports will b
 
 # Step 6: Attach the main beam
 
-> **ℹ️ Grab a friend:** 
+> **Grab a friend** 
 > 
 > The next step requires an additional person to complete.
 {.is-info}
@@ -83,14 +86,10 @@ Ensure that the gantry columns are vertical and form a 90 degree angle with the 
 
 ![Ensure the gantry is square](/assembly/gantry/_images/ensure_the_gantry_is_square.png =700x)
 
-_This image is from the front of FarmBot_
+_This image is from the front of WenextFarm_
 
 # Step 7:  Attach the x-axis cable carrier mount
 
 Use two [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts) to attach the aluminum [35mm cable carrier mount](35mm cable carrier mount) to the bottom of the **left gantry column**.
 
 ![Attach the x-axis cable carrier mount](/assembly/gantry/_images/attach_the_x-axis_cable_carrier_mount.png =700x)
-
-# What's next?
-
- * [Attach the Drivetrain](attach-the-drivetrain.md)
