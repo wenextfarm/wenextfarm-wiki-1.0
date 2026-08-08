@@ -2,13 +2,13 @@
 title: Assemble the Gantry Wheel Plates
 description: 
 published: true
-date: 2026-08-08T04:50:13.042Z
+date: 2026-08-08T07:48:51.959Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:05.094Z
 ---
 
-Each gantry wheel plate will have nine wheel assemblies attached to allow sliding along the tracks. The five wheels that ride on the top of the tracks will be attached to the plates with [standard spacers](standard spacers). The four wheels that ride underneath the tracks will be attached to the plates with [eccentric spacers](eccentric spacers). The eccentric spacers will be used to finely adjust the spacing between the top and the bottom wheels such that the gantry will roll smoothly and snuggly along the tracks.
+Each gantry wheel plate will have nine wheel assemblies attached to allow sliding along the tracks. The five wheels that ride on the top of the tracks will be attached to the plates with standard spacers. The four wheels that ride underneath the tracks will be attached to the plates with eccentric spacers. The eccentric spacers will be used to finely adjust the spacing between the top and the bottom wheels such that the gantry will roll smoothly and snuggly along the tracks.
 
 ![滑板-合集-优化图片.jpg](/assembly/gantry/_images/滑板-合集-优化图片.jpg =700x)
 
@@ -21,7 +21,7 @@ Each gantry wheel plate will have nine wheel assemblies attached to allow slidin
 
 # Step 1: Attach the upper V-wheels
 
-Insert an [M5 x 30mm screw](M5 x 30mm screw) through a [V-wheel](V-wheel) and a [standard spacer](standard spacer). Then insert this into the [gantry wheel plate](gantry wheel plate) as shown and add an [M5 flange locknut](M5 flange locknut) on the other side of the plate. Tighten the wheel assembly using the [3mm hex driver](3mm hex driver) and the [8mm wrench](8mm wrench), then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
+Insert an M5 x 30mm screwthrough a V-wheeland a standard spacer. Then insert this into the gantry wheel plateas shown and add an M5 flange locknut on the other side of the plate. Tighten the wheel assembly using the 3mm hex driver. and the 8mm wrench, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 
 ![滑板-2.jpg](/assembly/gantry/_images/滑板-2.jpg =700x)
 
