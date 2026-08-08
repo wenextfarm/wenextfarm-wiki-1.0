@@ -2,7 +2,7 @@
 title: Cross-Slide
 description: 
 published: true
-date: 2026-07-11T10:59:01.342Z
+date: 2026-08-08T02:01:59.999Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:33.901Z
@@ -11,7 +11,7 @@ dateCreated: 2026-07-09T03:29:33.901Z
 ![View of the cross-slide from the front of FarmBot](/assembly/_images/cross-slide_1.png =700x)
 ![View of the cross-slide from the back of FarmBot](/assembly/_images/cross-slide_2.jpg =700x)
 
-> **ℹ️ 1 hour:** 
+> **1 hour:** 
 > 
 > This is the estimated time it will take to assemble the cross-slide.
 {.is-info}
@@ -21,7 +21,7 @@ dateCreated: 2026-07-09T03:29:33.901Z
 
 Attach four [V-wheels](V-wheels) with [standard spacers](standard spacers) to the [cross-slide plate](cross-slide plate) using [M5 x 30mm screws](M5 x 30mm screws) and [M5 flange locknuts](M5 flange locknuts).
 
-> **⚠️ Note:** 
+> **Note** 
 > 
 > Make sure you attach the V-wheels to the correct side of the cross-slide plate
 {.is-warning}
@@ -68,7 +68,7 @@ Insert a [motor](motor) into a [horizontal motor housing](horizontal motor housi
 
 Slide a [pulley](pulley) onto the **motor shaft**. Make sure that both setscrews are lined up with the flat spots of the motor shaft. Then tighten the setscrews with the [2mm hex driver](2mm hex driver).
 
-> **⚠️ Mind the gap:** 
+> **Mind the gap** 
 > 
 > There should be a small gap (about 1mm) between the pulley and the plate to allow the motor to spin freely.
 {.is-warning}
@@ -100,7 +100,7 @@ Attach a [belt clip](belt clip) to the end of the gantry main beam using two [M5
 
 Feed the **belt** under the end [V-wheel](V-wheel) of the cross-slide, then over the [pulley](pulley) and under the remaining three [V-wheels](V-wheels). The flat side of the belt should be in contact with your V-wheels while the toothed side should engage with the teeth on the pulley.
 
->  **⚠️ Note:** 
+>  **⚠Note** 
 >  
 >  Make sure that the belt is not twisted anywhere.
 {.is-warning}
@@ -111,7 +111,3 @@ Feed the **belt** under the end [V-wheel](V-wheel) of the cross-slide, then over
 Secure the belt at the other end of the gantry with another [belt clip](belt clip), [20mm nut bar](20mm nut bar), and two [M5 x 10mm screws](M5 x 10mm screws). Ensure there is a small amount of tension on the belt once everything is in place.
 
 ![Secure the other end of the belt](/assembly/_images/y_axis_belt_end.png =700x)
-
-# What's next?
-
- * [Z-Axis](z-axis.md)
