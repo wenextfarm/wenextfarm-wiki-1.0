@@ -2,7 +2,7 @@
 title: Z-Axis Cable Carrier
 description: 
 published: true
-date: 2026-07-11T10:39:11.938Z
+date: 2026-08-08T02:08:00.715Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:28.076Z
@@ -35,7 +35,7 @@ Keeping the mounting orientation of the cable carrier in mind, lay the following
 |ZZ [motor cable](motor cable) (1.8m long)|End with the 90-degree connector
 |ZZ [encoder cable](encoder cable) (1.8m long)|End with the 90-degree connector
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > The exact number of pins in each connector may vary from the images below depending on when your kit was manufactured.
 {.is-info}
@@ -44,7 +44,7 @@ Keeping the mounting orientation of the cable carrier in mind, lay the following
 ![Cables and tube organization](/assembly/cables-and-tubing/_images/z_cable_carrier_organization_cross_slide_end.png =700x)
 ![Cables and tube organization](/assembly/cables-and-tubing/_images/z_cable_carrier_organization.png =700x)
 
-> **✅ Organization is important!:** 
+> **Organization is important!** 
 > 
 > When laying the cables and tube in the cable carrier, ensure that none of the items criss-cross over each other. If they do, you will have trouble snapping in the tabs and you risk compressing the tube and preventing water flow.
 {.is-success}
@@ -86,12 +86,7 @@ Once everything is situated well, snap-in the remaining **cable carrier tabs**, 
 
 ![Snap in the remaining tabs](/assembly/cables-and-tubing/_images/snap_in_remaining_z_cc_tabs.png =700x)
 
-> **⚠️ Not easy to adjust:** 
+> **Not easy to adjust** 
 > 
 > Once you snap-in the remaining tabs, it will become impossible to adjust anything without removing the majority of the tabs first. Make sure everything is in place before you make a bunch of extra work for yourself.
 {.is-warning}
-
-
-# What's next?
-
- * [Y-Axis Cable Carrier](y-axis-cable-carrier.md)
