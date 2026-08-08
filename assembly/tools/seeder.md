@@ -2,7 +2,7 @@
 title: Seeder
 description: 
 published: true
-date: 2026-07-10T14:33:29.883Z
+date: 2026-08-08T02:15:19.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:11.913Z
@@ -13,15 +13,15 @@ The **seeder tool** works by using a [vacuum pump](vacuum pump) to suction-hold 
 
 ![seeder](/assembly/tools/_images/seeder.png =700x)
 
-> **✅ Pre-assembled for your convenience:** 
+> **Pre-assembled for your convenience:** 
 > 
-> As of the v1.6 hardware release, the seeder tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/seeder.md). In the next steps we'll hook up the rest of FarmBot's vacuum system.
+> As of the v1.6 hardware release, the seeder tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/seeder.md). In the next steps we'll hook up the rest of WenextFarm's vacuum system.
 {.is-success}
 
 
 # Step 1: Selecting a luer lock needle
 
-FarmBot comes with different [luer lock needle](luer lock needle) sizes so that you can experiment and find the best needle for your needs.
+WenextFarm comes with different [luer lock needle](luer lock needle) sizes so that you can experiment and find the best needle for your needs.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|
@@ -35,7 +35,7 @@ Once you've selected a needle, attach it to the [luer lock adapter](luer lock ad
 
 # Step 2: Connect the vacuum tubes and filter
 
-> **ℹ️ Note:** 
+> **Note:** 
 > 
 > For the next two steps, it can be helpful to temporarily unscrew the [vacuum pump mount](vacuum pump mount) from the [z-axis extrusion](z-axis extrusion) and slide it (and the vacuum pump) out from the housing.
 {.is-info}
@@ -43,13 +43,13 @@ Once you've selected a needle, attach it to the [luer lock adapter](luer lock ad
 
 Slide one of the **vacuum tubes** onto the _inlet barb_ of the [vacuum pump](vacuum pump). The inlet will be marked with an arrow pointing into the pump. The inlet may be on the left or the right side of the pump depending on when your kit was purchased. Please refer to the arrows on your pump to ensure the tube is connected correctly.
 
-Then slide the [inline air filter](inline air filter) onto the end of the first tube and connect the second vacuum tube between the air filter and the [M5 barb](M5 barb) on top of the [UTM](UTM) closest to the FarmBot logo.
+Then slide the [inline air filter](inline air filter) onto the end of the first tube and connect the second vacuum tube between the air filter and the [M5 barb](M5 barb) on top of the [UTM](UTM) closest to the WenextFarm logo.
 
 ![Connect the first vacuum pump tube](/assembly/tools/_images/vacuum_tube_1.png =700x)
 ![Connect the inline air filter](/assembly/tools/_images/air_filter.png =700x)
 ![Connect the second vacuum tube](/assembly/tools/_images/vacuum_tube_2.png =700x)
 
-> **ℹ️ Is your seeder blowing?:** 
+> **Is your seeder blowing?:** 
 > 
 > If you find during testing that there is air blowing out of the seeder tool, you may try connecting the tube to the other port. We use parts from different suppliers and the vacuum pump configuration may be different on your model.
 {.is-info}
@@ -75,12 +75,10 @@ If you cannot see the colors of the wires, carefully peel back the black heatshr
 ![Wire up the vacuum pump](/assembly/tools/_images/wire_up_vacuum_pump_detail.png =700x)
 ![Wire up the vacuum pump](/assembly/tools/_images/wire_up_vacuum_pump.png =700x)
 
-> **🚫 Double check the wiring:**
+> **Double check the wiring:**
 > 
-> Carefully inspect the images above and table below to ensure you have connected the wires correctly. **If you incorrectly wire up the vacuum pump, the vacuum pump's electronics will be permanently damaged as soon as your FarmBot is powered up.**
+> Carefully inspect the images above and table below to ensure you have connected the wires correctly. **If you incorrectly wire up the vacuum pump, the vacuum pump's electronics will be permanently damaged as soon as your WenextFarm is powered up.**
 {.is-danger}
-
-
 
 
 |Wire color  |Should be connected to
@@ -123,6 +121,3 @@ The [seed troughs](seed troughs) are small seed containers that are stored in th
 
 ![seed troughs](/assembly/tools/_images/seed_troughs.jpeg =700x)
 
-# What's next?
-
- * [Watering Nozzle](watering-nozzle.md)
