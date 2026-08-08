@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: P1-Getting Started
 description: 
 published: true
-date: 2026-08-08T02:26:09.821Z
+date: 2026-08-08T02:26:38.121Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:26:09.821Z
