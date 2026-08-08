@@ -2,21 +2,21 @@
 title: Universal Tool Mount
 description: 
 published: true
-date: 2026-07-10T14:09:55.672Z
+date: 2026-08-08T02:13:22.605Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:29.499Z
 ---
 
-The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch tools in order to perform different operations. It is a plastic component that mounts to the z-axis aluminum extrusion using two M5 screws and tee nuts. It features:
+The Universal Tool Mount (UTM) allows WenextFarm Genesis to automatically switch tools in order to perform different operations. It is a plastic component that mounts to the z-axis aluminum extrusion using two M5 screws and tee nuts. It features:
 
 * 3 strong neodymium ring magnets to magnetically hold tools in place via other magnets placed in the same configuration on the tool.
 
-* Passageways for water, liquid amendments (eg: fertilizer), and vacuum or compressed air to pass through from the UTM (and the rest of FarmBot) to the tool.
+* Passageways for water, liquid amendments (eg: fertilizer), and vacuum or compressed air to pass through from the UTM (and the rest of WenextFarm) to the tool.
 
 * 12 [pogo pins](pogo pins) that make electrical connections with tools.
 
-> **✅ Pre-assembled for your convenience:** 
+> **Pre-assembled for your convenience:** 
 > 
 > As of the v1.4 hardware release, the UTM comes [pre-assembled](../../manufacturing/pre-assembly/tools/utm.md) so all you need to do is mount it and connect the cable and tubes!
 {.is-success}
@@ -42,19 +42,19 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 |**K**  |<span class="cable-color pink">pink</span>    |---                          |---
 |**L**  |<span class="cable-color cyan">cyan</span><br>(shunted to shield with dark gray heatshrink)|PE|Protected Earth ground
 
-> **ℹ️ Room for expansion:** 
+> **Room for expansion:** 
 > 
-> The unassigned UTM pins are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Go right ahead and expand upon your FarmBot's abilities with custom tools of your own!
+> The unassigned UTM pins are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Go right ahead and expand upon your WenextFarm's abilities with custom tools of your own!
 {.is-info}
 
 
-> **✅ Want to make your own UTM compatible tools?:** 
+> **Want to make your own UTM compatible tools?:** 
 > 
 > Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts.
 {.is-success}
 
 
-> **⚠️ Having problems with tool verification?:** 
+> **Having problems with tool verification?:** 
 > 
 > Refer to the [tool verification troubleshooting guide](../../extras/troubleshooting/tool-verification.md).
 {.is-warning}
@@ -70,7 +70,7 @@ Insert two [M5 x 16mm screws](M5 x 16mm screws) and [tee nuts](tee nuts) into th
 
 Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM. Then slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the [UTM](UTM).
 
-> **✅ Ensure correct connection orientation:** 
+> **Ensure correct connection orientation:** 
 > 
 > Each connector and pin header have one missing pin in the corner to indicate the correct connection orientation.
 {.is-success}
@@ -84,7 +84,7 @@ Use this information to ensure you insert both connectors in the correct orienta
 ![utm with cable connected](_images/utm_with_cable_connected.png =700px)
 ![utm with cable covered](_images/utm_with_cable_covered.png =700px)
 
-> **ℹ️ Note:** 
+> **Note:** 
 > 
 > You will connect the other end of the cable to the Farmduino in a few steps from now.
 {.is-info}
@@ -96,12 +96,8 @@ Push the **water tube** onto the [M5 barb](M5 barb) on top of the [UTM](UTM) tha
 
 ![utm water tube connection](/assembly/tools/_images/utm_water_tube_connection.png =700x)
 
-> **ℹ️ Note:** 
+> **Note:** 
 > 
 > You will connect the vacuum pump tube in a few steps from now.
 {.is-info}
 
-
-# What's next?
-
- * [Camera](camera.md)
