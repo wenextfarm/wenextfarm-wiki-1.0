@@ -2,14 +2,13 @@
 title: Toolbays
 description: 
 published: true
-date: 2026-07-28T00:36:45.330Z
+date: 2026-08-08T02:19:40.859Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:23.657Z
 ---
 
-FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools for the task at hand.
-
+WenextFarm Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that WenextFarm can automatically mount and dismount tools for the task at hand.
 
 ![3-slot toolbays](/assembly/tools/_images/3-slot_toolbays.jpg =700x)
 
@@ -25,7 +24,7 @@ Position and attach a **toolbay** to your **supporting infrastructure** using si
 
 > **Orientation matters** 
 > 
-> Keep in mind that FarmBot's tools are designed to be mounted by the UTM in only one orientation so that the electrical pins and magnets match up. The text on the front of the tools should line up with the FarmBot logo on the front of the UTM cover. Because tools can only slot into the tool bay in two orientations, **you must orient your tool bay with the longer edge parallel to the gantry main beam**.
+> Keep in mind that WenextFarm's tools are designed to be mounted by the UTM in only one orientation so that the electrical pins and magnets match up. The text on the front of the tools should line up with the WenextFarm logo on the front of the UTM cover. Because tools can only slot into the tool bay in two orientations, **you must orient your tool bay with the longer edge parallel to the gantry main beam**.
 {.is-warning}
 
 
@@ -33,11 +32,11 @@ Note: It is possible to orient the long edge parallel with the tracks, though th
 
 > **Within reach and squared up** 
 > 
-> Ensure that you mount the tool bay in a location that FarmBot's UTM can get to. Keep in mind that the UTM needs to be able to slide tools **all the way into the bay**, **all the way out**, and be able to mount and dismount tools **from above**. Make sure you verify this for each of the tool bay's slots.
+> Ensure that you mount the tool bay in a location that WenextFarm's UTM can get to. Keep in mind that the UTM needs to be able to slide tools **all the way into the bay**, **all the way out**, and be able to mount and dismount tools **from above**. Make sure you verify this for each of the tool bay's slots.
 {.is-success}
 
 
-The toolbay must also be **square** with the rest of FarmBot (all three axes) in order for tools to be properly mounted and dismounted. Use shims or extra washers to make fine adjustments to the angle of your toolbays if needed. We added small notches to the sides of the toolbays to help you line them up with your supporting infrastructure. Of course, you can only use these if your supporting infrastructure is square and properly aligned, since the toolbays need to match the alignment of the UTM rather than the supporting infrastructure.
+The toolbay must also be **square** with the rest of WenextFarm (all three axes) in order for tools to be properly mounted and dismounted. Use shims or extra washers to make fine adjustments to the angle of your toolbays if needed. We added small notches to the sides of the toolbays to help you line them up with your supporting infrastructure. Of course, you can only use these if your supporting infrastructure is square and properly aligned, since the toolbays need to match the alignment of the UTM rather than the supporting infrastructure.
 
 Last, keep in mind the size of the tools and ensure that there is adequate room underneath and in front of your toolbays for proper mounting and dismounting.
 
@@ -62,6 +61,6 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 # Step 3: Insert the tools
 
-Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let FarmBot know what tool is where!
+Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let WenextFarm know what tool is where!
 
 ![toolbays with tools](/assembly/tools/_images/toolbays_with_tools.jpg =700x)
