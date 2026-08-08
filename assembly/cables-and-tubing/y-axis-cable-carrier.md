@@ -2,7 +2,7 @@
 title: Y-Axis Cable Carrier
 description: 
 published: true
-date: 2026-07-11T10:43:00.964Z
+date: 2026-08-08T02:09:39.243Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:22.052Z
@@ -47,7 +47,7 @@ Connect the z-axis and y-axis sections of the following cables together:
   * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
   * [Camera](Camera) to [camera cable](camera cable) with the 4-pin connector
 
-> **🚫 CAUTION: The camera, vacuum pump, and z-axis motor cables use the same 4-pin connectors:** 
+> **CAUTION: The camera, vacuum pump, and z-axis motor cables use the same 4-pin connectors:** 
 > 
 > When connecting the ends coming from the y-axis cable carrier to the ends coming from the z-axis cable carrier, ensure you are connecting camera to camera, vacuum pump to vacuum pump, and z-axis motor to z-axis motor.
 {.is-danger}
@@ -57,7 +57,7 @@ You can check to see which cable is which by tugging on a cable on one end of th
 
 **We strongly recommend you take your time with this step because a mistake could cause damage to the electronics.**
 
-> **ℹ️ Note:** 
+> **Note** 
 > 
 > Not all connectors are shown in the images below.
 {.is-info}
@@ -84,7 +84,7 @@ Neatly lay everything into the **y-axis cable carrier**:
 
 ![Lay everything into the cable carrier](/assembly/cables-and-tubing/_images/load_y_cc.png =700x)
 
-> **✅ Organization is important!:** 
+> **Organization is important!** 
 > 
 > When laying the cables and tube in the carrier, ensure that none of the items criss-cross over each other. If they do, you will have trouble snapping in the tabs and you risk compressing the tube and preventing water flow.
 {.is-success}
@@ -104,7 +104,7 @@ Attach the **y-axis cable carrier** to the [80mm cable carrier mount](80mm cable
 
 Reduce the amount of extra tubing and wiring between the **y-axis cable carrier** and the **z-axis cable carrier** by gently pulling any extra cable or tubing length through the **y-axis cable carrier**. It can be difficult to coax the contents around the bend of the cable carrier, so take your time and ensure that you are not pulling anything too hard.
 
-> **⚠️ Note:** 
+> **Note** 
 > 
 > Never pull any cables by their connectors.
 {.is-warning}
@@ -120,7 +120,7 @@ Attach the **y-axis cable carrier** to the [60mm horizontal cable carrier suppor
 
 Once everything is situated well, snap-in the remaining **cable carrier tabs**, ensuring that you maintain organization of the cables and tube.
 
-> **⚠️ Not easy to adjust:** 
+> **Not easy to adjust** 
 > 
 > Once you snap-in the remaining tabs, it will become very difficult to adjust anything without removing the majority of the tabs first. Make sure everything is in place before snapping in all the tabs.
 {.is-warning}
@@ -132,7 +132,7 @@ Once everything is situated well, snap-in the remaining **cable carrier tabs**, 
 
 Connect the **y-axis motor and encoder cables** to the **y-axis motor** and **encoder**.
 
-> **⚠️ Clearance is key:** 
+> **Clearance is key** 
 > 
 > Use zip ties and plenty of slack to ensure the motor and encoder wires do not rub against the belt.
 {.is-warning}
@@ -140,7 +140,3 @@ Connect the **y-axis motor and encoder cables** to the **y-axis motor** and **en
 
 ![Connect the y-axis motor and encoder cables](/assembly/cables-and-tubing/_images/feed_y_cables_1.png =700x)
 ![Connect the y-axis motor and encoder cables](/assembly/cables-and-tubing/_images/feed_y_cables_2.png =700x)
-
-# What's next?
-
- * [X-Axis Cable Carrier](x-axis-cable-carrier.md)
