@@ -2,13 +2,13 @@
 title: Tracks
 description: 
 published: true
-date: 2026-07-27T02:54:43.899Z
+date: 2026-08-08T01:56:37.031Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:47.176Z
 ---
 
-FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis (XL).
+WenextFarm's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for P1 models and 6m for P1 (MAX).
 
 ![Completed tracks](/assembly/_images/completed_tracks.png =700x)
 
@@ -34,7 +34,7 @@ If you would like to extend your tracks, you will need additional extrusions, tr
 {.is-warning}
 
 
-Lengthening the tracks beyond what is included with your kit may introduce significant unforeseen problems to your FarmBot. If you decide to extend your tracks you will need to purchase and/or make the additional components on your own and troubleshoot any problems you run into. You may seek support in the [community forum](http://forum.wenextfarm.com).
+Lengthening the tracks beyond what is included with your kit may introduce significant unforeseen problems to your WenextFarm. If you decide to extend your tracks you will need to purchase and/or make the additional components on your own and troubleshoot any problems you run into. You may seek support in the [community forum](http://forum.wenextfarm.com).
 
 # Step 1: Lay out the track extrusions
 
@@ -54,7 +54,7 @@ Lay out all of the [track extrusions](track extrusions) in the location that you
 
 # Step 2: Attach the horizontal cable carrier supports
 
-Attach six [30mm horizontal cable carrier supports](30mm horizontal cable carrier supports) to the *lower slot* of a [track extrusion](track extrusion) using [40mm nut bars](40mm nut bars) and [M5 x 10mm screws](M5 x 10mm screws). The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
+Attach six [30mm horizontal cable carrier supports](30mm horizontal cable carrier supports) to the *lower slot* of a [track extrusion](track extrusion) using [40mm nut bars](40mm nut bars) and [M5 x 10mm screws](M5 x 10mm screws). The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the WenextFarm (when looking from the front).
 
 Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis (XL)).
 
@@ -162,7 +162,7 @@ You can use shims or other spacers to better align track plates in case your sup
 
 # Step 10: Sand away bumps
 
-If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there is no bump or uneven edges in the transition from one extrusion to another.
+If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the WenextFarm wheels ride upon. This will ease the movements of the WenextFarm and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there is no bump or uneven edges in the transition from one extrusion to another.
 
 ![sand track joints to remove bumps](/assembly/_images/sanding_tracks.png =700x)
 
@@ -170,5 +170,5 @@ _This photo shows that the aluminum tracks can be sanded down so that there is n
 
 > **Woo hoo!** 
 > 
-> You've just finished installing your FarmBot's tracks - arguably one of the most difficult parts of setting up your device :tada:Onward!
+> You've just finished installing your WenextFarm's tracks - arguably one of the most difficult parts of setting up your device :tada:Onward!
 {.is-success}
