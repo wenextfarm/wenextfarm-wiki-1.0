@@ -2,7 +2,7 @@
 title: Cables and Tubing
 description: 
 published: true
-date: 2026-08-08T02:04:20.918Z
+date: 2026-08-08T02:06:51.121Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:28:51.729Z
@@ -18,19 +18,19 @@ Installing the cables and tubing through WenextFarm's cable carriers can be a te
 |Y   |15mm x 50mm x 1700mm (85 links) |15mm x 50mm x 3200mm (160 links)
 |Z   |15mm x 50mm x 740mm (37 links)  |15mm x 50mm x 740mm (37 links)
 
-# Motor and encoder cable reference
+# Motor cable reference
 
 |Axis|P1     |P1 Max                                       |
 |----|-------|---------------------------------------------|
 |X1  |0.7m   |0.7m
 |X2  |2.3m   |3.8m
 |Y   |2.7m   |4.2m
-|ZY  |2.6m   |4.1m
-|ZZ  |1.8m   |1.8m
+|Z   |4.2m   |5.9m
+
 
 > **Labelled for clarity:** 
 > 
-> All of WenextFarm's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
+> All of WenextFarm's motor cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly.
 {.is-success}
 
 
