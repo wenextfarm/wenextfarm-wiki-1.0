@@ -2,7 +2,7 @@
 title: Construct the Gantry Structure
 description: 
 published: true
-date: 2026-08-08T01:59:57.787Z
+date: 2026-08-08T10:53:36.070Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:17.080Z
@@ -18,8 +18,11 @@ Repeat for the second gantry wheel plate and aluminum extrusion.
 > The aluminum extrusions may have sharp corners and edges.
 {.is-warning}
 
+![龙门架-2.jpg](/assembly/gantry/_images/龙门架-2.jpg)
 
-![Attach the gantry wheel plates to the columns](/assembly/gantry/_images/Gantry_Wheel_Plates_1.jpg =700x)
+![龙门架-1.jpg](/assembly/gantry/_images/龙门架-1.jpg =700x)
+
+
 
 # Step 2: Attach the gantry corner brackets
 
@@ -29,11 +32,15 @@ Lightly attach three [60mm nut bars](60mm nut bars) to the [left gantry corner b
 
 Pay special attention to the orientation of the brackets, extrusions, and wheel plates in the images below. You should end up with two assemblies that are mirror images of each other.
 
-![Prepare a corner bracket](/assembly/gantry/_images/corner_bracket_with_column_screws.png =700x)
-![Prepare a corner bracket](/assembly/gantry/_images/corner_bracket_with_column_screws_reverse.png =700x)
-![Attach the corner bracket to the column](/assembly/gantry/_images/corner_bracket_attached_to_column.png =700x)
-![Align the top of the extrusion with the bracket notch](/assembly/gantry/_images/bracket_notch_aligned_with_extrusion_top.png =700x)
-![Repeat for the second column and corner bracket](/assembly/gantry/_images/both_columns.png =700x)
+![龙门架-3.jpg](/assembly/gantry/_images/龙门架-3.jpg)
+
+![龙门架-4.jpg](/assembly/gantry/_images/龙门架-4.jpg)
+
+![龙门架-5.jpg](/assembly/gantry/_images/龙门架-5.jpg)
+
+![龙门架-6.jpg](/assembly/gantry/_images/龙门架-6.jpg)
+
+![龙门架-7.jpg](/assembly/gantry/_images/龙门架-7.jpg)
 
 # Step 3: Slide onto the tracks
 
@@ -79,6 +86,8 @@ For Genesis (XL) kits, there are two main beam extrusions, so 12 supports will b
 
 Lift up the [gantry main beam](gantry main beam) and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Secure the main beam in place using four [60mm nut bars](60mm nut bars) and [M5 x 10mm screws](M5 x 10mm screws). The nut bars should be positioned in the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm *above* the top edges of the gantry corner brackets.
 
+![龙门架-8.jpg](/assembly/gantry/_images/龙门架-8.jpg)
+
 ![Attach the gantry main beam](/assembly/gantry/_images/attach_the_gantry_main_beam_1.png =700x)
 ![Attach the gantry main beam](/assembly/gantry/_images/attach_the_gantry_main_beam_2.png =700x)
 
@@ -92,4 +101,4 @@ _This image is from the front of WenextFarm_
 
 Use two [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts) to attach the aluminum [35mm cable carrier mount](35mm cable carrier mount) to the bottom of the **left gantry column**.
 
-![Attach the x-axis cable carrier mount](/assembly/gantry/_images/attach_the_x-axis_cable_carrier_mount.png =700x)
+![龙门架-9.jpg](/assembly/gantry/_images/龙门架-9.jpg)
