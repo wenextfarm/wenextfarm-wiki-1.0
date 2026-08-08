@@ -2,7 +2,7 @@
 title: Assemble the Gantry Wheel Plates
 description: 
 published: true
-date: 2026-08-08T04:49:30.609Z
+date: 2026-08-08T04:50:13.042Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:36:05.094Z
@@ -67,13 +67,13 @@ Loosely attach two [60mm nut bars](60mm nut bars) to the plate using four [M5 x 
 
 Locate the limit switch whose wires are labeled "X-". Attach it to the slide plate of the left gantry column, on the side where the X‑axis cable carrier is installed, using two M2 screws and corresponding nuts.
 
-![滑板-20.jpg](/assembly/gantry/_images/滑板-20.jpg)
+![滑板-20.jpg](/assembly/gantry/_images/滑板-20.jpg =700x)
 
-![滑板-21.jpg](/assembly/gantry/_images/滑板-21.jpg)
+![滑板-21.jpg](/assembly/gantry/_images/滑板-21.jpg =700x)
 
-![滑板-22.jpg](/assembly/gantry/_images/滑板-22.jpg)
+![滑板-22.jpg](/assembly/gantry/_images/滑板-22.jpg =700x)
 
-![滑板-23.jpg](/assembly/gantry/_images/滑板-23.jpg)
+![滑板-23.jpg](/assembly/gantry/_images/滑板-23.jpg =700x)
 
 > **IMPORTANT – Limit Switch Installation**
 > 
