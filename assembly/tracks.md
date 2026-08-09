@@ -2,7 +2,7 @@
 title: Tracks
 description: 
 published: true
-date: 2026-08-08T01:56:37.031Z
+date: 2026-08-09T04:26:03.600Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:47.176Z
@@ -106,8 +106,9 @@ Attach the other end of the extrusion to the [track joining plate](track joining
 
 Slide the *lower* V-slot of the **second track extrusion** onto the [100mm nut bar](100mm nut bar). If it does not slide on easily, you may need to loosen the screws holding the first extrusion in place.
 
-![Mount the second track extrusion](/assembly/_images/second_track_extrusion_1.png =700x)
-![Mount the second track extrusion](/assembly/_images/second_track_extrusion_2.png =700x)
+![轨道连接-1.jpg](/assembly/_images/轨道连接-1.jpg =700x)
+
+![轨道连接-2.jpg](/assembly/_images/轨道连接-2.jpg =700x)
 
 Push the second extrusion into place so there is no gap between the extrusions, then add two [M5 x 10mm screws](M5 x 10mm screws).
 
