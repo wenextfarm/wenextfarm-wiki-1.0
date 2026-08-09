@@ -2,7 +2,7 @@
 title: Toolbays
 description: 
 published: true
-date: 2026-08-08T02:19:40.859Z
+date: 2026-08-09T04:03:58.097Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:23.657Z
@@ -10,7 +10,7 @@ dateCreated: 2026-07-09T03:37:23.657Z
 
 WenextFarm Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that WenextFarm can automatically mount and dismount tools for the task at hand.
 
-![3-slot toolbays](/assembly/tools/_images/3-slot_toolbays.jpg =700x)
+![utm支架.jpg](/assembly/tools/_images/utm支架.jpg =700x)
 
 > **15 minutes** 
 > 
@@ -20,7 +20,7 @@ WenextFarm Genesis comes with two toolbays that hold three tools, seed bins, or 
 
 # Step 1: Attach a toolbay to the supporting infrastructure
 
-Position and attach a **toolbay** to your **supporting infrastructure** using six [wood screws](wood screws).
+Position and attach a **toolbay** to your **supporting infrastructure** using six [wood screws].
 
 > **Orientation matters** 
 > 
@@ -40,12 +40,15 @@ The toolbay must also be **square** with the rest of WenextFarm (all three axes)
 
 Last, keep in mind the size of the tools and ensure that there is adequate room underneath and in front of your toolbays for proper mounting and dismounting.
 
-![toolbay mounted to bed](/assembly/tools/_images/toolbay_mounted_to_bed.jpg =700x)
-![toolbay notch](/assembly/tools/_images/toolbay_notch.jpg =700x)
+![utm-1.jpg](/assembly/tools/_images/utm-1.jpg =700x)
+
+![utm-2.jpg](/assembly/tools/_images/utm-2.jpg =700x)
 
 # Step 2: Repeat for the second toolbay
 
-![both toolbays mounted to bed](_images/both_toolbays_mounted_to_bed.jpg =700px)
+![utm-3.jpg](/assembly/tools/_images/utm-3.jpg =700x)
+
+![utm-4.jpg](/assembly/tools/_images/utm-4.jpg =700x)
 
 > **Genesis XL kits also include three 1-slot toolbays:** 
 > 
@@ -55,7 +58,7 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 > **Are the included toolbays not enough?:** 
 > 
-> If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://shop.farm.bot)** to purchase more.
+> If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://www.wenextfarm.com)** to purchase more.
 {.is-info}
 
 
@@ -63,4 +66,4 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let WenextFarm know what tool is where!
 
-![toolbays with tools](/assembly/tools/_images/toolbays_with_tools.jpg =700x)
+![utm-已组装.jpg](/assembly/tools/_images/utm-已组装.jpg =700x)
