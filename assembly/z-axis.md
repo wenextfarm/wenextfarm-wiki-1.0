@@ -2,13 +2,13 @@
 title: Z-Axis
 description: 
 published: true
-date: 2026-08-08T02:03:26.749Z
+date: 2026-08-09T08:49:06.064Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:53.221Z
 ---
 
-![z-axis](/assembly/_images/z-axis.png =700x)
+![z轴-1.jpg](/assembly/_images/z轴-1.jpg)
 
 > **1 hour:** 
 > 
@@ -20,7 +20,10 @@ dateCreated: 2026-07-09T03:37:53.221Z
 
 Attach a [motor](motor) to the [z-axis motor mount](z-axis motor mount) using four [M3 x 12mm screws](M3 x 12mm screws). The motor and encoder connectors should be facing the back flange of the mount.
 
-![z-axis motor mount with motor](/assembly/_images/z-axis_motor_mount_with_motor.png =700x)
+![z轴-3.jpg](/assembly/_images/z轴-3.jpg)
+
+![z轴-2.jpg](/assembly/_images/z轴-2.jpg)
+
 
 # Step 2: Attach the motor mount to the Z-axis extrusion
 
@@ -32,7 +35,7 @@ Attach a [motor](motor) to the [z-axis motor mount](z-axis motor mount) using fo
 
 Attach the [z-axis motor mount](z-axis motor mount) to the [z-axis extrusion](z-axis extrusion) using a [60mm nut bar](60mm nut bar) and [M5 x 10mm screws](M5 x 10mm screws). The top face of the motor mount should be 80mm from the end of the extrusion.
 
-![z-axis motor and mount attached to extrusion](/assembly/_images/z-axis_motor_and_mount_attached_to_extrusion.png =700x)
+![z轴-4.jpg](/assembly/_images/z轴-4.jpg)
 
 # Step 3: Attach the shaft coupling
 
@@ -43,27 +46,25 @@ Slide the [shaft coupler](shaft coupler) onto the **motor shaft** and tighten th
 > Make sure there is a small gap (about 2mm) between the shaft coupling and the z-axis motor mount. You might use a credit card to help provide the correct spacing needed.
 {.is-warning}
 
-
-![z-axis motor with coupling](/assembly/_images/z-axis_motor_with_coupling.png =700x)
+![z轴-5.jpg](/assembly/_images/z轴-5.jpg)
 
 # Step 4: Attach three cable carrier supports
 
 Attach three [vertical cable carrier supports](vertical cable carrier supports) to the [z-axis extrusion](z-axis extrusion) using [40mm nut bars](40mm nut bars) and [M5 x 10mm screws](M5 x 10mm screws). Space the supports along the extrusion as shown.
 
-![z-axis with motor and cc supports](/assembly/_images/z-axis_with_motor_and_cc_supports.png =700x)
+![z轴-6.jpg](/assembly/_images/z轴-6.jpg)
+
+![z轴-7.jpg](/assembly/_images/z轴-7.jpg)
 
 # Step 5: Attach the vacuum pump cover
 
 Attach the [vacuum pump cover](vacuum pump cover) to the [z-axis extrusion](z-axis extrusion) using two [tee nuts](tee nuts) and [M5 x 10mm screws](M5 x 10mm screws). The cover should be butted up against the lowest **cable carrier support**.
 
-![z-axis with motor cc supports and vacuum pump cover](/assembly/_images/z-axis_with_motor_cc_supports_and_vacuum_pump_cover.png =700x)
-
+![z轴-11.jpg](/assembly/_images/z轴-11.jpg)
 # Step 6: Attach the vacuum pump
 
 Fasten the [vacuum pump](vacuum pump) to the [vacuum pump mount](vacuum pump mount) using two [200mm zip ties](200mm zip ties). Then attach the vacuum pump mount to the [z-axis extrusion](z-axis extrusion) using a [60mm nut bar](60mm nut bar) and two [M5 x 16mm screws](M5 x 16mm screws). The mount should be butted up against the [vacuum pump cover](vacuum pump cover).
 
-![vacuum pump attached to mount](/assembly/_images/vacuum_pump_attached_to_mount.png =700x)
-![vacuum pump mounted to z-axis](/assembly/_images/vacuum_pump_mounted_to_z-axis.png =700x)
 
 # Step 7: Attach one more cable carrier support
 
@@ -86,16 +87,26 @@ Slide the [z-axis extrusion](z-axis extrusion) through the v-wheels on the **cro
 
 
 ![z-axis in cross-slide](/assembly/_images/z-axis_in_cross-slide.png =700x)
-![z-axis motor and leadscrew connection](/assembly/_images/z-axis_motor_and_leadscrew_connection.png =700x)
+
+![z轴-8.jpg](/assembly/_images/z轴-8.jpg)
 
 # Step 9: Install the hardstops
 
 Attach the [z-axis hardstops](z-axis hardstops) onto the back side of the [z-axis extrusion](z-axis extrusion) approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts). Later, you can quickly adjust these to physically prevent WenextFarm from moving too low or too high within its working space.
 
+![z轴-9.jpg](/assembly/_images/z轴-9.jpg)
+
 ![z-axis top hardstop](/assembly/_images/z-axis_top_hardstop.png =700x)
 ![z-axis bottom hardstop](/assembly/_images/z-axis_bottom_hardstop.png =700x)
 
-# Step 10: Add the vertical motor housing (optional)
+
+# Step 10: Install Z-axis limit switch
+
+Locate the limit switch whose wires are labeled "Z-". Attach it to the slide plate of the left gantry column, on the side where the X‑axis cable carrier is installed, using two M2 screws and corresponding nuts.
+
+![z轴-10.jpg](/assembly/_images/z轴-10.jpg)
+
+# Step 11: Add the vertical motor housing (optional)
 
 If you plan on stopping assembly after this page, it is recommended to attach the [vertical motor housing](vertical motor housing) to the [z-axis extrusion](z-axis extrusion) using [M5 x 10mm screws](M5 x 10mm screws) and [tee nuts](tee nuts) now. This will protect the motor from rain and other hazards until you resume assembly at a later point. Once you resume assembly, you will need to remove the housing.
 
