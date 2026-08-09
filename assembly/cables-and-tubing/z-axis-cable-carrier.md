@@ -2,7 +2,7 @@
 title: Z-Axis Cable Carrier
 description: 
 published: true
-date: 2026-08-08T02:08:00.715Z
+date: 2026-08-09T09:22:25.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:28.076Z
@@ -28,12 +28,12 @@ Keeping the mounting orientation of the cable carrier in mind, lay the following
 
 |Item|Cross-slide end description|
 |----|---------------------------|
-|Z-axis [water tube](water tube) (0.95m long)|Either
-|Z-axis [UTM cable](UTM cable) (1.0m long)|End with the 90-degree connector
-|[Camera](Camera) (1.0m long)|End with the 90-degree connector
-|[Z vacuum pump cable](Z vacuum pump cable) (1.0m long)|End with the 90-degree connector
-|ZZ [motor cable](motor cable) (1.8m long)|End with the 90-degree connector
-|ZZ [encoder cable](encoder cable) (1.8m long)|End with the 90-degree connector
+|Z-axis water tube (3.5m long)|Either
+|Z-axis trachea (1m long)|Either
+|Z-axis UTM cable (3.6.0m long)|2+10p HP2.54 plug
+|Camera](5.0m long)| Type-c
+|Z motor cable (1.8m long)|6p XH2.54 plug
+|Z limit switch cable (3.6m long)|3p XH2.54 plug
 
 > **Note** 
 > 
@@ -61,7 +61,8 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and a ha
 Carefully drape the cable carrier assembly into position. Attach the cross-slide end of the **cable carrier** to the **cross-slide** using two [M5 x 30mm screws](M5 x 30mm screws), [M5 flange locknuts](M5 flange locknuts), and the [cable carrier spacer block](cable carrier spacer block). The screws should thread firmly through the cable carrier end piece.
 
 ![Drape the cable carrier into position](/assembly/cables-and-tubing/_images/drape_z_cc.png =700x)
-![Mount the cable carrier to the cross-slide](/assembly/cables-and-tubing/_images/mount_z_cc_to_cross_slide.png =700x)
+
+![z轴-12.jpg](/assembly/_images/z轴-12.jpg)
 
 Now attach the z-axis end of the **cable carrier** to the lowest [vertical cable carrier support](vertical cable carrier support) on the **z-axis** using two [M5 x 16mm screws](M5 x 16mm screws) and [M5 flange locknuts](M5 flange locknuts). The screws should thread firmly through the cable carrier end piece.
 
