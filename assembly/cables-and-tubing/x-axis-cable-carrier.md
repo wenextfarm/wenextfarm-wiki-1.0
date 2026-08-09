@@ -2,7 +2,7 @@
 title: X-Axis Cable Carrier
 description: 
 published: true
-date: 2026-08-08T02:10:28.870Z
+date: 2026-08-09T09:34:16.905Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:10.367Z
@@ -25,7 +25,7 @@ There is only one orientation that the **x-axis cable carrier** mounts to the **
 
 Disconnect the [power supply cable](power supply cable) from the [power supply](power supply).
 
-Lay the **x-axis water tube** and the [power supply cable](power supply cable) into the open **x-axis cable carrier**. The gray connector of the [power supply cable](power supply cable) should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
+Lay the **x-axis water tube** and the power supply cable into the open **x-axis cable carrier**. The gray connector of the power supply cableshould extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
 
 ![Add the water tube and power supply cable](/assembly/cables-and-tubing/_images/add_x_cc_contents.png =700x)
 
@@ -43,13 +43,13 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and a fe
 
 # Step 5: Mount the cable carrier to the gantry
 
-Attach the **x-axis cable carrier** to the **30mm horizontal cable carrier mount** using two [M3 x 16mm flat head screws](M3 x 16mm flat head screws) and [M3 locknuts](M3 locknuts).
+Attach the **x-axis cable carrier** to the **30mm horizontal cable carrier mount** using two [M3 x 16mm flat head screws]and [M3 locknuts].
 
 ![Mount the x-axis cable carrier](/assembly/cables-and-tubing/_images/mount_x_cc_1.png =700x)
 
 # Step 6: Mount the cable carrier to the tracks
 
-Attach the other end of the **x-axis cable carrier** to the [30mm horizontal cable carrier support](30mm horizontal cable carrier support) nearest the middle of the **tracks** using two [M3 x 16mm flat head screws](M3 x 16mm flat head screws) and [M3 locknuts](M3 locknuts).
+Attach the other end of the **x-axis cable carrier** to the [30mm horizontal cable carrier support]nearest the middle of the **tracks** using two [M3 x 16mm flat head screws] and [M3 locknuts].
 
 ![Mount the x-axis cable carrier](/assembly/cables-and-tubing/_images/mount_x_cc_3.png =700x)
 
