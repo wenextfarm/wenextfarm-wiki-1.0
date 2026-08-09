@@ -2,7 +2,7 @@
 title: Y-Axis Cable Carrier
 description: 
 published: true
-date: 2026-08-08T02:09:39.243Z
+date: 2026-08-09T09:35:57.574Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:22.052Z
@@ -25,14 +25,14 @@ There is only one orientation that the **y-axis cable carrier** mounts to the **
 
 # Step 3: Add the y-axis motor and encoder cables
 
-Feed the **y-axis motor and encoder cables** through the slot in the [cross-slide plate](cross-slide plate) such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
+Feed the **y-axis motor and encoder cables** through the slot in the cross-slide plate such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
 
 ![Connect the y-axis motor and encoder cables](/assembly/cables-and-tubing/_images/feed_y_cables_1.png =700x)
 ![Connect the y-axis motor and encoder cables](/assembly/cables-and-tubing/_images/feed_y_cables_2.png =700x)
 
 # Step 4: Connect the tubing
 
-Push the [90 degree barb](90 degree barb) onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
+Push the 90 degree barb onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
 
 ![Connect the 90 degree barb](/assembly/cables-and-tubing/_images/90_degree_barb.png =700x)
 ![Connect the Y water tube](/assembly/cables-and-tubing/_images/connect_y_water_tube.png =700x)
@@ -45,7 +45,7 @@ Connect the z-axis and y-axis sections of the following cables together:
   * **ZZ encoder cable** to **ZY encoder cable** with the 7-pin connector
   * **ZZ motor cable** to **ZY motor cable** with the 4-pin connector
   * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
-  * [Camera](Camera) to [camera cable](camera cable) with the 4-pin connector
+  * Camerato camera cable with the 4-pin connector
 
 > **CAUTION: The camera, vacuum pump, and z-axis motor cables use the same 4-pin connectors:** 
 > 
@@ -112,7 +112,7 @@ Reduce the amount of extra tubing and wiring between the **y-axis cable carrier*
 
 ![Remove slack](/assembly/cables-and-tubing/_images/remove_y_z_slack.png =700x)
 
-Attach the **y-axis cable carrier** to the [60mm horizontal cable carrier support](60mm horizontal cable carrier support) nearest the left gantry column using two [M5 x 16mm screws](M5 x 16mm screws) and [M5 flange locknuts](M5 flange locknuts). The screws should thread firmly through the cable carrier end piece.
+Attach the **y-axis cable carrier** to the 60mm horizontal cable carrier supportnearest the left gantry column using two M5 x 16mm screws and M5 flange locknuts. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](/assembly/cables-and-tubing/_images/attach_y_cc_2.png =700x)
 
