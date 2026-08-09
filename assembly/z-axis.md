@@ -2,7 +2,7 @@
 title: Z-Axis
 description: 
 published: true
-date: 2026-08-09T09:05:06.418Z
+date: 2026-08-09T09:11:14.145Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:37:53.221Z
@@ -61,18 +61,9 @@ Attach three [vertical cable carrier supports] to the [z-axis extrusion] using [
 Attach the [vacuum pump cover] to the [z-axis extrusion] using two [tee nuts] and [M5 x 10mm screws]. The cover should be butted up against the lowest **cable carrier support**.
 
 ![z轴-11.jpg](/assembly/_images/z轴-11.jpg =700x)
-# Step 6: Attach the vacuum pump
-
-Fasten the [vacuum pump]to the [vacuum pump mount] using two [200mm zip ties]. Then attach the vacuum pump mount to the [z-axis extrusion] using a [60mm nut bar] and two [M5 x 16mm screws] The mount should be butted up against the [vacuum pump cover].
 
 
-# Step 7: Attach one more cable carrier support
-
-Attach one more [vertical cable carrier support] using a [40mm nut bar] and two [M5 x 10mm screws]. The support should be butted up against the [vacuum pump mount].
-
-![z-axis last cable carrier support](/assembly/_images/z-axis_last_cable_carrier_support.png =700x)
-
-# Step 8: Attach the z-axis to the cross-slide
+# Step 6: Attach the z-axis to the cross-slide
 
 Screw the [leadscrew] halfway into the [leadscrew block].
 
@@ -90,7 +81,7 @@ Slide the [z-axis extrusion]through the v-wheels on the **cross-slide** until th
 
 ![z轴-8.jpg](/assembly/_images/z轴-8.jpg =700x)
 
-# Step 9: Install the hardstops
+# Step 7: Install the hardstops
 
 Attach the [z-axis hardstops] onto the back side of the [z-axis extrusion] approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using [M5 x 10mm screws] and [tee nuts]. Later, you can quickly adjust these to physically prevent WenextFarm from moving too low or too high within its working space.
 
@@ -100,13 +91,19 @@ Attach the [z-axis hardstops] onto the back side of the [z-axis extrusion] appro
 ![z-axis bottom hardstop](/assembly/_images/z-axis_bottom_hardstop.png =700x)
 
 
-# Step 10: Install Z-axis limit switch
+# Step 8: Install Z-axis limit switch
 
 Locate the limit switch whose wires are labeled "Z-". Attach it to the slide plate of the left gantry column, on the side where the X‑axis cable carrier is installed, using two M2 screws and corresponding nuts.
 
 ![z轴-10.jpg](/assembly/_images/z轴-10.jpg =700x)
 
-# Step 11: Add the vertical motor housing (optional)
+# Step 9: Attach the vacuum pump
+
+Attach the pre‑assembled vacuum pump to the cross‑slide plate using M5 × 16 mm screws and M5 flange nuts. The bracket should be positioned on the side opposite to the motor.
+
+![z轴-11.jpg](/assembly/_images/z轴-11.jpg)
+
+# Step 10: Add the vertical motor housing (optional)
 
 If you plan on stopping assembly after this page, it is recommended to attach the [vertical motor housing] to the [z-axis extrusion] using [M5 x 10mm screws] and [tee nuts]now. This will protect the motor from rain and other hazards until you resume assembly at a later point. Once you resume assembly, you will need to remove the housing.
 
