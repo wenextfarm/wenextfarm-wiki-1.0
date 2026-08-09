@@ -2,7 +2,7 @@
 title: Lighting
 description: 
 published: true
-date: 2026-08-08T02:11:43.015Z
+date: 2026-08-09T09:32:19.459Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T03:29:03.707Z
@@ -10,7 +10,7 @@ dateCreated: 2026-07-09T03:29:03.707Z
 
 # Install the light strip
 
-Feed the [LED strip](LED strip) (highlighted orange in the image below) through the horizontal cable carrier supports on the gantry. You can secure the end of the strip to the final cable carrier support using a zip tie.
+Feed the LED strip(highlighted orange in the image below) through the horizontal cable carrier supports on the gantry. You can secure the end of the strip to the final cable carrier support using a zip tie.
 
 ![lights](/assembly/cables-and-tubing/_images/lights.png =700x)
 
