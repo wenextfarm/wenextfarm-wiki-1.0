@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2026-08-12T03:00:04.580Z
+date: 2026-08-12T03:02:07.835Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-12T03:00:04.580Z
@@ -17,7 +17,7 @@ This page is designed to help you quickly resolve issues and get the most out of
 > Can't find what you're looking for? No problem – head over to our community forum at [forum.wenextfarm.com](https://forum.wenextfarm.com) and ask away. Our team and fellow users are always happy to help. 🌱
 {.is-info}
 
-- Sample questions you'll find here:
+## You might be wondering about these:
 
 - How do I place an order on the WeNextFarm website?
 
