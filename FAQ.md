@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2026-08-12T03:02:07.835Z
+date: 2026-08-12T03:06:04.160Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-12T03:00:04.580Z
@@ -19,7 +19,7 @@ This page is designed to help you quickly resolve issues and get the most out of
 
 ## You might be wondering about these:
 
-- How do I place an order on the WeNextFarm website?
+- [How do I place an order on the WeNextFarm website?](/FAQ/buy)
 
 - What is the estimated shipping time and cost?
 
