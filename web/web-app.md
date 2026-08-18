@@ -2,14 +2,14 @@
 title: web app
 description: The powerful web app, custom operating system, and firmware that bring FarmBot to life
 published: true
-date: 2026-07-26T08:09:52.239Z
+date: 2026-08-18T06:20:43.477Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T02:38:53.507Z
 ---
 
 
-![wenextfarm-web-app.jpg](/wiki/wenextfarm-web-app.jpg)
+![wenextfarm-web-app.jpg](/wiki/wenextfarm-web-app.jpg =700x)
 ## ⚡Software
 
  * [Intro to FarmBot's Software](/web/docs/intro.md){target=_blank}
